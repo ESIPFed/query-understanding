@@ -1,0 +1,182 @@
+12 Hour
+0
+-180
+438 First St, Suite 200, Santa Rosa, CA 95401, USA
+NULL
+Global
+Santa Rosa, CA, USA
+AQUA
+none
+0
+001 707 545 2906
+NULL
+none
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P_GRIDDED/AMSRE/REMSS
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L2P_GRIDDED/AMSRE/REMSS
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L2P_GRIDDED/AMSRE/REMSS/
+file:///store/ghrsst/open/data/L2P_GRIDDED/AMSRE/REMSS
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L2P_GRIDDED/AMSRE/REMSS
+0.00
+http://ghrsst.jpl.nasa.gov
+http://www.ghrsst.org
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/ghrsst/catalog.html?dataset=ncml_aggregation/OceanTemperature/ghrsst/aggregate__ghrsst_REMSS-L2P_GRIDDED_25-AMSRE.ncml
+http://www.remss.com
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHAMS-2GR01
+http://aqua.nasa.gov/
+http://www.remss.com
+/data/export/web/thumbnails
+-90
+AQUA
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHAMS-2GR01
+Ocean Temperature
+N/A
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+3
+1
+Sharon
+90
+GHRSST Level 2P Gridded Global Subskin Sea Surface Temperature from the Advanced Scanning Microwave Radiometer - Earth  Observing System (AMSR-E) on the NASA Aqua Satellite
+GHRSST
+sea surface temperature
+sst
+surface temperature
+SPACECRAFT
+GHRSST
+HISTORICAL
+1295629813000
+0.25
+N
+NULL
+None
+Ocean Temperature
+1445
+OPEN
+none
+1022933160000
+Group for High Resolution Sea Surface Temperature
+The Advanced Microwave Scanning Radiometer for EOS (AMSR-E) is a twelve-channel, six-frequency, total power passive-microwave radiometer system.
+3
+MD5
+Gridded
+1
+1022933160000
+REMOTE-FTP
+REMOTE-OPENDAP
+LOCAL-OPENDAP
+ARCHIVE-OPEN
+LOCAL-FTP
+unknown
+NETCDF
+Earth Observing System, AQUA
+none
+none
+THREDDS
+none
+Web Service (PO.DAAC Labs)
+none
+none
+REMSS-L2P_GRIDDED_25-AMSRE.jpg
+Advanced Microwave Scanning Radiometer-EOS
+Advanced Microwave Scanning Radiometer-EOS
+None
+Earth Science
+DATA-PROVIDER
+PODAAC-GHAMS-2GR01
+1317729600000
+REMSS-L2P_GRIDDED_25-AMSRE
+AMSRE data are sponsored by the NASA Earth Science REASoN DISCOVER Project and the AMSR-E Science Team.  Production of L2P data is sponsored by the National Oceanographic Partnership Program (NOPP).
+4
+0
+REMSS
+1
+0
+AMSRE 25km gridded SST data set
+tremble@remss.com
+GZIP
+http://www.remss.com
+GHRSST Level 2P Gridded Global Subskin Sea Surface Temperature from the Advanced Scanning Microwave Radiometer - Earth  Observing System (AMSR-E) on the NASA Aqua Satellite
+NULL
+90
+Sub-skin Sea Surface Temperature
+AQUA AMSRE
+1183507200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/REMSS-L2P_GRIDDED_25-AMSRE.jpg
+0.25
+GHRSST
+001 707 545 2904
+GHRSST
+4.0
+AMSR-E
+AMSR-E
+Group for High Resolution Sea Surface Temperature Datasets
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+180
+HISTORICAL
+The Advanced Microwave Scanning Radiometer (AMSR-E) was launched on 4 May 2002, aboard NASA's Aqua spacecraft.
+The National Space Development Agency of Japan (NASDA) provided AMSR-E to NASA as an indispensable part of Aqua's global hydrology mission.
+Over the oceans, AMSR-E is measuring a number of important geophysical parameters, including sea-surface temperature (SST), wind speed, atmospheric water vapor, cloud water, and rain rate.
+A key feature of AMSR-E is its capability to see through clouds, thereby providing an uninterrupted view of global SST and surface wind fields.
+Remote Sensing Systems (RSS, or REMSS)  is the provider of these SST data for the Group for High Resolution Sea Surface Temperature (GHRSST) Project.
+Although the product designation is "L2P_GRIDDED" it is in actuality a Level 3 Collated (L3C) product as defined in the GHRSST Data Processing Specification (GDS) version 2.0.
+Its "L2P_GRIDDED" name derives from a deprecated specification in the early Pilot Project phase of GHRSST (pre 2008) and has remained for file naming continuity.
+In this dataset, both ascending (daytime) and descending (daytime) gridded orbital passes on packaged into the same daily file.
+Portal to the GHRSST Global Data Assembly Center and data access
+GHRSST Project homepage
+
+AMSR-E calibration description
+(Search Granule)
+Full details of the AQUA mission
+AMSR-E SSTs: algorithm description, browsing of data, and ftp of data
+Thumbnail image for Website
+NULL
+1 Day
+ORACLE
+Sea Surface Temperature
+1317729600000
+YEAR-DOY
+Remote Sensing Systems
+GHRSST
+
+Get Data
+Project Home Page
+PORTAL_DA_DIRECT_ACCESS
+Calibration/validation data
+PORTAL_DA_DIRECT_ACCESS
+Project Home Page
+Reference Materials
+Thumbnail
+Oceans
+Primary Contact
+Earth Observing System, AQUA
+98.1
+NULL
+Remote Sensing Systems
+3 Hour
+REMSS-L2P_GRIDDED_25-AMSRE
+12
+ARCHIVE-DIST
+AMSRE-REMSS-L2P_GRIDDED_25
+1184025600000
+NETCDF
+Remote Sensing Systems
+Y
+Remote Sensing Systems
+Remote Sensing Systems
+Tremble
+2007-07-10: Original
+
+Equal-angle
+http://www.ssmi.com/amsr/amsr_data_description.html
+NULL
+none
+http://www.remss.com
+REMSS
+98.4
+DATA-PROVIDER
+Global
+NULL
+Sea Surface Temperature

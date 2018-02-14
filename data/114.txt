@@ -1,0 +1,198 @@
+135
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+Meteo-France/CMS, Avenue de Lorraine, BP50747 22307 Lannion, France
+NULL
+Americas
+EUMETSAT Ocean and Sea Ice Satellite Application Facility, Lannion, France
+GOES-13
+Northeast Atlantic including Mediterranean, Baltic and Black Seas
++33-2-98224533
++ 33 2 9605-6737
+NULL
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L3C/AMERICAS/GOES13/OSISAF/v1
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L3C/AMERICAS/GOES13/OSISAF/v1
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L3C/AMERICAS/GOES13/OSISAF/v1
+file:///store/ghrsst/open/data/GDS2/L3C/AMERICAS/GOES13/OSISAF/v1
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L3C/AMERICAS/GOES13/OSISAF/v1/
+http://ghrsst.jpl.nasa.gov
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/python/
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHG13-3CO01&apidoc
+/data/export/web/thumbnails
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/idl/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/R/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/matlab/
+http://www.osi-saf.org/biblio/docs/ss1_pum_leo_sst_2_0.pdf
+http://www.ghrsst.org
+-60
+GOES-13
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHG13-3CO01
+Ocean Temperature
+1
+none
+
+NULL
+Group for High Resolution Sea Surface Temperature
+3
+1
+Jean-Francois
+Guenole
+60
+GHRSST Level 3C America Regional Subskin Sea Surface Temperature from the Geostationary Operational Environmental Satellites (GOES) Imager on the GOES-13 satellite
+GHRSST
+sea surface temperature
+sst
+surface temperature
+osisaf
+osi saf
+goes
+goes13
+gds2
+l3c
+12 Hour
+Geostationary
+GHRSST
+NEAR_REAL_TIME
+1426716161272
+0.05
+GHRSST
+N
+NULL
+EUMETSAT offers no warranty and accepts no liability in respect of the Ocean & Sea Ice SAF products. EUMETSAT neither commits to nor guarantees the continuity, availability, or quality or suitability for any purpose of, the Ocean & Sea Ice SAF products
+Ocean Temperature
+7000
+OPEN
+1262356200000
+Group for High Resolution Sea Surface Temperature
+he GOES Imager is a multi-channel instrument designed to sense radiant and solar-reflected energy from sampled areas of the Earth.
+The multi-element spectral channels simultaneously sweep east-west a
+3
+MD5
+Cylindrical Lat-Lon
+1
+1262356200000
+REMOTE-FTP
+REMOTE-OPENDAP
+LOCAL-FTP
+ARCHIVE-OPEN
+LOCAL-OPENDAP
+WGS 84
+NETCDF
+Geostationary Operational Environmental Satellite 13
+none
+PYTHON
+Web Service (PO.DAAC Labs)
+GOES13-OSISAF-L3C-v1.0.jpg
+IDL
+R
+MATLAB
+none
+Project Home Page
+Geostationary Operational Environmental Satellite 13-Imager
+Geostationary Operational Environmental Satellite 13-Imager
+None
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHG13-3CO01
+GOES13-OSISAF-L3C-v1.0
+Product developed and provided by the EUMETSAT Ocean and Sea Ice Satellite Application Facility copyright 2008 EUMETSAT
+1913
+OSISAF
+1
+AMERICAS GOES13 SST data set
+jfpiolle@ifremer.fr
+guenole.guevel@meteo.fr
+NONE
+none
+GHRSST Level 3C America Regional Subskin Sea Surface Temperature from the Geostationary Operational Environmental Satellites (GOES) Imager on the GOES-13 satellite
+NULL
+Subskin Sea Surface Temperature
+AMERICAS GOES13 SST
+1432857600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/GOES13-OSISAF-L3C-v1.0.jpg
+0.05
+GHRSST
++33-2-98224691
++ 33 2 9605-6791
+Less_than_daily
+1
+GOES-13 Imager
+GOES-13 Imager
+10
+Group for High Resolution Sea Surface Temperature Datasets
+Geostationary Operational Environmental Satellite 13
+-15
+NEAR_REAL_TIME
+A regional Group for High Resolution Sea Surface Temperature (GHRSST) Level 3 Collated (L3C) dataset for the America Region (AMERICAS) based on retrievals from the GOES-13 Imager on board GOES-13 satellite.
+This particular dataset is produced twice a day over South and North America region in the framework of the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT) Ocean and Sea Ice Satellite Application Facility (OSI SAF) in France.The  Geostationary Operational Environmental Satellites (GOES) operated by the United States National Oceanographic and Atmospheric Administration (NOAA) support weather forecasting, severe storm tracking, meteorology and oceanography research.
+Generally there are several GOES satellites in geosynchronous orbit at any one time viewing different earth locations including the GOES-13 launched 24 May 2006.
+The radiometer aboard the satellite, The GOES N-P Imager, is a five channel (one visible, four infrared) imaging radiometer designed to sense radiant and solar reflected energy from sampled areas of the earth.
+The multi-element spectral channels simultaneously sweep east-west and west-east along a north-to-south path by means of a two-axis mirror scan system retuning telemetry in 10-bit precision.
+The OSI-SAF SST processing chain for geostationary satellite will ingest the GOES13 Imager radiometric data in full time (every 30 minutes) and space resolution, then the NWC (nowcasting) SAF cloud mask is applied.
+GOES-E algorithm (nighttime only) and its correction are applied.
+Due to the lack of 12 &#956;m channel in the GOES-Eimager, there are no SST in daytime conditions.
+The operational products are then produced by remapping over a 0.05 degree regular grid SST fields obtained by aggregating all SST data available in one hour time, and the priority being given to the value the closest in time to the product nominal hour.
+This dataset produced adheres to the GHRSST Data Processing Specification (GDS) version 2 format specifications.
+Portal to the GHRSST Global Data Assembly Center and data access
+
+(Search Granule)
+Thumbnail image for Website
+
+
+
+Product User Manual
+Description of the GHRSST Project
+NULL
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+OSISAF
+GHRSST
+Creation of Dataset via Metadata Tool.
+Get Data
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_DIRECT_ACCESS
+Thumbnail
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+Reference Materials
+Website
+Oceans
+Technical Contact
+Investigator
+Geostationary Operational Environmental Satellite 13
+0
+NULL
+Ocean and Sea Ice Satellite Application Facility
+GOES13-OSISAF-L3C-v1.0
+24
+ARCHIVE-DIST
+GOES13-OSISAF-L3C-v1.0
+1426716161272
+NETCDF
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+European Organisation for the Exploitation of Meteorological Satellites
+Y
+EUMETSAT/OSI-SAF
+EUMETSAT Ocean and Sea Ice Satellite Application Facility, Meteo-France/CMS, Lannion, France
+Piolle
+Guevel
+Dataset Creation via Metadata Tool
+1426716161272
+Regular 0.05 degree grid
+Low Earth Orbiter Sea Surface Temperature Product User Manual, http://www.osi-saf.org
+NULL
+none
+SILENT
+IFREMER/CERSAT
+EUMETSAT
+0
+DATA-PROVIDER
+DATA-PROVIDER
+Americas
+NULL
+12 Hour
+Sea Surface Temperature

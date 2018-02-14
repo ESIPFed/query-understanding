@@ -1,0 +1,207 @@
+12 Hour
+0
+-100
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+Meteo France, Centre de Meteorologie Spatiale (CMS), Lannion, 22303 Lannion, cedex, France
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+NULL
+Atlantic Ocean
+Plouzane (Brest), France
+AQUA
+Atantic Ocean including Mediterranean, Baltic and Black Seas
+0
++33-2-98224533
++33 2 96 05 67 37
++33 2 98 22 45 33
+NULL
+none
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/AMSRE/EUR
+file:///store/ghrsst/open/data/L2P/AMSRE/EUR
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L2P/AMSRE/EUR
+0.00
+http://aqua.nasa.gov
+http://www.ghrsst.org
+http://ghrsst.jpl.nasa.gov
+http://www.remss.com
+/data/export/web/thumbnails
+http://www.medspiration.org
+http://www.remss.com
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHAMS-2PE01
+-70
+AQUA
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHAMS-2PE01
+Ocean Temperature
+N/A
+none
+
+
+NULL
+Group for High Resolution Sea Surface Temperature
+3
+1
+Jean-Francois
+Pierre
+Sylvie
+90
+GHRSST Level 2P Regional Subskin Sea Surface Temperature from the Advanced Microwave Scanning Radiometer - Earth Observing System (AMSR-E) on the NASA Aqua satellite for the Atlantic Ocean
+GHRSST
+sea surface temperature
+L2P
+sst
+surface temperature
+SPACECRAFT
+GHRSST
+HISTORICAL
+1295629813000
+0.25
+N
+NULL
+None
+Ocean Temperature
+1445
+OPEN
+none
+1107129600000
+Group for High Resolution Sea Surface Temperature
+The Advanced Microwave Scanning Radiometer for EOS (AMSR-E) is a twelve-channel, six-frequency, total power passive-microwave radiometer system.
+3
+MD5
+Gridded
+1
+1107129600000
+REMOTE-FTP
+ARCHIVE-OPEN
+REMOTE-OPENDAP
+WGS 84
+NETCDF
+Earth Observing System, AQUA
+none
+none
+none
+none
+EUR-L2P-AMSRE.jpg
+none
+none
+Web Service (PO.DAAC Labs)
+Advanced Microwave Scanning Radiometer-EOS
+Advanced Microwave Scanning Radiometer-EOS
+None
+Earth Science
+DATA-PROVIDER
+PODAAC-GHAMS-2PE01
+1172532240000
+EUR-L2P-AMSRE
+These data are produced by the ESA Medspiration project funded by the European Space Agency Data User Element (ESA-DUE)
+5
+0
+IFREMER/CERSAT
+1
+0
+Sea Surface Temperature (SST-sub-skin) L2P Sea Surface Temperature (SST-sub-skin) from 25km global gridded AQUA-AMSRE Remote Sensing Systems BMAPS NRT products
+jfpiolle@ifremer.fr
+pierre.leborgne@meteo.fr
+sylvie.pouliquen@ifremer.fr
+BZIP2
+ftp://ftp.ifremer.fr/ifremer/valmedspi
+GHRSST Level 2P Regional Subskin Sea Surface Temperature from the Advanced Microwave Scanning Radiometer - Earth Observing System (AMSR-E) on the NASA Aqua satellite for the Atlantic Ocean
+NULL
+90
+Sub-skin Sea Surface Temperature (SSTsub-skin)
+Sea Surface Temperature AMSRE gridded 25km GHRSST-PP L2P produced by Medspiration
+1107043200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/EUR-L2P-AMSRE.jpg
+0.25
+GHRSST
++33-2-98224691
++33 2 96 05 67 52
++33 2 98 22 44 92
+GHRSST
+1.0
+AMSR-E
+AMSR-E
+Group for High Resolution Sea Surface Temperature Datasets
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+45
+HISTORICAL
+The Advanced Microwave Scanning Radiometer (AMSR-E) was launched on  4 May 2002, aboard NASA's Aqua spacecraft.
+The National Space Development Agency of Japan (NASDA) provided AMSR-E to NASA as an indispensable part of Aqua's global hydrology mission.
+Over the oceans, AMSR-E is measuring a number of important geophysical parameters, including sea-surface temperature (SST), wind speed, atmospheric water vapor, cloud water, and rain rate.
+A key feature of AMSR-E is its capability to see through clouds, thereby providing an uninterrupted view of global SST and surface wind fields.
+This Group for High Resolution Sea Surface Temperature (GHRSST) dataset is derived from Remote Sensing Systems BMAPS (binary) format AMSR-E SST subskin data.
+Data were downloaded for North Atlantic region from  Remote Sensing Systems every hour to capture the latest AMSRE observations.
+L2P data products were then produced to the GHRSST Data Processing Specification (GDS) version 1.5.
+Ascending (daytime) and descending (nighttime) orbits are packaged into separate netCDF files.
+Although the dataset designation is "L2P" it is actually a "L3C" dataset (gridded Level 3 collated) as defined by the GHRSST Data Processing Specification version 2.0.
+This dataset was originally produced for the GHRSST Pilot Project, the precursor to GHRSST, by the Medspiration Regional Data Assembly Center (RDAC) in Europe.
+As one of the first datasets produced as a prototype for GHRSST-PP  it assumed an incorrect designation of "L2P".
+Full details of the AQUA AMSR-E
+Home Page of the Global Ocean Data Assimilation Experiment High Resolution SST Pilot Project (GHRSST-PP)
+Portal to the GHRSST Global Data Assembly Center and data access
+AMSR-E calibration description
+Thumbnail image for Website
+Description of the Medspiration project
+AMSR-E SSTs: algorithm description, browsing of data, and ftp of data
+(Search Granule)
+NULL
+1 Day
+BACKTRACK
+Sea Surface Temperature
+1172532240000
+YEAR-DOY
+Remote Sensing Systems (REMSS)
+GHRSST
+
+Project Home Page
+Project Home Page
+Get Data
+Calibration/validation data
+Thumbnail
+Project Home Page
+Reference Materials
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Technical Contact
+Data originator/Technical contact
+Technical Contact
+Earth Observing System, AQUA
+98.1
+NULL
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+3 Hour
+EUR-L2P-AMSRE
+ROLLING-STORE
+AMSRE-EUR-L2P
+1103900400000
+NETCDF
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+Meteorologie Spatiale
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+Y
+Medspiration: Meteo France/Meteo France, Centre de Meteorologie Spatiale (CMS), Lannion, 22303 Lannion, cedex, France; EUMETSAT Ocean; Sea Ice Satellite Application Facility
+Medspiration, IFREMER/CERSAT
+Piolle
+LeBorgne
+Pouliquen
+2004-12-20. C Donlon: Original;    2005-10-24. E Armstrong: revised
+
+None
+Medspiration products user manual, Robinson I., Leborgne P., Piolle J.F., Larnicol G., v1.02, September 2004
+NULL
+none
+none
+none
+http://www.ifremer.fr/anglais/
+http://cersat.ifremer.fr
+http://www.ifremer.fr/cersat/en/index.html
+IFREMER/CERSAT
+CMS
+IFREMER/CERSAT
+98.4
+DATA-PROVIDER
+DATA-PROVIDER
+DATA-PROVIDER
+Atlantic Ocean
+NULL
+Sea Surface Temperature

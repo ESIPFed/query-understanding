@@ -1,0 +1,212 @@
+11 Day
+20
+0
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+Jason-1 Geodetic
+Jason-1 Geodetic
+Jason-1 Geodetic
+Jason-1 Geodetic
+Jason-1 Geodetic
+
+818-393-2718
+ftp://podaac-ftp.jpl.nasa.gov/allData/jason1/L2/sgdr_c_geodetic
+file:///store/jason1/open/L2/sgdr_c_geodetic
+/data/export/web/thumbnails
+ftp://podaac.jpl.nasa.gov/allData/jason1/L2/gdr_c/docs/Handbook_Jason_v4-1.pdf
+ftp://podaac.jpl.nasa.gov/allData/jason1/L2/docs/j1_cyclelist.txt
+ftp://podaac.jpl.nasa.gov/allData/jason1/L2/docs/j1_safehold.txt
+ftp://podaac.jpl.nasa.gov/allData/jason1/L2/docs/j1_maneuver.txt
+-66.15
+Jason-1 Geodetic
+Jason-1 Geodetic
+Jason-1 Geodetic
+Jason-1 Geodetic
+Jason-1 Geodetic
+NULL
+OPEN
+Ocean Waves
+Sea Surface Topography
+1
+none
+NULL
+Jason-1
+2
+Jessica
+66.15
+JASON-1_L2_OST_Sensory_Geophysical_Data_Record_VER-C_BINARY Geodetic
+waveform
+Satellite
+Satellite
+Satellite
+Satellite
+Satellite
+HISTORICAL
+1340325352556
+11200
+JASON-1
+Y
+NULL
+none
+Ocean Waves
+Sea Surface Topography
+
+
+
+
+0
+OPEN
+1336406400000
+Jason-1
+The Poseidon-2 altimeter, operating at 13.575 GHz (Ku band) and 5.3 GHz (C band), is the primary sensor for the JASON-1 mission.
+The measurements made at the two frequencies are combined to obtain measurements of the altimeter range, wind speed, significant wave height, and the ionospheric correction.
+The Poseidon-2 package consists of dual redundant altimeter units each of which has low mass and low power consumption.
+The JMR mreasures teh sea surface microwave brightness temperatures at three frequencies (18.7 GHz, 23.8 GHz and 34.0 GHz) to provide the total water vapor content in the troposphere along the altimeter beam.
+The 23.8 GHz channel is the primary channel for water-vapor measurement and is a redundant channel on the JMR.
+The 18.7 GHz channel provides a correction for wind-induced effects in the sea surface background emissions, and the 34.0 GHz channel provides a correction for cloud liquid water.
+The measurements are combined to obtain the error in the satellite range measurements caused by pulse delay due to the water vapor.
+The TRSR isa an advanced codeless sixteen-channel Global Positioning System (GPS) receiver developed bye the Jet Propulsion Laboratory (JPL).
+The on-board package is comprised of dual redunedant TRSR units and choke ring antennae.
+The GPS data are intended to provide supplementary positioning data in support of the POD function and/or to improve gravity field models.
+The LRA reflects signals from network of 10 to 15 satellite laser tracking stations to calibrate NRA bias and to provide the baseline tracking data for NASA precise orbit determination.
+The DORIS system uses a two-channels receiver (1401.25 MHz and 2036.25 MHz) on the satellite to observe the Doppler signals from a network of 40 to 50 ground transmitting stations.
+It provides all-weather global tracking of the satellite for CNES precise orbit determination and an accurate correction for the influence of the ionosphere on both the Doppler signal and altimeter signals.
+2
+MD5
+Swath
+1
+1336406400000
+LOCAL-FTP
+ARCHIVE-OPEN
+5100
+RAW
+Jason-1 Geodetic
+Jason-1 Geodetic
+Jason-1 Geodetic
+Jason-1 Geodetic
+Jason-1 Geodetic
+JASON-1_L2_OST_SGDR_VER-C_BINARY_GEODETIC.jpg
+Jason-1 User Handbook
+Jason-1 cycle list
+Jason-1 safeholds
+Jason-1 maneuvers list
+JASON-1 RADAR ALTIMETER
+JASON-1 MICROWAVE RADIOMETER
+Turbo Rouge Space Receiver
+Laser Retroflector Array
+Doppler Orbitography and Radiopositioning Integrated by Satellite
+JASON-1 RADAR ALTIMETER
+JASON-1 MICROWAVE RADIOMETER
+Turbo Rouge Space Receiver
+Laser Retroflector Array
+Doppler Orbitography and Radiopositioning Integrated by Satellite
+none
+Earth Science
+Earth Science
+DATA-PROVIDER
+280
+PODAAC-J1SDR-BIG0C
+1371776214000
+JASON-1_L2_OST_SGDR_VER-C_BINARY_GEODETIC
+JASON-1_L2_OST_Sensory_Geophysical_Data_Record_VER-C_BINARY Geodetic
+887
+JASON-1
+1
+JASON-1_L2_OST_Sensory_Geophysical_Data_Record_VER-C_BINARY Geodetic
+Jessica.K.Hausman@jpl.nasa.gov
+NONE
+http://podaac.jpl.nasa.gov/OceanSurfaceTopography/JASON1
+JASON-1_L2_OST_Sensory_Geophysical_Data_Record_VER-C_BINARY Geodetic
+NULL
+
+
+SGDR
+1221868800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/JASON-1_L2_OST_SGDR_VER-C_BINARY_GEODETIC.jpg
+818-354-4588
+Weekly
+C
+POSEIDON-2
+JMR
+TRSR
+LRA
+DORIS
+POSEIDON-2
+JMR
+TRSR
+LRA
+DORIS
+Jason-1 Geodetic Jason-1 Geodetic Jason-1 Geodetic Jason-1 Geodetic Jason-1 Geodetic
+360
+HISTORICAL
+The Jason-1 binary Sensory Geophysical Data Record (SGDR) from the Geodetic mission contains all the same parameters as the binary GDR but also contains the waveforms measured at 20 Hz.
+The waveforms are needed for retracking purposes that can be use to calculate inland or coastal water levels.
+This is an expert level product.
+If you do not require the waveforms then the GDR product is more appropriate, which can be found at http://podaac.jpl.nasa.gov/dataset/JASON-1_L2_OST_GDR_Ver-C_Binary.
+Thumbnail image for Website
+Jason-1 User Guide
+Jason-1 cycle start list
+Jason-1 safeholds and known data outages
+Jason-1 maneuvers
+NULL
+406 Day
+BACKTRACK
+Significant Wave Height
+Sea Surface Height
+1371776214000
+CYCLE
+JASON-1
+JASON-1
+Creation of Dataset via Metadata Tool.
+Thumbnail
+PORTAL_DOC_USERS_GUIDE
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_KNOWN_ISSUES
+PORTAL_DOC_KNOWN_ISSUES
+Oceans
+Oceans
+Technical Contact
+Jason-1 Geodetic
+Jason-1 Geodetic
+Jason-1 Geodetic
+Jason-1 Geodetic
+Jason-1 Geodetic
+66.15
+66.15
+66.15
+66.15
+66.15
+NULL
+Jason-1
+4 Day
+JASON-1_L2_OST_SGDR_VER-C_BINARY_GEODETIC
+ARCHIVE-DIST
+SGDR-C
+1340325352556
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+JASON-1
+1 Hz, 20 Hz
+JASON-1
+Hausman
+Dataset Creation via Metadata Tool
+1340325352556
+Zanife, OZ, JP Dumont, J Stum, T Guinle, 2001.  SSALTO PRODUCTS SPECIFICATION - VOL 1 JASON-1 USER PRODUCTS ftp://podaac.jpl.nasa.gov/allData/jason1/L2/sgdr_c/docs/User_Products.pdf
+NULL
+none
+http://topex-www.jpl.nasa.gov/mission/jason-1.html
+http://www.cnes.fr/web/CNES-en/1441-jason.php
+NASA/JPL/PODAAC
+99999
+99999
+99999
+99999
+99999
+DATA-CENTER
+Global
+NULL
+Significant Wave Height
+Sea Surface Height

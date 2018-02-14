@@ -1,0 +1,169 @@
+-180
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+The resolution for the East and West longitude values in km.
+The type of projection.
+Arctic
+PO.DAAC
+QUIKSCAT
+N/A
+818-393-2718
+ftp://podaac-ftp.jpl.nasa.gov/allData/quikscat/preview/L3/byu_scp/sea_ice_age/arctic/v1
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/quikscat/preview/L3/byu_scp/sea_ice_age/arctic/v1/
+file:///store/quikscat/preview/L3/byu_scp/sea_ice_age/arctic/v1
+http://www.scp.byu.edu/data/Quikscat/iceage/Quikscat_iceage.html
+/data/export/web/thumbnails
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-QSSIA-BYU01&apidoc
+47.5
+QUIKSCAT
+818-354-2038
+PREVIEW
+10.5067/QSSIA-BYU01
+Sea Ice
+1
+
+longitudeResolution
+projectionType
+Research Opportunities in Space and Earth Science
+3
+David
+90
+SeaWinds on QuikSCAT Arctic Sea Ice Age Classification (BYU/SCP)
+amsr-e
+sea ice
+sea ice data
+ice data
+multi-year sea ice
+arctic
+ocean ice
+seawinds
+quikscat
+scatterometer
+polar
+stereographic
+gridded
+scp
+1 Day
+SPACECRAFT
+HISTORICAL
+1351217253984
+0.04
+ROSES
+N
+longitude resolution
+projection type
+none
+Sea Ice
+1800
+PREVIEW
+1024531200000
+Research Opportunities in Space and Earth Science
+SeaWinds is a Ku-band (13.4 GHz) Scatterometer which features a single circular scanning dish antenna to provide pencil-beam measurements, as opposed to the common fan beam design as seen with other spaceborne scatterometers.
+The pencil-beam design has several key advantages over the more common fan beam design: higher signal-to-noise ratio, smaller size, and superior coverage.
+The SeaWinds single antenna utilizes twin offset feeds, thus providing two pencil-beam footprint paths with an elliptical sampling footprint of approximately 25 km (in azimuth) by 37 km (in look/range direction); these pencil beams have opposing polarizations (i.e., vertical and horizontal), thus achieving dual-polarization.
+The SeaWinds instrument provides a full 1800 km-wide swath coverage (including the nadir region), which allows for a nominal daily measurement coverage of 90% over the ice-free oceans.
+3
+MD5
+Gridded
+1
+1024531200000
+LOCAL-FTP
+LOCAL-OPENDAP
+ARCHIVE-PREVIEW
+WGS-84
+NETCDF
+QUIKSCAT
+none
+QSCAT_ARCTIC_SEAICE_AGE_CLASS_BYUSCP_V1.jpg
+Web Service (PO.DAAC Labs)
+932364289000
+SeaWinds Scatterometer
+SeaWinds Scatterometer
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-QSSIA-BYU01
+1259020799000
+QSCAT_ARCTIC_SEAICE_AGE_CLASS_BYUSCP_V1
+N/A
+965
+BYU/SCP
+1
+SeaWinds on QuikSCAT Arctic Sea Ice Age Classification (BYU/SCP)
+David.F.Moroni@jpl.nasa.gov
+GZIP
+http://www.scp.byu.edu/data/Quikscat/iceage/Quikscat_iceage.html
+SeaWinds on QuikSCAT Arctic Sea Ice Age Classification (BYU/SCP)
+character
+character
+
+Scatterometer Derived Sea Ice Age Classification (BYU/SCP)
+1356998400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/QSCAT_ARCTIC_SEAICE_AGE_CLASS_BYUSCP_V1.jpg
+0.04
+BOTH
+BOTH
+Daily
+1
+SEAWINDS
+SEAWINDS
+The SeaWinds on QuikSCAT mission is a "quick recovery" mission to fill the gap created by the loss of data from the NASA Scatterometer (NSCAT), when the satellite it was flying on lost power in June 1997.
+The SeaWinds instrument on the QuikSCAT satellite is a specialized microwave radar that measures near-surface wind speed and direction under all weather and cloud conditions over Earth's oceans.
+180
+HISTORICAL
+This SeaWinds on QuikSCAT scatterometer-derived Arctic sea ice classification dataset is provided as a service to the ocean and sea ice research communities on behalf of Dr. David Long at Brigham Young University (BYU) and the Scatterometer Climate Record Pathfinder (SCP).
+This dataset provides nominal 4.45 km (pixel resolution at reference latitude 70 N) gridded fields that classify First-Year (FY) and Multi-Year (MY) sea ice  using SeaWinds on QuikSCAT scatterometer observations on a daily basis from 20 June 2002 through 23 November 2009.
+It is unique from other sea ice classification datasets primarily due to its utilization of passive microwave AMSR-E data to provide the initial ocean/ice masking edge and the use of a seasonal threshold for FY and MY sea ice classification from only SeaWinds data.The dataset is derived from daily gridded QuikSCAT vertically polarized (V-pol) egg backscatter data from the SCP, which is made available at the PO.DAAC: http://podaac.jpl.nasa.gov/dataset/QUIKSCAT_BYU_L3_OW_SIGMA0_ENHANCED .
+A seasonally varying threshold was derived by Swan and Long (2012) and used to discriminate between FY and MY sea ice based on QuikSCAT V-pol egg backscatter.
+The sea ice mask was derived by applying threshold constraints to the SCP AMSR-E 6 GHz images, which are made available by the BYU SCP: http://www.scp.byu.edu/data/AMSRE/SIR/AMSRE_sir.html .
+The data is provided in a CF-compliant, netCDF version 3 format.
+Further details on the algorithms and validation are described in further detail by Swan and Long (2012).
+The dataset, software readers and user guide documentation may all be accessed here: ftp://podaac.jpl.nasa.gov/allData/quikscat/preview/L3/byu_scp/sea_ice_age/arctic/ .
+For more information on the QuikSCAT platform and mission, please visit http://podaac.jpl.nasa.gov/OceanWind/QuikSCAT .
+Original Web Page
+Thumbnail image for Website
+(Search Granule)
+M
+M
+ORACLE
+Sea Ice Age
+1259020799000
+YEAR-DOY
+BYU/SCP
+ROSES
+Creation of Dataset via Metadata Tool.
+Reference Materials
+Thumbnail
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Technical Contact
+QUIKSCAT
+98.6
+longitude resolution
+null
+Brigham Young University, Scatterometer Climate Record Pathfinder
+QSCAT_ARCTIC_SEAICE_AGE_CLASS_BYUSCP_V1
+ARCHIVE-DIST
+SeaWinds on QuikSCAT Arctic Sea Ice Age Classification (BYU/SCP)
+1351217253984
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+David Long
+BYU/SCP
+Moroni
+Dataset Creation via Metadata Tool
+1351217253984
+Polar Stereographic
+A.M. Swan and D.G. Long, 2012: Multi-year Arctic sea ice classification using QuikSCAT. IEEE Trans. Geosci. Rem. Sens., Vol. 50, No. 9, pp. 3317-3326. doi: 10.1109/LGRS.2011.2180505
+
+
+
+http://www.scp.byu.edu/
+NASA/JPL/PODAAC
+100.93
+DATA-CENTER
+Arctic
+
+
+1 Day
+Sea Ice Age

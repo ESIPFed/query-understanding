@@ -1,0 +1,293 @@
+0
+-5.99
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+Meteo France, Centre de Meteorologie Spatiale (CMS), Lannion, 22303 Lannion, cedex, France
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+NULL
+Mediterranean Sea
+Plouzane (Brest), France
+AQUA
+ENVISAT
+MSG
+NOAA-16
+NOAA-17
+NOAA-18
+TRMM
+Mediterranean and Black Seas
+0
++33-2-98224533
++33 2 96 05 67 37
++33 2 98 22 45 33
+NULL
+none
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L4/MED/EUR
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L4/MED/EUR/
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L4/MED/EUR
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L4/MED/EUR
+file:///store/ghrsst/open/data/L4/MED/EUR
+0.00
+http://ghrsst.jpl.nasa.gov
+http://www.ghrsst.org
+/data/export/web/thumbnails
+http://www.medspiration.org
+http://podaac.jpl.nasa.gov:2031/DATASET_DOCS/avhrr_navoceano.html
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHMED-4FE01&apidoc
+30.01
+AQUA
+ENVISAT
+MSG
+NOAA-16
+NOAA-17
+NOAA-18
+TRMM
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHMED-4FE01
+Ocean Temperature
+N/A
+none
+
+
+NULL
+Group for High Resolution Sea Surface Temperature
+4
+1
+Jean-Francois
+Pierre
+Sylvie
+45.99
+GHRSST Level 4 EUR Mediterranean Sea Regional Foundation Sea Surface Temperature Analysis
+GHRSST
+sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+1 Day
+SPACECRAFT
+spacecraft
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+GHRSST
+HISTORICAL
+1295629813000
+0.02
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+1445
+500
+-999
+2400
+2400
+2400
+878
+OPEN
+none
+1107043200000
+Group for High Resolution Sea Surface Temperature
+The Advanced Microwave Scanning Radiometer for EOS (AMSR-E) is a twelve-channel, six-frequency, total power passive-microwave radiometer system.
+Advanced Along-Track Scanning Radiometer (AATSR) is one of the Announcement of Opportunity (AO) instruments on board the European Space Agency (ESA) satellite ENVISAT.
+It is the most recent in a series of instruments designed primarily to measure Sea Surface Temperature (SST), following on from ATSR-1 and ATSR-2 on board ERS-1 and ERS-2.
+The Spinning Enhanced Visible and InfraRed Imager (SEVIRI)  has the capacity to observe the Earth in 12 spectral channels.
+Eight of these channels are in the thermal infrared, providing among other information, observations of the temperatures of clouds, land and sea surfaces at approximately 5 km resolution with a 15 minute duty cycle.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The Tropical Rainfall Measuring Mission's (TRMM) Microwave Imager (TMI) is a passive microwave sensor designed to provide quantitative rainfall information over a wide swath under the TRMM satellite.
+4
+MD5
+Cylindrical Lat-Lon
+1
+1107043200000
+REMOTE-FTP
+LOCAL-OPENDAP
+REMOTE-OPENDAP
+LOCAL-FTP
+ARCHIVE-OPEN
+WGS 84
+NETCDF
+Earth Observing System, AQUA
+Environmental Satellite
+Meteosat Second Generation
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+Tropical Rainfall Measuring Mission
+none
+none
+EUR-L4UHFnd-MED-v01.jpg
+none
+none
+Web Service (PO.DAAC Labs)
+Advanced Microwave Scanning Radiometer-EOS
+Advanced Along-Track Scanning Radiometer
+Spinning Enhanced Visible and Infrared Imager
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+TRMM Microwave Imager
+Advanced Microwave Scanning Radiometer-EOS
+Advanced Along-Track Scanning Radiometer
+Spinning Enhanced Visible and Infrared Imager
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+TRMM Microwave Imager
+None
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHMED-4FE01
+1200268800000
+EUR-L4UHFnd-MED-v01
+These data are produced by the ESA Medspiration project funded by the European Space Agency Data User Element (ESA-DUE)
+22
+0
+IFREMER/CERSAT
+1
+0
+Analysed L4 foundation sea surface temperature over Mediterranean Sea
+jfpiolle@ifremer.fr
+pierre.leborgne@meteo.fr
+sylvie.pouliquen@ifremer.fr
+BZIP2
+ftp://ftp.ifremer.fr
+GHRSST Level 4 EUR Mediterranean Sea Regional Foundation Sea Surface Temperature Analysis
+NULL
+Foundation Sea Surface Temperature (SSTfnd)
+Medspiration L4 Ultra-high Resolution SSTfnd (L4UHRfnd)
+1102636800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/EUR-L4UHFnd-MED-v01.jpg
+0.02
+GHRSST
++33-2-98224691
++33 2 96 05 67 52
++33 2 98 22 44 92
+Daily
+1.0
+AMSR-E
+AATSR
+SEVIRI
+AVHRR-3
+AVHRR-3
+AVHRR-3
+TMI
+AMSR-E
+AATSR
+SEVIRI
+AVHRR-3
+AVHRR-3
+AVHRR-3
+TMI
+24
+Group for High Resolution Sea Surface Temperature Datasets
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+Envisat, is an advanced polar-orbiting Earth observation satellite which provides measurements of the atmosphere, ocean, land, and ice.
+Meteosat Second Generation (MSG) provides multi-spectral imagery of the Earth's surface and cloud systems from a geostationary orbit.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The Tropical Rainfall Measuring Mission (TRMM) is a joint mission between NASA and the Japan Aerospace Exploration Agency (JAXA) designed to monitor and study tropical rainfall.
+36.49
+HISTORICAL
+A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature analysis produced daily by  Ifremer/CERSAT (France)  using optimal interpolation (OI) on a regional 0.02 degree grid.
+It provides a daily cloud-free field of foundation sea surface temperature at approximately 2 km resolution (0.02 degree) for the Mediterranean Sea.
+It is generated by merging microwave and infrared satellite sea surface temperature observations including those from the Advanced Very High Resolution Radiometer (AVHRR), the Advanced Along Track Scanning Radiometer (AATSR), the Spinning Enhanced Visible and Infrared Imager (SEVIRI), the Advanced Microwave Scanning Radiometer-EOS (AMSRE), and the Tropical Rainfall Measuring Mission Microwave Imager (TMI).
+The satellite SST observations are  intercalibrated using the AATSR sensor as a reference (previously re-calibrated using all available in situ data).
+This dataset was the first Level 4 product produced by the GHRSST Project.
+It has been superseded by the ODYSSEA L4 product for this region: GHRSST Level 4 ODYSSEA Mediterranean Sea Regional Foundation Sea Surface Temperature Analysis.
+Portal to the GHRSST Global Data Assembly Center and data access
+GHRSST Project homepage
+Thumbnail image for Website
+Description of the Medspiration projec
+JPL Physical Oceanography Data Active Archive Centre (PO.DAAC)
+(Search Granule)
+NULL
+ORACLE
+Sea Surface Temperature
+1200268800000
+YEAR-DOY
+IFREMER
+GHRSST
+
+Get Data
+Project Home Page
+Thumbnail
+Project Home Page
+Reference Materials
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Technical Contact
+Data originator/Technical contact
+Technical Contact
+Earth Observing System, AQUA
+Environmental Satellite
+Meteosat Second Generation
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+Tropical Rainfall Measuring Mission
+98.1
+98.55
+-999
+99
+98.7
+98.74
+35
+NULL
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+EUR-L4UHFnd-MED-v01
+ARCHIVE-DIST
+EUR-L4UHRfnd-MED-v01
+1130198400000
+NETCDF
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+Meteorologie Spatiale
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+Y
+ESA Medspiration: Meteo France/Meteo France, Centre de Meteorologie Spatiale (CMS), Lannion, 22303 Lannion, cedex, France; EUMETSAT Ocean; Sea Ice Satellite Application Facility
+none
+Medspiration, IFREMER/CERSAT
+Piolle
+LeBorgne
+Pouliquen
+2005-10-25. C Donlon: Original - requires checking by Medspiration project manager    2007-01-09. E. Armstrong - modifications for XML validity check
+
+Regular 0.02 degree grid
+Medspiration products user manual, Robinson I., Leborgne P., Piolle J.F., Larnicol G., v1.02, September 2004
+NULL
+none
+none
+none
+http://www.ifremer.fr/anglais/
+http://cersat.ifremer.fr
+http://www.ifremer.fr/cersat/en/index.html
+IFREMER/CERSAT
+CMS
+IFREMER/CERSAT
+98.4
+100.59
+-999
+102.1
+101.2
+102.12
+92.4
+DATA-PROVIDER
+DATA-PROVIDER
+DATA-PROVIDER
+Mediterranean Sea
+NULL
+1 Day
+Sea Surface Temperature

@@ -1,0 +1,176 @@
+1 Month
+-180
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+GRACE
+GRACE
+GRACE
+
+818-393-2718
+ftp://podaac-ftp.jpl.nasa.gov/allData/grace/L1B/JPL/RL02
+file:///store/grace/open/L1B/JPL/RL02
+ftp://podaac-ftp.jpl.nasa.gov/allData/grace/L1B/JPL/RL02/docs
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GRJPL-L1B02
+-88
+GRACE
+GRACE
+GRACE
+NULL
+OPEN
+10.5067/GRJPL-L1B02
+Geodetics/Gravity
+1
+none
+NULL
+Gravity Recovery and Climate Experiment
+1B
+Jessica
+88
+GRACE LEVEL 1B JPL RELEASE 2.0
+gravity
+Daily
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+DELAY_MODE
+1310688175267
+500000
+GRACE
+N
+NULL
+none
+Geodetics/Gravity
+
+
+
+OPEN
+1017878400000
+Gravity Recovery and Climate Experiment
+The accelerometer, located at the center of mass of each satellite, measures all non-gravitational forces acting on each satellite.
+These forces include air drag, solar radiation pressure, and attitude control activator operation.
+The two star cameras mounted close to the accelerometer on each satellite provide
+the precise attitude references for the satellites when making science
+measurements.
+This instrument precisely measures the changes in the separation between the two GRACE satellites using phase tracking of K- and Ka-band signals sent between the two satellites
+1B
+MD2
+Spherical
+1
+1017878400000
+LOCAL-FTP
+ARCHIVE-OPEN
+WGS84
+500000
+ASCII
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Handbook_1B_v1.3.pdf
+Web Service (PO.DAAC Labs)
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-GRJPL-L1B02
+GRACE_L1B_GRAV_JPL_RL02
+GRACE L1B_GRAV_JPL_RL02
+671
+JPL
+1
+GRACE_L1B_GRAV_JPL_RL02
+Jessica.K.Hausman@jpl.nasa.gov
+GZIP
+ftp://podaac.jpl.nasa.gov/allData/grace/docs/
+GRACE LEVEL 1B JPL RELEASE 2.0
+NULL
+
+GRACE_L1B_GRAV_JPL_RL02
+999302400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/GRACE_L1B_GRAV_JPL_RL02.jpg
+818-354-4588
+Monthly
+2
+GRACE ACC
+GRACE SCA
+GRACE KBR
+GRACE ACC
+GRACE SCA
+GRACE KBR
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+180
+DELAY_MODE
+FOR EXPERT USE ONLY.
+The GRACE Level 1B data provide all necessary inputs to derive monthly time variations in the Earth's gravity field.
+Level 1B data are also used for GRACE orbit and mean gravity field determination.
+It contains K-Band Ranging Data Product (KBR1B), Star Camera Data Product (SCA1B), Accelerometer Data Product (ACC1B), GPS Data Product (GPS1B), Vector Products (VGN1B, VGO1B, VGB1B, VCM1B, VKB1B, VSL1B), Quaternion Products (QSA1B, QSB1B), and Housekeeping Products (AHK1B, IHK1B, THR1B, TNK1B, MAG1B, MAS1B, TIM1B)
+GRACE Level 1B Data Product User Handbook
+(Search Granule)
+NULL
+NONE
+Gravity
+YEAR
+GRACE/JPL
+GRACE
+Creation of Dataset via Metadata Tool.
+Guide Document
+PORTAL_DA_DIRECT_ACCESS
+Solid Earth
+Technical Contact
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+89
+89
+89
+NULL
+Jet Propulsion Laboratory
+GRACE_L1B_GRAV_JPL_RL02
+ARCHIVE-DIST
+GRACE Level 1B
+1310688175267
+ASCII
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+GRACE
+N/A
+JPL
+Hausman
+Dataset Creation via Metadata Tool
+1310688175267
+N/A
+K. Case, G. Kruizinga, and S. Wu, 2002, GRACE Level 1B Data Product User Handbook, JPL Publication D-22027.   ftp://podaac.jpl.nasa.gov/allData/grace/docs/Handbook_1B_v1.3.pdf
+NULL
+none
+NASA/JPL/PODAAC
+-1
+-1
+-1
+DATA-CENTER
+Global
+NULL
+Daily
+Gravity

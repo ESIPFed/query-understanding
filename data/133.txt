@@ -1,0 +1,252 @@
+0
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+GRACE
+GRACE
+GRACE
+
+818-393-2718
+NULL
+ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/mascon/RL05/JPL/CRI/netcdf
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/tellus/L3/mascon/RL05/JPL/CRI/netcdf/
+file:///store/tellus/open/L3/mascon/RL05/JPL/CRI/netcdf
+http://podaac.jpl.nasa.gov/GRACE
+http://grace.jpl.nasa.gov/about/faq/
+http://www.csr.utexas.edu/grace/ground/
+ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/mascon/RL05/JPL/README.txt
+http://grace.jpl.nasa.gov/data/get-data/jpl_global_mascons/
+http://www.csr.utexas.edu/grace/operations/mission_status/
+/data/export/web/thumbnails
+ftp://podaac.jpl.nasa.gov/common/sw/generic_nc_readers/
+http://grace.jpl.nasa.gov/data/data-updates/
+http://grace.jpl.nasa.gov/about/feedback/
+ftp://podaac.jpl.nasa.gov/allData/tellus/L3/docs/GraceMonths.html
+-90
+GRACE
+GRACE
+GRACE
+TELLUS
+Climate Data Record
+MEaSUREs
+OPEN
+10.5067/TEMSC-2LCR5
+Geodetics/Gravity
+1
+
+NULL
+Making Earth Science Data Records for Use in Research   Environments
+3
+534
+1184
+667
+David
+90
+JPL GRACE Mascon Ocean, Ice, and Hydrology Equivalent Water Height RL05M.1 CRI Filtered Version 2
+GRACE
+Tellus
+Mascon
+water storage
+ocean mass
+land mass
+water height
+water mass
+mass
+land
+ocean
+gravity
+1 Month
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+TELLUS
+CDR
+MEaSUREs
+DELAY_MODE
+1461204719079
+1
+MEaSUREs
+Y
+NULL
+none
+Geodetics/Gravity
+
+
+
+OPEN
+1017619200000
+Making Earth Science Data Records for Use in Research   Environments
+The accelerometer, located at the center of mass of each satellite, measures all non-gravitational forces acting on each satellite.
+These forces include air drag, solar radiation pressure, and attitude control activator operation.
+The two star cameras mounted close to the accelerometer on each satellite provide
+the precise attitude references for the satellites when making science
+measurements.
+This instrument precisely measures the changes in the separation between the two GRACE satellites using phase tracking of K- and Ka-band signals sent between the two satellites
+3
+MD5
+Gridded
+1
+1017619200000
+LOCAL-FTP
+LOCAL-OPENDAP
+ARCHIVE-OPEN
+WGS84
+NETCDF
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+GRACE Mission
+Frequently Asked Questions
+GRACE Near-Real-Time Orbit Data
+README.txt file for JPL RL05M.1 GRACE Mascon Solution
+Tellus Mascon Project Page
+GRACE Historical and Current Mission Status
+TELLUS_GRACE_MASCON_CRI_GRID_RL05_V2.jpg
+Generic netCDF read software.
+Grace Tellus Data Release Updates
+GRACE Tellus Feedback Tool
+GRACE Data Availability Timetable
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+none
+Earth Science
+DATA-PROVIDER
+1
+PODAAC-TEMSC-2LCR5
+TELLUS_GRACE_MASCON_CRI_GRID_RL05_V2
+JPL GRACE Mascon Ocean, Ice, and Hydrology Equivalent Water Height RL05M.1 CRI Filtered
+2616
+TELLUS
+1
+JPL GRACE Mascon Ocean, Ice, and Hydrology Equivalent Water Height RL05M.1 CRI Filtered Version 2
+David.F.Moroni@jpl.nasa.gov
+NONE
+http://grace.jpl.nasa.gov/data/get-data/jpl_global_mascons/
+JPL GRACE Mascon Ocean, Ice, and Hydrology Equivalent Water Height RL05M.1 CRI Filtered Version 2
+NULL
+None
+JPL GRACE Mascon Ocean, Ice, and Hydrology Equivalent Water Height JPL RL05M.1 CRI Filtered
+1461888000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/TELLUS_GRACE_MASCON_CRI_GRID_RL05_V2.jpg
+1
+TELLUS
+CDR
+MEaSUREs
+818-354-2038
+Monthly
+2
+GRACE ACC
+GRACE SCA
+GRACE KBR
+GRACE ACC
+GRACE SCA
+GRACE KBR
+TELLUS
+Climate Data Record
+MEaSUREs
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+360
+DELAY_MODE
+This dataset represents Version 2 of the JPL GRACE Mascon Equivalent Water Height RL05M.1, providing global water storage anomalies relative to a time-mean of monthly mass grids as derived from GRACE.
+These data are provided in a single data file in netCDF format and is applicable for ocean, ice, and hydrology.
+This version of the data employs a Coastal Resolution Improvement (CRI) filter that reduces leakage errors across coastlines.
+The storage anomalies are given in equivalent water thickness units (cm).
+The solution provided here is derived from solving for monthly gravity field variations in terms of spherical cap mass concentration functions, rather than spherical harmonic coefficients.
+Additionally, realistic geophysical information is introduced during the solution inversion to intrinsically remove correlated error.
+Thus, these Mascon solutions do not need to be destriped or smoothed, like traditional spherical harmonic gravity solutions.
+The complete Mascon solution consists of 4,551 relatively independent estimates of surface mass change that have been estimated using an equal-area 3-degree grid of individual mascons.
+A subset of these individual mascons span coastlines, and contain mixed land and ocean mass change signals.
+In a post-processing step, the CRI filter is applied to the complete Mascon solution to separate land and ocean mass from individual mascons that span coastlines.
+The land mask used to perform this separation is provided in the same directory as this dataset.
+Since the individual mascons act as an inherent smoother on the gravity field, a set of optional gain factors (for continental hydrology applications) that can be applied to the solution to study mass change signals at sub-mascon resolution is also provided within the same data directory as the Mascon data.
+A summary of changes and enhancements to Version 2 (compared to Version 1) can be found here: ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/mascon/RL05/JPL/README.txt.
+As a result of these enhancements, the GRACE Project advises users to no longer continue using the Version 1 Mascon data, and to follow this recommendation we have retired the Version 1 dataset.
+Please refer to the 'Data Access' tab at the top of this page to gain direct access to the Mascon data.
+For more information, please visit http://grace.jpl.nasa.gov/data/get-data/jpl_global_mascons/.
+For a detailed description on the Mascon solution, including the mathematical derivation, implementation of geophysical constraints, and solution validation, please see Watkins et al., 2015, doi: 10.1002/2014JB011547.
+GRACE Mission Information Page
+GRACE Tellus Project page for Frequently Asked Questions.
+This page is maintained by the Center for Space Research at the University of Texas at Austin.
+README File containing list of changes from Version 1 to Version 2.
+Provides additional resources and information for the Global Mascon datasets.
+GRACE Mission status is updated weekly and maintained by the Center for Space Research at the University of Texas at Austin.
+Web portal dataset thumbnail image
+Generic netCDF read software provided in IDL, MATLAB, Python, and R.
+Grace Tellus Project site for announcing recent and historical updates regarding Tellus datasets.
+GRACE Tellus Project web tool for entering user feedback. Users are advised to only use this tool when submitting data quality issues directly to the GRACE Tellus Project. For all other inquiries, please visit https://podaac.jpl.nasa.gov/forum/.
+Contains a timetable of data availability from GRACE for each month starting from the beginning of the GRACE mission.
+NULL
+NONE
+Gravity
+NONE
+TELLUS
+MEaSUREs
+Creation of Dataset via Metadata Tool.
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_FAQS
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_KNOWN_ISSUES
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_PROJECT_MATERIALS
+Thumbnail
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_ANNOUNCEMENTS
+PORTAL_DOC_KNOWN_ISSUES
+PORTAL_DOC_KNOWN_ISSUES
+Solid Earth
+Technical Contact
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+89
+89
+89
+NULL
+TELLUS
+TELLUS_GRACE_MASCON_CRI_GRID_RL05_V2
+4000
+ARCHIVE-DIST
+JPL GRACE Mascon Ocean, Ice, and Hydrology Equivalent Water Height RL05M.1 CRI Filtered Version 2
+1461204719079
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+D. N. Wiese, D.-N. Yuan, C. Boening, F. W. Landerer, M. M. Watkins
+TELLUS
+Moroni
+Dataset Creation via Metadata Tool
+1461204719079
+Watkins, M. M., D. N. Wiese, D.-N. Yuan, C. Boening, F. W. Landerer (2015), Improved methods for observing Earth's time variable mass distribution with GRACE, JGR Solid Earth, 10.1002/2014JB011547
+NULL
+
+NASA/JPL/PODAAC
+-1
+-1
+-1
+DATA-CENTER
+Global
+NULL
+1 Month
+Gravity

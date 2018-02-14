@@ -1,0 +1,514 @@
+-180
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+ENVISAT
+MetOp-A
+NOAA-16
+NOAA-17
+NOAA-18
+JASON-1
+JASON-1
+QUIKSCAT
+TOPEX/POSEIDON
+TOPEX/POSEIDON
+TOPEX/POSEIDON
+ERS-1
+ERS-2
+DMSP-F10
+DMSP-F13
+DMSP-F11
+DMSP-F14
+GFO
+NOAA-14
+NOAA-19
+OSTM/Jason-2
+OSTM/Jason-2
+GRACE
+GRACE
+GRACE
+
+818-393-2718
+file:///store/oscar/open/L4/oscar_1_deg
+ftp://podaac-ftp.jpl.nasa.gov/allData/oscar/L4/oscar_1_deg
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/oscar/L4/oscar_1_deg/
+/data/export/web/thumbnails
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-OSCAR-10D01&apidoc
+-66
+ENVISAT
+MetOp-A
+NOAA-16
+NOAA-17
+NOAA-18
+JASON-1
+JASON-1
+QUIKSCAT
+TOPEX/POSEIDON
+TOPEX/POSEIDON
+TOPEX/POSEIDON
+ERS-1
+ERS-2
+DMSP-F10
+DMSP-F13
+DMSP-F11
+DMSP-F14
+GFO
+NOAA-14
+NOAA-19
+OSTM/Jason-2
+OSTM/Jason-2
+GRACE
+GRACE
+GRACE
+NULL
+OPEN
+10.5067/OSCAR-10D01
+Ocean Circulation
+N/A
+none
+NULL
+Ocean Surface Current Analysis
+4
+Jessica
+66
+OSCAR 1 degree ocean surface currents
+5 Day
+spacecraft
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+spacecraft
+spacecraft
+SPACECRAFT
+spacecraft
+spacecraft
+spacecraft
+spacecraft
+spacecraft
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+spacecraft
+SPACECRAFT
+SPACECRAFT
+
+
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+DELAY_MODE
+1295629813000
+1
+OSCAR
+N
+NULL
+none
+Ocean Circulation
+
+2400
+2400
+2400
+2400
+
+
+1800
+5
+5
+5
+143
+
+1394
+1394
+1394
+1394
+
+2400
+2400
+
+
+
+
+
+OPEN
+694224000000
+Ocean Surface Current Analysis
+Nadir pointing radar altimeter measuring at 13.575 GHz (Ku band) and 3.2 GHz (S band) The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The Poseidon-2 altimeter, operating at 13.575 GHz (Ku band) and 5.3 GHz (C band), is the primary sensor for the JASON-1 mission.
+The measurements made at the two frequencies are combined to obtain measurements of the altimeter range, wind speed, significant wave height, and the ionospheric correction.
+The Poseidon-2 package consists of dual redundant altimeter units each of which has low mass and low power consumption.
+The JMR mreasures teh sea surface microwave brightness temperatures at three frequencies (18.7 GHz, 23.8 GHz and 34.0 GHz) to provide the total water vapor content in the troposphere along the altimeter beam.
+The 23.8 GHz channel is the primary channel for water-vapor measurement and is a redundant channel on the JMR.
+The 18.7 GHz channel provides a correction for wind-induced effects in the sea surface background emissions, and the 34.0 GHz channel provides a correction for cloud liquid water.
+The measurements are combined to obtain the error in the satellite range measurements caused by pulse delay due to the water vapor.
+SeaWinds is a Ku-band (13.4 GHz) Scatterometer which features a single circular scanning dish antenna to provide pencil-beam measurements, as opposed to the common fan beam design as seen with other spaceborne scatterometers.
+The pencil-beam design has several key advantages over the more common fan beam design: higher signal-to-noise ratio, smaller size, and superior coverage.
+The SeaWinds single antenna utilizes twin offset feeds, thus providing two pencil-beam footprint paths with an elliptical sampling footprint of approximately 25 km (in azimuth) by 37 km (in look/range direction); these pencil beams have opposing polarizations (i.e., vertical and horizontal), thus achieving dual-polarization.
+The SeaWinds instrument provides a full 1800 km-wide swath coverage (including the nadir region), which allows for a nominal daily measurement coverage of 90% over the ice-free oceans.
+A satellite altimeter consists of a transmitter that sends out very sharp pulses, a sensitive receiver to record the pulse after it is reflected from the sea surface, and an accurate clock to note the time interval between transmission and reception.
+Examples of satellite altimeters used in the remote sensing of ocean surface height,  wave height and wind speed are Seasat, Geosat and Topex/Poseidon.
+A satellite altimeter consists of a transmitter that sends out very sharp pulses, a sensitive receiver to record the pulse after it is reflected from the sea surface, and an accurate clock to note the time interval between transmission and reception.
+Examples of satellite altimeters used in the remote sensing of ocean surface height,  wave height and wind speed are Seasat, Geosat and Topex/Poseidon.
+The TMR measures the sea surface microwave brightness temperatures at three frequencies (18 GHz, 21 GHz and 37 GHz) to provide the total water-vapor content in the troposphere along the altimeter beam.
+The 21 GHz channel is the primary channel for water-vapor measurement.
+It is redundant (21A and 21B).
+The 18 GHz and 37 GHz channels are used to remove the effects of wind speed and cloud cover, respectively in the water-vapor measurement.
+TMR data are sent to CNES for processing along with their altimeter data.
+The measurements are combined to obtain the error in the satellite range measurements caused by pulse delay due to the water vapor.
+A satellite altimeter consists of a transmitter that sends out very sharp pulses, a sensitive receiver to record the pulse after it is reflected from the sea surface, and an accurate clock to note the time interval between transmission and reception.
+Examples of satellite altimeters used in the remote sensing of ocean surface height,  wave height and wind speed are Seasat, Geosat and Topex/Poseidon.
+Radar Altimeter (RA) provides accurate measurements of sea surface elevation, significant wave heights, various ice parameters and an estimate of sea surface wind speed.
+The Special Sensor Microwave Imager (SSM/I) flown on board the DMSP F8, F10, F11, F13, F14, and F15 platforms is designed to measure ocean surface wind speed, ice coverage and age, cloud water content, rainfall and atmospheric vertical temperature and humidity profiles.
+The Special Sensor Microwave Imager (SSM/I) flown on board the DMSP F8, F10, F11, F13, F14, and F15 platforms is designed to measure ocean surface wind speed, ice coverage and age, cloud water content, rainfall and atmospheric vertical temperature and humidity profiles.
+The Special Sensor Microwave Imager (SSM/I) flown on board the DMSP F8, F10, F11, F13, F14, and F15 platforms is designed to measure ocean surface wind speed, ice coverage and age, cloud water content, rainfall and atmospheric vertical temperature and humidity profiles.
+The Special Sensor Microwave Imager (SSM/I) flown on board the DMSP F8, F10, F11, F13, F14, and F15 platforms is designed to measure ocean surface wind speed, ice coverage and age, cloud water content, rainfall and atmospheric vertical temperature and humidity profiles.
+Radar altimeter on GFO measuring at 13.5 GHz The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The Poseidon-3 altimeter, operating at 13.575 GHz (Ku band) and 5.3 GHz (C band), is the primary sensor for the OSTM mission.
+The measurements made at the two frequencies are combined to obtain measurements of the altimeter range, wind speed, significant wave height, and the ionoshperic correction.
+The Poseidon-3 package consists of dual redundant altimeter units each of which has low mass and low power consumption.
+The accelerometer, located at the center of mass of each satellite, measures all non-gravitational forces acting on each satellite.
+These forces include air drag, solar radiation pressure, and attitude control activator operation.
+The two star cameras mounted close to the accelerometer on each satellite provide
+the precise attitude references for the satellites when making science
+measurements.
+This instrument precisely measures the changes in the separation between the two GRACE satellites using phase tracking of K- and Ka-band signals sent between the two satellites
+4
+MD5
+Gridded
+1
+694224000000
+ARCHIVE-OPEN
+LOCAL-FTP
+LOCAL-OPENDAP
+NETCDF
+Environmental Satellite
+Meteorological Operational Satellite - A
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+JASON-1
+JASON-1
+QUIKSCAT
+Topography Experiment/Poseidon
+Topography Experiment/Poseidon
+Topography Experiment/Poseidon
+European Remote Sensing Satellite-1
+European Remote Sensing Satellite-2
+Defense Meteorological Satellite Program-F10
+Defense Meteorological Satellite Program-F13
+Defense Meteorological Satellite Program-F11
+Defense Meteorological Satellite Program-F14
+GEOSAT FOLLOW-ON-1
+National Oceanic & Atmospheric Administration-14
+National Oceanic & Atmospheric Administration-19
+Ocean Surface Topography Mission/Jason-2
+Ocean Surface Topography Mission/Jason-2
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+OSCAR_L4_OC_1deg.jpg
+Web Service (PO.DAAC Labs)
+ENVISAT Radar Altimeter 2
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+JASON-1 RADAR ALTIMETER
+JASON-1 MICROWAVE RADIOMETER
+SeaWinds Scatterometer
+TOPEX ALTIMETER
+POSEIDON ALTIMETER
+TOPEX MICROWAVE RADIOMETER
+European Remote Sensing 1 altimeter
+European Remote Sensing 2 altimeter
+Special Sensor Microwave Imager
+Special Sensor Microwave Imager
+Special Sensor Microwave Imager
+Special Sensor Microwave Imager
+Geosat Follow On Altimeter
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-3
+OSTM/Jason-2 RADAR alitmieter
+Advanced Microwave Radiometer
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+ENVISAT Radar Altimeter 2
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+JASON-1 RADAR ALTIMETER
+JASON-1 MICROWAVE RADIOMETER
+SeaWinds Scatterometer
+TOPEX ALTIMETER
+POSEIDON ALTIMETER
+TOPEX MICROWAVE RADIOMETER
+European Remote Sensing 1 altimeter
+European Remote Sensing 2 altimeter
+Special Sensor Microwave Imager
+Special Sensor Microwave Imager
+Special Sensor Microwave Imager
+Special Sensor Microwave Imager
+Geosat Follow On Altimeter
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-3
+OSTM/Jason-2 RADAR alitmieter
+Advanced Microwave Radiometer
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+none
+Earth Science
+DATA-CENTER
+1
+PODAAC-OSCAR-10D01
+OSCAR_L4_OC_1deg
+Ocean Surface Current Analysis 1 degree ocean currents
+334
+ESR
+1
+OSCAR 1 deg
+Jessica.K.Hausman@jpl.nasa.gov
+GZIP
+ftp://podaac-ftp.jpl.nasa.gov/allData/oscar/L4/oscar_1_deg/docs/
+OSCAR 1 degree ocean surface currents
+NULL
+None
+OSCAR_L4_OC_1deg
+1196380800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/OSCAR_L4_OC_1deg.jpg
+1
+818-354-4588
+Weekly
+1
+ENVISAT RA-2
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AVHRR-3
+POSEIDON-2
+JMR
+SEAWINDS
+TOPEX ALTIMETER
+POSEIDON ALTIMETER
+TOPEX MICROWAVE RADIOMETER
+ERS-1 ALTIMETER
+ERS-2 Altimeter
+SSM/I
+SSM/I
+SSM/I
+SSM/I
+GFO Altimeter
+AVHRR-2
+AVHRR-3
+POSEIDON-3
+AMR
+GRACE ACC
+GRACE SCA
+GRACE KBR
+ENVISAT RA-2
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AVHRR-3
+POSEIDON-2
+JMR
+SEAWINDS
+TOPEX ALTIMETER
+POSEIDON ALTIMETER
+TOPEX MICROWAVE RADIOMETER
+ERS-1 ALTIMETER
+ERS-2 Altimeter
+SSM/I
+SSM/I
+SSM/I
+SSM/I
+GFO Altimeter
+AVHRR-2
+AVHRR-3
+POSEIDON-3
+AMR
+GRACE ACC
+GRACE SCA
+GRACE KBR
+168
+Envisat, is an advanced polar-orbiting Earth observation satellite which provides measurements of the atmosphere, ocean, land, and ice.
+MetOp-A is the first in a series of three polar-orbiting European meteorological satellites,  launched on 19 October 2006 as part of the EUMETSAT Polar System.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+Jason-1, the TOPEX/POSEIDON follow-on, is an oceanography mission to study global ocean circulation, improve climate predictions, and monitor events such as El Nino conditions.
+It is a joint mission between CNES, the French space agency, and NASA, the U.S. space agency.
+Jason-1, the TOPEX/POSEIDON follow-on, is an oceanography mission to study global ocean circulation, improve climate predictions, and monitor events such as El Nino conditions.
+It is a joint mission between CNES, the French space agency, and NASA, the U.S. space agency.
+The SeaWinds on QuikSCAT mission is a "quick recovery" mission to fill the gap created by the loss of data from the NASA Scatterometer (NSCAT), when the satellite it was flying on lost power in June 1997.
+The SeaWinds instrument on the QuikSCAT satellite is a specialized microwave radar that measures near-surface wind speed and direction under all weather and cloud conditions over Earth's oceans.
+A combined mission of the U.S. and French Space Agencies designed to make substantial contributions to our understanding of global ocean dynamics by making precise and accurate observations of the oceanic topography for three to five years using radar altimeters on a well-tracked satellite.
+A combined mission of the U.S. and French Space Agencies designed to make substantial contributions to our understanding of global ocean dynamics by making precise and accurate observations of the oceanic topography for three to five years using radar altimeters on a well-tracked satellite.
+A combined mission of the U.S. and French Space Agencies designed to make substantial contributions to our understanding of global ocean dynamics by making precise and accurate observations of the oceanic topography for three to five years using radar altimeters on a well-tracked satellite.
+As the most comprehensive modern day source of satellite environmental data, the ERS spacecraft have brought significant benefits to Europe and the rest of the world.These benefits have ranged from improved public services, such as weather forecasting and crop monitoring, to the creation and sharing of commercial and industrial enterprises, and helping European scientists to excel in key areas of environmental research.
+As the most comprehensive modern day source of satellite environmental data, the ERS spacecraft have brought significant benefits to Europe and the rest of the world.These benefits have ranged from improved public services, such as weather forecasting and crop monitoring, to the creation and sharing of commercial and industrial enterprises, and helping European scientists to excel in key areas of environmental research.
+Defense Meteorological Satellite Program-F10, is an Air Force Meteorological satellite which bears an instrument called the Special Sensor Microwave Imager (SSM/I), which provides space-borned measurements of wind speed, atmospheric liquid water and integrated water vapor over the oceans.
+Defense Meteorological Satellite Program-F13, is an Air Force Meteorological satellite which bears an instrument called the Special Sensor Microwave Imager (SSM/I), which provides space-borned measurements of wind speed, atmospheric liquid water and integrated water vapor over the oceans.
+Defense Meteorological Satellite Program-F11, is an Air Force Meteorological satellite which bears an instrument called the Special Sensor Microwave Imager (SSM/I), which provides space-borned measurements of wind speed, atmospheric liquid water and integrated water vapor over the oceans.
+Defense Meteorological Satellite Program-F14, is an Air Force Meteorological satellite which bears an instrument called the Special Sensor Microwave Imager (SSM/I), which provides space-borned measurements of wind speed, atmospheric liquid water and integrated water vapor over the oceans.
+The GEOSAT Follow-On mission was launched Feb 10, 1998 in a 17 day repeat orbit, 880 Km altitude, 108 deg inclination, 0.001 eccentricity, and 100 min period.
+This mission is a follow-on to the GEOSAT satellite and is on the same ground track (to within +/- 1 Km) as the GEOSAT ERM.
+For the latest status of the GFO Altimetry Mission, see Navy GEOSAT Follow-On.
+NOAA (national oceanic and atmospheric administration) Satellite number 14 NOAA (national oceanic and atmospheric administration) satellite number 19 OSTM, the TOPEX/Poseidon and Jason-2 follow-on, is an oceanographic mission to study global ocean circulation, improve climate predictions and monitor events such as El Nino conditions.
+It is a joint mission between CNES, NASA, NOAA and EUMETSAT.
+OSTM, the TOPEX/Poseidon and Jason-2 follow-on, is an oceanographic mission to study global ocean circulation, improve climate predictions and monitor events such as El Nino conditions.
+It is a joint mission between CNES, NASA, NOAA and EUMETSAT.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+180
+DELAY_MODE
+OSCAR (Ocean Surface Current Analysis Real-time) contains near-surface ocean current estimates, derived using quasi-linear and steady flow momentum equations.
+The horizontal velocity is directly estimated from sea surface height, surface vector wind and sea surface temperature.
+these data were collected from the various satellites and in situ instruments.
+The model formulation combines geostrophic, Ekman and Stommel shear dynamics, and a complementary term from the surface buoyancy gradient.
+Data are on a 1 degree grid with a 5 day resoultion.
+OSCAR is generated by Earth Space Research (ESR) http://www.esr.org/oscar_index.html
+Thumbnail image for Website
+(Search Granule)
+NULL
+ORACLE
+Ocean Currents
+NONE
+Earth Space Research
+OSCAR
+
+Thumbnail
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Technical Contact
+Environmental Satellite
+Meteorological Operational Satellite - A
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+JASON-1
+JASON-1
+QUIKSCAT
+Topography Experiment/Poseidon
+Topography Experiment/Poseidon
+Topography Experiment/Poseidon
+European Remote Sensing Satellite-1
+European Remote Sensing Satellite-2
+Defense Meteorological Satellite Program-F10
+Defense Meteorological Satellite Program-F13
+Defense Meteorological Satellite Program-F11
+Defense Meteorological Satellite Program-F14
+GEOSAT FOLLOW-ON-1
+National Oceanic & Atmospheric Administration-14
+National Oceanic & Atmospheric Administration-19
+Ocean Surface Topography Mission/Jason-2
+Ocean Surface Topography Mission/Jason-2
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+98.55
+98.7
+99
+98.7
+98.74
+66.04
+66.04
+98.6
+66.04
+66.04
+66.04
+98.5
+98.5
+98.8
+98.8
+98.8
+98.8
+108
+99
+99
+66.04
+66.04
+89
+89
+89
+NULL
+Earth and Space Research
+OSCAR_L4_OC_1deg
+120
+ARCHIVE-DIST
+OSCAR 1 degree
+1271196112000
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+ESR
+Earth Space Research
+Hausman
+Dataset Policy created for OSCAR_L4_OC_1deg
+
+Bonjean, F., and G. S. E. Lagerloef, 2002. Diagnostic model and analysis of the surface currents in the tropical Pacific Ocean. J. Phys. Oceanogr., vol. 32, pg. 2938-2954.
+NULL
+none
+NASA/JPL/PODAAC
+100.59
+101.3
+102.1
+101.2
+102.12
+112.43
+112.43
+100.93
+112.43
+112.43
+112.43
+100.3
+100.3
+102
+102
+102
+102
+33220
+102
+102
+112.43
+112.43
+-1
+-1
+-1
+DATA-CENTER
+Global
+NULL
+5 Day
+Ocean Currents

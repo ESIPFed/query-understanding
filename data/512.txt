@@ -1,0 +1,165 @@
+1 Month
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+CSR
+GRACE
+GRACE
+GRACE
+
+818-393-2718
+NULL
+ftp://ftp.csr.utexas.edu/pub/slr/degree_2/
+GRACE
+GRACE
+GRACE
+TELLUS
+REMOTE
+Geodetics/Gravity
+1
+none
+NULL
+Making Earth Science Data Records for Use in Research   Environments
+2
+534
+Jessica
+TELLUS DEGREE 2 SPHERICAL HARMONIC COEFFICIENTS
+gravity
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+TELLUS
+DELAY_MODE
+1301692997316
+500000
+MEaSUREs
+N
+NULL
+remote
+Geodetics/Gravity
+
+
+
+REMOTE
+1011052800000
+Making Earth Science Data Records for Use in Research   Environments
+The accelerometer, located at the center of mass of each satellite, measures all non-gravitational forces acting on each satellite.
+These forces include air drag, solar radiation pressure, and attitude control activator operation.
+The two star cameras mounted close to the accelerometer on each satellite provide
+the precise attitude references for the satellites when making science
+measurements.
+This instrument precisely measures the changes in the separation between the two GRACE satellites using phase tracking of K- and Ka-band signals sent between the two satellites
+2
+MD5
+Spherical
+1
+1011052800000
+REMOTE-FTP
+WGS84
+500000
+ASCII
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-TE2DE-COE01
+TELLUS_2_DEG_COEF
+TELLUS 2 DEGREE SPHERICAL HARMONIC COEFFICIENTS
+595
+TELLUS
+1
+TELLUS_2_DEG_COEF
+Jessica.K.Hausman@jpl.nasa.gov
+NONE
+http://grace.jpl.nasa.gov/data/get-data/oblateness/
+TELLUS DEGREE 2 SPHERICAL HARMONIC COEFFICIENTS
+NULL
+
+TELLUS_2_DEG_COEF
+1280620800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/TELLUS_2_DEG_COEF.jpg
+TELLUS
+818-354-4588
+Monthly
+1
+GRACE ACC
+GRACE SCA
+GRACE KBR
+GRACE ACC
+GRACE SCA
+GRACE KBR
+TELLUS
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+DELAY_MODE
+This dataset contains the degree 2 spherical harmonic coefficients (2,0), (2,1), (2,2) vs time.
+These estimates are obtained from the analysis of Satellite Laser Ranging (SLR) data to five geodetic satellites: LAGEOS-1 and 2, Starlette, Stella and Ajisai.
+The background gravity model used in the SLR analysis is consistent with GRACE Release-04 or Release-05 processing, including the use of the same Atmosphere-Ocean De-aliasing (AOD) dataset as the corresponding GRACE release.
+However, the monthly mean of the AOD model (included in the file) has been restored, so that the coefficients represent the full month's signal.
+For the same reason, no rate models have been applied.
+These data are housed at the Center for Space Research at University of Texas Austin.
+For more information, please visit: http://grace.jpl.nasa.gov/data/get-data/oblateness/.
+NULL
+NONE
+Gravity
+NONE
+TELLUS
+MEaSUREs
+Creation of Dataset via Metadata Tool.
+Solid Earth
+Technical Contact
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+89
+89
+89
+NULL
+TELLUS
+TELLUS_2_DEG_COEF
+REMOTE-DIST
+UT/CSR monthly degree-2 gravity harmonics
+1301692997316
+ASCII
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+M. Cheng, B. Tapley
+TELLUS
+Hausman
+Dataset Creation via Metadata Tool
+1301692997316
+Cheng, M.K., Tapley, B.D., Variations in the Earths oblateness during the past 28 years, J. Geophys. Res., 109(B09402), 2004
+NULL
+none
+NASA/JPL/PODAAC
+-1
+-1
+-1
+DATA-CENTER
+Global
+NULL
+Gravity

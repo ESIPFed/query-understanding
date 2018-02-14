@@ -1,0 +1,199 @@
+10 Day
+1
+0
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+TOPEX/POSEIDON
+TOPEX/POSEIDON
+TOPEX/POSEIDON
+none
+818-393-2718
+none
+file:///store/topex/open/L2/mgdrb
+ftp://podaac-ftp.jpl.nasa.gov/allData/topex/L2/mgdrb
+none
+ftp://podaac.jpl.nasa.gov/allData/topex/L2/docs/tpsafehold.txt
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-TPMGD-BIN0B
+/data/export/web/thumbnails
+ftp://podaac.jpl.nasa.gov/allData/topex/L2/docs/tp_maneuver.txt
+ftp://podaac.jpl.nasa.gov/allData/topex/L2/mgdrb/docs/uhmgdrb/html/usr_toc.htm
+ftp://podaac.jpl.nasa.gov/allData/topex/L2/docs/tp_cyclelist.txt
+-66
+TOPEX/POSEIDON
+TOPEX/POSEIDON
+TOPEX/POSEIDON
+NULL
+OPEN
+10.5067/TPMGD-BIN0B
+Sea Surface Topography
+Sea Surface Topography
+B
+none
+NULL
+TOPEX/Poseidon
+2
+Jessica
+66
+TOPEX/POSEIDON ALTIMETER MERGED GEOPHYSICAL DATA RECORD GENERATION B
+SSHA
+SSH
+SWH
+sea surface height anomaly
+sea level anomaly
+spacecraft
+spacecraft
+spacecraft
+HISTORICAL
+1295629813000
+11200
+TOPEX/POSEIDON
+Y
+NULL
+none
+Sea Surface Topography
+Sea Surface Topography
+5
+5
+5
+OPEN
+none
+717398261000
+TOPEX/Poseidon
+A satellite altimeter consists of a transmitter that sends out very sharp pulses, a sensitive receiver to record the pulse after it is reflected from the sea surface, and an accurate clock to note the time interval between transmission and reception.
+Examples of satellite altimeters used in the remote sensing of ocean surface height,  wave height and wind speed are Seasat, Geosat and Topex/Poseidon.
+A satellite altimeter consists of a transmitter that sends out very sharp pulses, a sensitive receiver to record the pulse after it is reflected from the sea surface, and an accurate clock to note the time interval between transmission and reception.
+Examples of satellite altimeters used in the remote sensing of ocean surface height,  wave height and wind speed are Seasat, Geosat and Topex/Poseidon.
+The TMR measures the sea surface microwave brightness temperatures at three frequencies (18 GHz, 21 GHz and 37 GHz) to provide the total water-vapor content in the troposphere along the altimeter beam.
+The 21 GHz channel is the primary channel for water-vapor measurement.
+It is redundant (21A and 21B).
+The 18 GHz and 37 GHz channels are used to remove the effects of wind speed and cloud cover, respectively in the water-vapor measurement.
+TMR data are sent to CNES for processing along with their altimeter data.
+The measurements are combined to obtain the error in the satellite range measurements caused by pulse delay due to the water vapor.
+2
+MD5
+Swath
+1
+717398261000
+ARCHIVE-OPEN
+LOCAL-FTP
+none
+5100
+RAW
+Topography Experiment/Poseidon
+Topography Experiment/Poseidon
+Topography Experiment/Poseidon
+TOPEX/Poseidon safeholds
+Web Service (PO.DAAC Labs)
+PODAAC_MGDR.jpg
+TOPEX/Poseidon maneuvers list
+PO.DAAC MERGED GDR (TOPEX/POSEIDON)Gen B (MGDR-B) HANDBOOK
+TOPEX/Poseidon cycle list
+TOPEX ALTIMETER
+POSEIDON ALTIMETER
+TOPEX MICROWAVE RADIOMETER
+TOPEX ALTIMETER
+POSEIDON ALTIMETER
+TOPEX MICROWAVE RADIOMETER
+none
+Earth Science
+Earth Science
+DATA-CENTER
+PODAAC-TPMGD-BIN0B
+1128815385000
+PODAAC_MGDR
+TOPEX/POSEIDON ALTIMETER MERGED GEOPHYSICAL DATA RECORD GENERATION B
+106
+NASA/JPL/PODAAC
+1
+PODAAC_MGDR
+Jessica.K.Hausman@jpl.nasa.gov
+GZIP
+ftp://podaac.jpl.nasa.gov/allData/topex/L2/mgdrb/docs/uhmgdrb/html/usr_toc.htm
+TOPEX/POSEIDON ALTIMETER MERGED GEOPHYSICAL DATA RECORD GENERATION B
+NULL
+none
+none
+TOPEX/Poseidon MGDR
+893116800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/PODAAC_MGDR.jpg
+818-354-4588
+Weekly
+B
+TOPEX ALTIMETER
+POSEIDON ALTIMETER
+TOPEX MICROWAVE RADIOMETER
+TOPEX ALTIMETER
+POSEIDON ALTIMETER
+TOPEX MICROWAVE RADIOMETER
+A combined mission of the U.S. and French Space Agencies designed to make substantial contributions to our understanding of global ocean dynamics by making precise and accurate observations of the oceanic topography for three to five years using radar altimeters on a well-tracked satellite.
+A combined mission of the U.S. and French Space Agencies designed to make substantial contributions to our understanding of global ocean dynamics by making precise and accurate observations of the oceanic topography for three to five years using radar altimeters on a well-tracked satellite.
+A combined mission of the U.S. and French Space Agencies designed to make substantial contributions to our understanding of global ocean dynamics by making precise and accurate observations of the oceanic topography for three to five years using radar altimeters on a well-tracked satellite.
+360
+HISTORICAL
+The TOPEX/POSEIDON MGDR (Merged Geophysical Data Record) contains global coverage altimeter data.
+This data set (MGDR-B) contains generation B data which replaces the generation A data set.
+The objective of the TOPEX/POSEIDON mission, launched in August 1992 and currently operating, is to determine ocean topography with a sea surface height measurement precision of 3 cm and a sea level measurement accuracy of 13 cm.
+The data product combines measurements from two altimeters, a NASA dual frequency (Ku and C band) instrument similar to the Geosat altimeter, and a French (CNES) instrument which is a proof-of-concept solid-state altimeter (Ku band).
+This data set contains mean sea surface, ionospheric corrections, sigma0 and all parameters needed to calculate sea surface height anomalies and total electron content.
+The data are in binary format.
+TOPEX/Poseidon safeholds and known data outages
+(Search Granule)
+Thumbnail image for Website
+TOPEX/Poseidon manuevers
+T/P MGDR-B users guide
+TOPEX/Poseidon cycle start list
+NULL
+BACKTRACK
+Sea Surface Height
+Significant Wave Height
+1128815385000
+CYCLE
+TOPEX/POSEIDON
+TOPEX/POSEIDON
+
+PORTAL_DOC_KNOWN_ISSUES
+PORTAL_DA_DIRECT_ACCESS
+Thumbnail
+PORTAL_DOC_KNOWN_ISSUES
+PORTAL_DOC_USERS_GUIDE
+PORTAL_DOC_PROJECT_MATERIALS
+Oceans
+Oceans
+Technical Contact
+Topography Experiment/Poseidon
+Topography Experiment/Poseidon
+Topography Experiment/Poseidon
+66.04
+66.04
+66.04
+NULL
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+PODAAC_MGDR
+ARCHIVE-DIST
+TOPEX/POSEIDON ALTIMETER MERGED GEOPHYSICAL DATA RECORD GENERATION B
+1245070871000
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+NASA/JPL/PODAAC
+none
+NASA/JPL/PODAAC
+Hausman
+15-JUN-09 Manually Migrated from Ingres
+
+none
+ftp://podaac.jpl.nasa.gov/allData/topex/L2/mgdrb/docs/uhmgdrb/html/usr_toc.htm
+NULL
+none
+http://podaac.jpl.nasa.gov/
+NASA/JPL/PODAAC
+112.43
+112.43
+112.43
+DATA-CENTER
+Global
+NULL
+Sea Surface Height
+Significant Wave Height

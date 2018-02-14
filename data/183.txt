@@ -1,0 +1,181 @@
+0
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+GRACE
+GRACE
+GRACE
+
+818-393-2718
+NULL
+file:///store/tellus/open/L3/land_mass/RL05/ascii
+ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/land_mass/RL05/ascii
+-90
+GRACE
+GRACE
+GRACE
+TELLUS
+OPEN
+10.5067/TELND-TX005
+Geodetics/Gravity
+1
+none
+NULL
+Making Earth Science Data Records for Use in Research   Environments
+3
+534
+Jessica
+90
+GRACE MONTHLY LAND WATER MASS GRIDS ASCII RELEASE 5.0
+GRACE
+Tellus
+water storage
+land mass
+mass
+water mass
+gravity
+1 Month
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+TELLUS
+DELAY_MODE
+1332180950458
+1
+MEaSUREs
+Y
+NULL
+none
+Geodetics/Gravity
+
+
+
+OPEN
+1028160000000
+Making Earth Science Data Records for Use in Research   Environments
+The accelerometer, located at the center of mass of each satellite, measures all non-gravitational forces acting on each satellite.
+These forces include air drag, solar radiation pressure, and attitude control activator operation.
+The two star cameras mounted close to the accelerometer on each satellite provide
+the precise attitude references for the satellites when making science
+measurements.
+This instrument precisely measures the changes in the separation between the two GRACE satellites using phase tracking of K- and Ka-band signals sent between the two satellites
+3
+MD5
+Gridded
+1
+1028160000000
+ARCHIVE-OPEN
+LOCAL-FTP
+WGS84
+ASCII
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-TELND-TX005
+TELLUS_LAND_TXT_RL05
+GRACE MONTHLY LAND WATER MASS GRIDS ASCII RELEASE 5.0
+797
+TELLUS
+1
+TELLUS_LAND_TXT_RL05
+Jessica.K.Hausman@jpl.nasa.gov
+NONE
+http://grace.jpl.nasa.gov/data/get-data/monthly-mass-grids-land/
+GRACE MONTHLY LAND WATER MASS GRIDS ASCII RELEASE 5.0
+NULL
+
+TELLUS_LAND_TXT_RL05
+1333065600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/TELLUS_LAND_TXT_RL05.jpg
+1
+TELLUS
+818-354-4588
+Monthly
+5.0
+GRACE ACC
+GRACE SCA
+GRACE KBR
+GRACE ACC
+GRACE SCA
+GRACE KBR
+TELLUS
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+360
+DELAY_MODE
+The twin satellites of the Gravity Recovery and Climate Experiment (GRACE), launched in March of 2002, are making detailed monthly measurements of Earth's gravity field changes.
+These observations can detect regional mass changes of Earth's water reservoirs over land, ice and oceans.
+GRACE measures gravity variations by relating it to the distance variations between the two satellites, which fly in the same orbit, separated by about 240 km at an altitude of ~450 km.
+The monthly land mass grids contain terrestrial water storage anomalies (in aquifers, river basins, etc.)
+from GRACE time-variable gravity data relative to a time-mean.
+The storage anomalies are given in 'equivalent water thickness' (in ASCII format).
+The time coverage for the monthly grids are determined by GRACE months.
+For the list of GRACE month dates visit http://grace.jpl.nasa.gov/data/grace-months/ .
+For information please visit http://grace.jpl.nasa.gov/data/get-data/monthly-mass-grids-land/ .
+NULL
+NONE
+Gravity
+NONE
+TELLUS
+MEaSUREs
+Creation of Dataset via Metadata Tool.
+Solid Earth
+Technical Contact
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+89
+89
+89
+NULL
+TELLUS
+TELLUS_LAND_TXT_RL05
+ARCHIVE-DIST
+GRACE MONTHLY MASS GRIDS - LAND
+1332180950458
+ASCII
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+S.C. Swenson
+TELLUS
+Hausman
+Dataset Creation via Metadata Tool
+1332180950458
+Landerer F.W. and S. C. Swenson, 2012: Accuracy of scaled GRACE terrestrial water storage estimates. Water Resources Research, Vol 48, W04531, 11 PP, doi:10.1029/2011WR011453.
+NULL
+none
+NASA/JPL/PODAAC
+-1
+-1
+-1
+DATA-CENTER
+Global
+NULL
+1 Month
+Gravity

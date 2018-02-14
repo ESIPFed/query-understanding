@@ -1,0 +1,136 @@
+10 Day
+1
+0
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+JASON-1
+
+818-393-2718
+ftp://podaac-ftp.jpl.nasa.gov/allData/jason1/preview/L2/jmr_enh
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/jason1/preview/L2/jmr_enh/
+file:///store/jason1/preview/L2/jmr_enh
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-J1JMR-ENH0C&apidoc
+-66.15
+JASON-1
+NULL
+PREVIEW
+Sea Surface Topography
+Atmospheric Water Vapor
+1
+none
+NULL
+Jason-1
+2
+Jessica
+66.15
+JASON-1 ENHANCED JASON MICROWAVE RADIOMETER
+spacecraft
+HISTORICAL
+1291080294265
+11200
+JASON-1
+Y
+NULL
+none
+Sea Surface Topography
+Atmospheric Water Vapor
+
+PREVIEW
+1011074826000
+Jason-1
+The JMR mreasures teh sea surface microwave brightness temperatures at three frequencies (18.7 GHz, 23.8 GHz and 34.0 GHz) to provide the total water vapor content in the troposphere along the altimeter beam.
+The 23.8 GHz channel is the primary channel for water-vapor measurement and is a redundant channel on the JMR.
+The 18.7 GHz channel provides a correction for wind-induced effects in the sea surface background emissions, and the 34.0 GHz channel provides a correction for cloud liquid water.
+The measurements are combined to obtain the error in the satellite range measurements caused by pulse delay due to the water vapor.
+2
+MD5
+Swath
+1
+1011074826000
+LOCAL-FTP
+LOCAL-OPENDAP
+ARCHIVE-PREVIEW
+Unknown
+5100
+NETCDF
+JASON-1
+Web Service (PO.DAAC Labs)
+JASON-1 MICROWAVE RADIOMETER
+JASON-1 MICROWAVE RADIOMETER
+none
+Earth Science
+Earth Science
+DATA-PROVIDER
+PODAAC-J1JMR-ENH0C
+1328982628000
+JASON-1_JMR_ENH
+JASON-1 ENHANCED JASON MICROWAVE RADIOMETER
+462
+JPL
+1
+JASON-1_JMR_ENH
+Jessica.K.Hausman@jpl.nasa.gov
+NONE
+ftp://podaac.jpl.nasa.gov/allData/jason1/preview/L2/jmr_enh/docs/AMR_EXP_README_TXT.txt
+JASON-1 ENHANCED JASON MICROWAVE RADIOMETER
+NULL
+
+
+JASON-1_JMR_ENH
+1286323200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/JASON-1_JMR_ENH.jpg
+818-354-4588
+Weekly
+1
+JMR
+JMR
+Jason-1, the TOPEX/POSEIDON follow-on, is an oceanography mission to study global ocean circulation, improve climate predictions, and monitor events such as El Nino conditions.
+It is a joint mission between CNES, the French space agency, and NASA, the U.S. space agency.
+360
+HISTORICAL
+The enhanced Jason-1 Microwave Radiometer (JMR) corrections contains better wet tropospheric path delay corrections along with better land, rain and ice flagging for coastal regions than that found in the Jason-1 Geophysical Data Records (GDR, http://podaac.jpl.nasa.gov/dataset/JASON-1_L2_OST_GDR_Ver-C_Binary ).
+The enhanced corrections can be used in place of the GDR wet troposphere correction to provide more accurate Sea Surface Height Anomalies for coastal regions.
+(Search Granule)
+NULL
+NONE
+Sea Surface Height
+Water Vapor
+1328982628000
+CYCLE
+JPL
+JASON-1
+Creation of Dataset via Metadata Tool.
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Atmosphere
+Technical Contact
+JASON-1
+66.04
+NULL
+Jet Propulsion Laboratory
+JASON-1_JMR_ENH
+ARCHIVE-DIST
+Jason-1 Enhanced JMR
+1291080294265
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+Shannon Brown
+N/A
+JPL
+Hausman
+Dataset Creation via Metadata Tool
+1291080294265
+N/A
+Brown, S. 2010.  A Novel Near-Land Radiometer Wet Path-Delay Retrieval Algorithm: Application to the Jason-2/OSTM Advanced Microwave Radiometer.  IEEE Transactions on Geoscience and Remote Sensing, Vol. 48. No. 4.
+NULL
+none
+NASA/JPL/PODAAC
+112.43
+DATA-CENTER
+Global
+NULL
+Sea Surface Height
+Water Vapor

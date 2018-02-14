@@ -1,0 +1,255 @@
+-180
+Australian Bureau of Meteorology, GPO Box 1289, Melbourne, Vic, 3001 AUSTRALIA
+Centre for Australian Weather and Climate Research, Australian Bureau of Meteorology, GPO Box 1289, Melbourne, Vic, 3001 AUSTRALIA
+NULL
+Global
+Australian Bureau of Meteorology, Melbourne, Australia
+AQUA
+ENVISAT
+InSitu
+MetOp-A
+NOAA-17
+NOAA-18
+none
++61-3-96694168
++61-3-96694660
+NULL
+none
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L4/GLOB/ABOM/GAMSSA_28km
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L4/GLOB/ABOM/GAMSSA_28km/
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L4/GLOB/ABOM/GAMSSA_28km
+file:///store/ghrsst/open/data/L4/GLOB/ABOM/GAMSSA_28km
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L4/GLOB/ABOM/GAMSSA_28km
+none
+http://ghrsst.jpl.nasa.gov
+http://www.ghrsst.org
+http://opendap.bom.gov.au:8080/thredds/catalog
+/data/export/web/thumbnails
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/ghrsst/catalog.html?dataset=ncml_aggregation/OceanTemperature/ghrsst/aggregate__ghrsst_ABOM-L4LRfnd-GLOB-GAMSSA_28km.ncml
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHGAM-4FA01&apidoc
+-90
+AQUA
+ENVISAT
+InSitu
+MetOp-A
+NOAA-17
+NOAA-18
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHGAM-4FA01
+Ocean Temperature
+N/A
+none
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+4
+1
+Leon
+Helen
+90
+GHRSST Level 4 GAMSSA Global Foundation Sea Surface Temperature Analysis
+GHRSST
+sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+1 Day
+SPACECRAFT
+spacecraft
+instrument
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1295629813000
+0.25
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+1445
+500
+-999
+2400
+2400
+2400
+OPEN
+none
+1219536000000
+Group for High Resolution Sea Surface Temperature
+The Advanced Microwave Scanning Radiometer for EOS (AMSR-E) is a twelve-channel, six-frequency, total power passive-microwave radiometer system.
+Advanced Along-Track Scanning Radiometer (AATSR) is one of the Announcement of Opportunity (AO) instruments on board the European Space Agency (ESA) satellite ENVISAT.
+It is the most recent in a series of instruments designed primarily to measure Sea Surface Temperature (SST), following on from ATSR-1 and ATSR-2 on board ERS-1 and ERS-2.
+In situ SST data from drifting and moored buoys, and ships.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+4
+MD5
+Cylindrical Lat-Lon
+1
+1219536000000
+REMOTE-OPENDAP
+LOCAL-OPENDAP
+LOCAL-FTP
+ARCHIVE-OPEN
+REMOTE-FTP
+WGS-84
+NETCDF
+Earth Observing System, AQUA
+Environmental Satellite
+InSitu
+Meteorological Operational Satellite - A
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+none
+none
+none
+ABOM-L4LRfnd-GLOB-GAMSSA_28km.jpg
+THREDDS
+Web Service (PO.DAAC Labs)
+Advanced Microwave Scanning Radiometer-EOS
+Advanced Along-Track Scanning Radiometer
+Ships and Moored and Drifting Buoys
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Microwave Scanning Radiometer-EOS
+Advanced Along-Track Scanning Radiometer
+Ships and Moored and Drifting Buoys
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+None
+Earth Science
+DATA-PROVIDER
+PODAAC-GHGAM-4FA01
+ABOM-L4LRfnd-GLOB-GAMSSA_28km
+Product created by the Australian Bureau of Meteorology
+2
+ABOM
+1
+BLUElink Global Australian Multi-Sensor SST Analysis (GAMSSA), daily, 1/4 degree resolution
+ghrsst@bom.gov.au
+h.beggs@bom.gov.au
+BZIP2
+http://www.bom.gov.au/bmrc/pubs/researchreports/RR130.pdf
+GHRSST Level 4 GAMSSA Global Foundation Sea Surface Temperature Analysis
+NULL
+Foundation Sea Surface Temperature
+GAMSSA L4 0.25 degree
+1217203200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/ABOM-L4LRfnd-GLOB-GAMSSA_28km.jpg
+0.25
+GHRSST
++61-3-96694746
++61-3-96694394
+Daily
+1.0
+AMSR-E
+AATSR
+InSitu
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AMSR-E
+AATSR
+InSitu
+AVHRR-3
+AVHRR-3
+AVHRR-3
+Group for High Resolution Sea Surface Temperature Datasets
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+Envisat, is an advanced polar-orbiting Earth observation satellite which provides measurements of the atmosphere, ocean, land, and ice.
+In situ SST data from drifting and moored buoys, and ships at various depths.
+MetOp-A is the first in a series of three polar-orbiting European meteorological satellites,  launched on 19 October 2006 as part of the EUMETSAT Polar System.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+180
+NEAR_REAL_TIME
+A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature analysis produced daily on an operational basis at the Australian Bureau of Meteorology using optimal interpolation (OI) on a global 0.25 degree grid.
+This BLUELink Global Australian Multi-Sensor SST Analysis (GAMSSA) v1.0 system blends satellite SST observations from the Advanced Very High Resolution Radiometer (AVHRR), the Advanced Along Track Scanning Radiometer (AATSR), and, the Advanced Microwave Scanning Radiometer-EOS (AMSRE), and in situ data from ships, and drifting and moored buoy from the Global Telecommunications System (GTS).
+In order to produce a foundation SST estimate, the AATSR skin SST data stream is converted to foundation SST using the Donlon et al.
+(2002) skin to foundation temperature conversion algorithms.
+These empirically-derived algorithms apply a small correction for the cool-skin effect depending on surface wind speed, and filter out SST values suspected to be affected by diurnal warming by excluding cases which have experienced recent surface wind speeds of below 6 ms-1 during the day and less than 2 ms-1 during the night. 
+Portal to the GHRSST Global Data Assembly Center and data access
+GHRSST Project homepage
+Access to the data through OpenDAP protocol
+Thumbnail image for Website
+
+(Search Granule)
+NULL
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+Australian Bureau of Meteorology
+GHRSST
+
+Get Data
+Project Home Page
+Data access (FTP)
+Thumbnail
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Technical Contact
+Investigator
+Earth Observing System, AQUA
+Environmental Satellite
+InSitu
+Meteorological Operational Satellite - A
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+98.1
+98.55
+-999
+98.7
+98.7
+98.74
+NULL
+Australian Bureau of Meteorology
+ABOM-L4LRfnd-GLOB-GAMSSA_28km
+24
+ARCHIVE-DIST
+GAMSSA
+1217548800000
+NETCDF
+Australian Bureau of Meteorology
+Australian Bureau of Meteorology
+Y
+Australian Bureau of Meteorology
+none
+Australian Bureau of Meteorology
+Majewski
+Beggs
+20080801T000000Z L. Majewski: First created.    20080917 E. Armstrong: Revised
+
+Regular 0.25 degree grid
+http://www.bom.gov.au/bmrc/pubs/researchreports/RR130.pdf
+NULL
+none
+none
+http://www.bom.gov.au
+ABOM
+ABOM
+98.4
+100.59
+-999
+101.3
+101.2
+102.12
+DATA-PROVIDER
+DATA-PROVIDER
+Global
+NULL
+1 Day
+Sea Surface Temperature

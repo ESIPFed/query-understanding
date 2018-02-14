@@ -1,0 +1,279 @@
+26.375
+null
+NULL
+Regional
+Institute of Atmospheric Sciences and Climate (CNR - Rome)
+AQUA
+ENVISAT
+MetOp-A
+MSG
+NOAA-18
+TERRA
+Black sea
+null
+NULL
+none
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L4/BLACKSEA/GOS/OISST_UHR/v2.0
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L4/BLACKSEA/GOS/OISST_UHR/v2.0
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L4/BLACKSEA/GOS/OISST_UHR/v2.0
+file:///store/ghrsst/open/data/GDS2/L4/BLACKSEA/GOS/OISST_UHR/v2.0
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L4/BLACKSEA/GOS/OISST_UHR/v2.0/
+none
+http://gosweb.artov.isac.cnr.it/
+/data/export/web/thumbnails
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/python/
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/docs/GDS20r5.pdf
+http://ghrsst.jpl.nasa.gov
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/idl/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/R/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/matlab/
+http://thredds.jpl.nasa.gov/las/
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHOUN-4GB20
+http://www.ncdc.noaa.gov/oa/climate/research/sst/description.php
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/ghrsst/catalog.html?dataset=ncml_aggregation/OceanTemperature/ghrsst/aggregate__ghrsst_OISST_UHR_NRT-GOS-L4-BLK-v2.0.ncml
+http://ghrsst.jpl.nasa.gov
+38.75
+AQUA
+ENVISAT
+MetOp-A
+MSG
+NOAA-18
+TERRA
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHOUN-4GB20
+Ocean Temperature
+1
+null
+NULL
+Group for High Resolution Sea Surface Temperature
+4
+1
+Cristina
+48.812
+Black Sea Ultra High Resolution SST L4 Analysis 0.01 deg Resolution
+GHRSST
+sea surface temperature
+SST
+GOS
+OISST
+Black Sea
+Level 4
+sst
+L4
+surface temperature
+black sea
+ultra high resolution
+1 Day
+SPACECRAFT
+spacecraft
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1461041787961
+0.01
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+2330
+500
+
+-999
+2400
+2330
+OPEN
+none
+1199127600000
+Group for High Resolution Sea Surface Temperature
+The MODIS (Moderate Resolution Imaging Spectroradiometer) instrument provides high radiometric sensitivity (12 bit) in 36 spectral bands ranging in wavelength from 0.4 m to 14.4 m. It is used for observing processes occurring on the land, in the oceans, and in the lower atmosphere.
+Advanced Along-Track Scanning Radiometer (AATSR) is one of the Announcement of Opportunity (AO) instruments on board the European Space Agency (ESA) satellite ENVISAT.
+It is the most recent in a series of instruments designed primarily to measure Sea Surface Temperature (SST), following on from ATSR-1 and ATSR-2 on board ERS-1 and ERS-2.
+Advanced Very High Resolution Radiometer.
+This radiometer has the capability to provide detailed maps of thermal radiation from the sea surface, and clouds.
+The AVHRR operates in two modes: 1) High Resolution Picture Image or HRPT mode, which are high density images with 1km resolution, and are transmitted directly to local ground stations and 2) Global Area Coverage, or GAC mode, which are the same observations as are transmitted during the HRPT mode, but averaged together to obtain a value representative of an area 4km in diameter.
+GAC data are digitized and recorded on the satellite to provide global coverage.
+The Spinning Enhanced Visible and InfraRed Imager (SEVIRI)  has the capacity to observe the Earth in 12 spectral channels.
+Eight of these channels are in the thermal infrared, providing among other information, observations of the temperatures of clouds, land and sea surfaces at approximately 5 km resolution with a 15 minute duty cycle.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The MODIS (Moderate Resolution Imaging Spectroradiometer) instrument provides high radiometric sensitivity (12 bit) in 36 spectral bands ranging in wavelength from 0.4 m to 14.4 m. It is used for observing processes occurring on the land, in the oceans, and in the lower atmosphere.
+4
+MD5
+Cylindrical Lat-Lon
+1
+1199127600000
+REMOTE-FTP
+LOCAL-FTP
+REMOTE-OPENDAP
+ARCHIVE-OPEN
+LOCAL-OPENDAP
+WGS 84
+NETCDF
+Earth Observing System, AQUA
+Environmental Satellite
+Meteorological Operational Satellite - A
+Meteosat Second Generation
+National Oceanic & Atmospheric Administration-18
+Earth Observing System, TERRA
+none
+OISST_UHR_NRT-GOS-L4-BLK-v2.0.jpg
+PYTHON
+GDS2 User Manual
+GHRSST Project Homepage
+IDL
+R
+MATLAB
+LAS
+Web Service (PO.DAAC Labs)
+none
+THREDDS
+none
+Moderate-Resolution Imaging Spectroradiometer
+Advanced Along-Track Scanning Radiometer
+Advanced Very High Resolution Radiometer
+Spinning Enhanced Visible and Infrared Imager
+Advanced Very High Resolution Radiometer-3
+Moderate-Resolution Imaging Spectroradiometer
+Moderate-Resolution Imaging Spectroradiometer
+Advanced Along-Track Scanning Radiometer
+Advanced Very High Resolution Radiometer
+Spinning Enhanced Visible and Infrared Imager
+Advanced Very High Resolution Radiometer-3
+Moderate-Resolution Imaging Spectroradiometer
+None
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHOUN-4GB20
+OISST_UHR_NRT-GOS-L4-BLK-v2.0
+These data were provided by GHRSST and its European Regional Data Assembly Center
+2614
+ISAC
+1
+Black Sea Ultra High Resolution SST L4 Analysis 0.01 deg daily
+cristina.tronconi@artov.isac.cnr.it
+NONE
+none
+Black Sea Ultra High Resolution SST L4 Analysis 0.01 deg Resolution
+NULL
+Blended Sea Surface Temperature
+Daily L4 OISST 0.01 degree
+1464912000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/OISST_UHR_NRT-GOS-L4-BLK-v2.0.jpg
+0.01
+GHRSST
+none
+Daily
+2.0
+MODIS
+AATSR
+AVHRR
+SEVIRI
+AVHRR-3
+MODIS
+MODIS
+AATSR
+AVHRR
+SEVIRI
+AVHRR-3
+MODIS
+24
+Group for High Resolution Sea Surface Temperature Datasets
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+Envisat, is an advanced polar-orbiting Earth observation satellite which provides measurements of the atmosphere, ocean, land, and ice.
+MetOp-A is the first in a series of three polar-orbiting European meteorological satellites,  launched on 19 October 2006 as part of the EUMETSAT Polar System.
+Meteosat Second Generation (MSG) provides multi-spectral imagery of the Earth's surface and cloud systems from a geostationary orbit.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+Terra is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including aerosols, clouds, radiation balance, land cover, ice, and ocean sea surface temperature and color.
+42.375
+NEAR_REAL_TIME
+CNR MED Sea Surface Temperature provides daily gap-free maps (L4) at 0.01 deg.
+x 0.01 deg.
+horizontal resolution over the Black Sea.
+The data are obtained from infra-red measurements collected by satellite radiometers and statistical interpolation.
+It is the CMEMS sea surface temperature nominal operational product for the Black sea.
+Project Homepage
+Thumbnail image for Website
+
+Documentation on the GDS version 2 format specification
+GHRSST Global Data Assembly Center
+
+
+
+Live Access Server
+(Search Granule)
+Web site with general description
+
+Portal to the GHRSST Global Data Assembly Center and data access
+NULL
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+Institute of Atmospheric Sciences and Climate (CNR - Rome)
+GHRSST
+Creation of Dataset via Metadata Tool.
+PORTAL_DOC_PROJECT_MATERIALS
+Thumbnail
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_USERS_GUIDE
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_TOOLS_AND_SERVICES
+PORTAL_DA_DIRECT_ACCESS
+Reference Materials
+PORTAL_DA_DIRECT_ACCESS
+Get Data
+Oceans
+Primary Contact
+Earth Observing System, AQUA
+Environmental Satellite
+Meteorological Operational Satellite - A
+Meteosat Second Generation
+National Oceanic & Atmospheric Administration-18
+Earth Observing System, TERRA
+98.1
+98.55
+98.7
+-999
+98.74
+98.2
+NULL
+Institute of Atmospheric Sciences and Climate (CNR - Rome)
+OISST_UHR_NRT-GOS-L4-BLK-v2.0
+24
+ARCHIVE-DIST
+OISST_UHR_NRT-GOS-L4-BLK-v2.0
+1461041787961
+NETCDF
+Institute of Atmospheric Sciences and Climate (CNR - Rome)
+Y
+Institute of Atmospheric Sciences and Climate (CNR - Rome)
+none
+Institute of Atmospheric Sciences and Climate (CNR - Rome)
+Tronconi
+Dataset Creation via Metadata Tool
+1461041787961
+Regular 0.01 degree grid
+Buongiorno Nardelli, B., C. Tronconi, a. Pisano, and R. Santoleri, 2013:     High and Ultra-High resolution processing of satellite Sea Surface   Temperature data over Southern European Seas in the framework of   MyOcean project. Remote Sens. Environ., *129*, 1-16,   doi:10.1016 j.rse.2012.10.012.
+NULL
+null
+ISAC
+98.4
+100.59
+101.3
+-999
+102.12
+98.8
+DATA-PROVIDER
+Regional
+NULL
+1 Day
+Sea Surface Temperature

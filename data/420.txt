@@ -1,0 +1,216 @@
+1 Day
+0
+-39
+null
+Department of Physics and Physical Oceanography, University on North Carolina, Wilmington, NC, USA
+NULL
+SPURS-1  N.Atlantic Salinity maximum region
+Department of Physics and Physical Oceanography, University on North Carolina, Wilmington, NC, USA
+SPURS1_TenuseGlider
+N23-43, W37-63
+197
+null
++1 s(910) 962-7014
+NULL
+file:///store/insitu/open/L2/spurs1/tenuseglider
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/tenuseglider
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/insitu/L2/spurs1/tenuseglider/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/SpursWebsiteContent/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/CruiseReports/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/DataDocumentation/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/sw/Matlab
+/data/export/web/thumbnails
+http://spurs.jpl.nasa.gov/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/sw/R
+http://podaac.jpl.nasa.gov/spurs
+24
+SPURS1_TenuseGlider
+SPURS-I field Campaign
+OPEN
+10.5067/SPUR1-GLID2
+Salinity/Density
+Salinity/Density
+Ocean Temperature
+1
+null
+M
+NULL
+NASA Salinity Processes in the Upper Ocean Regional Study
+2
+963
+User
+Frederick
+27
+Tenuse Glider CTD data for the SPURS-1 N. Atlantic field campaign
+Tenuse glider
+Slocum glider
+CTD
+trajectory profile
+Chlorophyll
+Turbidity
+Oxygen
+Salinity
+Conductivity
+Temperature
+Depth
+Pressure
+Upper Ocean
+SPURS1
+North Atlantic Ocean
+salinity maximum region
+insitu
+SPURS
+Thalassa
+Knorr
+AUV
+SPURS-I
+HISTORICAL
+1428301687241
+SPURS
+N
+NULL
+NONE
+Salinity/Density
+Salinity/Density
+Ocean Temperature
+1
+OPEN
+1
+1345507200000
+NASA Salinity Processes in the Upper Ocean Regional Study
+Tenuse/Slocum Glider CTD (eg.
+sea-bird GPCTD)
+2
+NONE
+WGS84
+1
+1345507200000
+ARCHIVE-OPEN
+LOCAL-FTP
+LOCAL-OPENDAP
+NETCDF
+SPURS-I L'Ocean Seaglider
+Archived SPURS-1 Website Content
+SPURS-1 Cruise Documentation Package
+SPURS-1 Data Documentation Package
+MATLAB
+SPURS1_TENUSEGLIDER.jpg
+SPURS Project Website
+R
+PO.DAAC SPURS Mission page
+Tenuse Glider CTD (eg. sea-bird GPCTD)
+Tenuse Glider CTD (eg. sea-bird GPCTD)
+NONE
+Earth Science
+Earth Science
+Earth Science
+DATA-PROVIDER
+5
+PODAAC-SPUR1-GLID2
+1349394300000
+SPURS1_TENUSEGLIDER
+SPURS Field Campaign Products
+1987
+0
+SPURS-DM
+1
+0
+SPURS Field Campaign Tenuse Glider Products
+podaac@podaac.jpl.nasa.gov
+binghamf@uncw.edu
+NONE
+http://podaac.jpl.nasa.gov/SPURS
+Tenuse Glider CTD data for the SPURS-1 N. Atlantic field campaign
+NULL
+
+
+
+SPURS Field Campaign Products
+1431302400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/SPURS1_TENUSEGLIDER.jpg
+SPURS-I
+(818) 393-7165
++1 (910) 962-2383
+Daily
+1.0
+TENUSEGLIDER_CTD
+TENUSEGLIDER_CTD
+9000
+SPURS-I field Campaign
+L'Ocean Tenuse Glider deployed for SPURS-I field campaign
+-35
+HISTORICAL
+The SPURS (Salinity Processes in the Upper Ocean Regional Study) project is an oceanographic process study and associated field program that aim to elucidate key mechanisms responsible for near-surface salinity variations in the oceans.
+The project involves two field campaigns and a series of cruises in regions of the Atlantic and Pacific Oceans exhibiting salinity extremes.
+SPURS employs a suite of state-of-the-art in-situ sampling technologies that, combined with remotely sensed salinity fields from the Aquarius/SAC-D and SMOS satellites, provide a detailed characterization of salinity structure over a continuum of spatio-temporal scales.
+The SPURS-1 campaign involved a series of 5 cruises during 2012 - 2013 seeking to characterize the salinity structure and balance in a high salinity, high evaporation, and low rainfall region of the subtropical North Atlantic.
+It aims to resolve processes responsible for maintaining the subtropical surface salinity maximum in this region and within a 900 x 800-mile square study area centered at 25N, 38W.
+The Tenuse (Slocum) glider is an autonomous undulating profiler measuring salinity and temperature.
+It was deployed from the Thalassa on 21-August and recovered by the Knorr on 4-October-2012.
+It made a total of about 1400 profiles during that period (1-2 profiles/hour), going from the surface to 200 m. Resulting  trajectory profile data from the Tenuse glider include georeferenced CTD observations on salinity, temperature, pressure, and depth.
+Meeting Materials, Cruise Blogs, and other archive artifacts
+Cruise Reports
+Data Submission Report, Instrument Calibration Report, etc
+MATLAB Reader and calling routines
+Thumbnail image for dataset on Portal
+Project Website for SPURS
+R Reader and calling routines
+Field Campaign and Instrument Overview
+NULL
+NONE
+Conductivity
+Salinity
+Temperature Profiles
+1349394300000
+NONE
+SPURS Project
+SPURS
+Creation of Dataset via Metadata Tool.
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DA_READ_SOFTWARE
+Thumbnail
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_ADDITIONAL_SITES
+Oceans
+Oceans
+Oceans
+Technical Contact
+SPURS Project Data Management PI
+SPURS-I L'Ocean Seaglider
+0
+NULL
+SPURS Data manager, Fred Bingham
+SPURS1_TENUSEGLIDER
+9000
+ARCHIVE-DIST
+SPURS-1 field campaign  Tenuse Glider data
+1428301687241
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+SPURS Data manager, Fred Bingham
+Y
+SPURS PROJECT, Fred Bingham
+Continuous
+SPURS Data Management PI, Fred Bingham
+Services
+Bingham
+Dataset Creation via Metadata Tool
+1428301687241
+E.Lindstrom, F.Bryan, R.Schmitt. 2015. SPURS: Salinity Processes in the Upper-ocean Regional Study - The North Atlantic Experiment. Oceanography 28(1):14-19, http://dx.doi.org/10.5670/oceanog.2015.01.
+NULL
+null
+NULL
+http://people.uncw.edu/binghamf/
+NASA/JPL/PODAAC
+SPURS-DM
+0
+DATA-CENTER
+DATA-PROVIDER
+SPURS-1  N.Atlantic Salinity maximum region
+NULL
+Conductivity
+Salinity
+Temperature Profiles

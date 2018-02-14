@@ -1,0 +1,169 @@
+180
+null
+NULL
+Eastern Pacific Ocean
+NOAA/NESDIS USA, 5200 Auth Rd, Camp Springs, MD, 20746
+GOES-11
+GOES-12
+GOES-13
+
+null
+ftp://podaac-ftp.jpl.nasa.gov/allData/goes/L3/goes_6km_nrt/americas
+file:///store/goes/open/L3/goes_6km_nrt/americas
+ftp://podaac-ftp.jpl.nasa.gov/allData/goes/L3/goes_6km_nrt/docs/goes_sst_doc.html
+/data/export/web/thumbnails
+-45
+GOES-11
+GOES-12
+GOES-13
+NULL
+OPEN
+10.5067/GOES3-24HOR
+Ocean Temperature
+N/A
+null
+NULL
+Geostationary Operational Environmental Satellites
+3
+User
+60
+GOES Level 3 6km Near Real Time SST 24 Hour
+GOES
+sea surface temperature
+geostationary
+sst
+surface temperature
+1 Day
+Geostationary
+Geostationary
+Geostationary
+NEAR_REAL_TIME
+1295629813000
+0.05
+GOES
+N
+NULL
+NONE
+Ocean Temperature
+
+
+
+OPEN
+1052697600000
+Geostationary Operational Environmental Satellites
+The GOES I-M Imager is a multi-channel instrument designed to sense radiant and solar-reflected energy from sampled areas of the Earth.
+The multi-element spectral channels simultaneously sweep east-west and west-east along a north-to-south path by means of a two-axis mirror scan system.
+The instrument can produce full-Earth disc images, sector images that contain the edges of the Earth, and various sizes of area scans completely enclosed within the Earth scene using a new flexible scan system.
+Scan selection permits rapid continuous viewing of local areas for monitoring of mesoscale (regional) phenomena and accurate wind determination.
+The GOES I-M Imager is a multi-channel instrument designed to sense radiant and solar-reflected energy from sampled areas of the Earth.
+The multi-element spectral channels simultaneously sweep east-west and west-east along a north-to-south path by means of a two-axis mirror scan system.
+The instrument can produce full-Earth disc images, sector images that contain the edges of the Earth, and various sizes of area scans completely enclosed within the Earth scene using a new flexible scan system.
+Scan selection permits rapid continuous viewing of local areas for monitoring of mesoscale (regional) phenomena and accurate wind determination.
+The GOES N-P Imager is a multi-channel instrument designed to sense radiant and solar-reflected energy from sampled areas of the Earth.
+The multi-element spectral channels simultaneously sweep east-west and west-east along a north-to-south path by means of a two-axis mirror scan system.
+The instrument can produce full-Earth disc images, sector images that contain the edges of the Earth, and various sizes of area scans completely enclosed within the Earth scene using a flexible scan system.
+Scan selection permits rapid continuous viewing of local areas for monitoring of mesoscale (regional) phenomena and accurate wind determination. 
+3
+MD5
+Gridded
+1
+1052697600000
+LOCAL-FTP
+ARCHIVE-OPEN
+RAW
+Geostationary Operational Environmental Satellite 11
+Geostationary Operational Environmental Satellite 12
+Geostationary Operational Environmental Satellite 13
+goes_sst_doc.html
+GOES_L3_SST_6km_NRT_SST_24HOUR.jpg
+Geostationary Operational Environmental Satellite I-M Imager
+Geostationary Operational Environmental Satellite I-M Imager
+Geostationary Operational Environmental Satellite N-P Imager
+Geostationary Operational Environmental Satellite I-M Imager
+Geostationary Operational Environmental Satellite I-M Imager
+Geostationary Operational Environmental Satellite N-P Imager
+NONE
+Earth Science
+DATA-PROVIDER
+1
+PODAAC-GOES3-24HOR
+GOES_L3_SST_6km_NRT_SST_24HOUR
+Geostationary SST produced by NOAA/NESDIS funded by NESDIS Office of System Development
+331
+JPL PODAAC
+1
+GOES L3 6km Near Real-Time SST (NOAA/NESDIS) 
+podaac@podaac.jpl.nasa.gov
+NONE
+ftp://podaac-ftp.jpl.nasa.gov/allData/goes/L3/goes_6km_nrt/docs/goes_sst_doc.html
+GOES Level 3 6km Near Real Time SST 24 Hour
+NULL
+
+GOES L3 6km Near Real-Time SST (NOAA/NESDIS)
+1052611200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/GOES_L3_SST_6km_NRT_SST_24HOUR.jpg
+0.05
+(818) 393-7165
+Daily
+1
+GOES I-M IMAGER
+GOES I-M IMAGER
+GOES N-P IMAGER
+GOES I-M IMAGER
+GOES I-M IMAGER
+GOES N-P IMAGER
+24
+The GOES system maintains a continuous data stream from a two-GOES system in support of the National Weather Service requirements.
+These satellites send weather data and pictures that cover various sections of the United States.
+Geostationary Operational Environmental Satellite West (GOES-12) Geostationary Operational Environmental Satellite 13
+-30
+NEAR_REAL_TIME
+Sea Surface Temperatures (SSTs) are derived from the series of Geostationary Environmental Satellites using GOES Imagers with five-band multispectral capability,10 bit precision and high spatial resolution.The GOES 6km Near Real-Time data set consists of Level 3 SSTs derived from GOES East and GOES West with a spatial resolution of approximately 6km.
+Data sets are available in one hour, three hour, and 24 hour gridded sea surface temperatures.
+The grid covers much of the Western Hemisphere bounded by 180W, 30W, 60N and 45S.
+describes the GOES data set and how to use it
+Thumbnail image for Website
+NULL
+NONE
+Sea Surface Temperature
+YEAR-DOY
+GOES
+
+data set guide
+Thumbnail
+Oceans
+Technical Contact
+Geostationary Operational Environmental Satellite 11
+Geostationary Operational Environmental Satellite 12
+Geostationary Operational Environmental Satellite 13
+-999
+-999
+0
+NULL
+Jet Propulsion Laboratory, Physical Oceanography Distributed Active Archive Center
+GOES_L3_SST_6km_NRT_SST_24HOUR
+11
+ARCHIVE-DIST
+1271196109000
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+NOAA/NESDIS
+NOAA/NESDIS
+Services
+Dataset Policy created for GOES_L3_SST_6km_NRT_SST_24HOUR
+
+ftp://podaac-ftp.jpl.nasa.gov/allData/goes/L3/goes_6km_nrt/docs/goes_sst_doc.html
+NULL
+null
+http://podaac.jpl.nasa.gov
+http://ghrsst.jpl.nasa.gov
+NASA/JPL/PODAAC
+-999
+-999
+0
+DATA-CENTER
+Eastern Pacific Ocean
+NULL
+1 Day
+Sea Surface Temperature

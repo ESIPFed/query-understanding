@@ -1,0 +1,140 @@
+12 Hour
+0
+null
+NULL
+Global
+PO.DAAC
+SEASAT-A
+
+null
+ftp://podaac-ftp.jpl.nasa.gov/allData/seasat/L2/atlas
+file:///store/seasat/open/L2/atlas
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-SSAT2-DAX01&apidoc
+ftp://podaac.jpl.nasa.gov/pub/ocean_wind/seasat/wind/swath_Atlas/doc/Readme_002.html
+/data/export/web/thumbnails
+-90
+SEASAT-A
+NULL
+OPEN
+Ocean Winds
+null
+NULL
+SEASAT
+2
+User
+90
+SEASAT SCATTEROMETER DEALIASED OCEAN WIND VECTORS (Atlas)
+SPACECRAFT
+HISTORICAL
+1295629813000
+100000
+SEASAT
+Y
+NULL
+none
+Ocean Winds
+1900
+OPEN
+268617600000
+SEASAT
+The Seasat-A Satellite Scatterometer (SASS) contains four dual-polarized (both vertical and horizontal) fan-beam radar antennas, which were designed to produce an X-shaped scanning pattern across Earth's surface.
+The SASS radar was designed to transmit at a frequency of 14.6 GHz (Ku-band).
+SASS provided 95% global coverage every 36 hours at a sampling footprint of approximately 50 km within a 1900 km-wide swath.
+SASS was designed to measure radar backscatter sensitive to wind speeds from 4-26 m s-1 referenced to 10 meters above the ocean surface.
+SASS was intended to be accurate to within 2 m s-1 or 10% (whichever is greater) of the observed wind speed and within 20¿ of the observed wind direction.
+2
+MD5
+Swath
+1
+268617600000
+LOCAL-FTP
+ARCHIVE-OPEN
+WGS-84
+100000
+RAW
+SEASAT-A
+Web Service (PO.DAAC Labs)
+Atlas Dealiased SASS Level 2 User Guide
+ATLAS_DEALIASED_SASS_L2.jpg
+1900000
+268617600000
+Seasat-A Scatterometer System
+Seasat-A Scatterometer System
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-SSAT2-DAX01
+276908400000
+ATLAS_DEALIASED_SASS_L2
+N/A
+120
+GSFC
+SEASAT SCATTEROMETER DEALIASED OCEAN WIND VECTORS (Atlas)
+podaac@podaac.jpl.nasa.gov
+ZIP
+ftp://podaac.jpl.nasa.gov/pub/ocean_wind/seasat/wind/swath_Atlas/doc/Readme_002.html
+SEASAT SCATTEROMETER DEALIASED OCEAN WIND VECTORS (Atlas)
+NULL
+Ocean Surface Wind Vectors
+Atlas SASS Global Dealiased Level 2 Wind Vectors
+837734400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/ATLAS_DEALIASED_SASS_L2.jpg
+(818) 393-7165
+Less_than_daily
+1
+SASS
+SASS
+Seasat was the first Earth-orbiting satellite specifically designed and tasked for the remote sensing of Earth's oceans.
+Through NASA sponsorship, JPL managed and operated Seasat, which was launched on June 28, 1978.
+Seasat carried a payload of five scientific instruments, including the first satellite-borne synthetic aperture radar (SAR).
+Other instruments included a radar altimeter (ALT), Seasat-A satellite scatterometer (SASS), scanning multichannel microwave radiometer (SMMR), and the visible/infrared radiometer (VIRR).
+This array of scientific instruments enabled measurements of sea surface wind velocity, land and sea surface topography, ocean surface salinity, ocean surface gravity waves, land and sea ice, and sea surface temperature.
+Seasat was in continuous operation for 106 days and served as the precursor to many of NASA's later missions.
+360
+HISTORICAL
+Contains wind speeds and directions derived from the Seasat-A Scatterometer (SASS), presented chronologically by swath for the period between 7 July 1978 and 10 October 1978.
+Robert Atlas et al.
+(1987) produced this product using an objective ambiguity removal scheme to dealias the wind vector data binned at 100 km cells, which were calculated by Frank Wentz.
+(Search Granule)
+Dataset User Guide
+Thumbnail image for Website
+NULL
+17 Day
+ORACLE
+Surface Winds
+276908400000
+none
+GSFC
+SEASAT
+PORTAL_DA_DIRECT_ACCESS
+Reference Materials
+Thumbnail
+Oceans
+Technical Contact
+SEASAT-A
+108
+NULL
+Goddard Space Flight Center
+1.7 Hour
+ATLAS_DEALIASED_SASS_L2
+ARCHIVE-DIST
+SEASAT SCATTEROMETER DEALIASED OCEAN WIND VECTORS (Atlas)
+1245070970000
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+GSFC
+PO.DAAC
+Services
+15-JUN-09 Manually Migrated from Ingres
+Along-track Grid
+SEASAT-A Scatterometer Global Dealiased Surface Wind Vector Dataset User Guide. April 11, 1997.
+NULL
+null
+http://www.gsfc.nasa.gov/
+NASA/JPL/PODAAC
+100.7
+DATA-CENTER
+Global
+NULL
+Surface Winds

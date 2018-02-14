@@ -1,0 +1,171 @@
+6 Hour
+-180
+1002 Balch Blvd, Code NP32, Stennis Space Center, MS 39522, USA
+NULL
+Global
+Stennis Space Center, MS, USA
+NOAA-19
+none
+228-688-5577
+NULL
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L2P/AVHRR19_G/NAVO/v1
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L2P/AVHRR19_G/NAVO/v1
+file:///store/ghrsst/open/data/GDS2/L2P/AVHRR19_G/NAVO/v1
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L2P/AVHRR19_G/NAVO/v1
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L2P/AVHRR19_G/NAVO/v1/
+http://ghrsst.jpl.nasa.gov
+http://www.ghrsst.org
+/data/export/web/thumbnails
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GH19G-2PN02&apidoc
+ftp://podaac.jpl.nasa.gov/pub/sea_surface_temperature/avhrr/navoceano_mcsst/doc/avhrr_navoceano.html
+-70
+NOAA-19
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+Ocean Temperature
+1
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+2P
+1
+Doug
+80
+GHRSST Level 2P Global 1m Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on the NOAA-19 satellite produced by NAVO
+GHRSST
+sea surface temperature
+L2P
+sst
+surface temperature
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1380124378116
+8800
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+2400
+OPEN
+1380022261000
+Group for High Resolution Sea Surface Temperature
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+2P
+MD5
+Satellite native swath
+1
+1380022261000
+REMOTE-FTP
+LOCAL-FTP
+ARCHIVE-OPEN
+REMOTE-OPENDAP
+LOCAL-OPENDAP
+WGS 84
+8800
+NETCDF
+National Oceanic & Atmospheric Administration-19
+none
+none
+AVHRR19_G-NAVO-L2P-v1.0.jpg
+Web Service (PO.DAAC Labs)
+none
+2400
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+None
+Earth Science
+DATA-PROVIDER
+90
+PODAAC-GH19G-2PN02
+AVHRR19_G-NAVO-L2P-v1.0
+Production of L2P data is sponsored in part by the National Oceanographic Partnership Program (NOPP)
+1197
+NAVO
+1
+N-19 AVHRR GAC L2P swath SST data set
+doug.may@navy.mil
+NONE
+none
+GHRSST Level 2P Global 1m Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on the NOAA-19 satellite produced by NAVO
+NULL
+Bulk Sea Surface Temperature
+N-19 AVHRR GAC MCSST
+1414368000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/AVHRR19_G-NAVO-L2P-v1.0.jpg
+GHRSST
+228-688-4859
+Less_than_daily
+1
+AVHRR-3
+AVHRR-3
+8
+Group for High Resolution Sea Surface Temperature Datasets
+NOAA (national oceanic and atmospheric administration) satellite number 19
+180
+NEAR_REAL_TIME
+A global Group for High Resolution Sea Surface Temperature (GHRSST) Level 2P dataset based on multi-channel sea surface temperature (SST) retrievals generated in real-time from the Advanced Very High Resolution Radiometer (AVHRR) on the NOAA-19 platform (launched 6 Feb 2009) produced and used operationally in  oceanographic analyses and forecasts by the US Naval Oceanographic Office (NAVO).
+The AVHRR is a space-borne scanning sensor on the National Oceanic and Atmospheric Administration (NOAA) family of Polar Orbiting Environmental Satellites (POES) having a operational legacy that traces back to the Television Infrared Observation Satellite-N (TIROS-N) launched in 1978.
+AVHRR instruments measure the radiance of the Earth in 5 (or 6) relatively wide spectral bands.
+The first two are centered around the red (0.6 micrometer) and near-infrared (0.9 micrometer) regions, the third one is located around 3.5 micrometer, and the last two sample the emitted thermal radiation, around 11 and 12 micrometers, respectively.
+The legacy 5 band instrument is known as AVHRR/2 while the more recent version, the AVHRR/3 (first carried on the NOAA-15 platform),  acquires data in a 6th channel located at 1.6 micrometer.
+Typically the 11 and 12 micron channels are used to derive SST sometimes in combination with the 3.5 micron channel.
+The NOAA platforms are sun synchronous generally viewing the same earth location twice a day (latitude dependent) due to the relatively large AVHRR swath of approximately 2400 km.
+The highest ground resolution that can be obtained from the current AVHRR instruments is 1.1 km at nadir.
+AVHRR data are acquired in three formats: High Resolution Picture Transmission (HRPT), Local Area Coverage (LAC), and Global Area Coverage (GAC).
+HRPT data are full resolution image data transmitted to a ground stations as they are collected.
+LAC are also full resolution data, but the acquisition is prescheduled and recorded with an on-board tape recorder for subsequent transmission during a station overpass.
+This particular dataset is produced from GAC data that are derived from an on-board sample averaging of the full resolution global AVHRR data.
+Four out of every five samples along the scan line are used to compute on average value and the data from only every third scan line are processed, yielding an effective 4 km resolution at nadir.
+Further binning and averaging of these pixels results in a final dataset resolution of 8.8 km.
+Portal to the GHRSST Global Data Assembly Center and data access
+GHRSST Project home page
+Thumbnail image for Website
+(Search Granule)
+Product documentation
+NULL
+24 Hour
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+Naval Oceanographic Office
+GHRSST
+Creation of Dataset via Metadata Tool.
+Get Data
+Project Home Page
+Thumbnail
+PORTAL_DA_DIRECT_ACCESS
+Reference Materials
+Oceans
+Primary Contact
+National Oceanic & Atmospheric Administration-19
+99
+NULL
+Naval Oceanographic Office (NAVOCEANO)
+2 Hour
+AVHRR19_G-NAVO-L2P-v1.0
+6
+ARCHIVE-DIST
+AVHRR19_G
+1380124378116
+NETCDF
+Naval Oceanographic Office (NAVOCEANO)
+Y
+Naval Oceanographic Office
+Naval Oceanographic Office
+May
+Dataset Creation via Metadata Tool
+1380124378116
+Geolocation information included for each pixel
+none
+NULL
+none
+https://www.navo.navy.mil
+NAVO
+102
+DATA-PROVIDER
+Global
+NULL
+Sea Surface Temperature

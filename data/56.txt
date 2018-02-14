@@ -1,0 +1,209 @@
+12 Hour
+0
+null
+NULL
+Global
+PO.DAAC
+MetOp-B
+
+null
+NULL
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ascat/preview/L2/metop_b/coastal_opt/
+ftp://podaac-ftp.jpl.nasa.gov/allData/ascat/preview/L2/metop_b/coastal_opt
+file:///store/ascat/preview/L2/metop_b/coastal_opt
+http://www.knmi.nl/scatterometer/ascat_b_osi_co_prod/ascat_app.cgi#modifications
+/data/export/web/thumbnails
+ftp://podaac-ftp.jpl.nasa.gov/allData/ascat/preview/L2/docs/
+http://podaac.jpl.nasa.gov/MetOp
+ftp://podaac.jpl.nasa.gov/allData/ascat/preview/L2/sw/Python/
+ftp://podaac.jpl.nasa.gov/allData/ascat/preview/L2/sw/R/
+ftp://podaac.jpl.nasa.gov/allData/ascat/preview/L2/sw/IDL/
+http://www.knmi.nl/scatterometer/training_material/
+ftp://podaac.jpl.nasa.gov/allData/ascat/preview/L2/sw/MATLAB/
+ftp://podaac.jpl.nasa.gov/allData/ascat/preview/L2/metop_b/coastal_opt/README.datagap
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-ASOP2-COB01&apidoc
+http://www.knmi.nl/scatterometer/publications/
+http://www.knmi.nl/scatterometer/publications/pdf/ASCAT_Product_Manual.pdf
+-89.6
+MetOp-B
+ADVANCED SCATTEROMETER
+PREVIEW
+Ocean Winds
+1
+null
+NULL
+Meteorological Operational
+2
+181
+User
+89.6
+MetOp-B ASCAT Level 2 Ocean Surface Wind Vectors Optimized for Coastal Ocean
+wind data
+wind
+ocean wind
+wind speed
+vector
+vectors
+ocean wind vector
+ocean wind vectors
+knmi
+osi saf
+eumetsat
+metop
+metop-b
+SPACECRAFT
+ASCAT
+NEAR_REAL_TIME
+1369439317904
+12500
+MetOp
+Y
+NULL
+none
+Ocean Winds
+1800
+PREVIEW
+1351468801000
+Meteorological Operational
+C-band Dual Fan Beam European Scatterometer
+2
+MD5
+Swath
+1
+1351468801000
+LOCAL-OPENDAP
+LOCAL-FTP
+ARCHIVE-PREVIEW
+GEM6
+12500
+NETCDF
+Meteorological Operational Satellite - B
+MetOp-B ASCAT Modifications and Anomalies
+ASCATB-L2-Coastal.jpg
+ASCAT Documents
+MetOp Mission Summary Page
+Python
+R
+IDL
+Scatterometry Training Material
+MATLAB
+Datagaps
+Web Service (PO.DAAC Labs)
+KNMI/OSI-SAF Publications
+User's Guide
+1800000
+1351546200000
+Advanced Scatterometer
+Advanced Scatterometer
+All users publishing with PO.DAAC data from our providers and partners, please add a citation as outlined here: http://podaac.jpl.nasa.gov/WEB_INFO/citations.html. This product is intended for operational use only and has not been thoroughly evaluated for scientific applications. Please use with caution.
+Earth Science
+DATA-PROVIDER
+14
+PODAAC-ASOP2-COB01
+ASCATB-L2-Coastal
+
+1095
+KNMI
+1
+MetOp-B ASCAT Level 2 Ocean Surface Wind Vectors Optimized for Coastal Ocean
+podaac@podaac.jpl.nasa.gov
+GZIP
+http://www.knmi.nl/scatterometer/publications/pdf/ASCAT_Product_Manual.pdf
+MetOp-B ASCAT Level 2 Ocean Surface Wind Vectors Optimized for Coastal Ocean
+NULL
+-999
+Ocean Surface Wind Vectors
+ASCAT Operational Level 2 Wind Vectors
+1370563200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/ASCATB-L2-Coastal.jpg
+ASCAT
+(818) 393-7165
+Less_than_daily
+Operational/Near-Real-Time
+ASCAT
+ASCAT
+2
+ADVANCED SCATTEROMETER
+MetOp-A is the second in a series of three polar-orbiting European meteorological satellites,  launched on 17 September 2012 as part of the EUMETSAT Polar System.
+360
+NEAR_REAL_TIME
+This dataset contains operational near-real-time Level 2 coastal ocean surface wind vector retrievals from the Advanced Scatterometer (ASCAT) on MetOp-B at 12.5 km sampling resolution (note: the effective resolution is 25 km).
+It is a product of the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT) Ocean and Sea Ice Satellite Application Facility (OSI SAF) provided through the Royal Netherlands Meteorological Institute (KNMI).
+This coastal dataset differs from the standard 12.5 and 25 km datasets in that it utilizes a spatial box filter (rather than the Hamming filter) to generate a spatial average of the Sigma-0 retrievals from the Level 1B dataset; all full resolution Sigma-0 retrievals within a 15 km radius of the wind vector cell centroid are used in the averaging.
+Since the full resolution L1B Sigma-0 retrievals are used, all non-sea retrievals are discarded prior to the Sigma-0 averaging.
+Each box average Sigma-0 is then used to compute the wind vector cell using the same CMOD5.n geophysical model function as in the standard OSI SAF ASCAT wind vector datasets.
+With this enhanced coastal retrieval, winds can be computed as close to ~15 km from the coast, as compared to the static ~35 km land mask in the standard 12.5 km dataset.
+Each file is provided in netCDF version 3 format, and contains one full orbit derived from 3-minute orbit granules.
+Latency is approximately 2 hours from the latest measurement.
+The beginning of the orbit is defined by the first wind vector cell measurement within the first 3-minute orbit granule that starts north of the Equator in the ascending node.
+ASCAT is a C-band dual swath fan beam radar scatterometer providing two independent swaths of backscatter retrievals in sun-synchronous polar orbit aboard the MetOp-B platform.
+For more information on the MetOp-B mission, please visit: http://podaac.jpl.nasa.gov/OceanWind/MetOp .
+For more timely announcements, users are encouraged to register with the KNMI scatterometer email list: scat@knmi.nl.
+Users are also highly advised to check the dataset user guide periodically for updates and new information on known problems and issues.
+All intellectual property rights of the OSI SAF products belong to EUMETSAT.
+The use of these products is granted to every interested user, free of charge.
+If you wish to use these products, EUMETSAT's copyright credit must be shown by displaying the words "copyright (year) EUMETSAT" on each of the products used.
+History of Reported Modifications, Anomalies, etc...
+Thumbnail image for Website
+Calibration, Validation, etc...
+Mission and Instrument Overview
+
+
+
+
+
+History of Reported Modifications, Anomalies, etc...
+(Search Granule)
+Reports and Publications
+ASCAT Level 2 User's Guide
+NULL
+5 Day
+ORACLE
+Surface Winds
+YEAR-DOY
+EUMETSAT/OSI SAF/KNMI
+MetOp
+Creation of Dataset via Metadata Tool.
+PORTAL_DOC_KNOWN_ISSUES
+Thumbnail
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_KNOWN_ISSUES
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_USERS_GUIDE
+Oceans
+Technical Contact
+Meteorological Operational Satellite - B
+98.7
+NULL
+ROYAL NETHERLANDS METEOROLOGICAL INSTITUTE
+1.7 Hour
+ASCATB-L2-Coastal
+2
+ARCHIVE-DIST
+MetOp-B ASCAT Level 2 Ocean Surface Wind Vectors Optimized for Coastal Ocean
+1369439317904
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+KNMI
+KNMI
+Services
+Dataset Creation via Metadata Tool
+1369439317904
+Twin-Swath, each 512.5 km wide, sub-track (nadir) gap of 737.5 km
+Verhoef, A., M. Portabella and A. Stoffelen, 2012: High-resolution ASCAT scatterometer winds near the coast, IEEE Trans. Geosci. Remote Sens., 50, 7, 2481-2487, doi:10.1109/TGRS.2011.2175001
+NULL
+null
+NASA/JPL/PODAAC
+101.3
+DATA-CENTER
+Global
+NULL
+Surface Winds

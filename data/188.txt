@@ -1,0 +1,206 @@
+12 Hour
+-180
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+Meteo-France/CMS, Avenue de Lorraine, BP50747 22307 Lannion, France
+NULL
+Global
+EUMETSAT Ocean and Sea Ice Satellite Application Facility, Lannion, France
+MetOp-A
+Global Ocean
++33-2-98224533
++ 33 2 9605-6737
+NULL
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L2P/IASI_SST_METOP_A/OSISAF/v1
+file:///store/ghrsst/open/data/GDS2/L2P/IASI_SST_METOP_A/OSISAF/v1
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L2P/IASI_SST_METOP_A/OSISAF/v1/
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L2P/IASI_SST_METOP_A/OSISAF/v1
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L2P/IASI_SST_METOP_A/OSISAF/v1
+http://www.sciencedirect.com/science/article/pii/S0022407312000921#
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/python/
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GIASI-2PO01&apidoc
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/idl/
+/data/export/web/thumbnails
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/R/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/matlab/
+http://www.osi-saf.org/biblio/docs/ss1_pum_leo_sst_2_0.pdf
+http://ghrsst.jpl.nasa.gov
+http://www.ghrsst.org
+-90
+MetOp-A
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHIAS-2PO01
+Ocean Temperature
+1
+none
+
+NULL
+Group for High Resolution Sea Surface Temperature
+2P
+1
+Jean-Francois
+Guenole
+90
+GHRSST Level 2P Global Skin Sea Surface Temperature from the Infrared Atmospheric Sounding Interferometer (IASI) on the MetOp-A satellite (GDS2 version)
+GHRSST
+sea surface temperature
+L2P
+sst
+surface temperature
+metop
+metop a
+IASI
+iasi
+osi
+osi saf
+osisaf
+gds2
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1426634382871
+1100
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+2200
+OPEN
+1416517263000
+Group for High Resolution Sea Surface Temperature
+Infrared Atmospheric Sounding Interferometer on MetOP-A
+2P
+MD5
+Satellite native swath
+1
+1416517263000
+LOCAL-FTP
+ARCHIVE-OPEN
+LOCAL-OPENDAP
+REMOTE-OPENDAP
+REMOTE-FTP
+WGS 84
+1100
+NETCDF
+Meteorological Operational Satellite - A
+
+PYTHON
+Web Service (PO.DAAC Labs)
+IDL
+IASI_SST_METOP_A-OSISAF-L2P-v1.0.jpg
+R
+MATLAB
+none
+GDAC portal
+Project website
+Infrared Atmospheric Sounding Interferometer
+Infrared Atmospheric Sounding Interferometer
+None
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHIAS-2PO01
+IASI_SST_METOP_A-OSISAF-L2P-v1.0
+Product developed and provided by the EUMETSAT Ocean and Sea Ice Satellite Application Facility copyright 2008 EUMETSAT
+1912
+OSISAF
+1
+METOP_A IASI swath SST data set
+jfpiolle@ifremer.fr
+guenole.guevel@meteo.fr
+NONE
+none
+GHRSST Level 2P Global Skin Sea Surface Temperature from the Infrared Atmospheric Sounding Interferometer (IASI) on the MetOp-A satellite (GDS2 version)
+NULL
+Skin Sea Surface Temperature
+METOP_A SST
+1432857600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/IASI_SST_METOP_A-OSISAF-L2P-v1.0.jpg
+GHRSST
++33-2-98224691
++ 33 2 9605-6791
+Less_than_daily
+1
+IASI
+IASI
+10
+Group for High Resolution Sea Surface Temperature Datasets
+MetOp-A is the first in a series of three polar-orbiting European meteorological satellites,  launched on 19 October 2006 as part of the EUMETSAT Polar System.
+180
+NEAR_REAL_TIME
+A global 1 km Group for High Resolution Sea Surface Temperature (GHRSST) Level 2P dataset based on multi-channel sea surface temperature (SST) retrievals generated in real-time from the Infrared Atmospheric Sounding Interferometer (IASI) on the European Meteorological Operational-A (MetOp-A&#65289;satellite &#65288;launched 19 Oct 2006).
+The MetOp satellite program is a European undertaking providing weather data services for monitoring climate and improving weather forecasts.
+It was jointly established by the European Space Agency (ESA) and the European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT) with a contribution by the US National Oceanic and Atmospheric Administration (NOAA) of an AVHRR sensor identical to those flying on the family of Polar Orbiting Environmental Satellites (POES).
+IASI measures in the infrared part of the electromagnetic spectrum at a horizontal resolution of 12 km over a swath width of about 2,200 km.
+With 14 orbits in a sun-synchronous mid-morning orbit (9:30 Local Solar Time equator crossing, descending node) global observations can be provided twice a day.The production of the MetOp-A L2P SST data is done by the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT), Ocean and Sea Ice Satellite Application Facility (OSI SAF) at Meteo-France/Centre de Meteorologie Spatiale (CMS) in France.
+The SST retrieval is performed and provided by the IASI L2 processor.
+The IASI L2P is referred to as core as it does not contain all the auxiliary information (including sea-ice, aerosol, SST background) as specified in a full GHRSST L2P file.
+These are the main constituents of the IASI L2Pcore SST: skin sea surface temperature, uncertainty estimates (SSES), quality levels and flags, and wind speed.
+The MetOp-A SST L2P data consist of global coverage at 1.1 km (nadir) resolution separated into three minute observation granules, and are compliant with the GHRSST Data Processing Specification (GDS) version 2 format specifications.
+August T, et al. IASI on Metop-A: Operational Level 2
+retrievals after five years in orbit, J Quant Spectrosc
+Radiat Transfer (2012)
+
+(Search Granule)
+
+Thumbnail image for Website
+
+
+Product User Manual
+Portal to the GHRSST Global Data Assembly Center and data access
+Description of the GHRSST Project
+NULL
+24 Hour
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+OSISAF
+GHRSST
+Creation of Dataset via Metadata Tool.
+PORTAL_DOC_JOURNAL_REFERENCES
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DA_READ_SOFTWARE
+Thumbnail
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+Reference Materials
+Get Data
+Project Home Page
+Oceans
+Technical Contact
+Investigator
+Meteorological Operational Satellite - A
+98.7
+NULL
+Ocean and Sea Ice Satellite Application Facility
+2 Hour
+IASI_SST_METOP_A-OSISAF-L2P-v1.0
+6
+ARCHIVE-DIST
+IASI_SST_METOP_A-OSISAF-L2P-v1.0
+1426634382871
+NETCDF
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+European Organisation for the Exploitation of Meteorological Satellites
+Y
+EUMETSAT/OSI-SAF
+EUMETSAT Ocean and Sea Ice Satellite Application Facility, Meteo-France/CMS, Lannion, France
+Piolle
+Guevel
+Dataset Creation via Metadata Tool
+1426634382871
+Geolocation information included for each pixel
+Information on the the METOP SST algorithm can be found in the following documents: http://www.osi-saf.org/biblio/docs/ss1_pum_leo_sst_2_0.pdf
+NULL
+none
+SILENT
+IFREMER/CERSAT
+EUMETSAT
+101.3
+DATA-PROVIDER
+DATA-PROVIDER
+Global
+NULL
+Sea Surface Temperature

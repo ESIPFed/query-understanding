@@ -1,0 +1,134 @@
+10 Day
+1
+0
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+TOPEX/POSEIDON
+
+818-393-2718
+ftp://podaac-ftp.jpl.nasa.gov/allData/topex/preview/L2/tmr_replace
+file:///store/topex/preview/L2/tmr_replace
+-66.15
+TOPEX/POSEIDON
+NULL
+PREVIEW
+Microwave
+Atmospheric Water Vapor
+1
+none
+NULL
+TOPEX/Poseidon
+2
+Jessica
+66.15
+TOPEX MICROWAVE RADIOMETER REPLACEMENT
+spacecraft
+HISTORICAL
+1296694371949
+11200
+TOPEX/POSEIDON
+Y
+NULL
+none
+Microwave
+Atmospheric Water Vapor
+5
+PREVIEW
+717422878000
+TOPEX/Poseidon
+The TMR measures the sea surface microwave brightness temperatures at three frequencies (18 GHz, 21 GHz and 37 GHz) to provide the total water-vapor content in the troposphere along the altimeter beam.
+The 21 GHz channel is the primary channel for water-vapor measurement.
+It is redundant (21A and 21B).
+The 18 GHz and 37 GHz channels are used to remove the effects of wind speed and cloud cover, respectively in the water-vapor measurement.
+TMR data are sent to CNES for processing along with their altimeter data.
+The measurements are combined to obtain the error in the satellite range measurements caused by pulse delay due to the water vapor.
+2
+MD5
+Swath
+1
+717422878000
+LOCAL-FTP
+ARCHIVE-PREVIEW
+Unknown
+5100
+RAW
+Topography Experiment/Poseidon
+TOPEX MICROWAVE RADIOMETER
+TOPEX MICROWAVE RADIOMETER
+none
+Earth Science
+Earth Science
+DATA-PROVIDER
+PODAAC-TPTMR-REP01
+1128815385000
+TOPEX_L2_OST_TMR_Replacement
+TOPEX MICROWAVE RADIOMETER REPLACEMENT
+563
+JPL
+1
+TOPEX_L2_OST_TMR_Replacement
+Jessica.K.Hausman@jpl.nasa.gov
+NONE
+N/A
+TOPEX MICROWAVE RADIOMETER REPLACEMENT
+NULL
+
+
+TOPEX_L2_OST_TMR_Replacement
+1164844800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/TOPEX_L2_OST_TMR_Replacement.jpg
+818-354-4588
+Weekly
+1
+TOPEX MICROWAVE RADIOMETER
+TOPEX MICROWAVE RADIOMETER
+A combined mission of the U.S. and French Space Agencies designed to make substantial contributions to our understanding of global ocean dynamics by making precise and accurate observations of the oceanic topography for three to five years using radar altimeters on a well-tracked satellite.
+360
+HISTORICAL
+The Topex Microwave Radiometer (TMR) replacement product, version 1.0, is intended as an interim product for use with the version B Topex MGDRs while a new Topex/Poseidon GDR is being generated.
+The new GDR will contain the TMR data provided in this replacement product.
+The TMR replacement product was generated after a recalibration of the TMR for the entire Topex/Poseidon mission by Shannon Brown at JPL.
+NULL
+10 Day
+NONE
+Brightness Temperature
+Water Vapor
+1128815385000
+CYCLE
+JPL
+TOPEX/POSEIDON
+Creation of Dataset via Metadata Tool.
+Spectral/Engineering
+Atmosphere
+Technical Contact
+Topography Experiment/Poseidon
+66.04
+NULL
+Jet Propulsion Laboratory
+3 Day
+TOPEX_L2_OST_TMR_Replacement
+ARCHIVE-DIST
+TOPEX Microwave Radiometer Replacement Product
+1296694371949
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+Shannon Brown
+N/A
+JPL
+Hausman
+Dataset Creation via Metadata Tool
+1296694371949
+N/A
+N/A
+NULL
+none
+NASA/JPL/PODAAC
+112.43
+DATA-CENTER
+Global
+NULL
+Brightness Temperature
+Water Vapor

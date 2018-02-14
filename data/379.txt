@@ -1,0 +1,210 @@
+12 Hour
+0
+-100
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+Meteo France, Centre de Meteorologie Spatiale (CMS), Lannion, 22303 Lannion, cedex, France
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+NULL
+Atlantic Ocean
+Plouzane (Brest), France
+TRMM
+Tropical and mid-latitude
+0
++33-2-98224533
++33 2 96 05 67 37
++33 2 98 22 45 33
+NULL
+none
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/TMI/EUR
+file:///store/ghrsst/open/data/L2P/TMI/EUR
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L2P/TMI/EUR
+0.00
+http://aqua.nasa.gov
+http://ghrsst.jpl.nasa.gov
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHTMI-2PE01
+http://www.remss.com
+http://www.ghrsst-pp.org
+http://www.remss.com
+http://www.medspiration.org
+http://www.remss.com
+/data/export/web/thumbnails
+-40
+TRMM
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHTMI-2PE01
+Ocean Temperature
+N/A
+none
+
+
+NULL
+Group for High Resolution Sea Surface Temperature
+3
+1
+Jean-Francois
+Pierre
+Sylvie
+40
+GHRSST Level 2P Regional Subskin Sea Surface Temperature from the Tropical Rainfall Mapping Mission (TRMM) Microwave Imager (TMI) for the Atlantic Ocean
+GHRSST
+sea surface temperature
+L2P
+sst
+surface temperature
+SPACECRAFT
+GHRSST
+HISTORICAL
+1295629813000
+0.25
+N
+NULL
+None
+Ocean Temperature
+878
+OPEN
+none
+1107131760000
+Group for High Resolution Sea Surface Temperature
+The Tropical Rainfall Measuring Mission's (TRMM) Microwave Imager (TMI) is a passive microwave sensor designed to provide quantitative rainfall information over a wide swath under the TRMM satellite.
+3
+MD5
+Gridded
+1
+1107131760000
+REMOTE-FTP
+ARCHIVE-OPEN
+REMOTE-OPENDAP
+WGS 84
+NETCDF
+Tropical Rainfall Measuring Mission
+none
+none
+Web Service (PO.DAAC Labs)
+none
+none
+none
+none
+none
+EUR-L2P-TMI.jpg
+TRMM Microwave Imager
+TRMM Microwave Imager
+None
+Earth Science
+DATA-PROVIDER
+PODAAC-GHTMI-2PE01
+1172550600000
+EUR-L2P-TMI
+These data are produced by the ESA Medspiration project funded by the European Space Agency Data User Element (ESA-DUE)
+41
+0
+IFREMER/CERSAT
+1
+0
+Sea Surface Temperature (SST-sub-skin) L2P Sea Surface Temperature (SST-sub-skin) from 25km global gridded TRMM-TMI Remote Sensing Systems BMAPS NRT products
+jfpiolle@ifremer.fr
+pierre.leborgne@meteo.fr
+sylvie.pouliquen@ifremer.fr
+BZIP2
+ftp://ftp.ifremer.fr/ifremer/valmedspi
+GHRSST Level 2P Regional Subskin Sea Surface Temperature from the Tropical Rainfall Mapping Mission (TRMM) Microwave Imager (TMI) for the Atlantic Ocean
+NULL
+90
+Subskin Sea Surface Temperature (SSTsubskin)
+Sea Surface Temperature TRMM-TMI gridded 25km GHRSST-PP L2P produced by Medspiration
+1088985600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/EUR-L2P-TMI.jpg
+0.25
+GHRSST
++33-2-98224691
++33 2 96 05 67 52
++33 2 98 22 44 92
+GHRSST
+1.0
+TMI
+TMI
+Group for High Resolution Sea Surface Temperature Datasets
+The Tropical Rainfall Measuring Mission (TRMM) is a joint mission between NASA and the Japan Aerospace Exploration Agency (JAXA) designed to monitor and study tropical rainfall.
+45
+HISTORICAL
+The Tropical Rainfall Measuring Mission (TRMM) Microwave Imager (TMI) is a well calibrated passive microwave radiometer, similar to SSM/I, that contains lower frequency channels required for sea surface temperature (SST) retrievals.
+The TRMM is a joint venture between NASA and the Japan Aerospace Exploration Agency (JAXA) to measure precipitation, water vapor, SST and wind in the global tropical regions and was launched in November 1997.
+The TRMM satellite travels west to east in a 402 km altitude semi-equatorial precessing orbit that results in day-to-day changes in the observation time of any given earth location between 38S and 38N.
+This Group for High Resolution Sea Surface Temperature (GHRSST) dataset is derived from Remote Sensing Systems BMAPS (binary) format TMI SST subskin data.
+Data were downloaded for the North Atlantic region from Remote Sensing Systems every hour to capture the latest TMI observations.
+L2P data products were then produced to the GHRSST Data Processing Specification (GDS) version 1.5.
+Ascending (daytime) and descending (nighttime) orbits are packaged into separate netCDF files.
+Although the dataset designation is "L2P" it is actually a "L3C" dataset (gridded Level 3 collated) as defined by the GHRSST Data Processing Specification version 2.0.
+This dataset was originally produced for the GHRSST Pilot Project, the precursor to GHRSST, by the Medspiration Regional Data Assembly Center (RDAC) in Europe.
+As one of the first datasets produced as a prototype for GHRSST-PP  it assumed an incorrect designation of "L2P".
+Full details of the AQUA AMSR-E
+Portal to the GHRSST Global Data Assembly Center and data access
+(Search Granule)
+TMI SSTs: algorithm description, browsing of data, and ftp of data
+Home Page of the Global Ocean Data Assimilation Experiment High Resolution SST Pilot Project (GHRSST-PP)
+AMSR-E calibration description
+Description of the Medspiration projec
+TMI calibration description
+Thumbnail image for Website
+NULL
+1 Day
+BACKTRACK
+Sea Surface Temperature
+1172550600000
+YEAR-DOY
+Remote Sensing Systems (REMSS)
+GHRSST
+
+Project Home Page
+Get Data
+PORTAL_DA_DIRECT_ACCESS
+Reference Materials
+Project Home Page
+Calibration/validation data
+Project Home Page
+Calibration/validation data
+Thumbnail
+Oceans
+Technical Contact
+Data originator/Technical contact
+Technical Contact
+Tropical Rainfall Measuring Mission
+35
+NULL
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+3 Hour
+EUR-L2P-TMI
+ROLLING-STORE
+TMI-EUR-L2P
+1103858625000
+NETCDF
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+Meteorologie Spatiale
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+Y
+Medspiration: Meteo France/Meteo France, Centre de Meteorologie Spatiale (CMS), Lannion, 22303 Lannion, cedex, France; EUMETSAT Ocean; Sea Ice Satellite Application Facility
+Medspiration, IFREMER/CERSAT
+Piolle
+LeBorgne
+Pouliquen
+2004-12-20. C Donlon: Original;    2005-10-24. E Armstrong: revised
+
+Equal-angle
+Medspiration products user manual, Robinson I., Leborgne P., Piolle J.F., Larnicol G., v1.02, September 2004
+NULL
+none
+none
+none
+http://www.ifremer.fr/anglais/
+http://cersat.ifremer.fr
+http://www.ifremer.fr/cersat/en/index.html
+IFREMER/CERSAT
+CMS
+IFREMER/CERSAT
+92.4
+DATA-PROVIDER
+DATA-PROVIDER
+DATA-PROVIDER
+Atlantic Ocean
+NULL
+Sea Surface Temperature

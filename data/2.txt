@@ -1,0 +1,203 @@
+12 Hour
+-180
+JPL, 4800 Oak Grove Dr, Pasadena, CA 91109, USA
+University of Miami, 4600 Rickenbacker Causeway, Miami, FL 33149-1098, USA
+NULL
+Global
+Jet Propulsion Laboratory, CA, USA
+AQUA
+none
+818-393-2718
+305-421-4622
+NULL
+none
+file:///store/ghrsst/open/data/L2P/MODIS_A/JPL
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L2P/MODIS_A/JPL
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/MODIS_A/JPL
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L2P/MODIS_A/JPL/
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L2P/MODIS_A/JPL
+none
+http://ghrsst.jpl.nasa.gov
+http://www.ghrsst.org
+http://modis.gsfc.nasa.gov/data/atbd/atbd_mod25.pdf
+http://podaac-tools.jpl.nasa.gov/hitide/
+/data/export/web/thumbnails
+http://podaac-tools.jpl.nasa.gov/soto/
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHMDA-2PJ01
+http://ghrsst.jpl.nasa.gov
+http://oceancolor.gsfc.nasa.gov/DOCS/modis_sst/
+-90
+AQUA
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHMDA-2PJ01
+Ocean Temperature
+N/A
+none
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+2P
+1
+Edward
+Kay
+90
+GHRSST Level 2P Global Skin Sea Surface Temperature from the Moderate Resolution Imaging Spectroradiometer (MODIS) on the NASA Aqua satellite
+GHRSST
+L2P
+SST
+surface temperature
+Chlorophyll
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1295629813000
+1000
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+2330
+OPEN
+none
+1151625607000
+Group for High Resolution Sea Surface Temperature
+The MODIS (Moderate Resolution Imaging Spectroradiometer) instrument provides high radiometric sensitivity (12 bit) in 36 spectral bands ranging in wavelength from 0.4 m to 14.4 m. It is used for observing processes occurring on the land, in the oceans, and in the lower atmosphere.
+2P
+MD5
+Satellite native swath
+1
+1151625607000
+ARCHIVE-OPEN
+LOCAL-FTP
+REMOTE-FTP
+LOCAL-OPENDAP
+REMOTE-OPENDAP
+WGS 84
+1000
+NETCDF
+Earth Observing System, AQUA
+none
+none
+none
+HITIDE
+JPL-L2P-MODIS_A.jpg
+SOTO-3D
+Web Service (PO.DAAC Labs)
+none
+none
+1500
+1277904600000
+Moderate-Resolution Imaging Spectroradiometer
+Moderate-Resolution Imaging Spectroradiometer
+None
+Earth Science
+DATA-PROVIDER
+300
+PODAAC-GHMDA-2PJ01
+JPL-L2P-MODIS_A
+Product created jointly by the NASA Jet Propulsion Laboratory, NASA Ocean Biology Processing Group (OBPG) and University of Miami Rosential School of Atmospheric and Marine Science (RSMAS)
+26
+JPL PODAAC
+1
+MODIS Aqua L2P swath SST data set
+edward.m.armstrong@jpl.nasa.gov
+KKilpatrick@rsmas.miami.edu
+BZIP2
+Information on the the MODIS SST algorithm can be found in the following documents: http://modis.gsfc.nasa.gov/data/atbd/atbd_mod25.pdf and http://oceancolor.gsfc.nasa.gov/DOCS/modis_sst/
+GHRSST Level 2P Global Skin Sea Surface Temperature from the Moderate Resolution Imaging Spectroradiometer (MODIS) on the NASA Aqua satellite
+NULL
+90
+Skin Sea Surface Temperature (SSTskin)
+MODIS Aqua SST
+1151539200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/JPL-L2P-MODIS_A.jpg
+GHRSST
+818-393-6710
+305-421-4615
+Less_than_daily
+1.0
+MODIS
+MODIS
+1
+Group for High Resolution Sea Surface Temperature Datasets
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+180
+NEAR_REAL_TIME
+The Moderate-resolution Imaging Spectroradiometer (MODIS) is a scientific instrument (radiometer) launched by NASA in 2002 on board the Aqua satellite platform (a second series is on the Terra platform) to study global dynamics of the Earths atmosphere, land and oceans.
+MODIS captures data in 36 spectral bands ranging in wavelength from 0.4 um to 14.4 um and at varying spatial resolutions (2 bands at 250 m, 5 bands at 500 m and 29 bands at 1 km).
+For the sea surface temperature (SST) products from this radiometer channels in the 4, 11 and 12 um spectrum are used.
+The Aqua platform is in a sun synchronous, near polar orbit at 705 km altitude and the MODIS instrument images the entire Earth every 1 to 2 days.
+The production of the MODIS L2P SST data as part of the Group for High Resolution Sea Surface Temperature (GHRSST) is a joint collaboration between the NASA Jet Propulsion Laboratory (JPL), the NASA Ocean Biology Processing Group (OBPG), and the Rosenstiel School of Marine and Atmospheric Science (RSMAS).
+RSMAS is responsible for sea surface temperature algorithm development, error statistics and quality flagging, while the OBPG is NASA ground data system for production of daily MODIS ocean products in HDF file format.
+JPL acquires MODIS ocean granules from the OBPG in near realtime and reformats them to the GHRSST L2P netCDF specification with complete metadata.
+Data consists of global coverage at 1 km resolution with approximately 300+ five minute observation granules per day.
+For nighttime data both SST from the 11-12 um, and 4 um bands are available.
+Ocean chlorophyll a and K490 diffuse attenuation coefficient data are also available for daytime periods as non standard L2P core fields.
+Note that these ocean color data do not represent the most recent version processed by the OBPG and may not be of research quality.
+Portal to the GHRSST Global Data Assembly Center and data access
+GHRSST Project homepage
+Algorithm Theoretical Basis Document
+HIgh-level Tool for Interactive Data Extraction
+Thumbnail image for Website
+Select (Sea Surface Temperature - Infrared)
+(Search Granule)
+Portal to the GHRSST Global Data Assembly Center and user services
+Description of MODIS SST
+NULL
+26 Hour
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+Jet Propulsion Laboratory
+GHRSST
+
+Get Data
+Project Home Page
+Reference Materials
+PORTAL_DA_TOOLS_AND_SERVICES
+Thumbnail
+PORTAL_DA_TOOLS_AND_SERVICES
+PORTAL_DA_DIRECT_ACCESS
+Get Service
+Reference Materials
+Oceans
+Technical Contact
+Investigator
+Earth Observing System, AQUA
+98.1
+NULL
+Jet Propulsion Laboratory, Physical Oceanography Distributed Active Archive Center
+2 Hour
+JPL-L2P-MODIS_A
+6
+ROLLING-STORE
+MODIS_A
+1151625600000
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Rosenstiel School of Marine and Atmospheric Science
+Y
+JPL/OBPG/RSMAS
+none
+Jet Propulsion Laboratory
+Armstrong
+Kilpatrick
+2006-06-30 E. Armstrong: Original
+
+Geolocation information included for each pixel
+Information on the the MODIS SST algorithm can be found in the following documents: http://modis.gsfc.nasa.gov/data/atbd/atbd_mod25.pdf and http://oceancolor.gsfc.nasa.gov/DOCS/modis_sst/
+NULL
+none
+none
+http://podaac.jpl.nasa.gov
+http://ghrsst.jpl.nasa.gov
+NASA/JPL/PODAAC
+RSMAS
+98.4
+DATA-CENTER
+DATA-PROVIDER
+Global
+NULL
+Sea Surface Temperature

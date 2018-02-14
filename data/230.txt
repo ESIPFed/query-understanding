@@ -1,0 +1,298 @@
+-180
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+NULL
+Global
+IFREMER/CERSAT, Bretagne, France
+AQUA
+ENVISAT
+GOES-11
+GOES-12
+MSG
+NOAA-17
+NOAA-18
+TRMM
+none
++33-2-98224533
++33-2-98224533
+NULL
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L4/GLOB/EUR/ODYSSEA/
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L4/GLOB/EUR/ODYSSEA
+file:///store/ghrsst/open/data/L4/GLOB/EUR/ODYSSEA
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L4/GLOB/EUR/ODYSSEA
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L4/GLOB/EUR/ODYSSEA
+http://ghrsst.jpl.nasa.gov
+http://www.ghrsst.org
+ftp://ftp.ifremer.fr/ifremer/medspiration/data/l4hrsstfnd/eurdac/glob/odyssea
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHGOY-4FE01&apidoc
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/ghrsst/catalog.html?dataset=ncml_aggregation/OceanTemperature/ghrsst/aggregate__ghrsst_EUR-L4HRfnd-GLOB-ODYSSEA.ncml
+http://www.ifremer.fr/cgi-bin/nph-dods/data/satellite/medspiration/l4hrsstfnd/eurdac/glob/odyssea
+http://www.mersea.eu.org/Satellite/sst_validation_l4_glob_oi.html
+/data/export/web/thumbnails
+http://thredds.jpl.nasa.gov/las/
+-80
+AQUA
+ENVISAT
+GOES-11
+GOES-12
+MSG
+NOAA-17
+NOAA-18
+TRMM
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHGOY-4FE01
+Ocean Temperature
+N/A
+none
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+4
+1
+Jean-Francois
+Emmanuelle
+80
+GHRSST Level 4 ODYSSEA Global Foundation Sea Surface Temperature Analysis
+GHRSST
+sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+1 Day
+SPACECRAFT
+spacecraft
+Geostationary
+Geostationary
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1295629813000
+0.1
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+1445
+500
+
+
+-999
+2400
+2400
+878
+OPEN
+1191153600000
+Group for High Resolution Sea Surface Temperature
+The Advanced Microwave Scanning Radiometer for EOS (AMSR-E) is a twelve-channel, six-frequency, total power passive-microwave radiometer system.
+Advanced Along-Track Scanning Radiometer (AATSR) is one of the Announcement of Opportunity (AO) instruments on board the European Space Agency (ESA) satellite ENVISAT.
+It is the most recent in a series of instruments designed primarily to measure Sea Surface Temperature (SST), following on from ATSR-1 and ATSR-2 on board ERS-1 and ERS-2.
+The GOES Imager is a multi-channel instrument designed to sense radiant and solar-reflected energy from sampled areas of the Earth.
+The multi-element spectral channels simultaneously sweep east-west and west-east along a north-to-south path by means of a two-axis mirror scan system.
+The GOES Imager is a multi-channel instrument designed to sense radiant and solar-reflected energy from sampled areas of the Earth.
+The multi-element spectral channels simultaneously sweep east-west and west-east along a north-to-south path by means of a two-axis mirror scan system.
+The Spinning Enhanced Visible and InfraRed Imager (SEVIRI)  has the capacity to observe the Earth in 12 spectral channels.
+Eight of these channels are in the thermal infrared, providing among other information, observations of the temperatures of clouds, land and sea surfaces at approximately 5 km resolution with a 15 minute duty cycle.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The Tropical Rainfall Measuring Mission's (TRMM) Microwave Imager (TMI) is a passive microwave sensor designed to provide quantitative rainfall information over a wide swath under the TRMM satellite.
+4
+MD5
+Cylindrical Lat-Lon
+1
+1191153600000
+LOCAL-OPENDAP
+REMOTE-OPENDAP
+ARCHIVE-OPEN
+LOCAL-FTP
+REMOTE-FTP
+WGS-84
+NETCDF
+Earth Observing System, AQUA
+Environmental Satellite
+Geostationary Operational Environmental Satellite 11
+Geostationary Operational Environmental Satellite 12
+Meteosat Second Generation
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+Tropical Rainfall Measuring Mission
+none
+none
+none
+Web Service (PO.DAAC Labs)
+THREDDS
+none
+none
+EUR-L4HRfnd-GLOB-ODYSSEA.jpg
+LAS
+Advanced Microwave Scanning Radiometer-EOS
+Advanced Along-Track Scanning Radiometer
+Geostationary Operational Environmental Satellite 11-Imager
+Geostationary Operational Environmental Satellite 12-Imager
+Spinning Enhanced Visible and Infrared Imager
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+TRMM Microwave Imager
+Advanced Microwave Scanning Radiometer-EOS
+Advanced Along-Track Scanning Radiometer
+Geostationary Operational Environmental Satellite 11-Imager
+Geostationary Operational Environmental Satellite 12-Imager
+Spinning Enhanced Visible and Infrared Imager
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+TRMM Microwave Imager
+None
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHGOY-4FE01
+EUR-L4HRfnd-GLOB-ODYSSEA
+Product created by IFREMER/CERSAT with the support of European Commission GMES Framework
+19
+IFREMER/CERSAT
+1
+ODYSSEA Global High Resolution Foundation Sea Surface Temperature Analysis, daily, 10km resolution
+jfpiolle@ifremer.fr
+eautret@ifremer.fr
+BZIP2
+ftp://ftp.ifremer.fr
+GHRSST Level 4 ODYSSEA Global Foundation Sea Surface Temperature Analysis
+NULL
+Foundation Sea Surface Temperature
+ODYSSEA L4 0.1 degree
+1190160000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/EUR-L4HRfnd-GLOB-ODYSSEA.jpg
+0.1
+GHRSST
++33-2-98224691
++33-2-98224532
+Daily
+1.0
+AMSR-E
+AATSR
+GOES-11 Imager
+GOES-12 Imager
+SEVIRI
+AVHRR-3
+AVHRR-3
+TMI
+AMSR-E
+AATSR
+GOES-11 Imager
+GOES-12 Imager
+SEVIRI
+AVHRR-3
+AVHRR-3
+TMI
+24
+Group for High Resolution Sea Surface Temperature Datasets
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+Envisat, is an advanced polar-orbiting Earth observation satellite which provides measurements of the atmosphere, ocean, land, and ice.
+The GOES system maintains a continuous data stream from a two-GOES system in support of the National Weather Service requirements.
+These satellites send weather data and pictures that cover various sections of the United States.
+Geostationary Operational Environmental Satellite West (GOES-12) Meteosat Second Generation (MSG) provides multi-spectral imagery of the Earth's surface and cloud systems from a geostationary orbit.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The Tropical Rainfall Measuring Mission (TRMM) is a joint mission between NASA and the Japan Aerospace Exploration Agency (JAXA) designed to monitor and study tropical rainfall.
+180
+NEAR_REAL_TIME
+A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature analysis produced daily on an operational basis at  Ifremer/CERSAT (France)  using optimal interpolation (OI) on a global 0.1 degree grid.
+It provides a daily cloud-free field of foundation sea surface temperature at approximately 10km resolution (0.1 degree) over the full globe.
+It is generated by merging microwave and infrared satellite sea surface temperature observations including those from the Advanced Very High Resolution Radiometer (AVHRR), the Advanced Along Track Scanning Radiometer (AATSR), the Spinning Enhanced Visible and Infrared Imager (SEVIRI), the Advanced Microwave Scanning Radiometer-EOS (AMSRE), the Tropical Rainfall Measuring Mission Microwave Imager (TMI) and  the Geostationary Operational Environmental Satellite (GOES) Imager.
+The satellite SST observations are  intercalibrated using the AATSR sensor as a reference (previously re-calibrated using all available in situ data).
+The development of the global real-time sea surface temperature at Ifremer/CERSAT is supported by European Commission initially in the frame of MERSEA project.
+Portal to the GHRSST Global Data Assembly Center and data access
+GHRSST Project homepage
+Access to the data through OpenDAP protocol
+(Search Granule)
+
+FTP Archive of the product. Access is anonymous and all archive is available online.
+Contains several page monitoring independantly each data sources, as well as the intercalibration and merging processes, and the final optimal interpolation. Comparisons with other existing analysis are also displayed
+Thumbnail image for Website
+Live Access Server
+NULL
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+IFREMER/CERSAT
+GHRSST
+
+Get Data
+Project Home Page
+Data access (FTP)
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DA_DIRECT_ACCESS
+Data access (OPeNDAP)
+Product Quality Monitoring Page
+Thumbnail
+PORTAL_DA_TOOLS_AND_SERVICES
+Oceans
+Technical Contact
+Principal Investigator
+Earth Observing System, AQUA
+Environmental Satellite
+Geostationary Operational Environmental Satellite 11
+Geostationary Operational Environmental Satellite 12
+Meteosat Second Generation
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+Tropical Rainfall Measuring Mission
+98.1
+98.55
+-999
+-999
+-999
+98.7
+98.74
+35
+NULL
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+EUR-L4HRfnd-GLOB-ODYSSEA
+24
+ARCHIVE-DIST
+EUR-L4HRFnd-GLOB-ODYSSEA
+1190764800000
+NETCDF
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+Y
+IFREMER/CERSAT
+none
+IFREMER/CERSAT
+Piolle
+Autret
+2007-09-27 J.F.Piolle: Original;    2007-12-07 E. Armstrong: Updated with Series_Name and Sensor list
+
+Regular 0.1 degree grid
+MERSEA-WP02-IFR-STR-001-1A, J. F. Piolle,E. Autret, Septembre 2007
+NULL
+none
+none
+http://www.ifremer.fr/anglais/
+http://cersat.ifremer.fr
+http://www.ifremer.fr/cersat/en/index.html
+IFREMER/CERSAT
+IFREMER/CERSAT
+98.4
+100.59
+-999
+-999
+-999
+101.2
+102.12
+92.4
+DATA-PROVIDER
+DATA-PROVIDER
+Global
+NULL
+1 Day
+Sea Surface Temperature

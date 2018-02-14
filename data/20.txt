@@ -1,0 +1,205 @@
+-180
+null
+NULL
+South Africa
+Australia
+Europe
+Arctic
+Central America
+Alaska
+North America
+China
+Antarctica
+Bering Sea
+Japan
+Southern Asia
+Siberia
+North Africa
+Greenland
+Indonesia
+South America
+PO.DAAC
+QUIKSCAT
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+null
+NULL
+ftp://podaac-ftp.jpl.nasa.gov/allData/quikscat/L3/byu_scp/sigma0enhanced
+file:///store/quikscat/open/L3/byu_scp/sigma0enhanced
+/data/export/web/thumbnails
+ftp://podaac-ftp.jpl.nasa.gov/allData/seawinds/L3/byu_scp/sigma0enhanced/docs/qscat_seawinds_enhanced.pdf
+-89.6
+QUIKSCAT
+Enhanced Resolution Sigma-0 Datasets from BYU/SCP
+OPEN
+10.5067/QSBYU-ENR00
+Radar
+Sea Ice
+1
+null
+NULL
+Scatterometry Climate Record Pathfinder
+3
+593
+User
+89.6
+SeaWinds on QuikSCAT Enhanced Resolution Regionally Gridded Sigma-0 (BYU, D. Long)
+12 Hour
+SPACECRAFT
+SCAT_BYU_L3_OW_SIGMA0_ENHANCED
+HISTORICAL
+1320384129260
+0.02
+SCP
+N
+NULL
+none
+Radar
+Sea Ice
+1800
+OPEN
+932409571000
+Scatterometry Climate Record Pathfinder
+SeaWinds is a Ku-band (13.4 GHz) Scatterometer which features a single circular scanning dish antenna to provide pencil-beam measurements, as opposed to the common fan beam design as seen with other spaceborne scatterometers.
+The pencil-beam design has several key advantages over the more common fan beam design: higher signal-to-noise ratio, smaller size, and superior coverage.
+The SeaWinds single antenna utilizes twin offset feeds, thus providing two pencil-beam footprint paths with an elliptical sampling footprint of approximately 25 km (in azimuth) by 37 km (in look/range direction); these pencil beams have opposing polarizations (i.e., vertical and horizontal), thus achieving dual-polarization.
+The SeaWinds instrument provides a full 1800 km-wide swath coverage (including the nadir region), which allows for a nominal daily measurement coverage of 90% over the ice-free oceans.
+3
+MD5
+Gridded
+1
+932409571000
+LOCAL-FTP
+ARCHIVE-OPEN
+WGS-84
+RAW
+QUIKSCAT
+QUIKSCAT_BYU_L3_OW_SIGMA0_ENHANCED.jpg
+BYU/SCP QuikSCAT/SeaWinds Enhanced Sigma-0 Browse User Guide
+SeaWinds Scatterometer
+SeaWinds Scatterometer
+none
+Earth Science
+Earth Science
+DATA-PROVIDER
+PODAAC-QSBYU-ENR00
+1258847999000
+QUIKSCAT_BYU_L3_OW_SIGMA0_ENHANCED
+
+697
+BYU/SCP
+1
+SeaWinds on QuikSCAT Enhanced Resolution Regionally Gridded Sigma-0 (BYU, D. Long)
+podaac@podaac.jpl.nasa.gov
+GZIP
+ftp://podaac-ftp.jpl.nasa.gov/allData/quikscat/L3/byu_scp/sigma0enhanced/docs/qscat_seawinds_enhanced.pdf
+SeaWinds on QuikSCAT Enhanced Resolution Regionally Gridded Sigma-0 (BYU, D. Long)
+NULL
+Normalized Radar Cross-Section
+
+SeaWinds on QuikSCAT Enhanced Resolution Sigma-0 from BYU/SCP
+1320278400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/QUIKSCAT_BYU_L3_OW_SIGMA0_ENHANCED.jpg
+0.02
+SCAT_BYU_L3_OW_SIGMA0_ENHANCED
+(818) 393-7165
+Less_than_daily
+2
+SEAWINDS
+SEAWINDS
+Enhanced Resolution Sigma-0 Datasets from BYU/SCP
+The SeaWinds on QuikSCAT mission is a "quick recovery" mission to fill the gap created by the loss of data from the NASA Scatterometer (NSCAT), when the satellite it was flying on lost power in June 1997.
+The SeaWinds instrument on the QuikSCAT satellite is a specialized microwave radar that measures near-surface wind speed and direction under all weather and cloud conditions over Earth's oceans.
+180
+HISTORICAL
+This dataset contains enhanced resolution gridded fields of the normalized radar cross-section (sigma-0) made from the SeaWinds on QuikSCAT L1B dataset using two different forms of the single-variate Scatterometer Image Reconstruction (SIR) algorithm: 1) for 'egg' sigma-0 measurements and 2) for 'slice' sigma-0 measurements, where the SIR with filtering (SIRF) algorithm is used.
+For 'egg' measurements, the full antenna/processing spatial response is used while a simplified spatial response function in which the spatial response is assumed to be 1 over the footprint and 0 elsewhere is used for 'slice' measurements.
+The SIR algorithm with 'eggs' makes images of sigma-0 at the measurement incidence angle at 4.5 km pixel resolution.
+The effective resolution varies depending on region and sampling conditions but is estimated to be 8-10 km in most areas.
+The SIRF algorithm with 'slices' makes images at 2.225 km pixel resolution with an estimated effective resolution of 6-8 km.
+It is worth noting that 'slice' measurements are inherently noisier than 'egg' measurements.
+This dataset has been pre-subsetted for the following regions: Alaska, Amazonia, Antarctica, Arctic, Australia, Bering Strait, Greenland, Central America, East China Sea, Sea of Japan, Europe, Indonesia, Northern Africa, North America, Southern Africa, South America, Southern Asia, and Siberia.
+Non-enhanced fields are also provided at lower resolution in a 'GRD' gridded format that does not utilize SIR processing; 'GRD' fields are provided at 11.125 km and 22.25 km pixel resolution for slices and eggs, respectively.
+In addition to Sigma-0, various statistical parameters are provided for added guidance, including but not limited to: standard deviation of incidence angle, mean incidence angle, measurement counts, pixel time, mean reconstruction error, and standard deviation of the reconstructed sigma-0.
+Sigma-0 fields are available for specific ascending/descending nodes, local time of day, or as a daily average.
+SIR-formatted land mask files (containing 0 for ocean and 1 for land) are available for each standard region.
+SIR-formatted files containing the gridded latitude and longitude pixel locations within each region are also available.
+All SIR files are produced in IEEE formatted binary and gzipped for ease of transfer and storage.
+Each SIR file adheres to a specific naming convention, as shown here: http://scp.byu.edu/docs/SIRfilename.html.
+Some additional user notes can be found here: http://www.scp.byu.edu/docs/QSCAT_user_notes.html.
+Thumbnail image for Website
+Dataset User Guide
+NULL
+ORACLE
+Sigma Naught
+Ice Extent
+1258847999000
+BATCH
+BYU/SCP
+SCP
+Creation of Dataset via Metadata Tool.
+Thumbnail
+Reference Materials
+Spectral/Engineering
+Cryosphere
+Technical Contact
+QUIKSCAT
+98.6
+NULL
+Brigham Young University and Scatterometry Climate Record Pathfinder
+QUIKSCAT_BYU_L3_OW_SIGMA0_ENHANCED
+ARCHIVE-DIST
+SeaWinds on QuikSCAT Enhanced Resolution Regionally Gridded Sigma-0 (BYU, D. Long)
+1320384129259
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+BYU/SCP
+12-Hourly to Daily
+PO.DAAC
+Services
+Dataset Creation via Metadata Tool
+1320384129259
+Equal-Area Lambert Projection (non-polar regions); Polar-Stereographic Projection (polar regions only)
+Early, D. S. and D. G. Long, 2001: Image reconstruction and enhanced resolution imaging from irregular samples. IEEE Trans. Geosci. Rem. Sens., Vol. 39, No. 2, pp. 291-302.
+NULL
+null
+NASA/JPL/PODAAC
+100.93
+DATA-CENTER
+South Africa
+Australia
+Europe
+Arctic
+Central America
+Alaska
+North America
+China
+Antarctica
+Bering Sea
+Japan
+Southern Asia
+Siberia
+North Africa
+Greenland
+Indonesia
+South America
+NULL
+12 Hour
+Sigma Naught
+Ice Extent

@@ -1,0 +1,185 @@
+-180
+null
+NULL
+Global
+OBPG, Goddard Space Flight Center  Greenbelt, MD,US
+TERRA
+
+null
+NULL
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/modis/L3/terra/11um/v2014.0/4km/annual/
+ftp://podaac-ftp.jpl.nasa.gov/allData/modis/L3/terra/11um/v2014.0/4km/annual
+file:///store/modis/open/L3/terra/11um/v2014.0/4km/annual
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-MODST-AN4N4
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/python/
+http://oceancolor.gsfc.nasa.gov
+ftp://podaac-ftp.jpl.nasa.gov/allData/modis/L3/docs/UserGuide_MODIS_L3_v2014.0.pdf
+ftp://podaac-ftp.jpl.nasa.gov/allData/modis/L3/docs/modis_sst.html
+ftp://podaac-ftp.jpl.nasa.gov/allData/modis/L3/docs/modis_sst.html
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/idl/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/R/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/matlab/
+/data/export/web/thumbnails
+-90
+TERRA
+MODIS Terra and Aqua L3 SST
+OPEN
+10.5067/MODST-AN4N4
+Ocean Temperature
+1
+null
+NULL
+Earth Observing System
+3
+780
+User
+90
+MODIS Terra Level 3 SST Thermal IR Annual 4km Nighttime v2014.0
+MODIS
+Terra
+sea surface temperature
+polar
+sun-synchronous
+sst
+thermal IR
+temperature
+level 3
+L3
+annual
+4km
+nighttime
+v2014.0
+1 Year
+SPACECRAFT
+MODIS_L3_SST
+NEAR_REAL_TIME
+1434757638000
+0.041
+EOS
+N
+NULL
+NONE
+Ocean Temperature
+2330
+OPEN
+946684800000
+Earth Observing System
+The MODIS (Moderate Resolution Imaging Spectroradiometer) instrument provides high radiometric sensitivity (12 bit) in 36 spectral bands ranging in wavelength from 0.4 m to 14.4 m. It is used for observing processes occurring on the land, in the oceans, and in the lower atmosphere.
+3
+MD5
+Gridded
+1
+946684800000
+LOCAL-OPENDAP
+LOCAL-FTP
+ARCHIVE-OPEN
+WGS 84
+NETCDF
+Earth Observing System, TERRA
+Web Service (PO.DAAC Labs)
+PYTHON
+Ocean Biology Processing Group homepage
+MODIS Level 3 User Guide v2014.0
+modis_sst.html
+MODIS Documentation Package
+IDL
+R
+MATLAB
+MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0.jpg
+Moderate-Resolution Imaging Spectroradiometer
+Moderate-Resolution Imaging Spectroradiometer
+NONE
+Earth Science
+DATA-CENTER
+1
+PODAAC-MODST-AN4N4
+MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0
+NASA SST products provided by NASA Ocean Biology Processing Group (OBPG)
+1885
+OBPG
+1
+MODIS Terra Global Level 3 Mapped SST
+podaac@podaac.jpl.nasa.gov
+NONE
+ftp://podaac-ftp.jpl.nasa.gov/allData/modis/L3/docs/modis_sst.html
+MODIS Terra Level 3 SST Thermal IR Annual 4km Nighttime v2014.0
+NULL
+
+MODIS Level 3 SST
+1440979200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0.jpg
+0.041
+MODIS_L3_SST
+(818) 393-7165
+Monthly
+2014.0
+MODIS
+MODIS
+24
+MODIS Terra and Aqua L3 SST
+Terra is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including aerosols, clouds, radiation balance, land cover, ice, and ocean sea surface temperature and color.
+180
+NEAR_REAL_TIME
+The Moderate-resolution Imaging Spectroradiometer (MODIS) is a scientific instrument (radiometer) on board the NASA Terra and Aqua satellite platforms, launched in 1999 and 2002 respectively to study global dynamics of the Earths atmosphere, land, ice and oceans.
+MODIS captures data in 36 spectral bands ranging in wavelength from 0.4 um to 14.4 um and at varying spatial resolutions (2 bands at 250 m, 5 bands at 500 m and 29 bands at 1 km), providing complete global coverage of the Earth every 1 to 2 days.
+Both Terra and Aqua platforms are in sun synchronous, near polar (98 degree) orbits at 705 km altitude but with a descending local equatorial crossing time of 10:30am in the case of Terra and a 1:30pm  ascending  crossing time for Aqua.
+MODIS Terra Global Level 3 Mapped Thermal SST products consists of sea surface temperature (SST) data derived from the 11 and 12 um thermal IR infrared (IR) bands (MODIS channels 31 and 32).
+Daily, weekly (8 day), monthly and annual MODIS SST products are available at both 4.63 and 9.26 km spatial resolution and for both daytime and nighttime passes.
+This particular dataset is the MODIS Terra, thermal-IR SST level 3, 4km, annual, nighttime product.
+(Search Granule)
+
+Ocean Biology Processing Group homepage
+
+describes all the level 3 MODIS data
+Validation 
+
+
+
+Thumbnail image for Website
+NULL
+NONE
+Sea Surface Temperature
+YEAR
+OBPG
+EOS
+Creation of Dataset via Metadata Tool.
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DOC_USERS_GUIDE
+data set guide
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+Thumbnail
+Oceans
+Technical Contact
+Earth Observing System, TERRA
+98.2
+NULL
+Ocean Biology Processing Group (OBPG), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center,NASA
+MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2014.0
+16
+ARCHIVE-DIST
+PODAAC
+1425338388214
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+OBPG
+OBPG
+Services
+Dataset Creation via Metadata Tool
+1425338388214
+Equidistant Cylindrical
+Werdell, P.J., B.A. Franz, S.W. Bailey, G.C. Feldman and 15 co-authors (2013). Generalized ocean color inversion model for retrieving marine inherent optical properties, Applied Optics 52, 2019-2037.
+NULL
+null
+NASA/JPL/PODAAC
+98.8
+DATA-CENTER
+Global
+NULL
+1 Year
+Sea Surface Temperature

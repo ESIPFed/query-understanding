@@ -1,0 +1,186 @@
+0
+null
+NULL
+Global
+PO.DAAC
+DMSP-F13
+
+null
+NULL
+ftp://podaac-ftp.jpl.nasa.gov/allData/ccmp/L2.5/flk
+file:///store/ccmp/open/L2.5/flk
+/data/export/web/thumbnails
+ftp://podaac-ftp.jpl.nasa.gov/allData/ccmp/L2.5/doc/ccmp_users_guide.pdf
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-CCF25-01F13&apidoc
+http://podaac.jpl.nasa.gov/Cross-Calibrated_Multi-Platform_OceanSurfaceWindVectorAnalyses
+-89.875
+DMSP-F13
+Cross-Calibrated Multi-Platform Ocean Surface Wind Vector Analysis Fields
+MEaSUREs
+OPEN
+10.5067/CCF25-01F13
+Ocean Winds
+1
+null
+NULL
+Making Earth Science Data Records for Use in Research   Environments
+3
+521
+667
+User
+89.875
+Cross-Calibrated Multi-Platform Ocean Surface Wind Vector L2.5 First-Look SSM/I-F13 Microwave Analyses
+wind data
+wind
+ocean wind
+wind speed
+vector
+vectors
+ocean wind vector
+ocean wind vectors
+cross-calibrated
+multi-platform
+ccmp
+analysis
+analyses
+gridded
+ssm/i
+ssmi
+dmsp
+f13
+assimilated
+measures
+ecmwf
+12 Hour
+SPACECRAFT
+CCMP
+MEaSUREs
+HISTORICAL
+1295629813000
+0.25
+MEaSUREs
+Y
+NULL
+NONE
+Ocean Winds
+1394
+OPEN
+799459200000
+Making Earth Science Data Records for Use in Research   Environments
+The Special Sensor Microwave Imager (SSM/I) flown on board the DMSP F8, F10, F11, F13, F14, and F15 platforms is designed to measure ocean surface wind speed, ice coverage and age, cloud water content, rainfall and atmospheric vertical temperature and humidity profiles.
+3
+MD5
+Gridded
+1
+799459200000
+LOCAL-FTP
+ARCHIVE-OPEN
+WGS-84
+BINARY
+Defense Meteorological Satellite Program-F13
+CCMP_MEASURES_ATLAS_L3_OW_L2_5_SSMI_F13_WIND_VECTORS_FLK.jpg
+CCMP User Guide
+Web Service (PO.DAAC Labs)
+CCMP Project Information Page
+Special Sensor Microwave Imager
+Special Sensor Microwave Imager
+NONE
+Earth Science
+DATA-PROVIDER
+PODAAC-CCF25-01F13
+1258588440000
+CCMP_MEASURES_ATLAS_L3_OW_L2_5_SSMI_F13_WIND_VECTORS_FLK
+
+401
+NASA/GSFC/NOAA
+1
+Cross-Calibrated Multi-Platform Ocean Surface Wind Vector L2.5 First-Look SSM/I-F13 Microwave Analyses
+podaac@podaac.jpl.nasa.gov
+GZIP
+ftp://podaac-ftp.jpl.nasa.gov/allData/ccmp/L2.5/docs/ccmp_users_guide.pdf
+Cross-Calibrated Multi-Platform Ocean Surface Wind Vector L2.5 First-Look SSM/I-F13 Microwave Analyses
+NULL
+Ocean Surface Wind Vectors
+CCMP L2.5
+1241740800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/CCMP_MEASURES_ATLAS_L3_OW_L2_5_SSMI_F13_WIND_VECTORS_FLK.jpg
+0.25
+CCMP
+MEaSUREs
+(818) 393-7165
+Less_than_daily
+1
+SSM/I
+SSM/I
+Cross-Calibrated Multi-Platform Ocean Surface Wind Vector Analysis Fields
+MEaSUREs
+Defense Meteorological Satellite Program-F13, is an Air Force Meteorological satellite which bears an instrument called the Special Sensor Microwave Imager (SSM/I), which provides space-borned measurements of wind speed, atmospheric liquid water and integrated water vapor over the oceans.
+360
+HISTORICAL
+This dataset is derived under the Cross-Calibrated Multi-Platform (CCMP) project and contains value-added Special Sensor Microwave Imager (SSM/I) ocean surface winds from the Defense Meteorological Satellite Program (DMSP) F13 platform.
+The CCMP datasets combine cross-calibrated satellite winds obtained from Remote Sensing Systems (REMSS) using a Variational Analysis Method (VAM) to produce a high-resolution (0.25 degree) gridded analysis.
+Wind directions from the resulting analysis are assigned to the location and time of the satellite-derived wind speed observations to create this value added dataset.
+The CCMP data set includes cross-calibrated satellite winds derived from SSM/I, SSMIS, AMSR-E, TRMM TMI, QuikSCAT, SeaWinds, WindSat and other satellite instruments as they become available from REMSS.
+REMSS uses a cross-calibrated sea-surface emissivity model function which improves the consistency between wind speed retrievals from microwave radiometers (i.e., SSM/I, SSMIS, AMSR, TMI, and WindSat) and those from scatterometers (i.e., QuikSCAT and SeaWinds).
+The VAM combines these data with in situ measurements and a starting estimate (first guess) of the wind field.
+The European Center for Medium-Range Weather Forecasts (ECMWF) ERA-40 Reanalysis is used as the first-guess from 1987 to 1998.
+The ECMWF Operational analysis is used from January 1999 onward.
+All wind observations and analysis fields are referenced to a height of 10 meters.
+The ERA-40 can be obtained from the Computation and Information Systems Laboratory (CISL) at the National Center for Atmospheric Research (NCAR): http://rda.ucar.edu/datasets/ds117.0/.
+The ECMWF Operational analysis can also be obtained from CISL at NCAR: http://rda.ucar.edu/datasets/ds111.1/.
+Three products are distributed to complete the CCMP dataset series.
+L3.0 product contains high-resolution analyses every 6-hours.
+These data are then time averaged over monthly and 5-day periods to derive the L3.5 product.
+Directions from the L3.0 product are then assigned to the time and location of the passive microwave satellite wind speed observations to derive the L2.5 product.
+All datasets are distributed on a 0.25 degree cylindrical coordinate grid.
+This dataset is one in a series of First-Look (FLK) CCMP datasets and is a continuation and expansion of the SSM/I surface wind velocity project that began under the NASA Pathfinder Program.
+Refinements and upgrades to the FLK version will be incorporated under a new release (date to be determined) known as Late-look (LLK) and may include additional satellite datasets.
+All satellite surface wind data are obtained from REMSS under the DISCOVER project: Distributed Information Services: Climate/Ocean Products and Visualizations for Earth Research (http://www.discover-earth.org/index.html).
+The CCMP project is the result of an investigation funded by the NASA Making Earth Science data records for Use in Research Environments (MEaSUREs) program (http://community.eosdis.nasa.gov/measures/).
+In accordance with the MEaSUREs program, the CCMP datasets are also known as Earth System Data Records (ESDRs).
+In collaboration with private and government institutions, a team led by Dr. Robert Atlas (PI; proposal originally solicited by REASoN, and currently funded by MEaSURES) has created the CCMP project to provide multi-instrument ocean surface wind velocity ESDRs, with wide ranging research applications in meteorology and oceanography.
+Thumbnail image for Website
+Dataset User Guide
+(Search Granule)
+MEaSUREs Project Information Page for CCMP
+NULL
+NONE
+Surface Winds
+1258588440000
+YEAR-MONTH
+NASA/GSFC/NOAA
+MEaSUREs
+Initial creation of dataset.
+Thumbnail
+Reference Materials
+PORTAL_DA_DIRECT_ACCESS
+Web Page
+Oceans
+Technical Contact
+Defense Meteorological Satellite Program-F13
+98.8
+NULL
+National Aeronautics and Space Administration, Goddard Space Flight Center, National Oceanic and Atmospheric Administration
+CCMP_MEASURES_ATLAS_L3_OW_L2_5_SSMI_F13_WIND_VECTORS_FLK
+ARCHIVE-DIST
+Cross-Calibrated Multi-Platform Ocean Surface Wind Vector L2.5 First-Look SSM/I-F13 Microwave Analyses
+1279220929978
+BINARY
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+NASA/GSFC/NOAA
+PO.DAAC
+Services
+Dataset Creation
+1279220929978
+Atlas, R., R. N. Hoffman, J. Ardizzone, S. M. Leidner, J. C. Jusem, D. K. Smith, D. Gombos, 2011: A cross-calibrated, multiplatform ocean surface wind velocity product for meteorological and oceanographic applications. Bull. Amer. Meteor. Soc., 92, 157-174. doi: 10.1175/2010BAMS2946.1
+NULL
+null
+http://www.gsfc.nasa.gov/
+NASA/JPL/PODAAC
+102
+DATA-CENTER
+Global
+NULL
+12 Hour
+Surface Winds

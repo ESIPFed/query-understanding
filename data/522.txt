@@ -1,0 +1,184 @@
+-180
+JPL, 4800 Oak Grove Dr, Pasadena, CA 91109, USA
+Ocean Biology Processing Group NASA/GSFC 614.2, B28, rm. W123
+NULL
+Global
+NASA Goddard Space Flight Center
+AQUA
+Global
+818-393-2718
+
+http://oceandata.sci.gsfc.nasa.gov/MODIS-Aqua/Mapped/Daily/4km/chlor_a
+/data/export/web/thumbnails
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/python/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/idl/
+http://oceancolor.gsfc.nasa.gov/
+http://oceancolor.gsfc.nasa.gov/cms/atbd/chlor_a
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/R/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/matlab/
+Chlorophyll A algorithm documentation
+http://oceancolor.gsfc.nasa.gov/DOCS/Ocean_Level-3_SMI_Products.pdf
+http://oceancolor.gsfc.nasa.gov
+-90
+AQUA
+NULL
+REMOTE
+Ocean Optics
+1
+none
+
+NULL
+Earth Observing System Data Information System
+3
+Edward
+Bryan
+90
+MODIS Aqua Level 3 Global Daily Mapped 4 km Chlorophyll a v2014.0
+Chlorophyll a
+MODIS
+biology
+aqua
+daily
+4km
+v2014.0
+1 Day
+SPACECRAFT
+NEAR_REAL_TIME
+1441303005723
+0.041
+EOSDIS
+N
+NULL
+None
+Ocean Optics
+2330
+REMOTE
+1025740800000
+Earth Observing System Data Information System
+The MODIS (Moderate Resolution Imaging Spectroradiometer) instrument provides high radiometric sensitivity (12 bit) in 36 spectral bands ranging in wavelength from 0.4 m to 14.4 m. It is used for observing processes occurring on the land, in the oceans, and in the lower atmosphere.
+3
+MD5
+Equidistant Cylindrical Lat-lon
+1
+1025740800000
+REMOTE-HTTP
+WGS-84
+NETCDF
+Earth Observing System, AQUA
+MODIS_Aqua_L3_CHLA_Daily_4km_V2014.0.jpg
+PYTHON
+IDL
+Ocean Color Web Site
+Chlorophyll algorithm
+R
+MATLAB
+MODIS Documentation
+SMI L3 product format guide
+Ocean Biology Processing Group homepage
+Moderate-Resolution Imaging Spectroradiometer
+Moderate-Resolution Imaging Spectroradiometer
+None
+Earth Science
+DATA-CENTER
+10
+PODAAC-MODCA-3D4R4
+MODIS_Aqua_L3_CHLA_Daily_4km_V2014.0_R
+
+2171
+OBPG
+1
+MODIS Aqua Level 3 Daily Mapped Chlorophyll A 4km
+edward.m.armstrong@jpl.nasa.gov
+bryan.a.franz@nasa.gov
+NONE
+http://oceancolor.gsfc.nasa.gov
+MODIS Aqua Level 3 Global Daily Mapped 4 km Chlorophyll a v2014.0
+NULL
+1
+Chlorophyll
+MODIS Aqua Level 3 Mapped Chlorophyll A
+1440979200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/MODIS_Aqua_L3_CHLA_Daily_4km_V2014.0_R.jpg
+0.041
+818-393-6710
+
+Daily
+2014.0
+MODIS
+MODIS
+24
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+180
+NEAR_REAL_TIME
+The Moderate-resolution Imaging Spectroradiometer (MODIS) is a scientific instrument (radiometer) launched by NASA in 2002 on board the Aqua satellite platform (a second series is on the Terra platform) to study global dynamics of the Earths atmosphere, land and oceans.
+MODIS captures data in 36 spectral bands ranging in wavelength from 0.4 um to 14.4 um and at varying spatial resolutions (2 bands at 250 m, 5 bands at 500 m and 29 bands at 1 km).
+The Aqua platform is in a sun synchronous, near polar orbit at 705 km altitude and the MODIS instrument images the entire Earth every 1 to 2 days.
+The Level 3 standard mapped image (SMI) chlorophyll-a dataset has a daily temporal resolution and 4.6 km (at the equator) spatial resolution.
+The SMI dataset is an image representation of binned MODIS data (more detailed information on the SMI format can be found at http://oceancolor.gsfc.nasa.gov).
+The MODIS Aqua instrument provides quantitative data on global ocean bio-optical properties to examine oceanic factors that affect global change and to assess the oceans' role in the global carbon cycle, as well as other biogeochemical cycles.
+Subtle changes in chlorophyll-a signify various types and quantities of marine phytoplankton (microscopic marine plants), the knowledge of which has both scientific and practical applications.
+This is a local dataset derived from the NASA Ocean Biology Processing Group (OBPG) meant to expose these data to tools and services at the PO.DAAC.
+Thumbnail image for Website
+
+
+Ocean Color Web Site
+Documentation for Chlorophyll algorithm
+
+
+http://oceancolor.gsfc.nasa.gov/cms/atbd/chlor_a
+Documentation for the Standard Mapping Image (SMI) format from the OPBG
+Ocean Biology Processing Group homepage
+NULL
+NONE
+Ocean Color
+YEAR-DOY
+NASA Ocean Biology Processing Group
+EOSDIS
+Creation of Dataset via Metadata Tool.
+Thumbnail
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_ADDITIONAL_SITES
+Documentation
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_PROJECT_MATERIALS
+Documentation
+Web site
+Oceans
+Technical Contact
+Technical Contact
+Earth Observing System, AQUA
+98.1
+NULL
+Ocean Biology Processing Group (OBPG), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center,NASA
+MODIS_Aqua_L3_CHLA_Daily_4km_V2014.0_R
+24
+REMOTE-DIST
+MODIS Aqua mapped daily 4km chlorophyll a
+1441303005723
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Ocean Biology Processing Group (OBPG), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center,NASA
+Y
+Ocean Biology Processing Group
+NA
+NASA Ocean Biology Processing Group
+Armstrong
+Franz
+Dataset Creation via Metadata Tool
+1441303005723
+Regular 0.041 degree grid
+Hu, C., Z. Lee, and B.A. Franz (2012). Chlorophyll-a algorithms for oligotrophic oceans: A novel approach based on three-band reflectance difference, J. Geophys. Res., 117, C01011, doi:10.1029/2011JC007395.
+NULL
+none
+Provider
+NASA/JPL/PODAAC
+OBPG
+98.4
+DATA-CENTER
+DATA-CENTER
+Global
+NULL
+1 Day
+Ocean Color

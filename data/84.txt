@@ -1,0 +1,264 @@
+0
+-180
+Lyngbyvej 100, DK-2100 Copenhagen, Denmark
+NULL
+Global
+Danish Meteorological Institute, Copenhagen, Denmark
+AQUA
+MetOp-A
+MSG
+TERRA
+NOAA-19
+Suomi NPP
+GCOM-W1
+
+0
++45-39157300
+NULL
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L4/GLOB/DMI/DMI_OI/v1
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L4/GLOB/DMI/DMI_OI/v1
+file:///store/ghrsst/open/data/GDS2/L4/GLOB/DMI/DMI_OI/v1
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L4/GLOB/DMI/DMI_OI/v1/
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L4/GLOB/DMI/DMI_OI/v1
+http://ghrsst.jpl.nasa.gov
+http://thredds.jpl.nasa.gov/las/
+/data/export/web/thumbnails
+http://www.ghrsst.org
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHGDM-4FD02&apidoc
+http://ghrsst.jpl.nasa.gov
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/docs/GDS20r5.pdf
+http://www.osi-saf.org
+-90
+AQUA
+MetOp-A
+MSG
+TERRA
+NOAA-19
+Suomi NPP
+GCOM-W1
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHGDM-4FD02
+Ocean Temperature
+1
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+4
+1
+Jacob
+90
+GHRSST Level 4 DMI_OI Global Foundation Sea Surface Temperature Analysis  (GDS version 2)
+GHRSST
+sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+1 Day
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+spacecraft
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1374087810000
+0.05
+GHRSST
+N
+NULL
+In no event shall DMI or its representatives be liable for any damages whatsoever including, without limitation, special, indirect, incidental or consequential damages or damages for loss of business
+Ocean Temperature
+2330
+2400
+-999
+2330
+2400
+3040
+1450
+OPEN
+1367280000000
+Group for High Resolution Sea Surface Temperature
+The MODIS (Moderate Resolution Imaging Spectroradiometer) instrument provides high radiometric sensitivity (12 bit) in 36 spectral bands ranging in wavelength from 0.4 m to 14.4 m. It is used for observing processes occurring on the land, in the oceans, and in the lower atmosphere.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The Spinning Enhanced Visible and InfraRed Imager (SEVIRI)  has the capacity to observe the Earth in 12 spectral channels.
+Eight of these channels are in the thermal infrared, providing among other information, observations of the temperatures of clouds, land and sea surfaces at approximately 5 km resolution with a 15 minute duty cycle.
+The MODIS (Moderate Resolution Imaging Spectroradiometer) instrument provides high radiometric sensitivity (12 bit) in 36 spectral bands ranging in wavelength from 0.4 m to 14.4 m. It is used for observing processes occurring on the land, in the oceans, and in the lower atmosphere.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+VIIRS is a 22-band radiometer to collect infrared and visible light for earth system monitoring Advanced Microwave Scanning Radiometer 2 (AMSR2) onboard the GCOM- W1
+4
+MD5
+Equidistant Cylindrical Lat-Lon
+1
+1367280000000
+REMOTE-FTP
+REMOTE-OPENDAP
+ARCHIVE-OPEN
+LOCAL-OPENDAP
+LOCAL-FTP
+WGS 84
+NETCDF
+Earth Observing System, AQUA
+Meteorological Operational Satellite - A
+Meteosat Second Generation
+Earth Observing System, TERRA
+National Oceanic & Atmospheric Administration-19
+Suomi Suomi National Polar-orbiting Partnership
+Global Change Observation Mission 1st - Water (SHIZUKU)
+none
+LAS
+DMI_OI-DMI-L4-GLOB-v1.0.jpg
+none
+Web Service (PO.DAAC Labs)
+none
+GDS2 User Manuel
+none
+Moderate-Resolution Imaging Spectroradiometer
+Advanced Very High Resolution Radiometer-3
+Spinning Enhanced Visible and Infrared Imager
+Moderate-Resolution Imaging Spectroradiometer
+Advanced Very High Resolution Radiometer-3
+Visible Infrared Imaging Radiometer Suite
+Advanced Microwave Scanning Radiometer 2
+Moderate-Resolution Imaging Spectroradiometer
+Advanced Very High Resolution Radiometer-3
+Spinning Enhanced Visible and Infrared Imager
+Moderate-Resolution Imaging Spectroradiometer
+Advanced Very High Resolution Radiometer-3
+Visible Infrared Imaging Radiometer Suite
+Advanced Microwave Scanning Radiometer 2
+None
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHGDM-4FD02
+DMI_OI-DMI-L4-GLOB-v1.0
+none
+1036
+0
+DMI COI
+1
+0
+DMI Global L4 Sea Surface Temperature analysis
+jlh@dmi.dk
+NONE
+none
+GHRSST Level 4 DMI_OI Global Foundation Sea Surface Temperature Analysis  (GDS version 2)
+NULL
+Foundation Sea Surface Temperature
+DMI OI NSB L4 analysis
+1189209600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/DMI_OI-DMI-L4-GLOB-v1.0.jpg
+0.05
+GHRSST
++45-39157203
+Daily
+1.0
+MODIS
+AVHRR-3
+SEVIRI
+MODIS
+AVHRR-3
+VIIRS
+AMSR2
+MODIS
+AVHRR-3
+SEVIRI
+MODIS
+AVHRR-3
+VIIRS
+AMSR2
+24
+Group for High Resolution Sea Surface Temperature Datasets
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+MetOp-A is the first in a series of three polar-orbiting European meteorological satellites,  launched on 19 October 2006 as part of the EUMETSAT Polar System.
+Meteosat Second Generation (MSG) provides multi-spectral imagery of the Earth's surface and cloud systems from a geostationary orbit.
+Terra is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including aerosols, clouds, radiation balance, land cover, ice, and ocean sea surface temperature and color.
+NOAA (national oceanic and atmospheric administration) satellite number 19 Suomi National Polar-orbiting Partnership is a joint mission between NASA, DOD and NOAA.
+GCOM represents a series of JAXA Earth Observation Missions and GCOM-W1 carries instrumentation to measure the water cycle
+180
+NEAR_REAL_TIME
+A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature analysis produced daily on an operational basis by the Danish Meteorological Institute (DMI) using an optimal interpolation (OI) approach on a global 0.05 degree grid.
+The analysis is based upon nighttime GHRSST L2P skin and subskin SST observations from several satellites.
+The sensors include the Advanced Very High Resolution Radiometer (AVHRR), the Spinning Enhanced Visible and Infrared Imager (SEVIRI), the Advanced Microwave Scanning Radiometer 2 (AMSR2), the Visible Infrared Imager Radiometer Suite (VIIRS), and the Moderate Resolution Imaging Spectroradiometer (MODIS) on Aqua.
+An ice field from the EUMETSAT OSI-SAF is used to mask out areas with ice.
+This dataset adheres to the version 2 GHRSST Data Processing Specification (GDS).
+Portal to the GHRSST Global Data Assembly Center and data access
+Live Access Server
+Thumbnail image for Website
+GHRSST Project homepage
+(Search Granule)
+Portal to the GHRSST Global Data Assembly Center and user services
+Documentation on the GDS version 2 format specification
+OSI SAF homepage
+NULL
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+Danish Meteorological Institute
+GHRSST
+Creation of Dataset via Metadata Tool.
+Get Data
+PORTAL_DA_TOOLS_AND_SERVICES
+Thumbnail
+Project Home Page
+PORTAL_DA_DIRECT_ACCESS
+Get Service
+PORTAL_DOC_USERS_GUIDE
+Ice Home Page
+Oceans
+Primary Contact
+Earth Observing System, AQUA
+Meteorological Operational Satellite - A
+Meteosat Second Generation
+Earth Observing System, TERRA
+National Oceanic & Atmospheric Administration-19
+Suomi Suomi National Polar-orbiting Partnership
+Global Change Observation Mission 1st - Water (SHIZUKU)
+98.1
+98.7
+-999
+98.2
+99
+97.1
+98.19
+NULL
+Danish Meteorological Institute, Center for Ocean and Ice
+DMI_OI-DMI-L4-GLOB-v1.0
+24
+ARCHIVE-DIST
+Global DMI_OI
+1360803465743
+NETCDF
+Danish Meteorological Institute, Center for Ocean and Ice
+Y
+DMI
+none
+Center for Ocean and Ice
+Hoeyer
+Dataset Creation via Metadata Tool
+1360803465743
+Regular 0.05 degree grid
+Hoyer, J. L., P.Le Borgne, and S. Eastwood. (2013), A bias correction method for Arctic satellite sea surface temperature observations. Remote Sensing of Environment.
+NULL
+none
+http://ocean.dmi.dk
+http://www.dmi.dk
+DMI COI
+98.4
+101.3
+-999
+98.8
+102
+101
+100
+DATA-PROVIDER
+Global
+NULL
+1 Day
+Sea Surface Temperature

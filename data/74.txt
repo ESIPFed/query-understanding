@@ -1,0 +1,172 @@
+12 Hour
+0
+-180
+438 First St, Suite 200, Santa Rosa, CA 95401, USA
+NULL
+Tropics
+Santa Rosa, CA, USA
+TRMM
+38N-38S
+0
+001 707 545 2906
+NULL
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L2P/TMI/REMSS
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/TMI/REMSS
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L2P/TMI/REMSS
+file:///store/ghrsst/open/data/L2P/TMI/REMSS
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L2P/TMI/REMSS/
+0
+http://ghrsst.jpl.nasa.gov
+http://www.remss.com
+http://trmm.gsfc.nasa.gov/
+http://www.remss.com
+/data/export/web/thumbnails
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHTMI-2PR01
+-38
+TRMM
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHTMI-2PR01
+Ocean Temperature
+N/A
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+2P
+1
+Sharon
+38
+GHRSST Level 2P Global Subskin Sea Surface Temperature from the Tropical Rainfall Mapping Mission (TRMM) Microwave Imager (TMI)
+GHRSST
+sea surface temperature
+L2P
+sst
+surface temperature
+microwave SST
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1295629813000
+25000
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+878
+OPEN
+883615456000
+Group for High Resolution Sea Surface Temperature
+The Tropical Rainfall Measuring Mission's (TRMM) Microwave Imager (TMI) is a passive microwave sensor designed to provide quantitative rainfall information over a wide swath under the TRMM satellite.
+2P
+MD5
+Satellite native swath
+1
+883615456000
+LOCAL-FTP
+REMOTE-FTP
+REMOTE-OPENDAP
+ARCHIVE-OPEN
+LOCAL-OPENDAP
+WGS 84
+25000
+NETCDF
+Tropical Rainfall Measuring Mission
+none
+none
+none
+none
+REMSS-L2P-TMI.jpg
+Web Service (PO.DAAC Labs)
+TRMM Microwave Imager
+TRMM Microwave Imager
+None
+Earth Science
+DATA-PROVIDER
+PODAAC-GHTMI-2PR01
+REMSS-L2P-TMI
+
+39
+0
+REMSS
+1
+0
+TMI geolocated L2 orbital SST data set
+tremble@remss.com
+GZIP
+http://www.remss.com
+GHRSST Level 2P Global Subskin Sea Surface Temperature from the Tropical Rainfall Mapping Mission (TRMM) Microwave Imager (TMI)
+NULL
+90
+Subskin Sea Surface Temperature (SSTsubskin)
+TRMM TMI
+1103414400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/REMSS-L2P-TMI.jpg
+GHRSST
+001 707 545 2904
+Less_than_daily
+4.0
+TMI
+TMI
+Group for High Resolution Sea Surface Temperature Datasets
+The Tropical Rainfall Measuring Mission (TRMM) is a joint mission between NASA and the Japan Aerospace Exploration Agency (JAXA) designed to monitor and study tropical rainfall.
+180
+NEAR_REAL_TIME
+The Tropical Rainfall Measuring Mission (TRMM) Microwave Imager (TMI) is a well calibrated passive microwave radiometer, similar to SSM/I, that contains lower frequency channels required for sea surface temperature  (SST) retrievals.
+The TRMM is a joint venture between NASA and the Japan Aerospace Exploration Agency (JAXA) to measure precipitation, water vapor, SST and wind in the global tropical regions and was launched in November 1997.
+The TRMM satellite travels west to east in a 402 km  altitude semi-equatorial precessing orbit that results in day-to-day changes in the observation time of any given earth location between 38S and 38N.
+Remote Sensing Systems has produced a Version-4 TMI ocean SST dataset for the Group for High Resolution Sea Surface Temperature (GHRSST)  by applying an algorithm to the 10.7 GHz channel through a removal of surface roughness effects.
+In contrast to infrared SST observations, microwave retrievals can be measured through clouds, which are nearly transparent at 10.7 GHz.
+Microwave retrievals are also insensitive to water vapor and aerosols.
+The algorithm for retrieving SSTs from radiometer data is described in "AMSR Ocean Algorithm."
+Portal to the GHRSST Global Data Assembly Center and data access
+TMI SSTs: algorithm description, browsing of data, and ftp of data
+Full details of the TRMM mission
+TMI calibration description
+Thumbnail image for Website
+(Search Granule)
+NULL
+1 Day
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+Remote Sensing Systems
+GHRSST
+
+Get Data
+Reference Materials
+Project Home Page
+Calibration/validation data
+Thumbnail
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Primary Contact
+Tropical Rainfall Measuring Mission
+35
+NULL
+Remote Sensing Systems
+3 Hour
+REMSS-L2P-TMI
+6
+ROLLING-STORE
+REMSS-L2P-TMI
+1130716800000
+NETCDF
+Remote Sensing Systems
+Y
+Remote Sensing Systems
+Remote Sensing Systems
+Tremble
+2005-10-31. C Donlon and E Armstrong: Original
+
+Geolocation information included for each pixel
+http://www.ssmi.com/tmi/tmi_description.html
+NULL
+none
+http://www.remss.com
+REMSS
+92.4
+DATA-PROVIDER
+Tropics
+NULL
+Sea Surface Temperature

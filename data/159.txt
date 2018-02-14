@@ -1,0 +1,265 @@
+0
+-180
+438 First St, Suite 200, Santa Rosa, CA 95401, USA
+NULL
+Global
+Santa Rosa, CA, USA
+AQUA
+AQUA
+TERRA
+TRMM
+Coriolis
+GCOM-W1
+none
+0
+001 707 545 2906
+NULL
+9 km
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L4/GLOB/REMSS/mw_ir_OI/v4.0
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L4/GLOB/REMSS/mw_ir_OI/v4.0
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L4/GLOB/REMSS/mw_ir_OI/v4.0
+file:///store/ghrsst/open/data/GDS2/L4/GLOB/REMSS/mw_ir_OI/v4.0
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L4/GLOB/REMSS/mw_ir_OI/v4.0/
+0.00
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/ghrsst/catalog.html?dataset=ncml_aggregation/OceanTemperature/ghrsst/aggregate__ghrsst_MW_IR_OI-REMSS-L4-GLOB-v4.0.ncml
+http://ghrsst.jpl.nasa.gov
+http://www.ghrsst.org
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/python/
+/data/export/web/thumbnails
+http://www.misst.org
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/idl/
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHMWI-4FR04&apidoc
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/R/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/matlab/
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/docs/GDS20r5.pdf
+-90
+AQUA
+AQUA
+TERRA
+TRMM
+Coriolis
+GCOM-W1
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHMWI-4FR04
+Ocean Temperature
+1
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+4
+1
+Sharon
+90
+GHRSST Level 4 MW_IR_OI Global Foundation Sea Surface Temperature analysis
+GHRSST
+REMSS
+remss
+sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+1 Day
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1431967828821
+0.09
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+1445
+2330
+2330
+878
+1200
+1450
+OPEN
+none
+1022889600000
+Group for High Resolution Sea Surface Temperature
+The Advanced Microwave Scanning Radiometer for EOS (AMSR-E) is a twelve-channel, six-frequency, total power passive-microwave radiometer system.
+The MODIS (Moderate Resolution Imaging Spectroradiometer) instrument provides high radiometric sensitivity (12 bit) in 36 spectral bands ranging in wavelength from 0.4 m to 14.4 m. It is used for observing processes occurring on the land, in the oceans, and in the lower atmosphere.
+The MODIS (Moderate Resolution Imaging Spectroradiometer) instrument provides high radiometric sensitivity (12 bit) in 36 spectral bands ranging in wavelength from 0.4 m to 14.4 m. It is used for observing processes occurring on the land, in the oceans, and in the lower atmosphere.
+The Tropical Rainfall Measuring Mission's (TRMM) Microwave Imager (TMI) is a passive microwave sensor designed to provide quantitative rainfall information over a wide swath under the TRMM satellite.
+WindSat is a microwave polarimetric radiometer designed with the capability of retrieving ocean surface wind vectors using three fully polarimetric feed horns at 10.7, 18.7, and 37.0 GHz.
+With 2 additional dual-polarized (i.e., not fully polarimetric) radiometer bands and a total of 22 descrete micrwave channels, WindSat can also retrieve sea surface temperature, rain rate, water vaper, and cloud liquid water.
+Advanced Microwave Scanning Radiometer 2 (AMSR2) onboard the GCOM- W1
+4
+MD5
+Cylindrical Lat-Lon
+1
+1022889600000
+LOCAL-FTP
+REMOTE-OPENDAP
+REMOTE-FTP
+ARCHIVE-OPEN
+LOCAL-OPENDAP
+WGS-84
+NETCDF
+Earth Observing System, AQUA
+Earth Observing System, AQUA
+Earth Observing System, TERRA
+Tropical Rainfall Measuring Mission
+Coriolis
+Global Change Observation Mission 1st - Water (SHIZUKU)
+THREDDS
+none
+none
+PYTHON
+MW_IR_OI-REMSS-L4-GLOB-v4.0.jpg
+none
+IDL
+Web Service (PO.DAAC Labs)
+R
+MATLAB
+GDS2 User Manuel
+Advanced Microwave Scanning Radiometer-EOS
+Moderate-Resolution Imaging Spectroradiometer
+Moderate-Resolution Imaging Spectroradiometer
+TRMM Microwave Imager
+WindSat
+Advanced Microwave Scanning Radiometer 2
+Advanced Microwave Scanning Radiometer-EOS
+Moderate-Resolution Imaging Spectroradiometer
+Moderate-Resolution Imaging Spectroradiometer
+TRMM Microwave Imager
+WindSat
+Advanced Microwave Scanning Radiometer 2
+None
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHMWI-4FR04
+MW_IR_OI-REMSS-L4-GLOB-v4.0
+AMSR-E data are sponsored by the NASA Earth Science REASoN DISCOVER Project and the AMSR-E Science Team.  Production of L2P data is sponsored by the National Oceanographic Partnership Program (NOPP).
+2056
+0
+REMSS
+1
+0
+MWIR optimum interpolated SST data set
+tremble@remss.com
+NONE
+http://www.remss.com
+GHRSST Level 4 MW_IR_OI Global Foundation Sea Surface Temperature analysis
+NULL
+Foundation Sea Surface Temperature (SSTfnd)
+MWIR
+1440979200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/MW_IR_OI-REMSS-L4-GLOB-v4.0.jpg
+0.09
+GHRSST
+001 707 545 2904
+Daily
+4.0
+AMSR-E
+MODIS
+MODIS
+TMI
+WindSat
+AMSR2
+AMSR-E
+MODIS
+MODIS
+TMI
+WindSat
+AMSR2
+24
+Group for High Resolution Sea Surface Temperature Datasets
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+Terra is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including aerosols, clouds, radiation balance, land cover, ice, and ocean sea surface temperature and color.
+The Tropical Rainfall Measuring Mission (TRMM) is a joint mission between NASA and the Japan Aerospace Exploration Agency (JAXA) designed to monitor and study tropical rainfall.
+The Coriolis satellite platform is a joint operation between the U.S. Navy and the National Polar-orbiting Operational Environmental Satellite System (NPOESS) Integrated Program Office (IPO).
+GCOM represents a series of JAXA Earth Observation Missions and GCOM-W1 carries instrumentation to measure the water cycle
+180
+NEAR_REAL_TIME
+A Group for High Resolution Sea Surface Temperature (GHRSST) global Level 4 sea surface temperature analysis produced daily on a 0.81 degree grid at Remote Sensing Systems.
+This product uses optimal interpolation (OI) from both microwave (MW) sensors including the NASA Advanced Microwave Scanning Radiometer-EOS (AMSRE), and the Tropical Rainfall Measuring Mission Microwave Imager (TMI), the Advanced Microwave Scanning Radiometer 2 (AMSR2) onboard the GCOM-W1 satellite, and WindSat operates on the Coriolis satellite, and infrared (IR) sensors such as the Moderate Resolution Imaging Spectroradiometer (MODIS) on the NASA Aqua and Terra platform.
+The through-cloud capabilities of microwave radiometers provide a valuable picture of global sea surface temperature (SST) while infrared radiometers (i.e., MODIS) have a higher spatial resolution.
+This analysis does not use any in situ SST data such as drifting buoy SST.
+
+Portal to the GHRSST Global Data Assembly Center and data access
+GHRSST Project homepage
+
+Thumbnail image for Website
+Full details of the MISST Project
+
+(Search Granule)
+
+
+Documentation on the GDS version 2 format specification
+NULL
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+Remote Sensing Systems
+GHRSST
+Creation of Dataset via Metadata Tool.
+PORTAL_DA_DIRECT_ACCESS
+Get Data
+Project Home Page
+PORTAL_DA_READ_SOFTWARE
+Thumbnail
+Project Home Page
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_USERS_GUIDE
+Oceans
+Primary Contact
+Earth Observing System, AQUA
+Earth Observing System, AQUA
+Earth Observing System, TERRA
+Tropical Rainfall Measuring Mission
+Coriolis
+Global Change Observation Mission 1st - Water (SHIZUKU)
+98.1
+98.1
+98.2
+35
+98.7
+98.19
+NULL
+Remote Sensing Systems
+MW_IR_OI-REMSS-L4-GLOB-v4.0
+24
+ARCHIVE-DIST
+REMSS-L4HRfnd-GLOB-MWIROI
+1431967828821
+NETCDF
+Remote Sensing Systems
+Y
+Remote Sensing Systems
+none
+Remote Sensing Systems
+Tremble
+Dataset Creation via Metadata Tool
+1431967828821
+Regular 0.09 degree grid
+http://www.remss.com/measurements/sea-surface-temperature/oisst-description
+NULL
+none
+http://www.remss.com
+REMSS
+98.4
+98.4
+98.8
+92.4
+101.6
+100
+DATA-PROVIDER
+Global
+NULL
+1 Day
+Sea Surface Temperature

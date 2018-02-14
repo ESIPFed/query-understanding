@@ -1,0 +1,215 @@
+1 Day
+0
+-39
+null
+Department of Physics and Physical Oceanography, University on North Carolina, Wilmington, NC, USA
+NULL
+SPURS-1  N.Atlantic Salinity maximum region
+Department of Physics and Physical Oceanography, University on North Carolina, Wilmington, NC, USA
+SPURS1_Seasoar
+N23-43, W37-63
+312
+null
++1 s(910) 962-7014
+NULL
+file:///store/insitu/open/L2/spurs1/seasoar
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/insitu/L2/spurs1/seasoar/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/seasoar
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/sw/R
+http://podaac.jpl.nasa.gov/spurs
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/SpursWebsiteContent/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/CruiseReports/
+/data/export/web/thumbnails
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/DataDocumentation/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/sw/Matlab
+http://spurs.jpl.nasa.gov/
+22
+SPURS1_Seasoar
+SPURS-I field Campaign
+OPEN
+10.5067/SPUR1-SEASR
+Salinity/Density
+Ocean Temperature
+Salinity/Density
+1
+null
+M
+NULL
+NASA Salinity Processes in the Upper Ocean Regional Study
+2
+963
+User
+Frederick
+26
+Seasoar CTD data for the SPURS-1 N. Atlantic field campaign
+Seasoar
+CTD
+trajectory profile
+Salinity
+Conductivity
+Temperature
+Depth
+Pressure
+Upper Ocean
+SPURS1
+North Atlantic Ocean
+salinity maximum region
+insitu
+SPURS
+Sarmiento
+ICM-CSIC Barcelona
+SEASOAR
+SPURS-I
+HISTORICAL
+1428296891655
+SPURS
+N
+NULL
+NONE
+Salinity/Density
+Ocean Temperature
+Salinity/Density
+1
+OPEN
+1
+1363910400000
+NASA Salinity Processes in the Upper Ocean Regional Study
+Seasoar CTD (eg.
+sea-bird)
+2
+NONE
+WGS84
+1
+1363910400000
+ARCHIVE-OPEN
+LOCAL-OPENDAP
+LOCAL-FTP
+NETCDF
+ICM-CSIC Barcelona Sarmento SeaSoar
+R
+PO.DAAC SPURS Mission page
+Archived SPURS-1 Website Content
+SPURS-1 Cruise Documentation Package
+SPURS1_SEASOAR.jpg
+SPURS-1 Data Documentation Package
+MATLAB
+SPURS Project Website
+Seasoar CTD (eg. sea-bird)
+Seasoar CTD (eg. sea-bird)
+NONE
+Earth Science
+Earth Science
+Earth Science
+DATA-PROVIDER
+5
+PODAAC-SPUR1-SEASR
+1365464700000
+SPURS1_SEASOAR
+SPURS Field Campaign Products
+1985
+0
+SPURS-DM
+1
+0
+SPURS Field Campaign Seasoar Products
+podaac@podaac.jpl.nasa.gov
+binghamf@uncw.edu
+NONE
+http://podaac.jpl.nasa.gov/SPURS
+Seasoar CTD data for the SPURS-1 N. Atlantic field campaign
+NULL
+
+
+
+SPURS Field Campaign Products
+1431302400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/SPURS1_SEASOAR.jpg
+SPURS-I
+(818) 393-7165
++1 (910) 962-2383
+Daily
+1.0
+SEASOAR_CTD
+SEASOAR_CTD
+9000
+SPURS-I field Campaign
+ICM-CSIC Barcelona Sarmento SeaSoar deployed for SPURS-I field campaign
+-36
+HISTORICAL
+The SPURS (Salinity Processes in the Upper Ocean Regional Study) project is an oceanographic process study and associated field program that aim to elucidate key mechanisms responsible for near-surface salinity variations in the oceans.
+The project involves two field campaigns and a series of cruises in regions of the Atlantic and Pacific Oceans exhibiting salinity extremes.
+SPURS employs a suite of state-of-the-art in-situ sampling technologies that, combined with remotely sensed salinity fields from the Aquarius/SAC-D and SMOS satellites, provide a detailed characterization of salinity structure over a continuum of spatio-temporal scales.
+The SPURS-1 campaign involved a series of 5 cruises during 2012 - 2013 seeking to characterize the salinity structure and balance in a high salinity, high evaporation, and low rainfall region of the subtropical North Atlantic.
+It aims to resolve processes responsible for maintaining the subtropical surface salinity maximum in this region and within a 900 x 800-mile square study area centered at 25N, 38W.
+The Seasoar is a towed vehicle equipped with impeller-forced wings that can be rotated on command to allow the vehicle to undulate in the upper ocean.
+Generally, Seasoar operates between the surface and about 400 meters depth while being towed on faired cable at about eight knots.
+A typical dive cycle takes about 12 minutes to complete, providing an up and down profile every 3 km.
+For SPURS-1, a Seasoar was deployed exclusively during the Sarmiento cruise over the period 22 Mar-8 Apr, 2013 and to a maximum depth of 312m.
+The Seasoar towed sensor system was equipped with dual pumped temperature/conductivity sensors.
+The Seasoar data in netCDF form here contains a highly processed 1-meter gridded version of the original source dataset, which is comprised of temperature, conductivity, salinity, pressure observations from 1144 casts during 2013 Spring SPURS Cruise.
+R Reader and calling routines
+Field Campaign and Instrument Overview
+Meeting Materials, Cruise Blogs, and other archive artifacts
+Cruise Reports
+Thumbnail image for dataset on Portal
+Data Submission Report, Instrument Calibration Report, etc
+MATLAB Reader and calling routines
+Project Website for SPURS
+NULL
+NONE
+Conductivity
+Temperature Profiles
+Salinity
+1365464700000
+NONE
+SPURS Project
+SPURS
+Creation of Dataset via Metadata Tool.
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_PROJECT_MATERIALS
+Thumbnail
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_ADDITIONAL_SITES
+Oceans
+Oceans
+Oceans
+Technical Contact
+SPURS Project Data Management PI
+ICM-CSIC Barcelona Sarmento SeaSoar
+0
+NULL
+SPURS Data manager, Fred Bingham
+SPURS1_SEASOAR
+9000
+ARCHIVE-DIST
+SPURS-1 field campaign Seasoar data
+1428296891655
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+SPURS Data manager, Fred Bingham
+Y
+SPURS PROJECT, Fred Bingham
+Continuous
+SPURS Data Management PI, Fred Bingham
+Services
+Bingham
+Dataset Creation via Metadata Tool
+1428296891655
+E.Lindstrom, F.Bryan, R.Schmitt. 2015. SPURS: Salinity Processes in the Upper-ocean Regional Study - The North Atlantic Experiment. Oceanography 28(1):14-19, http://dx.doi.org/10.5670/oceanog.2015.01.
+NULL
+null
+NULL
+http://people.uncw.edu/binghamf/
+NASA/JPL/PODAAC
+SPURS-DM
+0
+DATA-CENTER
+DATA-PROVIDER
+SPURS-1  N.Atlantic Salinity maximum region
+NULL
+Conductivity
+Temperature Profiles
+Salinity

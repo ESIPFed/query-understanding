@@ -1,0 +1,167 @@
+12 Hour
+-60
+1002 Balch Blvd, Code NP32, Stennis Space Center, MS 39522, USA
+NULL
+Northeast Atlantic
+NERC Earth Observation Data Acquisition and Analysis Service, UK
+NOAA-19
+none
+228-688-5577
+NULL
+none
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L2P/AVHRR19_L/NEODAAS/
+file:///store/ghrsst/open/data/L2P/AVHRR19_L/NEODAAS
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L2P/AVHRR19_L/NEODAAS
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L2P/AVHRR19_L/NEODAAS
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/AVHRR19_L/NEODAAS
+http://ghrsst.jpl.nasa.gov
+http://www.ghrsst.org
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GH19L-2PS01
+/data/export/web/thumbnails
+-24
+NOAA-19
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GH19L-2PS01
+Ocean Temperature
+N/A
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+2P
+1
+Doug
+90
+GHRSST Level 2P North Atlantic Regional Bulk Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on the NOAA-19 satellite produced by NEODAAS
+GHRSST
+sea surface temperature
+L2P
+sst
+surface temperature
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1295629813000
+1100
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+2400
+OPEN
+1252212955000
+Group for High Resolution Sea Surface Temperature
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+2P
+MD5
+Satellite native swath
+1
+1252212955000
+LOCAL-OPENDAP
+ARCHIVE-OPEN
+LOCAL-FTP
+REMOTE-OPENDAP
+REMOTE-FTP
+WGS-84
+1100
+NETCDF
+National Oceanic & Atmospheric Administration-19
+none
+none
+Web Service (PO.DAAC Labs)
+NEODAAS-L2P-AVHRR19_L.jpg
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+None
+Earth Science
+DATA-PROVIDER
+90
+PODAAC-GH19L-2PS01
+NEODAAS-L2P-AVHRR19_L
+Processed by Panorama at PML
+227
+NAVO
+1
+GHRSST L2P sea surface temperature from AVHRR
+doug.may@navy.mil
+BZIP2
+http://www.neodaas.ac.uk/faq/
+GHRSST Level 2P North Atlantic Regional Bulk Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on the NOAA-19 satellite produced by NEODAAS
+NULL
+60
+Bulk Sea Surface Temperature
+AVHRR L2P SST
+1257984000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/NEODAAS-L2P-AVHRR19_L.jpg
+GHRSST
+228-688-4859
+Less_than_daily
+1
+AVHRR-3
+AVHRR-3
+8
+Group for High Resolution Sea Surface Temperature Datasets
+NOAA (national oceanic and atmospheric administration) satellite number 19
+60
+NEAR_REAL_TIME
+A Level 2P swath-based Group for High Resolution Sea Surface Temperature (GHRSST) dataset for the North Atlantic area from the Advanced Very High Resolution Radiometer (AVHRR) on the NOAA-19 platform (launched on 6 Feb 2009).
+This particular dataset is produced by the Natural Environment Research Council (NERC) Earth Observation Data Acquisition and Analysis Service (NEODAAS) in collaboration with the National Centre for Ocean Forecasting (NCOF) in the United Kingdom.
+The AVHRR is a space-borne scanning sensor on the National Oceanic and Atmospheric Administration (NOAA) family of Polar Orbiting Environmental Satellites (POES) having a operational legacy that traces back to the Television Infrared Observation Satellite-N (TIROS-N) launched in 1978.
+AVHRR instruments measure the radiance of the Earth in 5 (or 6) relatively wide spectral bands.
+The first two are centered around the red (0.6 micrometer) and near-infrared (0.9 micrometer) regions, the third one is located around 3.5 micrometer, and the last two sample the emitted thermal radiation, around 11 and 12 micrometers, respectively.
+The legacy 5 band instrument is known as AVHRR/2 while the more recent version, the AVHRR/3 (first carried on the NOAA-15 platform), acquires data in a 6th channel located at 1.6 micrometer.
+Typically the 11 and 12 micron channels are used to derive sea surface temperature (SST) sometimes in combination with the 3.5 micron channel.
+The highest ground resolution that can be obtained from the current AVHRR instruments is 1.1 km at nadir.
+The NOAA platforms are sun synchronous generally viewing the same earth location twice a day or more (latitude dependent) due to the relatively large AVHRR swath of approximately 2400 km.
+NEODAAS-Dundee acquires approximately 15 AVHRR direct broadcast High Resolution Picture Transmission (HRPT) passes per day over NW Europe and the Arctic.
+Each pass is approximately 15 minutes duration.
+These are immediately transferred to NEODAAS-Plymouth where they are processed into sea surface temperature (SST) products and converted to L2P specifications.
+Portal to the GHRSST Global Data Assembly Center and data access
+GHRSST Project Home Page
+(Search Granule)
+Thumbnail image for Website
+NULL
+1 Day
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+PML
+GHRSST
+
+Get Data
+Project Home Page
+PORTAL_DA_DIRECT_ACCESS
+Thumbnail
+Oceans
+Primary Contact
+National Oceanic & Atmospheric Administration-19
+99
+NULL
+Naval Oceanographic Office (NAVOCEANO)
+3 Hour
+NEODAAS-L2P-AVHRR19_L
+6
+ROLLING-STORE
+NEODAAS-L2P-AVHRR19_L
+1276190663514.91
+NETCDF
+Naval Oceanographic Office (NAVOCEANO)
+Y
+NEODAAS
+NEODAAS
+May
+REPAIRED META_HISTORY ENTRY
+
+Geolocation information included for each pixel
+Information about the AVHRR processing system at NEODAAS can be found at: http://www.neodaas.ac.uk/faq/ and in this conference paper: Miller P, Groom S, McManus A, Selley J and Mironnet N. (1997) PANORAMA: a semi-automated AVHRR and CZCS system for observation of coastal and ocean processes. RSS97: Observations and Interactions, In: Proceedings of the Remote Sensing Society, pp 539-544, Reading, September 1997. (http://www.npm.ac.uk/papers/miller_rss97/).
+NULL
+none
+https://www.navo.navy.mil
+NAVO
+102
+DATA-PROVIDER
+Northeast Atlantic
+NULL
+Sea Surface Temperature

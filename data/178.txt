@@ -1,0 +1,204 @@
+12 Hour
+-180
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+
+NULL
+Global
+PO.DAAC
+QUIKSCAT
+
+818-393-2718
+
+NULL
+ftp://podaac-ftp.jpl.nasa.gov/allData/quikscat/L1C/v1
+file:///store/quikscat/open/L1C/v1
+ftp://podaac.jpl.nasa.gov/allData/quikscat/L1B/v2/docs/L1B_SIS_200609.pdf
+ftp://podaac.jpl.nasa.gov/allData/quikscat/L1C/sw
+http://podaac.jpl.nasa.gov/OceanWind/QuikSCAT/SeaWinds-QuikSCAT_KnownProblems
+/data/export/web/thumbnails
+-89.875
+QUIKSCAT
+Quick Scatterometer
+OPEN
+10.5067/QSNON-L1CA1
+Radar
+Ocean Winds
+1
+
+
+NULL
+Quick Scatterometer
+1C
+58
+David
+Bryan
+89.875
+QuikSCAT Level 1C Averaged Sigma-0 and Winds from Non-spinning Antenna Version 1.0
+ocean
+roughness
+ocean roughness
+radar
+backscatter
+normalized radar cross-section
+normalized radar cross section
+nrcs
+sigma-0
+sigma0
+sigma naught
+dB
+L1C
+level 1C
+1C
+scatterometer
+quikscat
+qscat
+seawinds
+non-spinning
+averaged
+wind
+wind speed
+vector
+wind vector
+ocean wind
+ocean winds
+winds
+vectors
+wind vectors
+surface
+SPACECRAFT
+QUIKSCAT
+DELAY_MODE
+1454499656329
+25000
+QUIKSCAT
+N
+NULL
+None
+Radar
+Ocean Winds
+1800
+OPEN
+1279321579000
+Quick Scatterometer
+SeaWinds is a Ku-band (13.4 GHz) Scatterometer which features a single circular scanning dish antenna to provide pencil-beam measurements, as opposed to the common fan beam design as seen with other spaceborne scatterometers.
+The pencil-beam design has several key advantages over the more common fan beam design: higher signal-to-noise ratio, smaller size, and superior coverage.
+The SeaWinds single antenna utilizes twin offset feeds, thus providing two pencil-beam footprint paths with an elliptical sampling footprint of approximately 25 km (in azimuth) by 37 km (in look/range direction); these pencil beams have opposing polarizations (i.e., vertical and horizontal), thus achieving dual-polarization.
+The SeaWinds instrument provides a full 1800 km-wide swath coverage (including the nadir region), which allows for a nominal daily measurement coverage of 90% over the ice-free oceans.
+1C
+MD5
+1
+1279321579000
+LOCAL-FTP
+ARCHIVE-OPEN
+WGS-84
+25000
+RAW
+QUIKSCAT
+L1B SIS Document
+Read Software
+QuikSCAT Known Problems and Issues
+QSCAT_L1C_NONSPINNING_SIGMA0_WINDS_V1.jpg
+25000
+1279321579000
+SeaWinds Scatterometer
+SeaWinds Scatterometer
+None
+Earth Science
+Earth Science
+DATA-PROVIDER
+PODAAC-QSNON-L1CA1
+QSCAT_L1C_NONSPINNING_SIGMA0_WINDS_V1
+
+2293
+SeaPAC
+1
+QuikSCAT Level 1C Averaged Sigma-0 and Winds from Non-spinning Antenna Version 1.0
+David.F.Moroni@jpl.nasa.gov
+Bryan.W.Stiles@jpl.nasa.gov
+NONE
+
+QuikSCAT Level 1C Averaged Sigma-0 and Winds from Non-spinning Antenna Version 1.0
+NULL
+None
+Ocean Surface Wind Vectors
+QuikSCAT Level 1C Averaged Sigma-0 and Winds from Non-spinning Antenna Version 1.0
+1467158400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/QSCAT_L1C_NONSPINNING_SIGMA0_WINDS_V1.jpg
+QUIKSCAT
+818-354-2038
+(818) 354-5329
+Less_than_daily
+1.0
+SEAWINDS
+SEAWINDS
+1440
+Quick Scatterometer
+The SeaWinds on QuikSCAT mission is a "quick recovery" mission to fill the gap created by the loss of data from the NASA Scatterometer (NSCAT), when the satellite it was flying on lost power in June 1997.
+The SeaWinds instrument on the QuikSCAT satellite is a specialized microwave radar that measures near-surface wind speed and direction under all weather and cloud conditions over Earth's oceans.
+180
+DELAY_MODE
+This dataset contains geo-located and averaged Level 1B Sigma-0 measurements and wind retrievals from the SeaWinds on QuikSCAT platform, initiated in the months following the failure of the rotating antenna motor on 22 November 2009, using the various incidence angles at which QuikSCAT was pointed during the time period from November 2009 until present.
+Incidence angles were varied in order to cross-calibrate the Oceansat-2 and RapidScat scatterometers and to extend the known Ku-band geophysical model function.
+The averaging of the L1B input data combined with the wind vector processing results are both contained in this product referred to hereafter as Level 1C (L1C).
+The fixed and repointed beam processing is relative to either the one corresponding to the vertically polarized "outer" beam or the other corresponding to the horizontally polarized "inner" beam.
+The Sigma-0 values from the fixed operating beam for each frame are averaged to a single value representing approximately 50 samples.
+The data points are land flagged, collocated with ECMWF surface winds, and have climatological nadir attenuations provided for the location and time of the data (not applied to the sigma0).
+Furthermore, the RapidSCAT geophysical model function (GMF) has been used to compute wind speed and direction, which is provided at each discrete sampling point corresponding to the averaged Sigma-0 locations.
+The wind speed were computed from QuikSCAT Sigma0 values by assuming the ECMWF wind direction as a first step and then refining those directions slightly to minimize differences between ECMWF and QuikSCAT wind vectors.
+Retrieved wind directions, thus obtained, were reported but are only slightly different from ECMWF values and should not be considered an independent measurement of wind direction.
+Retrieved wind speeds do not depend significantly on ECMWF speeds as evidenced by the fact that they agree closely with WindSAT polarimetric radiometer speeds whenever WindSAT and ECMWF disagree.
+The Sigma0 values have also been corrected for scan loss (actually lack thereof, since the antenna does not scan), and for X-factor changes due to repointing.
+Software Interface Specifications for L1B
+Read software provided in MATLAB and Python.
+Web Page Consisting of Known Problems, Issues, and Data Gaps
+Thumbnail image for Website
+NULL
+4 Day
+ORACLE
+Sigma Naught
+Surface Winds
+NONE
+SeaWinds Processing and Analysis Center (SeaPAC)
+QUIKSCAT
+Creation of Dataset via Metadata Tool.
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_KNOWN_ISSUES
+Thumbnail
+Spectral/Engineering
+Oceans
+Technical Contact
+Science Data Systems Lead
+QUIKSCAT
+98.6
+NULL
+SeaWinds Processing and Analysis Center (SeaPAC)
+1.7 Hour
+QSCAT_L1C_NONSPINNING_SIGMA0_WINDS_V1
+1800
+ARCHIVE-DIST
+QuikSCAT Level 1C Averaged Sigma-0 and Winds from Non-spinning Antenna Version 1.0
+1454499656329
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+SeaWinds Processing and Analysis Center (SeaPAC)
+Y
+JPL
+PO.DAAC
+Moroni
+Stiles
+Dataset Creation via Metadata Tool
+1454499656329
+NULL
+
+
+http://winds.jpl.nasa.gov/
+NASA/JPL/PODAAC
+SeaPAC
+100.93
+DATA-CENTER
+DATA-PROVIDER
+Global
+NULL
+Sigma Naught
+Surface Winds

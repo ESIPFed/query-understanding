@@ -1,0 +1,170 @@
+12 Hour
+0
+null
+NULL
+Global
+PO.DAAC
+ADEOS-II
+ADEOS-II
+
+null
+ftp://podaac-ftp.jpl.nasa.gov/allData/seawinds/L2BE
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/seawinds/L2BE/
+file:///store/seawinds/open/L2BE
+/data/export/web/thumbnails
+ftp://podaac-ftp.jpl.nasa.gov/allData/seawinds/L2BE/docs/SWS_SDPUG_V2.0.pdf
+-90
+ADEOS-II
+ADEOS-II
+NULL
+OPEN
+10.5067/SEAAM-L2B00
+Ocean Winds
+null
+NULL
+SeaWinds on ADEOS-II
+2
+User
+90
+SeaWinds on ADEOS-II Level 2B Ocean Wind Vectors with AMSR Corrections in 25 Km Swath Grid
+wind data
+wind
+ocean wind
+wind speed
+vector
+vectors
+ocean wind vector
+ocean wind vectors
+seawinds
+adeos-2
+adeos-ii
+scatterometer
+l2b
+amsr
+SPACECRAFT
+SPACECRAFT
+HISTORICAL
+1295629813000
+25000
+SEAWINDS
+Y
+NULL
+none
+Ocean Winds
+1800
+1600
+OPEN
+1049933295000
+SeaWinds on ADEOS-II
+SeaWinds is a Ku-band (13.4 GHz) Scatterometer which features a single circular scanning dish antenna to provide pencil-beam measurements, as opposed to the common fan beam design as seen with other spaceborne scatterometers.
+The pencil-beam design has several key advantages over the more common fan beam design: higher signal-to-noise ratio, smaller size, and superior coverage.
+The SeaWinds single antenna utilizes twin offset feeds, thus providing two pencil-beam footprint paths with an elliptical sampling footprint of approximately 25 km (in azimuth) by 37 km (in look/range direction); these pencil beams have opposing polarizations (i.e., vertical and horizontal), thus achieving dual-polarization.
+The SeaWinds instrument provides a full 1800 km-wide swath coverage (including the nadir region), which allows for a nominal daily measurement coverage of 90% over the ice-free oceans.
+The Advanced Microwave Scanning Radiometer (AMSR) is an eight-frequency, total-power passive microwave radiometer with dual polarization (except two vertical channels in the 50GHz band).
+2
+MD5
+Swath
+1
+1049933295000
+LOCAL-FTP
+LOCAL-OPENDAP
+ARCHIVE-OPEN
+WGS-84
+25000
+HDF
+Advanced Earth Observing Satellite-II
+Advanced Earth Observing Satellite-II
+SEAWINDS_LEVEL_2B_AMSR.jpg
+SeaWinds Science Data Product User Guide
+1800000
+1049927613000
+SeaWinds Scatterometer
+Advanced Microwave Scanning Radiometer
+SeaWinds Scatterometer
+Advanced Microwave Scanning Radiometer
+none
+Earth Science
+DATA-CENTER
+PODAAC-SEAAM-L2B00
+1067025703000
+SEAWINDS_LEVEL_2B_AMSR
+
+169
+NASA/JPL/PODAAC
+SeaWinds on ADEOS-II Level 2B Ocean Wind Vectors with AMSR Corrections in 25 Km Swath Grid
+podaac@podaac.jpl.nasa.gov
+GZIP
+ftp://podaac-ftp.jpl.nasa.gov/allData/seawinds/L2BE/docs/SWS_SDPUG_V2.0.pdf
+SeaWinds on ADEOS-II Level 2B Ocean Wind Vectors with AMSR Corrections in 25 Km Swath Grid
+NULL
+Ocean Surface Wind Vectors
+SeaWinds Science Data Record
+1154563200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/SEAWINDS_LEVEL_2B_AMSR.jpg
+(818) 393-7165
+Less_than_daily
+2
+SEAWINDS
+AMSR
+SEAWINDS
+AMSR
+The second Advanced Earth Observing Satellite (ADEOS-II) was as a NASDA/NASA/JPL partner mission launched on December 14, 2002.
+By April 10, 2003 the SeaWinds scattorometer on ADEOS-II began to provide science quality measurements to derive ocean surface wind velocity observations.
+ADEOS-II suffered a premature power failure on October 24, 2003, which resulted in the termination of the ADEOS-II mission.
+SeaWinds on ADEOS-II provided the same 90aily global ice-free ocean coverage as QuikSCAT, allowing for a tandem collection of high quality wind vector observations for more than 6 months.
+The second Advanced Earth Observing Satellite (ADEOS-II) was as a NASDA/NASA/JPL partner mission launched on December 14, 2002.
+By April 10, 2003 the SeaWinds scattorometer on ADEOS-II began to provide science quality measurements to derive ocean surface wind velocity observations.
+ADEOS-II suffered a premature power failure on October 24, 2003, which resulted in the termination of the ADEOS-II mission.
+SeaWinds on ADEOS-II provided the same 90aily global ice-free ocean coverage as QuikSCAT, allowing for a tandem collection of high quality wind vector observations for more than 6 months.
+360
+HISTORICAL
+This dataset is designed to compliment the SeaWinds on ADEOS-II Level 2B dataset by providing ocean surface wind vectors in 25 km wind vector cell (WVC) swaths with AMSR corrections and precipitation rates.
+This dataset also includes parameters to estimate the impact of rain upon wind speed and direction.
+Wind vectors are accurate to within 2 m/s (vector speed) and 20 degrees (vector direction).
+Rain flags are provided for each wind vector cell to assist in identifying potential rain contamination.
+An ASCII inline quality report (Q2B) has been generated for each L2B file; each Q2B file provides statistics of various quality elements pertaining to the processing of a specific L2B file.
+This product utilizes JPL's most up-to-date calibration, validation, and science data processing from the QSCAT-1/F13 geophysical model function, adopted in July of 2006.
+Thumbnail image for Website
+Dataset User Guide
+NULL
+4 Day
+ORACLE
+Surface Winds
+1067025703000
+YEAR-DOY
+SeaPAC
+SEAWINDS
+Thumbnail
+Reference Materials
+Oceans
+Technical Contact
+Advanced Earth Observing Satellite-II
+Advanced Earth Observing Satellite-II
+98.62
+98.62
+NULL
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+1.7 Hour
+SEAWINDS_LEVEL_2B_AMSR
+ARCHIVE-DIST
+SEAWINDS_LEVEL_2B_AMSR
+1245071290000
+HDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+SeaPAC
+SeaPAC
+Services
+15-JUN-09 Manually Migrated from Ingres
+Along-track Grid
+Lungu, T., July 2006. SeaWinds Science Data Product User Manual. Version 2.0, JPL Document D-21551 - Version 2, Jet Propulsion Laboratory, Pasadena, CA.
+NULL
+null
+http://podaac.jpl.nasa.gov/
+NASA/JPL/PODAAC
+101.05
+101.05
+DATA-CENTER
+Global
+NULL
+Surface Winds

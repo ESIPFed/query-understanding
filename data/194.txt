@@ -1,0 +1,207 @@
+-76.02
+Meteo France, Centre de Meteorologie Spatiale (CMS), Lannion, 22303 Lannion, cedex, France
+Meteo-France/CMS, Avenue de Lorraine, BP50747 22307 Lannion, France
+NULL
+Atlantic Ocean
+EUMETSAT Ocean and Sea Ice Satellite Application Facility, Lannion, France
+MetOp-B
+Northeast Atlantic including Mediterranean, Baltic and Black Seas
++33 2 96 05 67 37
++ 33 2 9605-6737
+NULL
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L3C/NAR/AVHRR_SST_METOP_B_NAR/OSISAF/v1
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L3C/NAR/AVHRR_SST_METOP_B_NAR/OSISAF/v1/
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L3C/NAR/AVHRR_SST_METOP_B_NAR/OSISAF/v1
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L3C/NAR/AVHRR_SST_METOP_B_NAR/OSISAF/v1
+file:///store/ghrsst/open/data/GDS2/L3C/NAR/AVHRR_SST_METOP_B_NAR/OSISAF/v1
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/docs/GDS20r5.pdf
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/python/
+https://podaac.jpl.nasa.gov/forum/viewtopic.php?f=5&t=219
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHN19-3PE01
+http://ghrsst.jpl.nasa.gov
+http://www.osi-saf.org/biblio/docs/ss1_pum_leo_sst_2_0.pdf
+/data/export/web/thumbnails
+http://www.ghrsst.org
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/idl/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/R/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/matlab/
+https://podaac.jpl.nasa.gov/forum/viewtopic.php?f=7&t=298
+13.59
+MetOp-B
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+Ocean Temperature
+1
+
+
+NULL
+Group for High Resolution Sea Surface Temperature
+3
+1
+Pierre
+Guenole
+78.24
+GHRSST Level 3C North Atlantic Regional Subskin Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on  MetOp-B  (GDS2 version)
+GHRSST
+sea surface temperature
+sst
+surface temperature
+MetOp-B
+12 Hour
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1453845819030
+0.02
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+2400
+OPEN
+1452090600000
+Group for High Resolution Sea Surface Temperature
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+3
+MD5
+Cylindrical Lat-Lon
+1
+1452090600000
+REMOTE-FTP
+LOCAL-OPENDAP
+LOCAL-FTP
+REMOTE-OPENDAP
+ARCHIVE-OPEN
+WGS 84
+NETCDF
+Meteorological Operational Satellite - B
+GHRSST GDS2 User Manuel
+PYTHON
+Subsetting Script
+Web Service (PO.DAAC Labs)
+
+Product User Manual
+AVHRR_SST_METOP_B_NAR-OSISAF-L3C-v1.0.jpg
+GHRSST Project Website
+IDL
+R
+MATLAB
+What is SST ?
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+None
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHNMB-3CO02
+AVHRR_SST_METOP_B_NAR-OSISAF-L3C-v1.0
+Product developed and provided by the EUMETSAT Ocean and Sea Ice Satellite Application Facility copyright 2008 EUMETSAT
+2288
+OSISAF
+1
+MetOp-B AVHRR NAR SST data set
+pierre.leborgne@meteo.fr
+guenole.guevel@meteo.fr
+NONE
+none
+GHRSST Level 3C North Atlantic Regional Subskin Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on  MetOp-B  (GDS2 version)
+NULL
+Subskin Sea Surface Temperature
+NAR AVHRR SST
+1422835200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/AVHRR_SST_METOP_B_NAR-OSISAF-L3C-v1.0.jpg
+0.02
+GHRSST
++33 2 96 05 67 52
++ 33 2 9605-6791
+Less_than_daily
+1
+AVHRR-3
+AVHRR-3
+10
+Group for High Resolution Sea Surface Temperature Datasets
+MetOp-A is the second in a series of three polar-orbiting European meteorological satellites,  launched on 17 September 2012 as part of the EUMETSAT Polar System.
+72.97
+NEAR_REAL_TIME
+A Group for High Resolution Sea Surface Temperature (GHRSST) dataset for the North Atlantic Region (NAR) derived from the Advanced Very High Resolution Radiometer (AVHRR) on the European Meteorological Operational-B (MetOp-B) platform (launched 17 Sep 2012).
+This particular dataset is produced by the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT), Ocean and Sea Ice Satellite Application Facility (OSI SAF) in France.
+The AVHRR is a space-borne scanning sensor on the National Oceanic and Atmospheric Administration (NOAA) family of Polar Orbiting Environmental Satellites (POES) having a operational legacy that traces back to the Television Infrared Observation Satellite-N (TIROS-N) launched in 1978.
+AVHRR instruments measure the radiance of the Earth in 5 (or 6) relatively wide spectral bands.
+The first two are centered around the red (0.6 micrometer) and near-infrared (0.9 micrometer) regions, the third one is located around 3.5 micrometer, and the last two sample the emitted thermal radiation, around 11 and 12 micrometers, respectively.
+The legacy 5 band instrument is known as AVHRR/2 while the more recent version, the AVHRR/3 (first carried on the NOAA-15 platform), acquires data in a 6th channel located at 1.6 micrometer.
+Typically the 11 and 12 micron channels are used to derive sea surface temperature (SST) sometimes in combination with the 3.5 micron channel.
+The highest ground resolution that can be obtained from the current AVHRR instruments is 1.1 km at nadir.
+The MetOp-B platform is sun synchronous generally viewing the same earth location twice a day (latitude dependent) due to the relatively large AVHRR swath of approximately 2400 km.
+The NAR products are SST fields derived from 1km  AVHRR data that are re-mapped onto a 0.02 degree equal angle grid.
+In the processing chain, global AVHRR level 1b data are acquired at Centre de Meteorologie Spatiale (CMS) through the EUMETSAT/EUMETCAST system.
+A cloud mask is applied and SST is retrieved from the AVHRR infrared (IR) channels by using  a multispectral technique.
+This dataset adheres to the GHRSST Data Processing Specification (GDS) version 2 format specifications.
+Documentation on the GDS version 2 format specification
+
+Python Subsetting Script
+(Search Granule)
+Portal to the GHRSST Global Data Assembly Center and data access
+
+Thumbnail image for Website
+Description of the GHRSST Project
+
+
+
+
+NULL
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+EUMETSAT
+GHRSST
+Creation of Dataset via Metadata Tool.
+PORTAL_DOC_USERS_GUIDE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_TOOLS_AND_SERVICES
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DOC_PROJECT_MATERIALS
+Thumbnail
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_FAQS
+Oceans
+Data originator/Technical contact
+Investigator
+Meteorological Operational Satellite - B
+98.7
+NULL
+Ocean and Sea Ice Satellite Application Facility
+AVHRR_SST_METOP_B_NAR-OSISAF-L3C-v1.0
+24
+ARCHIVE-DIST
+AVHRR_SST_METOP_B_NAR-OSISAF-L3C-v1.0
+1453845819030
+NETCDF
+Meteorologie Spatiale
+European Organisation for the Exploitation of Meteorological Satellites
+Y
+EUMETSAT/OSI-SAF
+EUMETSAT Ocean and Sea Ice Satellite Application Facility, Meteo-France/CMS, Lannion, France
+LeBorgne
+Guevel
+Dataset Creation via Metadata Tool
+1453845819030
+Regular 0.02 degree grid
+Low Earth Orbiter Sea Surface Temperature Product User Manual, http://www.osi-saf.org
+NULL
+none
+SILENT
+CMS
+EUMETSAT
+101.3
+DATA-PROVIDER
+DATA-PROVIDER
+Atlantic Ocean
+NULL
+12 Hour
+Sea Surface Temperature

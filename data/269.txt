@@ -1,0 +1,223 @@
+0
+-180
+null
+NULL
+Global
+IPRC/SOEST University of Hawaii, Manoa
+AQUARIUS_SAC-D
+AQUARIUS_SAC-D
+
+null
+file:///store/aquarius/open/L4/IPRC/v4/7day
+ftp://podaac-ftp.jpl.nasa.gov/allData/aquarius/L4/IPRC/v4/7day
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/aquarius/L4/IPRC/v4/7day/
+/data/export/web/thumbnails
+http://aquarius.nasa.gov/
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/SalinityDensity/aquarius/catalog.html
+http://podaac.jpl.nasa.gov/aquarius
+ftp://podaac-ftp.jpl.nasa.gov/allData/aquarius/sw/idl/
+ftp://podaac-ftp.jpl.nasa.gov/allData/aquarius/docs/IPRC_OISSS/
+http://podaac.jpl.nasa.gov/las
+ftp://podaac-ftp.jpl.nasa.gov/allData/aquarius/docs/IPRC_OISSS/Melinchenko_AqSssOI_Technical_Notes.pdf
+ftp://podaac-ftp.jpl.nasa.gov/allData/aquarius/sw/matlab/
+http://oceancolor.gsfc.nasa.gov/sdpscgi/public/aquarius_report.cgi
+-90
+AQUARIUS_SAC-D
+AQUARIUS_SAC-D
+NULL
+OPEN
+10.5067/AQR40-4U7CS
+Salinity/Density
+1
+null
+NULL
+AQUARIUS SAC-D
+4
+User
+90
+IPRC/SOEST Aquarius V4.0 Optimally Interpolated Sea Surface Salinity 7-Day global Dataset
+Aquarius
+salinity
+SSS
+OI
+oisss
+optimally interpolated
+IPRC
+SOEST
+polar
+sun-synchronous
+sss
+psu
+CONAE
+argentina
+JPL
+7 Day
+SPACECRAFT
+SPACECRAFT
+HISTORICAL
+1455848971800
+0.5
+AQUARIUS SAC-D
+N
+NULL
+NONE
+Salinity/Density
+390
+373
+OPEN
+1314403200000
+AQUARIUS SAC-D
+Launched in 2011 the 3 Aquarius radiometers meet very exacting requirements for low noise and calibration stability.
+This makes them about an order of magnitude more accurate than any radiometer ever used before for remote sensing of the earth.
+Aquarius measures in the microwave range at 1.413 GHz (+/- 25MHz).
+The Aquarius  scatterometer  is a total-power L-band (1.26 GHz)
+radar system for estimating ocean surface roughness.
+Its
+measurements will enable the removal of wind effects from the
+Aquarius radiometer ocean-surface brightness temperature
+measurements being used to retrieve ocean salinity.
+The
+Aquarius scatterometer is a relatively simple, low-spatial
+resolution power-detecting radar, without ranging capability.
+But to meet its science requirement, it must be very stable, with
+repeatability on the order of 0.1 dB over several days, and
+calibrated accuracy to this level over several months.
+Data
+from this instrument over land as well as ocean areas will be
+available for a variety of geophysical applications.
+4
+MD5
+Gridded
+1
+1314403200000
+ARCHIVE-OPEN
+LOCAL-FTP
+LOCAL-OPENDAP
+WGS 84
+NETCDF
+Aquarius SAC-D
+Aquarius SAC-D
+AQUARIUS_L4_OISSS_IPRC_7DAY_V4.jpg
+Aquarius/SAC-D Mission Website
+THREDDS
+PO.DAAC Aquarius/SAC-D Mission page
+IDL
+IPRC/SOEST Aquarius L4 OI-SSS Documentation Package
+LAS
+IPRC/SOEST Aquarius L4 OI-SSS ATBD
+MATLAB
+Aquarius/SAC-D Event Log
+Aquarius Radiometer
+Aquarius Scatterometer
+Aquarius Radiometer
+Aquarius Scatterometer
+NONE
+Earth Science
+DATA-PROVIDER
+1
+PODAAC-AQR40-4U7CS
+1433678400000
+AQUARIUS_L4_OISSS_IPRC_7DAY_V4
+IPRC/SOEST Aquarius OI-SSS v4.0
+2295
+0
+IPRC/SOEST
+1
+0
+Aquarius L4 Optimally Interpoated Sea Surface Salinity
+podaac@podaac.jpl.nasa.gov
+NONE
+http://apdrc.soest.hawaii.edu/datadoc/oisss.php
+IPRC/SOEST Aquarius V4.0 Optimally Interpolated Sea Surface Salinity 7-Day global Dataset
+NULL
+None
+Aquarius Optimally Interpoated Sea Surface Salinity Products
+1461542400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/AQUARIUS_L4_OISSS_IPRC_7DAY_V4.jpg
+0.5
+(818) 393-7165
+Weekly
+4.0
+AQUARIUS_RADIOMETER
+AQUARIUS_SCATTEROMETER
+AQUARIUS_RADIOMETER
+AQUARIUS_SCATTEROMETER
+168
+Aquarius SAC-D is a joint venture between NASA and Argentina's Space Agency CONAE.
+In addition to NASA's  Aquarius instrument CONAE instruments include MWR (Microwave Radiometer), NIRST (New Infrared Sensor Technology), HSC (High Sensitivity Camera),  TDP (Technological Demonstration Package) and DCS (Data Collection System).
+Italy's ASI is providing ROSA (Radio Occultation Sounder for Atmosphere) and France's CNES Carmen 1 which consists of ICARE (Cosmic radiation effects) and SODAD (micro particles and space debris).
+Aquarius SAC-D is a joint venture between NASA and Argentina's Space Agency CONAE.
+In addition to NASA's  Aquarius instrument CONAE instruments include MWR (Microwave Radiometer), NIRST (New Infrared Sensor Technology), HSC (High Sensitivity Camera),  TDP (Technological Demonstration Package) and DCS (Data Collection System).
+Italy's ASI is providing ROSA (Radio Occultation Sounder for Atmosphere) and France's CNES Carmen 1 which consists of ICARE (Cosmic radiation effects) and SODAD (micro particles and space debris).
+180
+HISTORICAL
+The IPRC/SOEST Aquarius OI-SSS v4 product is a level 4, near-global, 0.5 degree spatial resolution,  7-day, optimally interpolated salinity dataset based on version 4.0 of the AQUARIUS/SAC-D level 2 mission data.
+This is a PI led dataset produced at the International Pacific Research Center (IPRC) at the University of Hawaii (Manoa) School of Ocean and Earth Science and Technology.
+The optimal interpolation (OI) mapping procedure used to create this product corrects for systematic spatial biases in Aquarius SSS data with respect to Argo near-surface salinity observations and takes into account available statistical information about the signal and noise, specific to the Aquarius instrument.
+Bias fields are constructed by differencing the Argo from  Aquarius derived SSS fields obtained separately using ascending and descending satellite observations  for each of the three Aquarius beams, and by removal of small-scale noise and low-pass filtering along-track using a two-dimensional  Hanning window procedures prior to application of the OI algorithm.
+The Aquarius instrument is onboard the AQUARIUS/SAC-D satellite, a collaborative effort between NASA and the Argentinian Space Agency Comision Nacional de Actividades Espaciales (CONAE).
+The instrument consists of three radiometers in push broom alignment at incidence angles of 29, 38, and 46 degrees incidence angles relative to the shadow side of the orbit.
+Footprints for the beams are: 76 km (along-track) x 94 km (cross-track), 84 km x 120 km and 96km x 156 km, yielding a total cross-track swath of 370 km.
+The radiometers measure brightness temperature at 1.413 GHz in their respective horizontal and vertical polarizations (TH and TV).
+A scatterometer operating at 1.26 GHz measures ocean backscatter in each footprint that is used for surface roughness corrections in the estimation of salinity.
+The scatterometer has an approximate 390km swath.
+The Aquarius polar orbit is sun synchronous at 657 km with a 6 pm, ascending node, and has a 7-Day repeat cycle.
+Thumbnail image for Website
+NASA Aquarius/SAC-D mission website
+THREDDS SERVER
+Mission and Instrument Overview
+IDL Reader and calling routines
+ATBD, Publications
+Live Access Server
+IPRC/SOEST Aquarius L4 OI-SSS Algorithm Guide
+MATLAB Reader and calling routines
+Information on observatory maneuvers, anomalies and other events
+NULL
+NONE
+Salinity
+1433678400000
+YEAR-DOY
+IPRC/SOEST University of Hawaii, Manoa
+AQUARIUS SAC-D
+Creation of Dataset via Metadata Tool.
+Thumbnail
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DA_TOOLS_AND_SERVICES
+PORTAL_DOC_USERS_GUIDE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_KNOWN_ISSUES
+Oceans
+Technical Contact
+Aquarius SAC-D
+Aquarius SAC-D
+98
+98
+NULL
+International Pacific Research Cente, School of Ocean and Earth Science and Technology, University of Hawaii (Manoa)
+AQUARIUS_L4_OISSS_IPRC_7DAY_V4
+720
+ARCHIVE-DIST
+1455848971800
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+Oleg Melnichenko
+IPRC/SOEST - Oleg Melnichenko
+Services
+Dataset Creation via Metadata Tool
+1455848971800
+Melnichenko, O., P. Hacker., N. Maximenko, G. Lagerloef, and J. Potemra (2016), Optimal interpolation of Aquarius sea surface salinity, J. Geophys. Res. Oceans, 121, 602-616, doi:10.1002/2015JC011343
+NULL
+null
+NASA/JPL/PODAAC
+98
+98
+DATA-CENTER
+Global
+NULL
+7 Day
+Salinity

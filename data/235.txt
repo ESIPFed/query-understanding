@@ -1,0 +1,148 @@
+-180
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+Model
+
+818-393-2718
+NULL
+file:///store/tellus/open/L3/ecco_obp
+ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/ecco_obp
+-80
+Model
+TELLUS
+OPEN
+10.5067/TEECO-OBPK8
+Geodetics/Gravity
+1
+none
+NULL
+Making Earth Science Data Records for Use in Research   Environments
+3
+534
+Jessica
+80
+TELLUS ECCO OCEAN BOTTOM PRESSURE KALMAN FILTER 080
+1 Month
+Model
+TELLUS
+DELAY_MODE
+1306955135762
+1
+MEaSUREs
+N
+NULL
+none
+Geodetics/Gravity
+0
+OPEN
+725846400000
+Making Earth Science Data Records for Use in Research   Environments
+Model
+3
+MD5
+Spherical
+1
+725846400000
+ARCHIVE-OPEN
+LOCAL-FTP
+WGS84
+ASCII
+Model
+Model
+Model
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-TEECO-OBPK8
+TELLUS_ECCO_OBP_KF080
+TELLUS ECCO OCEAN BOTTOM PRESSURE KALMAN FILTER 080
+659
+TELLUS
+1
+TELLUS_ECCO_OBP_KF080
+Jessica.K.Hausman@jpl.nasa.gov
+GZIP
+http://grace.jpl.nasa.gov/data/get-data/ocean-bottom-pressure/
+TELLUS ECCO OCEAN BOTTOM PRESSURE KALMAN FILTER 080
+NULL
+
+TELLUS_ECCO_OBP_KF080
+1306972800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/TELLUS_ECCO_OBP_KF080.jpg
+1
+TELLUS
+818-354-4588
+Monthly
+KF080
+Model
+Model
+TELLUS
+Model
+180
+DELAY_MODE
+The Tellus ECCO Ocean Bottom Pressure (OBP) data contain monthly averaged OBP generated from the ECCO model (http://www.ecco-group.org), where OBP is defined as the atmospheric and oceanic masses above the sea floor.
+The KF080 version supersedes the previous version because a long period tide error was found, which impacted the altimeter data used in ECCO.
+This error has been corrected and the KF080 has the correct tides used in the altimeter data for the assimilation.
+This version also uses a Kalman filter 080.
+The specifics of the model are described in Kim, Lee and Fukumori (2007); the data assimilation approach was developed by Fukumori (2002).
+The particular grids available here derive from the version kf66b, which assimilates altimetric heights, XBT profiles, and other ocean in-situ data.
+Quoting from Kim et al (2007):
+
+" The model used is the parallel version of the primitive equation Massachusetts Institute of Technology (MIT) ocean GCM (Marshall et al.
+1997).
+The spatial domain is nearly global (80 deg S-80 deg N).
+Horizontal grid spacing is 1 deg globally except within 20 deg of the equator, in which meridional grid spacing is gradually reduced to 0.3 deg within 10 deg of the equator.
+There are 46 vertical levels with layer thickness of 10 m in the upper 150 m and 21 layers above 300 m. The model employs two advanced mixing schemes: the K-profile parameterization (KPP) vertical mixing (Large et al.
+1994) and the Gent-McWilliams (GM) isopycnal mixing (Gent and McWilliams 1990).
+The model is forced by the National Centers for Environmental Prediction (NCEP) reanalysis products (12-hourly wind stress, daily heat and freshwater air-sea fluxes) with the time means replaced by those of the Comprehensive Ocean-Atmosphere Data Set fluxes (da Silva et al.
+1994).
+In addition to this imposed heat flux, model sea surface temperature (SST) is relaxed to NCEP SST analysis with a time scale of 1-2 months using the formulation of Barnier et al.
+(1995).
+The model was first spun up for 10 yr from rest using climatological temperature and salinity (Boyer and Levitus 1998) forced by seasonal climatological forcings averaged from 1980 to 1997.
+Additional descriptions of the model and comparison with various observational data are provided by Lee et al.
+(2002).
+An approximate Kalman filter and smoother (Fukumori 2002) are used to assimilate anomalies of sea level and of subsurface temperature obtained from the Ocean Topography Experiment (TOPEX)/Poseidon (T/P) altimeter and the Global Telecommunication System (GTS; D. Behringer 2002, personal communication), respectively.
+The assimilation procedure corrects the temporal variability of the prior NCEP wind forcing through inversion by the smoother, but does not correct the time-mean wind or, consequently, the model's time-mean state.
+An earlier version of this system can be found in Fukumori et al.
+(1999).
+The modification of the wind forcing, although small in many regions, is effective in bringing the model closer to the data that are being assimilated.
+A detailed description of the principle of the Kalman filter and smoother approach can be found in Fukumori (2006).
+The resultant analysis fields are consistent with the physics of the GCM such that the property budgets (heat, salt, and momentum) are closed."
+For more information please visit http://grace.jpl.nasa.gov/data/get-data/ocean-bottom-pressure/.
+NULL
+NONE
+Gravity
+NONE
+TELLUS
+MEaSUREs
+Creation of Dataset via Metadata Tool.
+Solid Earth
+Technical Contact
+Model
+0
+NULL
+TELLUS
+TELLUS_ECCO_OBP_KF080
+ARCHIVE-DIST
+ECCO Ocean Bottom Pressure KF080
+1306955135762
+ASCII
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+ECCO
+TELLUS
+Hausman
+Dataset Creation via Metadata Tool
+1306955135762
+Kim, S.B., T. Lee and I. Fukumori, 2007: Mechanisms Controlling the Interannual Variation of Mixed Layer Temperature Averaged over the Nino-3 Region. J. Climate, vol 20, p 3822-3843 . DOI: 10.1175/JCLI4206.1
+NULL
+none
+NASA/JPL/PODAAC
+0
+DATA-CENTER
+Global
+NULL
+1 Month
+Gravity

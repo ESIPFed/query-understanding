@@ -1,0 +1,131 @@
+12 Hour
+0
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+PO.DAAC
+NIMBUS-7
+none
+818-393-2718
+ftp://podaac-ftp.jpl.nasa.gov/allData/nimbus7/L2
+file:///store/nimbus7/open/L2
+ftp://podaac.jpl.nasa.gov/pub/documents/dataset_docs/smmr_wentz.html
+/data/export/web/thumbnails
+-90
+NIMBUS-7
+NULL
+OPEN
+10.5067/SMMRN-2WAF0
+Ocean Winds
+
+NULL
+Nimbus-7
+2
+David
+90
+NIMBUS-7 SMMR GLOBAL AIR-SEA PARAMETERS IN SWATH (Wentz)
+SPACECRAFT
+HISTORICAL
+1295629813000
+60000
+NIMBUS-7
+Y
+NULL
+none
+Ocean Winds
+780
+OPEN
+310262400000
+Nimbus-7
+The Scanning Multichannel Microwave Radiometer, flown on board  Seasat, made the first simultaneous measurements of rain, water vapor, sea temperature and surface winds.
+2
+MD5
+Swath
+1
+310262400000
+LOCAL-FTP
+ARCHIVE-OPEN
+WGS-84
+60000
+RAW
+NIMBUS-7
+Wentz Nimbus-7 SMMR User Guide
+WENTZ_NIMBUS-7_SMMR_L2.jpg
+780000
+310305600000
+Scanning Multichannel Microwave Radiometer
+Scanning Multichannel Microwave Radiometer
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-SMMRN-2WAF0
+465433200000
+WENTZ_NIMBUS-7_SMMR_L2
+N/A
+110
+REMSS
+NIMBUS-7 SMMR GLOBAL AIR-SEA PARAMETERS IN SWATH (Wentz)
+David.F.Moroni@jpl.nasa.gov
+GZIP
+ftp://podaac.jpl.nasa.gov/pub/documents/dataset_docs/smmr_wentz.html
+NIMBUS-7 SMMR GLOBAL AIR-SEA PARAMETERS IN SWATH (Wentz)
+NULL
+Ocean Surface Wind Speed
+Nimbus-7 SMMR Ocean Data Products
+793929600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/WENTZ_NIMBUS-7_SMMR_L2.jpg
+818-354-2038
+Less_than_daily
+1
+SMMR
+SMMR
+Nimbus-7 was launched on October 25, 1978 to serve as the last in a series of operational weather satellites operated by the National Oceanic and Atmospheric Administration (NOAA) and NASA.
+Nimbus-7 was in a sun-synchronous orbit to support eight scientific instruments/experiments, including: Coastal Zone Color Scanner (CZCS), Earth Radiation Budget (ERB), Limb Infrared Monitor of the Stratosphere (LIMS), Stratospheric Aerosol Measurement (SAM-II), Stratospheric and Mesospheric Sounder (SAMS), Solar Backscatter Ultraviolet and Total Ozone Mapping Spectrometer (SBUV/TOMS), Scanning Multichannel Microwave Radiometer (SMMR), and Temperature Humidity Infrared Radiometer (THIR).
+360
+HISTORICAL
+Contains three parameters: ocean near-surface wind speed, columnar water vapor, and columnar liquid water.
+Product is produced by Frank Wentz at Remote Sensing Systems using data obtained from the Nimbus-7 Scanning Multichannel Microwave Radiometer (SMMR).
+Observations within 100 km of land are excluded; ice flags are also utilized.
+Data is obtained from all 10 individual SMMR channels, which closely correspond to the SMM/I channels and utilizing the same processing algorithms that were used to produce similar products derived from SSM/I observations (see PO.DAAC products 33 and 34).
+Dataset User Guide
+Thumbnail image for Website
+NULL
+6 Day
+ORACLE
+Surface Winds
+465433200000
+none
+REMSS
+NIMBUS-7
+Reference Materials
+Thumbnail
+Oceans
+Technical Contact
+NIMBUS-7
+99.1
+NULL
+Remote Sensing Systems
+1.7 Hour
+WENTZ_NIMBUS-7_SMMR_L2
+ARCHIVE-DIST
+NIMBUS-7 SMMR GLOBAL AIR-SEA PARAMETERS IN SWATH (Wentz)
+1245070917000
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+REMSS
+none
+PO.DAAC
+Moroni
+15-JUN-09 Manually Migrated from Ingres
+Along-track Grid
+Vazquez, J. Nimbus-7 SMMR Ocean Products:1979-1984. September, 1997. PO.DAAC.
+NULL
+
+http://www.remss.com
+NASA/JPL/PODAAC
+104.15
+DATA-CENTER
+Global
+NULL
+Surface Winds

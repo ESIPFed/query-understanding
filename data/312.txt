@@ -1,0 +1,202 @@
+1 Day
+14
+-73
+null
+Department of Physics and Physical Oceanography, University on North Carolina, Wilmington, NC, USA
+NULL
+SPURS-1  N.Atlantic Salinity maximum region
+Department of Physics and Physical Oceanography, University on North Carolina, Wilmington, NC, USA
+SPURS1_Vessels
+N23-43, W37-63
+974
+null
++1 s(910) 962-7014
+NULL
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/insitu/L2/spurs1/adcp/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/adcp
+file:///store/insitu/open/L2/spurs1/adcp
+http://spurs.jpl.nasa.gov/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/sw/R
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/SpursWebsiteContent/
+http://podaac.jpl.nasa.gov/spurs
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/CruiseReports/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/sw/Matlab
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/DataDocumentation/
+/data/export/web/thumbnails
+20
+SPURS1_Vessels
+SPURS-I field Campaign
+OPEN
+10.5067/SPUR1-ADCP0
+Ocean Circulation
+Ocean Temperature
+1
+null
+M
+NULL
+NASA Salinity Processes in the Upper Ocean Regional Study
+2
+963
+User
+Frederick
+42
+SPURS-1  shipboard Acoustic Doppler Current Profiler data for N. Atlantic  Endeavor and Knorr cruises
+Current velocity
+vertical profile
+Upper Ocean
+SPURS1
+North Atlantic Ocean
+salinity maximum region
+Cruises
+Endeavor
+Knorr
+insitu
+SPURS
+RESEARCH VESSEL
+SPURS-I
+HISTORICAL
+1424313795266
+SPURS
+N
+NULL
+NONE
+Ocean Circulation
+Ocean Temperature
+1
+OPEN
+1
+1339200000000
+NASA Salinity Processes in the Upper Ocean Regional Study
+SPURS shipboard Accoustic Doppler Current Profiler (eg.
+os75bb ADCP)
+2
+NONE
+WGS84
+1
+1339200000000
+LOCAL-OPENDAP
+LOCAL-FTP
+ARCHIVE-OPEN
+NETCDF
+SPURS-I Research Vessels
+Project Website for SPURS
+R
+Archived SPURS-1 Website Content
+PO.DAAC SPURS Mission page
+SPURS-1 Cruise Documentation Package
+MATLAB
+SPURS-1 Data Documentation Package
+SPURS1_ADCP.jpg
+SPURS shipboard Accoustic Doppler Current Profiler (eg. os75bb ADCP)
+SPURS shipboard Accoustic Doppler Current Profiler (eg. os75bb ADCP)
+NONE
+Earth Science
+Earth Science
+DATA-PROVIDER
+5
+PODAAC-SPUR1-ADCP0
+1381707900000
+SPURS1_ADCP
+SPURS Field Campaign Products
+1793
+0
+SPURS-DM
+1
+0
+SPURS Field Campaign ADCP Products
+podaac@podaac.jpl.nasa.gov
+binghamf@uncw.edu
+NONE
+http://podaac.jpl.nasa.gov/SPURS
+SPURS-1  shipboard Acoustic Doppler Current Profiler data for N. Atlantic  Endeavor and Knorr cruises
+NULL
+
+
+SPURS Field Campaign Products
+1431302400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/SPURS1_ADCP.jpg
+SPURS-I
+(818) 393-7165
++1 (910) 962-2383
+Daily
+1.0
+SPURS_ADCP
+SPURS_ADCP
+9000
+SPURS-I field Campaign
+SPURS-I Research Vessels: Knorr, Endeavor, Sarmiento, Thalassa
+-28
+HISTORICAL
+The SPURS (Salinity Processes in the Upper Ocean Regional Study) project is an oceanographic process study and associated field program that aim to elucidate key mechanisms responsible for near-surface salinity variations in the oceans.
+The project involves two field campaigns and a series of cruises in regions of the Atlantic and Pacific Oceans exhibiting salinity extremes.
+SPURS employs a suite of state-of-the-art in-situ sampling technologies that, combined with remotely sensed salinity fields from the Aquarius/SAC-D and SMOS satellites, provide a detailed characterization of salinity structure over a continuum of spatio-temporal scales.
+The SPURS-1 campaign involved a series of 5 cruises during 2012 - 2013 seeking to characterize the salinity structure and balance in a high salinity, high evaporation, and low rainfall region of the subtropical North Atlantic.
+It aims to resolve processes responsible for maintaining the subtropical surface salinity maximum in this region and within a 900 x 800-mile square study area centered at 25N, 38W.
+Acoustic Doppler Current Profilers (ADCP) provide water column current velocity profile observations.
+Shipborne ADCP data were collected during the 3 US cruises, using the Knorr and Endeavor 300 kHz Workhorse, 75 khz broadband and 75 khz narrowband instruments, and during the Sarmiento cruise using a 76.8 khz broadband ADCP.
+Corresponding ruise dates were as follows: Knorr: 6 Sept-9 Oct 2012; Sarmiento: 14 Mar-10 Apr 2013, Endeavor: 15 Mar-15 Apr 2013 and 19 Sep-13 Oct 2013.
+Additionally, lowered ADCP (L-ADCP) measurements were made during the Knorr cruise on every CTD cast and during the Sarmiento cruise.
+The ADCP data files here (1 per cruise) are for the shipborne ADCP measurements only.
+Project Website for SPURS
+R Reader and calling routines
+Meeting Materials, Cruise Blogs, and other archive artifacts
+Field Campaign and Instrument Overview
+Cruise Reports
+MATLAB Reader and calling routines
+Data Submission Report, Instrument Calibration Report, etc
+Thumbnail image for dataset on Portal
+NULL
+NONE
+Current velocity
+Temperature Profiles
+1381707900000
+NONE
+SPURS Project
+SPURS
+Creation of Dataset via Metadata Tool.
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_PROJECT_MATERIALS
+Thumbnail
+Oceans
+Oceans
+Technical Contact
+SPURS Project Data Management PI
+SPURS-I Research Vessels
+0
+NULL
+SPURS Data manager, Fred Bingham
+SPURS1_ADCP
+9000
+ARCHIVE-DIST
+SPURS-1 field campaign shipboard ADCP data
+1424313795266
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+SPURS Data manager, Fred Bingham
+Y
+SPURS PROJECT, Fred Bingham
+Continuous
+SPURS Data Management PI, Fred Bingham
+Services
+Bingham
+Dataset Creation via Metadata Tool
+1424313795266
+E.Lindstrom, F.Bryan, R.Schmitt. 2015. SPURS: Salinity Processes in the Upper-ocean Regional Study - The North Atlantic Experiment. Oceanography 28(1):14-19, http://dx.doi.org/10.5670/oceanog.2015.01.
+NULL
+null
+NULL
+http://people.uncw.edu/binghamf/
+NASA/JPL/PODAAC
+SPURS-DM
+0
+DATA-CENTER
+DATA-PROVIDER
+SPURS-1  N.Atlantic Salinity maximum region
+NULL
+Current velocity
+Temperature Profiles

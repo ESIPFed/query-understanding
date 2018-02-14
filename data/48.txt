@@ -1,0 +1,171 @@
+-180
+null
+NULL
+Global
+Stennis Space Center, MS, USA
+NOAA-16
+NOAA-17
+NOAA-19
+Coastal
+null
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L2/navo_mcsst_2km_lac
+file:///store/avhrr/open/L2/navo_mcsst_2km_lac
+/data/export/web/thumbnails
+ftp://podaac.jpl.nasa.gov/pub/sea_surface_temperature/avhrr/navoceano_hrpt_lac/doc/avhrr_hrpt_lac_l3.html
+-90
+NOAA-16
+NOAA-17
+NOAA-19
+NULL
+OPEN
+10.5067/NAVOC-2LAC1
+Ocean Temperature
+N/A
+null
+NULL
+Naval Oceanographic Office
+2
+User
+90
+AVHRR NAVOCEANO Level 2 2km Multi-Channel SST Coastal Local Area Coverage
+NAVOCEANO
+sea surface temperature
+polar
+sun-synchronous
+sst
+Navy
+NAVAL
+surface temperature
+MCSST
+AVHRR
+AVHRR2
+AVHRR3
+LAC
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+NEAR_REAL_TIME
+1295629813000
+1100
+N
+NULL
+NONE
+Ocean Temperature
+2400
+2400
+2400
+OPEN
+1028505600000
+Naval Oceanographic Office
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+2
+MD5
+Swath
+1
+1028505600000
+LOCAL-FTP
+ARCHIVE-OPEN
+1100
+RAW
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-19
+AVHRR_NAVOCEANO_L2_2KM_MCSST_LAC.jpg
+avhrr_hrpt_lac_l2.html
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+NONE
+Earth Science
+DATA-PROVIDER
+1
+PODAAC-NAVOC-2LAC1
+AVHRR_NAVOCEANO_L2_2KM_MCSST_LAC
+NAVOCEANO MCSST Level 2 LAC Data from NOAA AVHRR
+349
+NAVO
+1
+NAVOCEANO MCSST Level 2 LAC
+podaac@podaac.jpl.nasa.gov
+NONE
+ftp://podaac.jpl.nasa.gov/pub/sea_surface_temperature/avhrr/navoceano_hrpt_lac/doc/avhrr_hrpt_lac_l3.html
+AVHRR NAVOCEANO Level 2 2km Multi-Channel SST Coastal Local Area Coverage
+NULL
+
+NAVOCEANO MCSST Level 2 2km Data
+1028505600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/image_not_available.jpg
+(818) 393-7165
+NAVOCEANO
+1
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AVHRR-3
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+NOAA (national oceanic and atmospheric administration) satellite number 19
+180
+NEAR_REAL_TIME
+This data is a 2.2 km product using Local Area Coverage (LAC) from NOAA-16, 17 and 19 satellites.
+This product employs High Resolution Picture Transmission (HRPT) SST calculations.
+High quality Sea Surface Temperatures (SSTs) maps derived from the NOAA (National Oceanic and Atmospheric Administration)-Polar Orbiting Advanced Very High Resolution Radiometer (AVHRR) have been available since 1981.
+The multichannel sea surface temperature algorithm (MCSST) has been used to routinely calculate SSTs using a split window approach.
+Currently this algorithm is applied by the Naval Oceanographic Office (NAVOCEANO) to calculate SSTs at a near real-time rate.
+Thumbnail image for Website
+describes NAVOCEANO  MCSST datasets
+NULL
+NONE
+Sea Surface Temperature
+YEAR-DOY
+NAVO
+NAVOCEANO
+
+Thumbnail
+data set guide
+Oceans
+Technical Contact
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-19
+99
+98.7
+99
+NULL
+Naval Oceanographic Office (NAVOCEANO)
+AVHRR_NAVOCEANO_L2_2KM_MCSST_LAC
+2
+ARCHIVE-DIST
+1274315629000
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+Naval Oceanographic Office
+Naval Oceanographic Office
+Services
+Dataset Policy created for AVHRR_NAVOCEANO_L2_2KM_MCSST_LAC
+
+ftp://podaac.jpl.nasa.gov/pub/sea_surface_temperature/avhrr/navoceano_hrpt_lac/doc/avhrr_hrpt_lac_l3.html
+NULL
+null
+https://www.navo.navy.mil
+NASA/JPL/PODAAC
+102.1
+101.2
+102
+DATA-CENTER
+Global
+NULL
+Sea Surface Temperature

@@ -1,0 +1,223 @@
+12 Hour
+1.786
+-180
+NOAA/NESDIS/STAR/SOCD, 5200 Auth Road, WWB, RM 601 Camp Springs, MD 20746, USA
+NULL
+Global
+Suitland, MD, USA
+Suomi NPP
+none
+none
+NULL
+file:///store/ghrsst/open/data/GDS2/L2P/VIIRS_NPP/OSPO/v2.4
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L2P/VIIRS_NPP/OSPO/v2.4
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L2P/VIIRS_NPP/OSPO/v2.4
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L2P/VIIRS_NPP/OSPO/v2.4
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L2P/VIIRS_NPP/OSPO/v2.4/
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/sw/IDL/
+http://www.star.nesdis.noaa.gov/sod/sst/squam/
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHVRS-2PO03
+http://www.star.nesdis.noaa.gov/sod/sst/micros/
+ftp://ftp.star.nesdis.noaa.gov/pub/sod/osb/aignatov/ACSPO/
+http://ghrsst.jpl.nasa.gov
+http://journals.ametsoc.org/doi/abs/10.1175/2010JTECHA1413.1
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/python/
+http://onlinelibrary.wiley.com/doi/10.1002/2013JD020637/abstract
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/docs/GDS20r5.pdf
+/data/export/web/thumbnails
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/idl/
+http://www.star.nesdis.noaa.gov/sod/sst/iquam/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/R/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/matlab/
+-90
+Suomi NPP
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHVRS-2PO03
+Ocean Temperature
+1
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+2P
+1
+Alexander
+90
+GHRSST 2 Level 2P Global Skin Sea Surface Temperature from the Visible Infrared Imaging Radiometer Suite (VIIRS) on the Suomi NPP satellite created by the NOAA Advanced Clear-Sky Processor for Ocean (ACSPO)
+NOAA
+JPSS
+VIIRS
+ACSPO
+OSPO
+sea surface temperature
+SST
+L2P
+GHRSST
+GDS2
+ospo
+spacecraft
+GHRSST
+NEAR_REAL_TIME
+1429565291698
+0.006
+740
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+3040
+OPEN
+1432040400000
+Group for High Resolution Sea Surface Temperature
+VIIRS is a 22-band radiometer to collect infrared and visible light for earth system monitoring
+2P
+MD5
+Satellite native swath
+1
+1432040400000
+ARCHIVE-OPEN
+REMOTE-OPENDAP
+REMOTE-FTP
+LOCAL-FTP
+LOCAL-OPENDAP
+WGS 84
+740
+NETCDF
+Suomi Suomi National Polar-orbiting Partnership
+IDL read software
+
+Web Service (PO.DAAC Labs)
+
+
+none
+
+PYTHON
+
+GDS2 User Manual
+VIIRS_NPP-OSPO-L2P-v2.4.jpg
+IDL
+
+R
+MATLAB
+3060
+Visible Infrared Imaging Radiometer Suite
+Visible Infrared Imaging Radiometer Suite
+None
+Earth Science
+DATA-PROVIDER
+1000
+PODAAC-GHVRS-2PO03
+VIIRS_NPP-OSPO-L2P-v2.4
+VIIRS L2P SST data produced by NOAA OSPO
+1994
+OSPO
+1
+Sea Surface temperature retrievals produced by NOAA/NESDIS/OSPO office from VIIRS sensor
+Alex.Ignatov@noaa.gov
+NONE
+http://www.star.nesdis.noaa.gov
+GHRSST 2 Level 2P Global Skin Sea Surface Temperature from the Visible Infrared Imaging Radiometer Suite (VIIRS) on the Suomi NPP satellite created by the NOAA Advanced Clear-Sky Processor for Ocean (ACSPO)
+NULL
+Skin Sea Surface Temperature
+VIIRS on NPP L2P SST from NOAA OSPO
+1437091200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/VIIRS_NPP-OSPO-L2P-v2.4.jpg
+0.006
+GHRSST
+301-683-3379
+Less_than_daily
+2.4
+VIIRS
+VIIRS
+2
+Group for High Resolution Sea Surface Temperature Datasets
+Suomi National Polar-orbiting Partnership is a joint mission between NASA, DOD and NOAA.
+180
+NEAR_REAL_TIME
+The Joint Polar Satellite System (JPSS), starting with S-NPP launched on 28 October 2011, is the new generation of the US Polar Operational Environmental Satellites (POES).
+NOAA is responsible for all JPSS products, including SST from the Visible Infrared Imaging Radiometer Suite (VIIRS).
+VIIRS is a whiskbroom scanning radiometer which takes measurements in the cross-track direction within a field of regard of 112.56 degrees using 16 detectors and a double-sided mirror assembly.
+At a nominal altitude of 829 km, the swath width is 3060 km, providing full daily coverage both on the day and night side of the Earth.
+VIIRS has 22 spectral bands covering the spectrum from 0.4-12 micrometers, including 16 moderate resolution bands (M-bands).
+The L2P SST product is derived at the native sensor resolution (~0.75 km at nadir, ~1.5 km at swath edge) using NOAA's Advanced Clear-Sky Processor for Ocean (ACSPO) system.
+In addition to pixel-level earth locations, Sun-Sensor geometry, and ancillary data from NCEP global weather forecast, ACSPO inputs are 3 brightness temperatures (BTs) in M12 (3.7microns), M15 (11microns), and M16 (12microns), and 2 reflectances in M5 (0.67microns) and M7 (0.87microns) bands.
+The reflectances are used for cloud identification.
+ACSPO output files are 10min granules in netcdf4 format, compliant with the GHRSST Data Specification version 2 (GDS2).
+There are 144 granules per 24hr interval, with a total data volume of 27GB/day.
+Fill values are reported at all invalid pixels, including pixels at >5 km inland.
+For each valid water pixel (defined as ocean, sea, lake or river, and up to 5 km inland), the following layers are reported: BTs in M12, 15, and 16 (included for those users interested in direct "radiance assimilation", e.g., NOAA NCEP, NASA GMAO); SSTs derived from BTs using Multi-Channel SST (MCSST; night) and Non-Linear SST (NLSST; day) algorithms (Petrenko et al., 2014); ACSPO clear-sky mask (ACSM; provided in each pixel as part of l2p_flags, which also includes day/night, land, ice, twilight, and glint flags) (Petrenko et al., 2010); NCEP wind speed; and ACSPO SST minus reference (Canadian Met Centre 0.2deg L4 SST; available at http://podaac.jpl.nasa.gov/dataset/CMC0.2deg-CMC-L4-GLOB-v2.0).
+We only recommend using the ACSM confidently clear pixels (equivalent to GDS2 quality level=5, also reported for each pixel).
+Per GDS2 specifications, two additional Sensor-Specific Error Statistics layers (SSES bias and standard deviation) are reported in each pixel with QL=5.
+Note that users of ACSPO data have the flexibility to ignore the ACSM and derive their own clear-sky mask, and use BTs and SSTs in those pixels (which are saved over all valid water pixels).
+They may also ignore ACSPO SSTs, and derive their own SSTs from the original BTs.
+The ACSPO VIIRS L2P product is monitored and validated against in situ data (Xu and Ignatov, 2014) in SQUAM (Dash et al, 2010) and MICROS (Liang and Ignatov, 2011).
+A reduced size (1GB/day), equal-angle gridded (0.02 deg resolution), ACSPO L3U product is also available at http://podaac.jpl.nasa.gov/dataset/VIIRS_NPP-OSPO-L3U-v2.4, where gridded L2P SSTs with QL=5 only are reported, and BT layers omitted.
+Read software
+Dash, P., A. Ignatov, Y. Kihai
+(Search Granule)
+Liang, X.
+Samples, Interface Control Document describing file contents, background ppt and other info
+Portal to the GHRSST Global Data Assembly Center and data access
+Petrenko, B., A. Ignatov, Y. Kihai, and A. Heidinger, 2010: Clear-Sky Mask for ACSPO. JTech, 27, 1609-1623
+
+Petrenko, B., A. Ignatov, Y. Kihai, J. Stroup, P. Dash, 2014: Evaluation and Selection of SST Regression Algorithms for JPSS VIIRS. JGR, 119, 4580-4599, doi: 10.1002/2013JD020637
+Documentation on the GDS version 2 format specification
+Thumbnail image for Website
+
+Xu, F.
+
+
+NULL
+2 Day
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+Joint Polar Satellite System (JPSS)
+GHRSST
+Creation of Dataset via Metadata Tool.
+EXTRACT_NETCDF4
+PORTAL_DOC_JOURNAL_REFERENCES
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DOC_JOURNAL_REFERENCES
+PORTAL_DOC_PROJECT_MATERIALS
+Get Data
+PORTAL_DOC_JOURNAL_REFERENCES
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_JOURNAL_REFERENCES
+PORTAL_DOC_USERS_GUIDE
+Thumbnail
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_JOURNAL_REFERENCES
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+Oceans
+Technical Contact
+Suomi Suomi National Polar-orbiting Partnership
+97.1
+NULL
+NOAA Office of Satellite and Product Operations
+3 Hour
+VIIRS_NPP-OSPO-L2P-v2.4
+6
+ARCHIVE-DIST
+VIIRS_NPP-OSPO-L2P-v2.4
+1429565291698
+NETCDF
+Center for Satellite Applications and Research
+Y
+NOAA Office of Satellite and Product Operations  (OSPO)
+NOAA Office of Satellite and Product Operations  (OSPO)
+Ignatov
+Dataset Creation via Metadata Tool
+1429565291698
+Geolocation information included for each pixel
+Petrenko, B., A. Ignatov, Y. Kihai, J. Stroup, P. Dash, 2014: Evaluation and Selection of SST Regression Algorithms for JPSS VIIRS. JGR, in press www.star.nesdis.noaa.gov/sod/osb/sst/ignatov/peer/PetrenkoEtAl-JGR-2014.pdf
+NULL
+null
+STAR
+101
+DATA-PROVIDER
+Global
+NULL
+Sea Surface Temperature

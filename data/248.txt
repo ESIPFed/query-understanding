@@ -1,0 +1,184 @@
+0
+null
+NULL
+Global
+PODAAC
+QUIKSCAT
+
+null
+NULL
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/quikscat/L3/wind_1deg_1mo/
+file:///store/quikscat/open/L3/wind_1deg_1mo
+ftp://podaac-ftp.jpl.nasa.gov/allData/quikscat/L3/wind_1deg_1mo
+http://thredds.jpl.nasa.gov/las/
+http://esg-gateway.jpl.nasa.gov/home.htm
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-QSSWS-CMIP1
+/data/export/web/thumbnails
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanWinds/qscat/wind_1deg_1mo/catalog.html
+-89.6
+QUIKSCAT
+Gridded Climate Variables for Model Intercomparison
+Climate Data Record
+OPEN
+10.5067/QSSWS-CMIP1
+Ocean Winds
+1
+null
+NULL
+Quick Scatterometer
+3
+669
+1184
+User
+89.6
+SeaWinds on QuikSCAT Level 3 Surface Wind Speed for Climate Model Comparison
+nasa
+seawinds
+quikscat
+pcmdi
+cmip
+cmip5
+cmip-5
+ipcc
+esg
+earth system grid
+level 3
+gridded
+monthly
+ocean surface wind speed
+wind speed
+surface wind speed
+wind
+ocean surface wind
+surface wind
+wind vector
+wind vectors
+1 Month
+SPACECRAFT
+Gridded Climate Variables for Model Intercomparison
+CDR
+HISTORICAL
+1334188171475
+1
+QUIKSCAT
+Y
+NULL
+none
+Ocean Winds
+1800
+OPEN
+933465600000
+Quick Scatterometer
+SeaWinds is a Ku-band (13.4 GHz) Scatterometer which features a single circular scanning dish antenna to provide pencil-beam measurements, as opposed to the common fan beam design as seen with other spaceborne scatterometers.
+The pencil-beam design has several key advantages over the more common fan beam design: higher signal-to-noise ratio, smaller size, and superior coverage.
+The SeaWinds single antenna utilizes twin offset feeds, thus providing two pencil-beam footprint paths with an elliptical sampling footprint of approximately 25 km (in azimuth) by 37 km (in look/range direction); these pencil beams have opposing polarizations (i.e., vertical and horizontal), thus achieving dual-polarization.
+The SeaWinds instrument provides a full 1800 km-wide swath coverage (including the nadir region), which allows for a nominal daily measurement coverage of 90% over the ice-free oceans.
+3
+MD5
+Gridded
+1
+933465600000
+LOCAL-OPENDAP
+ARCHIVE-OPEN
+LOCAL-FTP
+WGS84
+NETCDF
+QUIKSCAT
+LAS
+JPL Earth System Grid
+Web Service (PO.DAAC Labs)
+QSCAT_L3_SFC_WIND_SPEED_1DEG_1MO.jpg
+THREDDS
+SeaWinds Scatterometer
+SeaWinds Scatterometer
+NONE
+Earth Science
+DATA-PROVIDER
+PODAAC-QSSWS-CMIP1
+1257033599000
+QSCAT_L3_SFC_WIND_SPEED_1DEG_1MO
+
+830
+NASA/JPL
+1
+SeaWinds on QuikSCAT Level 3 Surface Wind Speed for Climate Model Comparison
+podaac@podaac.jpl.nasa.gov
+NONE
+ftp://podaac.jpl.nasa.gov/OceanWinds/quikscat/L3/wind_1deg_1mo/docs/sfcWind_QuikSCAT_L2B_v20110531_199908-200910.pdf
+SeaWinds on QuikSCAT Level 3 Surface Wind Speed for Climate Model Comparison
+NULL
+Ocean Surface Wind Speed
+SeaWinds on QuikSCAT Level 3 Datasets for Climate Model Comparison
+1334102400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/QSCAT_L3_SFC_WIND_SPEED_1DEG_1MO.jpg
+1
+Gridded Climate Variables for Model Intercomparison
+CDR
+(818) 393-7165
+Monthly
+1
+SEAWINDS
+SEAWINDS
+Gridded Climate Variables for Model Intercomparison
+Climate Data Record
+The SeaWinds on QuikSCAT mission is a "quick recovery" mission to fill the gap created by the loss of data from the NASA Scatterometer (NSCAT), when the satellite it was flying on lost power in June 1997.
+The SeaWinds instrument on the QuikSCAT satellite is a specialized microwave radar that measures near-surface wind speed and direction under all weather and cloud conditions over Earth's oceans.
+360
+HISTORICAL
+This dataset contains ocean surface wind speed from SeaWinds on QuikSCAT binned and averaged monthly on 1 degree grids.
+The coverage is from August 1999 through October 2009.
+The QuikSCAT Project produced this dataset in support of the CMIP5 (Coupled Model Intercomparison Project Phase 5) portion of under the World Climate Research Program (WCRP) and was first made available via the Earth System Grid.
+This dataset was derived directly from the QuikSCAT Level 2B dataset, which can be accessed here: http://podaac.jpl.nasa.gov/dataset/QSCAT_LEVEL_2B.
+The SeaWinds instrument is a conical scanning pencil-beam radar, with dual-beam and dual-polarization capability, operating at Ku-band to provide all-weather ocean surface wind vector retrievals.
+Along with this dataset, two additional ancillary data files are included in the same directory which contain the number of observations and standard error co-located on the same 1 degree grids.
+This wind speed dataset is designed to be used in conjunction with the complete wind vector dataset, which include separate dataset files for both the Northward and Eastward components of the wind vector.
+All corresponding dataset and ancillary data files are included in a common directory.
+For more information on the QuikSCAT platform and mission, please visit http://podaac.jpl.nasa.gov/OceanWind/QuikSCAT.
+Live Access Server
+Link to JPL Earth System Grid
+(Search Granule)
+Thumbnail image for website
+
+NULL
+NONE
+Surface Winds
+1257033599000
+NONE
+NASA
+QUIKSCAT
+Creation of Dataset via Metadata Tool.
+PORTAL_DA_TOOLS_AND_SERVICES
+JPL ESG Link
+PORTAL_DA_DIRECT_ACCESS
+Thumbnail
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Technical Contact
+QUIKSCAT
+98.6
+NULL
+Jet Propulsion Laboratory
+QSCAT_L3_SFC_WIND_SPEED_1DEG_1MO
+ARCHIVE-DIST
+SeaWinds on QuikSCAT Level 3 Surface Wind Speed for Climate Model Comparison
+1334188171475
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+NASA
+PODAAC
+Services
+Dataset Creation via Metadata Tool
+1334188171475
+Rectangular
+NULL
+null
+http://podaac.jpl.nasa.gov
+http://ghrsst.jpl.nasa.gov
+NASA/JPL/PODAAC
+100.93
+DATA-CENTER
+Global
+NULL
+1 Month
+Surface Winds

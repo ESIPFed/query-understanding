@@ -1,0 +1,178 @@
+248.5
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Eastern Pacific Ocean
+JPL
+JASON-1
+TOPEX/POSEIDON
+OSTM/Jason-2
+N/A
+818-393-2718
+file:///store/coastal_alt/preview/L4/OSU_COAS/weekly
+ftp://podaac-ftp.jpl.nasa.gov/allData/coastal_alt/preview/L4/OSU_COAS/weekly
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/coastal_alt/preview/L4/OSU_COAS/weekly/
+/data/export/web/thumbnails
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-USWCO-ALT01&apidoc
+35.25
+JASON-1
+TOPEX/POSEIDON
+OSTM/Jason-2
+NULL
+PREVIEW
+10.5067/USWCO-ALT01
+Sea Surface Topography
+Ocean Circulation
+1
+none
+NULL
+Cooperative Institute for Oceanographic Satellite Studies
+4
+Jessica
+48.5
+Gridded Altimeter Fields with Enhanced Coastal Coverage
+7 Day
+spacecraft
+spacecraft
+
+HISTORICAL
+1295629813000
+0.25
+CIOSS
+Y
+NULL
+none
+Sea Surface Topography
+Ocean Circulation
+
+5
+
+PREVIEW
+719020800000
+Cooperative Institute for Oceanographic Satellite Studies
+The Poseidon-2 altimeter, operating at 13.575 GHz (Ku band) and 5.3 GHz (C band), is the primary sensor for the JASON-1 mission.
+The measurements made at the two frequencies are combined to obtain measurements of the altimeter range, wind speed, significant wave height, and the ionospheric correction.
+The Poseidon-2 package consists of dual redundant altimeter units each of which has low mass and low power consumption.
+A satellite altimeter consists of a transmitter that sends out very sharp pulses, a sensitive receiver to record the pulse after it is reflected from the sea surface, and an accurate clock to note the time interval between transmission and reception.
+Examples of satellite altimeters used in the remote sensing of ocean surface height,  wave height and wind speed are Seasat, Geosat and Topex/Poseidon.
+The Poseidon-3 altimeter, operating at 13.575 GHz (Ku band) and 5.3 GHz (C band), is the primary sensor for the OSTM mission.
+The measurements made at the two frequencies are combined to obtain measurements of the altimeter range, wind speed, significant wave height, and the ionoshperic correction.
+The Poseidon-3 package consists of dual redundant altimeter units each of which has low mass and low power consumption.
+4
+MD2
+Gridded
+1
+719020800000
+ARCHIVE-PREVIEW
+LOCAL-FTP
+LOCAL-OPENDAP
+unknown
+NETCDF
+JASON-1
+Topography Experiment/Poseidon
+Ocean Surface Topography Mission/Jason-2
+ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST.jpg
+Web Service (PO.DAAC Labs)
+JASON-1 RADAR ALTIMETER
+POSEIDON ALTIMETER
+OSTM/Jason-2 RADAR alitmieter
+JASON-1 RADAR ALTIMETER
+POSEIDON ALTIMETER
+OSTM/Jason-2 RADAR alitmieter
+preview
+Earth Science
+Earth Science
+DATA-PROVIDER
+1
+PODAAC-USWCO-ALT01
+1334707200000
+ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST
+Gridded Altimeter Fields with Enhanced Coastal Coverage
+428
+OSU/COAS
+1
+ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST
+Jessica.K.Hausman@jpl.nasa.gov
+NONE
+N/A
+Gridded Altimeter Fields with Enhanced Coastal Coverage
+NULL
+
+
+Gridded Altimeter Fields with Enhanced Coastal Coverage
+1285459200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST.jpg
+0.25
+818-354-4588
+Weekly
+1
+POSEIDON-2
+POSEIDON ALTIMETER
+POSEIDON-3
+POSEIDON-2
+POSEIDON ALTIMETER
+POSEIDON-3
+8766
+Jason-1, the TOPEX/POSEIDON follow-on, is an oceanography mission to study global ocean circulation, improve climate predictions, and monitor events such as El Nino conditions.
+It is a joint mission between CNES, the French space agency, and NASA, the U.S. space agency.
+A combined mission of the U.S. and French Space Agencies designed to make substantial contributions to our understanding of global ocean dynamics by making precise and accurate observations of the oceanic topography for three to five years using radar altimeters on a well-tracked satellite.
+OSTM, the TOPEX/Poseidon and Jason-2 follow-on, is an oceanographic mission to study global ocean circulation, improve climate predictions and monitor events such as El Nino conditions.
+It is a joint mission between CNES, NASA, NOAA and EUMETSAT. 
+227.75
+HISTORICAL
+The Gridded Altimeter Fields with Enhanced Coastal Coverage data product contains Sea Surface Height Anomalies (SSHA or SLA) and zonal and meridional geostrophic velocities for the US west coast encompassing 35.25 deg-48.5 deg N latitude and 227.75 deg-248.5 deg E longitude.
+This annually updated data product extends from October 14, 1992 through November 4, 2009.
+SSHA and current velocities are derived from the AVISO quarter degree DT UPD MSLA version 3.0 grids, 0.75 deg and greater away from the coast.
+Values within 0.75 deg of the coast are derived from tide gauge observations and interpolated out to the altimeter filled region.
+Details on how these data are derived can be found in: Saraceno, M., P. T. Strub, and P. M. Kosro (2008), Estimates of sea surface height and near-surface alongshore coastal currents from combinations of altimeters and tide gauges, J. Geophys.
+Res., 113, C11013, doi:10.1029/2008JC004756.
+Thumbnail image for Website
+(Search Granule)
+NULL
+ORACLE
+Sea Surface Height
+Ocean Currents
+1334707200000
+NONE
+Craig Risin and P. Ted Strub
+CIOSS
+Initial creation of dataset.
+Thumbnail
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Oceans
+Technical Contact
+JASON-1
+Topography Experiment/Poseidon
+Ocean Surface Topography Mission/Jason-2
+66.04
+66.04
+66.04
+NULL
+Oregon State University / College of Oceanic and Atmospheric Sciences
+ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST
+ARCHIVE-DIST
+Gridded Altimeter Fields with Enhanced Coastal Coverage
+1281574308954
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+OSU/COAS
+N/A
+OSU/COAS
+Hausman
+Dataset Creation
+1281574308954
+N/A
+Saraceno, M., P. T. Strub, and P. M. Kosro (2008), Estimates of sea surface height and near-surface alongshore coastal currents from combinations of altimeters and tide gauges, J. Geophys. Res., 113, C11013, doi:10.1029/2008JC004756
+NULL
+none
+NASA/JPL/PODAAC
+112.43
+112.43
+112.43
+DATA-CENTER
+Eastern Pacific Ocean
+NULL
+7 Day
+Sea Surface Height
+Ocean Currents

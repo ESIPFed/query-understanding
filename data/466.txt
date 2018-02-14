@@ -1,0 +1,199 @@
+0
+-180
+null
+NULL
+Global
+Goddard Space Flight Center, 8800 Greenbelt Rd.; Greeenbelt, MD., 20771, USA
+AQUARIUS_SAC-D
+
+0
+null
+NULL
+ftp://podaac-ftp.jpl.nasa.gov/allData/aquarius/L3/mapped/V4/climatology_monthly/SCIA
+file:///store/aquarius/open/L3/mapped/V4/climatology_monthly/SCIA
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/aquarius/L3/mapped/V4/climatology_monthly/SCIA/
+ftp://podaac-ftp.jpl.nasa.gov/allData/aquarius/docs/v4/AQ-010-UG-0008_AquariusUserGuide_DatasetV4.0.pdf
+http://aquarius.nasa.gov/
+http://podaac.jpl.nasa.gov/aquarius
+ftp://podaac-ftp.jpl.nasa.gov/allData/aquarius/sw/idl/
+ftp://podaac-ftp.jpl.nasa.gov/allData/aquarius/sw/matlab/
+http://oceancolor.gsfc.nasa.gov/sdpscgi/public/aquarius_report.cgi
+ftp://podaac-ftp.jpl.nasa.gov/allData/aquarius/docs/v4/
+/data/export/web/thumbnails
+-90
+AQUARIUS_SAC-D
+Aquarius/SAC-D mission datasets
+OPEN
+10.5067/AQR40-3WUAS
+Ocean Winds
+1
+null
+NULL
+AQUARIUS SAC-D
+3
+786
+User
+90
+Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Ascending Monthly Climatology Data V4.0
+Climatology
+Aquarius
+wind speed
+polar
+sun-synchronous
+sss
+psu
+CONAE
+argentina
+project
+mission
+OBPG
+1 Month
+SPACECRAFT
+Aquarius
+HISTORICAL
+1434491912395
+1
+AQUARIUS SAC-D
+N
+NULL
+NONE
+Ocean Winds
+373
+OPEN
+1314230400000
+AQUARIUS SAC-D
+The Aquarius  scatterometer  is a total-power L-band (1.26 GHz)
+radar system for estimating ocean surface roughness.
+Its
+measurements will enable the removal of wind effects from the
+Aquarius radiometer ocean-surface brightness temperature
+measurements being used to retrieve ocean salinity.
+The
+Aquarius scatterometer is a relatively simple, low-spatial
+resolution power-detecting radar, without ranging capability.
+But to meet its science requirement, it must be very stable, with
+repeatability on the order of 0.1 dB over several days, and
+calibrated accuracy to this level over several months.
+Data
+from this instrument over land as well as ocean areas will be
+available for a variety of geophysical applications.
+3
+MD5
+Gridded
+1
+1314230400000
+LOCAL-FTP
+ARCHIVE-OPEN
+LOCAL-OPENDAP
+WGS 84
+HDF5
+Aquarius SAC-D
+User's Guide
+Aquarius/SAC-D Mission Website
+PO.DAAC Aquarius/SAC-D Mission page
+IDL
+MATLAB
+Aquarius/SAC-D Event Log
+Aquarius v4.0 Documentation Package
+AQUARIUS_L3_WIND_SPEED_SMIA_MONTHLY-CLIMATOLOGY_V4.jpg
+Aquarius Scatterometer
+Aquarius Scatterometer
+NONE
+Earth Science
+DATA-CENTER
+1
+PODAAC-AQR40-3WUAS
+1433681460000
+AQUARIUS_L3_WIND_SPEED_SMIA_MONTHLY-CLIMATOLOGY_V4
+Aquarius Sea Surface Salinity Products
+2142
+0
+OBPG
+1
+0
+Aquarius Sea Surface Salinity Products
+podaac@podaac.jpl.nasa.gov
+BZIP2
+http://podaac.jpl.nasa.gov/SeaSurfaceSalinity/Aquarius
+Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Ascending Monthly Climatology Data V4.0
+NULL
+
+Aquarius Sea Surface Salinity Products
+1437091200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/AQUARIUS_L3_WIND_SPEED_SMIA_MONTHLY-CLIMATOLOGY_V4.jpg
+1
+Aquarius
+(818) 393-7165
+Monthly
+4.0
+AQUARIUS_SCATTEROMETER
+AQUARIUS_SCATTEROMETER
+744
+Aquarius/SAC-D mission datasets
+Aquarius SAC-D is a joint venture between NASA and Argentina's Space Agency CONAE.
+In addition to NASA's  Aquarius instrument CONAE instruments include MWR (Microwave Radiometer), NIRST (New Infrared Sensor Technology), HSC (High Sensitivity Camera),  TDP (Technological Demonstration Package) and DCS (Data Collection System).
+Italy's ASI is providing ROSA (Radio Occultation Sounder for Atmosphere) and France's CNES Carmen 1 which consists of ICARE (Cosmic radiation effects) and SODAD (micro particles and space debris).
+180
+HISTORICAL
+Aquarius Level 3 ocean surface wind speed standard mapped image data contains gridded 1 degree spatial resolution wind speed data averaged over daily, 7 day, monthly, and seasonal time scales.
+This particular data set is the monthly climatology, Ascending wind speed product for version 4.0 of the Aquarius data set, which is the official end of prime mission public data release from the AQUARIUS/SAC-D mission.
+Only retrieved values for Ascending passes have been used to create this product.
+The Aquarius instrument is onboard the AQUARIUS/SAC-D satellite, a collaborative effort between NASA and the Argentinian Space Agency Comision Nacional de Actividades Espaciales (CONAE).
+The instrument consists of three radiometers in push broom alignment at incidence angles of 29, 38, and 46 degrees incidence angles relative to the shadow side of the orbit.
+Footprints for the beams are: 76 km (along-track) x 94 km (cross-track), 84 km x 120 km and 96km x 156 km, yielding a total cross-track swath of 370 km.
+The radiometers measure brightness temperature at 1.413 GHz in their respective horizontal and vertical polarizations (TH and TV).
+A scatterometer operating at 1.26 GHz measures ocean backscatter in each footprint that is used for surface roughness corrections in the estimation of salinity.
+The scatterometer has an approximate 390km swath.
+Aquarius Data User's Guide
+NASA Aquarius/SAC-D mission website
+Mission and Instrument Overview
+IDL Reader and calling routines
+MATLAB Reader and calling routines
+Information on observatory maneuvers, anomalies and other events
+ATBD, Validation Analysis, Product Specifications, etc
+Thumbnail image for Website
+NULL
+NONE
+Surface Winds
+1433681460000
+NONE
+Aquarius Project NASA/CONAE
+AQUARIUS SAC-D
+Creation of Dataset via Metadata Tool.
+PORTAL_DOC_USERS_GUIDE
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_KNOWN_ISSUES
+PORTAL_DOC_PROJECT_MATERIALS
+Thumbnail
+Oceans
+Technical Contact
+Aquarius SAC-D
+98
+NULL
+Ocean Biology Processing Group (OBPG), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center,NASA
+AQUARIUS_L3_WIND_SPEED_SMIA_MONTHLY-CLIMATOLOGY_V4
+720
+ARCHIVE-DIST
+1434491912395
+HDF5
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+NASA Aquarius project
+Climatology
+NASA/GSFC OBPG
+Services
+Dataset Creation via Metadata Tool
+1434491912395
+Lee, T., G. Lagerloef, M.M. Gierach, H.-Y. Kao, S. Yueh, and K. Dohan (2012), Aquarius reveals salinity structure of tropical instability waves, Geophys. Res. Lett., 39, L12610, doi:10.1029/2012GL052232.
+NULL
+null
+NASA/JPL/PODAAC
+98
+DATA-CENTER
+Global
+NULL
+1 Month
+Surface Winds

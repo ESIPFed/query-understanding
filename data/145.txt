@@ -1,0 +1,153 @@
+12 Hour
+0
+null
+NULL
+Global
+PO.DAAC
+ADEOS-II
+
+null
+ftp://podaac-ftp.jpl.nasa.gov/allData/seawinds/L2B/v2
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/seawinds/L2B/v2/
+file:///store/seawinds/open/L2B/v2
+/data/export/web/thumbnails
+ftp://podaac-ftp.jpl.nasa.gov/allData/seawinds/L2B/docs/SWS_SDPUG_V2.0.pdf
+-90
+ADEOS-II
+NULL
+OPEN
+10.5067/SEA25-L2B02
+Ocean Winds
+null
+NULL
+SeaWinds on ADEOS-II
+2
+User
+90
+SeaWinds on ADEOS-II Level 2B Ocean Wind Vectors in 25 Km Swath Grid
+wind data
+wind
+ocean wind
+wind speed
+vector
+vectors
+ocean wind vector
+ocean wind vectors
+seawinds
+adeos-2
+adeos-ii
+scatterometer
+l2b
+SPACECRAFT
+HISTORICAL
+1295629813000
+25000
+SEAWINDS
+Y
+NULL
+none
+Ocean Winds
+1800
+OPEN
+1049933295000
+SeaWinds on ADEOS-II
+SeaWinds is a Ku-band (13.4 GHz) Scatterometer which features a single circular scanning dish antenna to provide pencil-beam measurements, as opposed to the common fan beam design as seen with other spaceborne scatterometers.
+The pencil-beam design has several key advantages over the more common fan beam design: higher signal-to-noise ratio, smaller size, and superior coverage.
+The SeaWinds single antenna utilizes twin offset feeds, thus providing two pencil-beam footprint paths with an elliptical sampling footprint of approximately 25 km (in azimuth) by 37 km (in look/range direction); these pencil beams have opposing polarizations (i.e., vertical and horizontal), thus achieving dual-polarization.
+The SeaWinds instrument provides a full 1800 km-wide swath coverage (including the nadir region), which allows for a nominal daily measurement coverage of 90% over the ice-free oceans.
+2
+MD5
+Swath
+1
+1049933295000
+LOCAL-FTP
+LOCAL-OPENDAP
+ARCHIVE-OPEN
+WGS-84
+25000
+HDF
+Advanced Earth Observing Satellite-II
+SEAWINDS_LEVEL_2B_V2.jpg
+SeaWinds Science Data Product User Guide
+1800000
+1049927613000
+SeaWinds Scatterometer
+SeaWinds Scatterometer
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-SEA25-L2B02
+1067031765000
+SEAWINDS_LEVEL_2B_V2
+
+159
+SeaPAC
+SeaWinds on ADEOS-II Level 2B Ocean Wind Vectors in 25 Km Swath Grid
+podaac@podaac.jpl.nasa.gov
+GZIP
+ftp://podaac-ftp.jpl.nasa.gov/allData/seawinds/L2B/docs/SWS_SDPUG_V2.0.pdf
+SeaWinds on ADEOS-II Level 2B Ocean Wind Vectors in 25 Km Swath Grid
+NULL
+Ocean Surface Wind Vectors
+SeaWinds Science Data Record
+1154563200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/SEAWINDS_LEVEL_2B_V2.jpg
+(818) 393-7165
+Less_than_daily
+2
+SEAWINDS
+SEAWINDS
+The second Advanced Earth Observing Satellite (ADEOS-II) was as a NASDA/NASA/JPL partner mission launched on December 14, 2002.
+By April 10, 2003 the SeaWinds scattorometer on ADEOS-II began to provide science quality measurements to derive ocean surface wind velocity observations.
+ADEOS-II suffered a premature power failure on October 24, 2003, which resulted in the termination of the ADEOS-II mission.
+SeaWinds on ADEOS-II provided the same 90aily global ice-free ocean coverage as QuikSCAT, allowing for a tandem collection of high quality wind vector observations for more than 6 months.
+360
+HISTORICAL
+This dataset contains Level 2B science-quality ocean surface wind vector retrievals from the SeaWinds on ADEOS-II scatterometer.
+The retrievals are provided on a non-uniform grid within the swath at 25 km pixel resolution.
+Each L2B file corresponds to a specific orbital revolution (rev) number, which begins at the southernmost point of the ascending orbit.
+The granule metadata is consistent with the QuikSCAT L2B dataset, with exception of the amsr_rain_indicator provided by the Advanced Microwave Scanning Radiometer (AMSR) instrument aboard the ADEOS-II spacecraft.
+Also, the wvc_quality_flag utilizes bits 2-6 for AMSR-related data quality assessment; these bits are left empty in the QuikSCAT L2B wvc_quality_flag variable.
+An ASCII inline quality report (Q2B) has been generated for each L2B file; each Q2B file provides statistics of various quality elements pertaining to the processing of a specific L2B file.
+This is the official dataset produced by the QuikSCAT Project through the SeaWinds Processing and Analysis Center (SeaPAC).
+Thumbnail image for Website
+Dataset User Guide
+NULL
+4 Day
+ORACLE
+Surface Winds
+1067031765000
+YEAR-DOY
+SeaPAC
+SEAWINDS
+Thumbnail
+Reference Materials
+Oceans
+Technical Contact
+Advanced Earth Observing Satellite-II
+98.62
+NULL
+SeaWinds Processing and Analysis Center (SeaPAC)
+1.7 Hour
+SEAWINDS_LEVEL_2B_V2
+ARCHIVE-DIST
+SEAWINDS LEVEL 2B
+1245071196000
+HDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+SeaPAC
+SeaPAC
+Services
+15-JUN-09 Manually Migrated from Ingres
+Along-track
+Lungu, T., July 2006. SeaWinds Science Data Product User Manual. Version 2.0, JPL Document D-21551 - Version 2, Jet Propulsion Laboratory, Pasadena, CA.
+NULL
+null
+http://winds.jpl.nasa.gov/
+NASA/JPL/PODAAC
+101.05
+DATA-CENTER
+Global
+NULL
+Surface Winds

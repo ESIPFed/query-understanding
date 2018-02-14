@@ -1,0 +1,187 @@
+1 Month
+-180
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+GRACE
+GRACE
+GRACE
+
+818-393-2718
+ftp://podaac-ftp.jpl.nasa.gov/allData/grace/L2/GFZ/RL05
+file:///store/grace/open/L2/GFZ/RL05
+ftp://podaac-ftp.jpl.nasa.gov/allData/grace/L2/GFZ/RL05/docs
+ftp://podaac-ftp.jpl.nasa.gov/allData/grace/L2/GFZ/RL05/docs
+ftp://podaac-ftp.jpl.nasa.gov/allData/grace/L2/GFZ/RL05/docs
+-88
+GRACE
+GRACE
+GRACE
+NULL
+OPEN
+10.5067/GRGAD-20G05
+Geodetics/Gravity
+1
+none
+NULL
+Gravity Recovery and Climate Experiment
+2
+Jessica
+88
+GRACE OCEAN BOTTOM GEOPOTENTIAL COEFFICIENTS GFZ RELEASE 5.0 GAD
+gravity
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+DELAY_MODE
+1331852347193
+500000
+GRACE
+N
+NULL
+none
+Geodetics/Gravity
+
+
+
+OPEN
+1017878400000
+Gravity Recovery and Climate Experiment
+The accelerometer, located at the center of mass of each satellite, measures all non-gravitational forces acting on each satellite.
+These forces include air drag, solar radiation pressure, and attitude control activator operation.
+The two star cameras mounted close to the accelerometer on each satellite provide
+the precise attitude references for the satellites when making science
+measurements.
+This instrument precisely measures the changes in the separation between the two GRACE satellites using phase tracking of K- and Ka-band signals sent between the two satellites
+2
+MD2
+Spherical
+1
+1017878400000
+LOCAL-FTP
+ARCHIVE-OPEN
+WGS84
+500000
+ASCII
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+L2-UserHandbook_v2.3.pdf
+L2-GFZ_ProcStds_0004_v1.0.pdf
+ProdSpecDoc_v4.5.pdf
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-GRGAD-20G05
+GRACE_GAD_L2_GRAV_GFZ_RL05
+GRACE OCEAN BOTTOM GEOPOTENTIAL COEFFICIENTS GFZ RELEASE 5.0
+775
+GFZ
+1
+GRACE_GAD_L2_GRAV_GFZ_RL05
+Jessica.K.Hausman@jpl.nasa.gov
+GZIP
+ftp://podaac.jpl.nasa.gov/allData/grace/L2/GFZ/RL05/docs/
+GRACE OCEAN BOTTOM GEOPOTENTIAL COEFFICIENTS GFZ RELEASE 5.0 GAD
+NULL
+
+GRACE_GAD_L2_GRAV_GFZ_RL05
+1331856000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/GRACE_GAD_L2_GRAV_GFZ_RL05.jpg
+818-354-4588
+Monthly
+5.0
+GRACE ACC
+GRACE SCA
+GRACE KBR
+GRACE ACC
+GRACE SCA
+GRACE KBR
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+180
+DELAY_MODE
+FOR EXPERT USE ONLY.
+This dataset contains estimates of Earths ocean bottom pressure derived from the Gravity Recovery and Climate Experiment (GRACE) mission measurements, produced by the GeoForschungsZentrum (GFZ) at Postdam.
+The data are in spherical harmonics averaged over approximately a month.
+The primary objective of the GRACE mission is to obtain accurate estimates of the mean and time-variable components of the Earths gravity field variations.
+This objective is achieved by making continuous measurements of the change in distance between twin spacecraft, co-orbiting in about 500 km altitude, near circular, polar orbit, spaced approximately 200 km apart, using a microwave ranging system.
+In addition to these range change, the non-gravitional forces are measured on each satellite using a high accuracy electrostatic, room-temperature accelerometer.
+The satellite orientation and position (and timing) are precisely measured using twin star cameras and a GPS receiver, respectively.
+Spatial and temporal variations in the Earths gravity field affect the orbits (or trajectories) of the twin spacecraft differently.
+These differences are manifested as changes in the distance between the spacecraft, as they orbit the Earth.
+This change in distance is reflected in the time-of-flight of microwave signals transmitted and received nearly simultaneously between the two spacecraft.
+The change in this time of fight is continuously measured by tracking the phase of the microwave carrier signals.
+The so called dual-one-way range change measurements can be reconstructed from these phase measurements.
+This range change (or its numerically derived derivatives), along with other mission and ancillary data, is subsequently analyzed to extract the parameters of an Earth gravity field model.
+Level-2 Gravity Field Product User Handbook
+GFZ Level-2 Processing Standards Document For Level-2 Product Release 0004
+Product Specification Document
+NULL
+NONE
+Gravity
+NONE
+GRACE/GFZ
+GRACE
+Creation of Dataset via Metadata Tool.
+Guide Document
+Guide Document
+Guide Document
+Solid Earth
+Technical Contact
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+89
+89
+89
+NULL
+GFZ Postdam
+GRACE_GAD_L2_GRAV_GFZ_RL05
+ARCHIVE-DIST
+Non-tidal Atmosphere Geopotential Coefficients averaged over certain Time Period
+1331852347193
+ASCII
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+GRACE
+N/A
+GFZ
+Hausman
+Dataset Creation via Metadata Tool
+1331852347193
+N/A
+Bettadpur, S. 2007.  Gravity Recovery and Climate Experiment ftp://podaac.jpl.nasa.gov/allData/grace/docs/L2-UserHandbook_v2.3.pdf Level-2 Gravity Field Product User Handbook.  Center for Space Research at The University of Texas at Austin
+NULL
+none
+NASA/JPL/PODAAC
+-1
+-1
+-1
+DATA-CENTER
+Global
+NULL
+Gravity

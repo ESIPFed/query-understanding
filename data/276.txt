@@ -1,0 +1,168 @@
+12 Hour
+0
+null
+NULL
+Global
+PO.DAAC
+QUIKSCAT
+
+null
+NULL
+file:///store/quikscat/open/L2B12/v2
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/quikscat/L2B12/v2/
+ftp://podaac-ftp.jpl.nasa.gov/allData/quikscat/L2B12/v2
+ftp://podaac-ftp.jpl.nasa.gov/allData/quikscat/L2B/docs/QSUG_v3.pdf
+/data/export/web/thumbnails
+http://podaac.jpl.nasa.gov/OceanWind/QuikSCAT/SeaWinds-QuikSCAT_KnownProblems
+-90
+QUIKSCAT
+Quick Scatterometer
+OPEN
+10.5067/QSX12-L2B00
+Ocean Winds
+2.5.1-1/2006-11-14
+null
+NULL
+Quick Scatterometer
+2
+58
+User
+90
+SeaWinds on QuikSCAT L2B Ocean Wind Vectors in 12.5km Slice Composites
+wind data
+wind
+ocean wind
+wind speed
+vector
+vectors
+ocean wind vector
+ocean wind vectors
+seawinds
+quikscat
+scatterometer
+l2b
+SPACECRAFT
+QUIKSCAT
+HISTORICAL
+1363286467000
+12500
+QUIKSCAT
+Y
+NULL
+NONE
+Ocean Winds
+1800
+OPEN
+932409571000
+Quick Scatterometer
+SeaWinds is a Ku-band (13.4 GHz) Scatterometer which features a single circular scanning dish antenna to provide pencil-beam measurements, as opposed to the common fan beam design as seen with other spaceborne scatterometers.
+The pencil-beam design has several key advantages over the more common fan beam design: higher signal-to-noise ratio, smaller size, and superior coverage.
+The SeaWinds single antenna utilizes twin offset feeds, thus providing two pencil-beam footprint paths with an elliptical sampling footprint of approximately 25 km (in azimuth) by 37 km (in look/range direction); these pencil beams have opposing polarizations (i.e., vertical and horizontal), thus achieving dual-polarization.
+The SeaWinds instrument provides a full 1800 km-wide swath coverage (including the nadir region), which allows for a nominal daily measurement coverage of 90% over the ice-free oceans.
+2
+MD5
+Swath
+1
+932409571000
+ARCHIVE-OPEN
+LOCAL-OPENDAP
+LOCAL-FTP
+WGS-84
+12500
+HDF
+QUIKSCAT
+QuikSCAT L2B User Guide
+QSCAT_LEVEL_2B_COMP_12.jpg
+QuikSCAT Known Problems and Issues
+1800000
+932364289000
+SeaWinds Scatterometer
+SeaWinds Scatterometer
+NONE
+Earth Science
+DATA-PROVIDER
+PODAAC-QSX12-L2B00
+1258848082000
+QSCAT_LEVEL_2B_COMP_12
+
+86
+SeaPAC
+1
+SeaWinds on QuikSCAT L2B Ocean Wind Vectors in 12.5km Slice Composites
+podaac@podaac.jpl.nasa.gov
+GZIP
+ftp://podaac-ftp.jpl.nasa.gov/allData/quikscat/L2B/docs/QSUG_v3.pdf
+SeaWinds on QuikSCAT L2B Ocean Wind Vectors in 12.5km Slice Composites
+NULL
+Ocean Surface Wind Vectors
+QuikSCAT Science Data Record
+1163462400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/QSCAT_LEVEL_2B_COMP_12.jpg
+QUIKSCAT
+(818) 393-7165
+Less_than_daily
+1
+SEAWINDS
+SEAWINDS
+Quick Scatterometer
+The SeaWinds on QuikSCAT mission is a "quick recovery" mission to fill the gap created by the loss of data from the NASA Scatterometer (NSCAT), when the satellite it was flying on lost power in June 1997.
+The SeaWinds instrument on the QuikSCAT satellite is a specialized microwave radar that measures near-surface wind speed and direction under all weather and cloud conditions over Earth's oceans.
+360
+HISTORICAL
+This dataset has been superseded by Version 3: http://podaac.jpl.nasa.gov/dataset/QSCAT_LEVEL_2B_OWV_COMP_12 .
+This QuikSCAT Level 2B dataset contains science-quality ocean surface wind vector retrievals from the NASA SeaWinds scatterometer.
+The Version 2 L2B data continues to be openly distributed to allow sufficient time for community acceptance of the Version 3 dataset.
+The retrievals are provided on a non-uniform grid within the swath at 12.5 km pixel resolution.
+Higher resolution is achieved through a slice composite technique in which high resolution slice measurements from L1B data are composited into a 12.5 km wind vector cell.
+The increased sampling resolution enables users to obtain wind vectors 10 km closer to shore when compared to the 25 km L2B dataset.
+Each L2B file corresponds to a specific orbital revolution (rev) number, which begins at the southernmost point of the ascending orbit.
+An ASCII inline quality report (Q2B) has been generated for each L2B file; each Q2B file provides statistics of various quality elements pertaining to the processing of a specific L2B file.
+These wind vector retrievals have been processed using the QSCAT-1 geophysical model function.
+This is the official dataset produced by the QuikSCAT Project through the SeaWinds Processing and Analysis Center (SeaPAC).
+The SeaWinds instrument is a conical scanning pencil-beam radar, with dual-beam and dual-polarization capability, operating at Ku-band to provide all-weather ocean surface wind vector retrievals.
+For more information on the QuikSCAT platform and mission, please visit http://podaac.jpl.nasa.gov/OceanWind/QuikSCAT .
+Dataset User Guide
+Thumbnail image for Website
+Web Page Consisting of Known Problems, Issues, and Data Gaps
+NULL
+4 Day
+ORACLE
+Surface Winds
+1258848082000
+YEAR-DOY
+SeaWinds Processing and Analysis Center (SeaPAC)
+QUIKSCAT
+Latest processor version.
+Reference Materials
+Thumbnail
+PORTAL_DOC_KNOWN_ISSUES
+Oceans
+Technical Contact
+QUIKSCAT
+98.6
+NULL
+SeaWinds Processing and Analysis Center (SeaPAC)
+1.7 Hour
+QSCAT_LEVEL_2B_COMP_12
+ARCHIVE-DIST
+QSCATL2B_CP12
+931305600000
+HDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+SeaPAC
+SeaPAC
+Services
+Dataset policy entry migrated from the PO.DAAC Ingres database.
+1163462400000
+Along-track Grid
+Dunbar, R.S., T. Lungu, B. Weiss, B. Stiles, J. Huddleston, P.S. Callahan, G. Shirtliffe, K.L. Perry, C. Hsu, C. Mears, F. Wentz, D. Smith, September, 2006. QuikSCAT Science Data Product User Manual, Version 3.0, JPL Document D-18053 - Rev A, Jet Propulsion Laboratory, Pasadena, CA.
+NULL
+null
+http://winds.jpl.nasa.gov/
+NASA/JPL/PODAAC
+100.93
+DATA-CENTER
+Global
+NULL
+Surface Winds

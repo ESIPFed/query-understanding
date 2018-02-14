@@ -1,0 +1,177 @@
+30 Minute
+0
+146
+5200 Auth Road, Camp Springs, MD 20746, U.S.A.
+NOAA/NESDIS/STAR/SOCD, 5200 Auth Road, WWB, RM 601 Camp Springs, MD 20746, USA
+NULL
+Pacific
+Camp Springs, MD (USA)
+GOES-15
+Central Pacific
+0
+none
+301-763-8572
+NULL
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L2P/GOES15/OSDPD/
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L2P/GOES15/OSDPD
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L2P/GOES15/OSDPD
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/GOES15/OSDPD
+file:///store/ghrsst/open/data/L2P/GOES15/OSDPD
+0
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHG15-2PO01
+/data/export/web/thumbnails
+http://www.ghrsst.org
+http://ghrsst.jpl.nasa.gov
+-44
+GOES-15
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHG15-2PO01
+Ocean Temperature
+1
+
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+2P
+1
+Robert
+Eileen
+72
+GHRSST Level 2P Central Pacific Regional Skin Sea Surface Temperature from the Geostationary Operational Environmental Satellites (GOES) Imager on the GOES-15 satellite
+GHRSST
+sea surface temperature
+L2P
+sst
+surface temperature
+Geostationary
+GHRSST
+NEAR_REAL_TIME
+1335830766073
+4600
+N
+NULL
+None
+Ocean Temperature
+7000
+OPEN
+1331229600000
+Group for High Resolution Sea Surface Temperature
+Geostationary Operational Environmental Satellite 15-Imager
+2P
+MD2
+Satellite native view / two vertical cells blended
+1
+1331229600000
+LOCAL-OPENDAP
+LOCAL-FTP
+REMOTE-OPENDAP
+REMOTE-FTP
+ARCHIVE-OPEN
+WGS 84
+4200
+NETCDF
+Geostationary Operational Environmental Satellite 15
+Web Service (PO.DAAC Labs)
+OSDPD-L2P-GOES15.jpg
+none
+none
+Geostationary Operational Environmental Satellite 15-Imager
+Geostationary Operational Environmental Satellite 15-Imager
+None
+Earth Science
+DATA-PROVIDER
+31
+PODAAC-GHG15-2PO01
+OSDPD-L2P-GOES15
+These data are produced by NOAA/NESDIS funded by NESDIS Office of System Development
+860
+0
+OSDPD
+1
+0
+GHRSST Sea Surface Temperature 146W-105E and 72N-44S, at 0.05 degree resolution from GOES-15 Imager
+bob.potash@noaa.gov
+Eileen.Maturi@noaa.gov
+GZIP
+
+GHRSST Level 2P Central Pacific Regional Skin Sea Surface Temperature from the Geostationary Operational Environmental Satellites (GOES) Imager on the GOES-15 satellite
+NULL
+90
+Sea Surface Skin Temperature (SSTskin)
+Sea Surface Temperature produced by NOAA/NESDIS
+1334707200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/OSDPD-L2P-GOES15.jpg
+GHRSST
+301-763-8384
+301-763-8102 x172
+GHRSST
+4.0
+GOES-15 Imager
+GOES-15 Imager
+2
+Group for High Resolution Sea Surface Temperature Datasets
+Geostationary Operational Environmental Satellite 15
+-105
+NEAR_REAL_TIME
+The  Geostationary Operational Environmental Satellites (GOES) operated by the United States National Oceanographic and Atmospheric Administration (NOAA) support weather forecasting, severe storm tracking, meteorology and oceanography research.
+Generally there are several GOES satellites in geosynchronous orbit at any one time viewing different earth locations including the GOES-15 launched 4 March 2010.
+The radiometer aboard the satellite, The GOES N-P Imager, is a five channel (one visible, four infrared) imaging radiometer designed to sense radiant and solar reflected energy from sampled areas of the earth.
+The multi-element spectral channels simultaneously sweep east-west and west-east along a north-to-south path by means of a two-axis mirror scan system retuning telemetry in 10-bit precision.
+For this Group for High Resolution Sea Surface Temperature (GHRSST) dataset,  skin sea surface temperature (SST) measurements  are calculated from the far IR channels of GOES-15 at full resolution on a half hourly basis.
+In native satellite projection, vertically adjacent pixels are averaged and read out at every pixel.
+L2P datasets including  Single Sensor Error Statistics (SSES) are then derived following the GHRSST Data Processing Specification (GDS) version 1.6.
+The full disk image is subsetted into granules representing  distinct northern and southern regions.
+(Search Granule)
+Thumbnail image for Website
+Home Page of the GHRSST Project
+Portal to the GHRSST Global Data Assembly Center and data access
+NULL
+30 Minute
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+NOAA/NESDIS
+GHRSST
+Creation of Dataset via Metadata Tool.
+PORTAL_DA_DIRECT_ACCESS
+Thumbnail
+Project home page
+Get Data
+Oceans
+Technical Contact
+Technical Contact
+Geostationary Operational Environmental Satellite 15
+-99
+NULL
+NOAA Office of Satellite Data Processing and Distribution
+30 Minute
+OSDPD-L2P-GOES15
+6
+ROLLING-STORE
+GOES15
+1335830766073
+NETCDF
+NOAA Office of Satellite Data Processing and Distribution
+NOAA Office of Satellite Data Processing and Distribution
+Y
+NOAA/NESDIS USA, 5200 Auth Rd, Camp Springs, MD, 20746
+NOAA/NESDIS
+Potash
+Maturi
+Dataset Creation via Metadata Tool
+1335830766073
+Geolocation information included for each pixel
+GOES-SST Programmers Reference Manual
+NULL
+none
+none
+http://www.osdpd.noaa.gov
+OSDPD
+OSDPD
+-99
+DATA-PROVIDER
+DATA-PROVIDER
+Pacific
+NULL
+Sea Surface Temperature

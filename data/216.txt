@@ -1,0 +1,206 @@
+12 Hour
+0
+-100
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+Meteo France, Centre de Meteorologie Spatiale (CMS), Lannion, 22303 Lannion, cedex, France
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+NULL
+Atlantic Ocean
+Plouzane (Brest), France
+MSG
+Atlantic Ocean low and mid Latitudes including Mediterranean Sea
+0
++33-2-98224533
++33 2 96 05 67 37
++33 2 98 22 45 33
+NULL
+none
+file:///store/ghrsst/open/data/L2P/SEVIRI_SST/EUR
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L2P/SEVIRI_SST/EUR/
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L2P/SEVIRI_SST/EUR
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/SEVIRI_SST/EUR
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L2P/SEVIRI_SST/EUR
+0.00
+http://ghrsst.jpl.nasa.gov
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHSEV-2PE01
+/data/export/web/thumbnails
+http://www.medspiration.org
+http://www.osi-saf.org/biblio/bibliotheque.php
+http://www.ghrsst.org
+http://www.osi-saf.org
+-60
+MSG
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHSEV-2PE01
+Ocean Temperature
+N/A
+none
+
+
+NULL
+Group for High Resolution Sea Surface Temperature
+2P
+1
+Jean-Francois
+Pierre
+Sylvie
+60
+GHRSST Level 2P Atlantic Regional Skin Sea Surface Temperature from the Spinning Enhanced Visible and InfraRed Imager (SEVIRI) on the Meteosat Second Generation (MSG-1) satellite
+GHRSST
+sea surface temperature
+L2P
+sst
+surface temperature
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1295629813000
+11160
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+-999
+OPEN
+none
+1107172020000
+Group for High Resolution Sea Surface Temperature
+The Spinning Enhanced Visible and InfraRed Imager (SEVIRI)  has the capacity to observe the Earth in 12 spectral channels.
+Eight of these channels are in the thermal infrared, providing among other information, observations of the temperatures of clouds, land and sea surfaces at approximately 5 km resolution with a 15 minute duty cycle.
+2P
+MD5
+Geolocation information included for each pixel
+1
+1107172020000
+ARCHIVE-OPEN
+LOCAL-OPENDAP
+LOCAL-FTP
+REMOTE-FTP
+REMOTE-OPENDAP
+WGS 84
+11160
+NETCDF
+Meteosat Second Generation
+none
+Web Service (PO.DAAC Labs)
+EUR-L2P-SEVIRI_SST.jpg
+none
+none
+none
+none
+Spinning Enhanced Visible and Infrared Imager
+Spinning Enhanced Visible and Infrared Imager
+None
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHSEV-2PE01
+EUR-L2P-SEVIRI_SST
+These data are produced by the ESA Medspiration project funded by the European Space Agency Data User Element (ESA-DUE)
+38
+0
+IFREMER/CERSAT
+1
+0
+Sea Surface Temperature (SST-sub-skin) Low and Mid Latitudes (LML), 100W - 45E and 60N - 60S, gridded at 0.1 degree resolution every 3 hours from MSG SEVIRI
+jfpiolle@ifremer.fr
+pierre.leborgne@meteo.fr
+sylvie.pouliquen@ifremer.fr
+BZIP2
+ftp://ftp.ifremer.fr/ifremer/valmedspi
+GHRSST Level 2P Atlantic Regional Skin Sea Surface Temperature from the Spinning Enhanced Visible and InfraRed Imager (SEVIRI) on the Meteosat Second Generation (MSG-1) satellite
+NULL
+90
+Skin Sea Surface Temperature (SSTskin)
+Sea Surface Temperature Low and Mid Latitudes (LML) produced by Medspiration
+1089072000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/EUR-L2P-SEVIRI_SST.jpg
+GHRSST
++33-2-98224691
++33 2 96 05 67 52
++33 2 98 22 44 92
+Less_than_daily
+4.0
+SEVIRI
+SEVIRI
+3
+Group for High Resolution Sea Surface Temperature Datasets
+Meteosat Second Generation (MSG) provides multi-spectral imagery of the Earth's surface and cloud systems from a geostationary orbit.
+45
+NEAR_REAL_TIME
+The Meteosat Second Generation (MSG) satellites are spin stabilized geostationary satellites operated by the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT) to provide accurate weather monitoring data through its primary instrument the Spinning Enhanced Visible and InfraRed Imager (SEVIRI), which has the capacity to observe the Earth in 12 spectral channels.
+Eight of these channels are in the thermal infrared, providing among other information, observations of the temperatures of clouds, land and sea surfaces at approximately 5 km resolution with a 15 minute duty cycle.
+This Group for High Resolution Sea Surface Temperature (GHRSST) dataset produced by Meteo France/ Centre de Meteorologie Spatiale (CMS), is derived from the SEVIRI instrument on the first MSG satellite (also known as  Meteosat-8) that was launched on 28 August 2002.
+Skin sea surface temperature (SST) data are calculated from the infrared channels of SEVIRI at full resolution on a hourly basis.
+Remapping of original pixel size to 11.6 km resolution is made by spatial averaging, and a 3-hourly temporal resolution SST is created  by averaging the hourly SSTs having the best confidence level.
+Data from different MSG satellites are not averaged together.
+L2P data products with Single Sensor Error Statistics (SSES) are then derived following the GHRSST-PP Data Processing Specification (GDS) version 1.5.
+Portal to the GHRSST Global Data Assembly Center and data access
+(Search Granule)
+Thumbnail image for Website
+Description of the Medspiration project
+EUMETSAT OSI-SAF SEVIRI documentation pages
+Home Page of the GHRSST Project
+Home Page of the EUMETSAT OCean and Sea ICe Satellite Application Facility
+NULL
+1 Day
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+Medspiration Meteo-France/Centre de Meteorologie Spatiale (CMS)
+GHRSST
+
+Get Data
+PORTAL_DA_DIRECT_ACCESS
+Thumbnail
+Project Home Page
+Reference Materials
+Project Home Page
+Project Home Page
+Oceans
+Technical Contact
+Data originator/Technical contact
+Technical Contact
+Meteosat Second Generation
+-999
+NULL
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+3 Hour
+EUR-L2P-SEVIRI_SST
+6
+ROLLING-STORE
+SEVIRI-L2P
+1103900400000
+NETCDF
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+Meteorologie Spatiale
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+Y
+Medspiration: Meteo France/Meteo France, Centre de Meteorologie Spatiale (CMS), Lannion, 22303 Lannion, cedex, France; EUMETSAT Ocean; Sea Ice Satellite Application Facility
+Medspiration, IFREMER/CERSAT
+Piolle
+LeBorgne
+Pouliquen
+2004-12-20. C Donlon: Original;    2005-10-24. E Armstrong: revised
+
+Satellite native view
+Medspiration products user manual, Robinson I., Leborgne P., Piolle J.F., Larnicol G., v1.02, September 2004
+NULL
+none
+none
+none
+http://www.ifremer.fr/anglais/
+http://cersat.ifremer.fr
+http://www.ifremer.fr/cersat/en/index.html
+IFREMER/CERSAT
+CMS
+IFREMER/CERSAT
+-999
+DATA-PROVIDER
+DATA-PROVIDER
+DATA-PROVIDER
+Atlantic Ocean
+NULL
+Sea Surface Temperature

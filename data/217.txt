@@ -1,0 +1,156 @@
+-180
+JPL, 4800 Oak Grove Dr, Pasadena, CA 91109, USA
+Ocean Biology Processing Group NASA/GSFC 614.2, B28, rm. W123
+NULL
+Global
+NASA Goddard Space Flight Center
+Orbview2
+
+818-393-2718
+
+http://oceandata.sci.gsfc.nasa.gov/SeaWiFS/Mapped/Daily/9km/chlor_a
+http://thredds.jpl.nasa.gov/las/
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/Chlorophyll/seawifs/catalog.html?dataset=ncml_aggregation/Chlorophyll/seawifs/aggregate__SEAWIFS_L3_CHLA_DAILY_9KM_R.ncml
+http://oceancolor.gsfc.nasa.gov/DOCS/Ocean_Level-3_SMI_Products.pdf
+http://oceancolor.gsfc.nasa.gov
+-90
+Orbview2
+NULL
+REMOTE
+Ocean Optics
+1
+none
+
+NULL
+SeaWiFS Project
+3
+Edward
+Bryan
+90
+SeaWiFS Global Daily Mapped 9km Chlorophyll a
+Chlorophyll a
+SeaWiFS
+biology
+1 Day
+passive
+HISTORICAL
+1356123503268
+0.083
+SeaWiFS
+N
+NULL
+None
+Ocean Optics
+2800
+REMOTE
+873331200000
+SeaWiFS Project
+SeaWiFS
+3
+MD5
+Equidistant Cylindrical Lat-lon
+1
+873331200000
+REMOTE-HTTP
+WGS-84
+NETCDF
+Orbital Sciences Corporation OrbView-2 Satellite
+LAS
+THREDDS
+SMI L3 product format guide
+Ocean Biology Processing Group homepage
+Sea-viewing Wide Field-of-view Sensor
+Sea-viewing Wide Field-of-view Sensor
+All SeaWiFS data presented are for research and educational use only. All commercial use of SeaWiFS data must be coordinated with GeoEye.
+Earth Science
+DATA-CENTER
+10
+OBPGOC-SWFCA-3D9RE
+1292025600000
+SeaWiFS_L3_CHLA_Daily_9km_R
+
+1008
+OBPG
+1
+SeaWiFS Level 3 Daily Mapped Chlorophyll A 9km
+edward.m.armstrong@jpl.nasa.gov
+bryan.a.franz@nasa.gov
+NONE
+http://oceancolor.gsfc.nasa.gov
+SeaWiFS Global Daily Mapped 9km Chlorophyll a
+NULL
+1
+Chlorophyll
+SeaWiFS Level 3 Mapped Chlorophyll A
+1045353600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/SeaWiFS_L3_CHLA_Daily_9km_R.jpg
+0.083
+818-393-6710
+
+Daily
+1
+SeaWiFS
+SeaWiFS
+24
+OrbView-2
+180
+HISTORICAL
+Sea-viewing Wide Field-of-view Sensor (SeaWiFS) Level 3 standard mapped image (SMI) chlorophyll-a data has a daily temporal resolution and 9.2 km (at the equator) spatial resolution.
+The SMI dataset is an image representation of binned SeaWiFS data (more detailed information on the SMI format can be found at http://oceancolor.gsfc.nasa.gov).
+The SeaWiFS instrument provides quantitative data on global ocean bio-optical properties to examine oceanic factors that affect global change and to assess the oceans' role in the global carbon cycle, as well as other biogeochemical cycles.
+Subtle changes in chlorophyll-a signify various types and quantities of marine phytoplankton (microscopic marine plants), the knowledge of which has both scientific and practical applications.
+This is a remote dataset from the NASA Ocean Biology Processing Group (OBPG).
+The OBPG is the official NASA data center that archives and distributes ocean color data (http://oceancolor.gsfc.nasa.gov).
+Live Access Server
+
+Documentation for the Standard Mapping Image (SMI) format from the OPBG
+Ocean Biology Processing Group homepage
+NULL
+NONE
+Ocean Color
+1292025600000
+BATCH
+NASA Ocean Biology Processing Group
+SeaWiFS
+Creation of Dataset via Metadata Tool.
+PORTAL_DA_TOOLS_AND_SERVICES
+PORTAL_DA_DIRECT_ACCESS
+Documentation
+Web site
+Oceans
+Technical Contact
+Technical Contact
+Orbital Sciences Corporation OrbView-2 Satellite
+98.2
+NULL
+Ocean Biology Processing Group (OBPG), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center,NASA
+SeaWiFS_L3_CHLA_Daily_9km_R
+12
+REMOTE-DIST
+SeaWiFS mapped daily 9km chlorophyll a
+1356123503268
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Ocean Biology Processing Group (OBPG), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center,NASA
+Y
+SeaWiFS Project
+NA
+NASA Ocean Biology Processing Group
+Armstrong
+Franz
+Dataset Creation via Metadata Tool
+1356123503268
+Regular 0.083 degree grid
+O'Reilly, J.E., and Coauthors, 2000: SeaWiFS Postlaunch Calibration and Validation Analyses, Part 3. NASA Tech. Memo. 2000-206892, Vol. 11, S.B. Hooker and E.R. Firestone, Eds., NASA Goddard Space Flight Center
+NULL
+none
+Provider
+NASA/JPL/PODAAC
+OBPG
+99
+DATA-CENTER
+DATA-CENTER
+Global
+NULL
+1 Day
+Ocean Color

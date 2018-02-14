@@ -1,0 +1,254 @@
+-180
+null
+NULL
+Global
+NOAA National Oceanographic Data Center, Silver Spring, MD 20910, USA
+NOAA-16
+NOAA-17
+NOAA-18
+NOAA-11
+NOAA-7
+NOAA-9
+NOAA-14
+
+null
+NULL
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/avhrr/L3/pathfinder_v51/monthly/day/
+file:///store/avhrr/open/L3/pathfinder_v51/monthly/day
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L3/pathfinder_v51/monthly/day
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L3/pathfinder_v5/L3/docs/avhrr_pathfinder_sst_v5.html
+http://www.nodc.noaa.gov/sog/pathfinder4km/userguide.html
+/data/export/web/thumbnails
+http://www.nodc.noaa.gov/SatelliteData/pathfinder4km/status.html
+-90
+NOAA-16
+NOAA-17
+NOAA-18
+NOAA-11
+NOAA-7
+NOAA-9
+NOAA-14
+AVHRR Pathfinder L3 Daily SST Version 5 and 5.1
+OPEN
+10.5067/PATHF-MOD51
+Ocean Temperature
+N/A
+null
+NULL
+Pathfinder Version 5.0
+3
+446
+User
+90
+AVHRR Pathfinder Level 3 Monthly Daytime SST Version 5.1
+Pathfinder
+sea surface temperature
+polar
+sun-synchronous
+sst
+surface temperature
+AVHRR
+AVHRR2
+AVHRR3
+1 Month
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+AVHRR_PATHFINDER_L3_SST
+HISTORICAL
+1295629813000
+0.044
+AVHRR PATHFINDER
+N
+NULL
+NONE
+Ocean Temperature
+2400
+2400
+2400
+2400
+2400
+2400
+2400
+OPEN
+367459200000
+Pathfinder Version 5.0
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+3
+MD5
+Gridded
+1
+367459200000
+LOCAL-OPENDAP
+ARCHIVE-OPEN
+LOCAL-FTP
+7030/WGS 84 (6378137.00,6356752.31)
+HDF
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+National Oceanic & Atmospheric Administration-11
+National Oceanic & Atmospheric Administration-7
+National Oceanic & Atmospheric Administration-9
+National Oceanic & Atmospheric Administration-14
+User's Guide
+User's Guide
+AVHRR_PATHFINDER_L3_SST_MONTHLY_DAYTIME_V51.jpg
+Pathfinder Current Status and History
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+NONE
+Earth Science
+DATA-CENTER
+1
+PODAAC-PATHF-MOD51
+475977600000
+AVHRR_PATHFINDER_L3_SST_MONTHLY_DAYTIME_V51
+Pathfinder 4km SST from NODC and the University of Miami RSMAS
+300
+NOAA NODC
+1
+AVHRR Pathfinder SST
+podaac@podaac.jpl.nasa.gov
+NONE
+http://www.nodc.noaa.gov/sog/pathfinder4km/userguide.html
+AVHRR Pathfinder Level 3 Monthly Daytime SST Version 5.1
+NULL
+
+AVHRR Pathfinder SST
+1239580800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/AVHRR_PATHFINDER_L3_SST_MONTHLY_DAYTIME_V51.jpg
+0.044
+AVHRR_PATHFINDER_L3_SST
+(818) 393-7165
+Monthly
+5.1
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AVHRR-2
+AVHRR-2
+AVHRR-2
+AVHRR-2
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AVHRR-2
+AVHRR-2
+AVHRR-2
+AVHRR-2
+730
+AVHRR Pathfinder L3 Daily SST Version 5 and 5.1
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+NOAA (national oceanic and atmospheric administration) satellite number 11 NOAA (national oceanic and atmospheric administration) Satellite number 7 NOAA (national oceanic and atmospheric administration) satellite number 9 NOAA (national oceanic and atmospheric administration) Satellite number 14
+180
+HISTORICAL
+The 4 km Advanced Very High Resolution Radiometer (AVHRR) Pathfinder Version 5 sea surface temperature (SST) dataset is a reanalysis of historical AVHRR data that have been improved using extensive calibration, validation and other information to yield a consistent research quality time series for global climate studies.
+This SST time series represents the longest continual global ocean physical measurement from space.
+Development of the Pathfinder dataset is sponsored by the NOAA National Oceanographic Data Center (NODC) in collaboration with the University of Miami Rosensteil School of Marine and Atmospheric Science (RSMAS) while distribution is a collaborative effort between the NASA Physical Oceanography Distributed Active Archive Center (PO.DAAC) and the NODC.
+From a historical perspective, the Pathfinder program was originally initiated in the 1990s as a joint NOAA/NASA research activity for reprocessing of satellite based data sets including SST.
+The AVHRR is a space-borne scanning sensor on the National Oceanic and Atmospheric Administration (NOAA) family of Polar Orbiting Environmental Satellites (POES) having an operational legacy that traces back to the Television Infrared Observation Satellite-N (TIROS-N) launched in 1978.
+AVHRR instruments measure the radiance of the Earth in 5 (or 6) relatively wide spectral bands.
+The first two are centered around the red (0.6 micrometer) and near-infrared (0.9 micrometer) regions, the third one is located around 3.5 micrometer, and the last two sample the emitted thermal radiation, around 11 and 12 micrometers, respectively.
+The legacy 5 band instrument is known as AVHRR/2 while the more recent version, the AVHRR/3 (first carried on the NOAA-15 platform), acquires data in a 6th channel located at 1.6 micrometer.
+Typically the 11 and 12 micron channels are used to derive SST sometimes in combination with the 3.5 micron channel.
+For the Pathfinder SST algorithm only the 11 and 12 micron channels are used.
+The NOAA platforms are sun synchronous generally viewing the same earth location twice a day (latitude dependent) due to the relatively large AVHRR swath of approximately 2400 km.
+The highest ground resolution that can be obtained from the current AVHRR instruments is 1.1 km at nadir.
+This particular dataset is produced from Global Area Coverage (GAC) data that are derived from an on-board sample averaging of the full resolution global AVHRR data.
+Four out of every five samples along the scan line are used to compute on average value and the data from only every third scan line are processed, yielding an effective 4 km resolution at nadir.
+The collection of NOAA satellite platforms used in the AVHRR Pathfinder SST time series includes NOAA-7, NOAA-9, NOAA-11,  NOAA-14,  NOAA-16, NOAA-17, and NOAA-18.
+These platforms contain afternoon orbits having a daytime ascending node of between 13:30 and 14:30 local time (at time of launch) with the exception of NOAA-17 that has a daytime descending node of approximately 10:00 local time.
+SST AVHRR Pathfinder includes separate daytime and nighttime daily, 5 day, 8 day, monthly and yearly datasets.
+This particular dataset represent daytime monthly averaged observations.
+describes Pathfinder Version 5
+NOAA's Pathfinder Version 5 documentation
+Thumbnail image for Website
+History of Reported Modifications and Processing History
+NULL
+NONE
+Sea Surface Temperature
+475977600000
+YEAR-DOY
+JPL PODAAC
+AVHRR PATHFINDER
+
+PORTAL_DOC_USERS_GUIDE
+PORTAL_DOC_USERS_GUIDE
+Thumbnail
+PORTAL_DOC_KNOWN_ISSUES
+Oceans
+Technical Contact
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+National Oceanic & Atmospheric Administration-11
+National Oceanic & Atmospheric Administration-7
+National Oceanic & Atmospheric Administration-9
+National Oceanic & Atmospheric Administration-14
+99
+98.7
+98.74
+99
+99
+98
+99
+NULL
+National Oceanographic and Atmospheric Administration, National Oceanographic Data Center
+AVHRR_PATHFINDER_L3_SST_MONTHLY_DAYTIME_V51
+ARCHIVE-DIST
+1270599515000
+HDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+NODC and Rosenstiel School of Marine and Atmospheric Science
+National Oceanographic Data Center
+Services
+Dataset Policy created for AVHRR_PATHFINDER_L3_SST_MONTHLY_DAYTIME_V51
+
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L3/pathfinder_v5/docs/avhrr_pathfinder_sst_v5.html. The following may be used in citing the pathfinder data sets for publication purposes: Kilpatrick, K.A., G.P. Podesta and R. Evans (2001), Overview of the NOAA/NASA Advanced Very High Resolution Radiometer Pathfinder algorithm for sea surface temperature and associated matchup database, J. Geophys. Res., 106, C5, 9179-9197.
+NULL
+null
+NASA/JPL/PODAAC
+102.1
+101.2
+102.12
+102
+102
+102
+102
+DATA-CENTER
+Global
+NULL
+1 Month
+Sea Surface Temperature

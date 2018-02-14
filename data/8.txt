@@ -1,0 +1,297 @@
+-180
+4800 Oak Grove Dr, Pasadena, CA 91109, USA
+4800 Oak Grove Dr, Pasadena, CA 91109, USA
+NULL
+Global
+Jet Propulsion Laboratory
+AQUA
+AQUA
+InSitu
+MetOp-A
+TRMM
+NDBC MOORED BUOY
+MTSAT1R
+GOES-13
+MTSAT2
+none
+1 818 354 0966
+
+NULL
+none
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L4/GLOB/JPL_OUROCEAN/G1SST
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L4/GLOB/JPL_OUROCEAN/G1SST
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L4/GLOB/JPL_OUROCEAN/G1SST
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L4/GLOB/JPL_OUROCEAN/G1SST/
+file:///store/ghrsst/open/data/L4/GLOB/JPL_OUROCEAN/G1SST
+0.0
+http://ghrsst.jpl.nasa.gov
+http://ourocean.jpl.nasa.gov/sst
+/data/export/web/thumbnails
+http://www.ghrsst.org
+http://thredds.jpl.nasa.gov/las/
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHG1S-4FP01&apidoc
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/ghrsst/catalog.html?dataset=ncml_aggregation/OceanTemperature/ghrsst/aggregate__ghrsst_JPL_OUROCEAN-L4UHfnd-GLOB-G1SST_OI.ncml
+http://podaac-tools.jpl.nasa.gov/soto/
+-80
+AQUA
+AQUA
+InSitu
+MetOp-A
+TRMM
+NDBC MOORED BUOY
+MTSAT1R
+GOES-13
+MTSAT2
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHG1S-4FP01
+Ocean Temperature
+1
+
+
+NULL
+Group for High Resolution Sea Surface Temperature
+4
+1
+Yi
+Benyang
+80
+GHRSST Level 4 G1SST Global Foundation Sea Surface Temperature Analysis
+GHRSST
+sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+1 Day
+SPACECRAFT
+SPACECRAFT
+instrument
+SPACECRAFT
+SPACECRAFT
+bouy, spacecraft
+Geostationary
+Geostationary
+Geostationary
+GHRSST
+NEAR_REAL_TIME
+1295629813000
+0.01
+GHRSST
+N
+NULL
+none
+Ocean Temperature
+1445
+2330
+-999
+2400
+878
+-999
+12000
+7000
+12000
+OPEN
+none
+1276041600000
+Group for High Resolution Sea Surface Temperature
+The Advanced Microwave Scanning Radiometer for EOS (AMSR-E) is a twelve-channel, six-frequency, total power passive-microwave radiometer system.
+The MODIS (Moderate Resolution Imaging Spectroradiometer) instrument provides high radiometric sensitivity (12 bit) in 36 spectral bands ranging in wavelength from 0.4 m to 14.4 m. It is used for observing processes occurring on the land, in the oceans, and in the lower atmosphere.
+In situ SST data from drifting and moored buoys, and ships.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The Tropical Rainfall Measuring Mission's (TRMM) Microwave Imager (TMI) is a passive microwave sensor designed to provide quantitative rainfall information over a wide swath under the TRMM satellite.
+In situ SST data from drifting and moored buoys, and ships.
+MTSAT 1R carries a 5 channel scanning radiometer with four IR channels and one visible channel.
+he GOES Imager is a multi-channel instrument designed to sense radiant and solar-reflected energy from sampled areas of the Earth.
+The multi-element spectral channels simultaneously sweep east-west a MTSAT 2 carries a 5 channel scanning radiometer with four IR channels and one visible channel.
+4
+MD2
+Cylindrical Lat-Lon
+1
+1276041600000
+REMOTE-OPENDAP
+LOCAL-FTP
+REMOTE-FTP
+LOCAL-OPENDAP
+ARCHIVE-OPEN
+WGS 84
+NETCDF
+Earth Observing System, AQUA
+Earth Observing System, AQUA
+InSitu
+Meteorological Operational Satellite - A
+Tropical Rainfall Measuring Mission
+NDBC MOORED BUOY
+Multi-functional Transport Satellite 1 Replacement
+Geostationary Operational Environmental Satellite 13
+The Multi-functional Transport Satellite 2
+none
+OurOcean Team homepage
+JPL_OUROCEAN-L4UHfnd-GLOB-G1SST.jpg
+GHRSST Project homepage
+LAS
+Web Service (PO.DAAC Labs)
+THREDDS
+SOTO-3D
+Advanced Microwave Scanning Radiometer-EOS
+Moderate-Resolution Imaging Spectroradiometer
+Ships and Moored and Drifting Buoys
+Advanced Very High Resolution Radiometer-3
+TRMM Microwave Imager
+Ships and Moored and Drifting Buoys
+Multifunctional Transport Satellites 1R Imager
+Geostationary Operational Environmental Satellite 13-Imager
+Multifunction Transport 2 Imager
+Advanced Microwave Scanning Radiometer-EOS
+Moderate-Resolution Imaging Spectroradiometer
+Ships and Moored and Drifting Buoys
+Advanced Very High Resolution Radiometer-3
+TRMM Microwave Imager
+Ships and Moored and Drifting Buoys
+Multifunctional Transport Satellites 1R Imager
+Geostationary Operational Environmental Satellite 13-Imager
+Multifunction Transport 2 Imager
+none
+Earth Science
+DATA-PROVIDER
+10
+PODAAC-GHG1S-4FP01
+JPL_OUROCEAN-L4UHfnd-GLOB-G1SST
+none
+393
+JPL OurOcean
+1
+G1SST L4 SST Analysis
+yi.chao@jpl.nasa.gov
+benyang.tang@jpl.nasa.gov
+BZIP2
+http://ourocean.jpl.nasa.gov/SST/
+GHRSST Level 4 G1SST Global Foundation Sea Surface Temperature Analysis
+NULL
+Foundation Sea Surface Temperature (SSTfnd)
+G1SST L4 foundation SST
+1275523200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/JPL_OUROCEAN-L4UHfnd-GLOB-G1SST.jpg
+0.01
+GHRSST
+1 818 354 8168
+1 818 354 0327
+Daily
+1
+AMSR-E
+MODIS
+InSitu
+AVHRR-3
+TMI
+InSitu
+MTSAT 1R Imager
+GOES-13 Imager
+MTSAT 2 Imager
+AMSR-E
+MODIS
+InSitu
+AVHRR-3
+TMI
+InSitu
+MTSAT 1R Imager
+GOES-13 Imager
+MTSAT 2 Imager
+1
+Group for High Resolution Sea Surface Temperature Datasets
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+In situ SST data from drifting and moored buoys, and ships at various depths.
+MetOp-A is the first in a series of three polar-orbiting European meteorological satellites,  launched on 19 October 2006 as part of the EUMETSAT Polar System.
+The Tropical Rainfall Measuring Mission (TRMM) is a joint mission between NASA and the Japan Aerospace Exploration Agency (JAXA) designed to monitor and study tropical rainfall.
+TBD The Multi-functional Transport Satellite (MTSAT) series fulfills a meteorological function for the Japan Meteorological Agency and an aviation control function for the Civil Aviation Bureau of the Ministry of Land, Infrastructure and Transport.
+Geostationary Operational Environmental Satellite 13 The Multi-functional Transport Satellite (MTSAT) series fulfills a meteorological function for the Japan Meteorological Agency and an aviation control function for the Civil Aviation Bureau of the Ministry of Land, Infrastructure and Transport
+180
+NEAR_REAL_TIME
+A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature analysis produced daily on an operational basis by the JPL OurOcean group using a multi-scale two-dimensional variational (MS-2DVAR) blending algorithm on a global 0.009 degree grid.
+This Global 1 km SST (G1SST) analysis uses satellite data from sensors that include the Advanced Very High Resolution Radiometer (AVHRR), the Advanced Along Track Scanning Radiometer (AATSR), the Spinning Enhanced Visible and Infrared Imager (SEVIRI), the Advanced Microwave Scanning Radiometer-EOS (AMSRE), the Tropical Rainfall Measuring Mission Microwave Imager (TMI), the Moderate Resolution Imaging Spectroradiometer (MODIS), the Geostationary Operational Environmental Satellite (GOES) Imager, the Multi-Functional Transport Satellite 1R (MTSAT-1R) radiometer, and in situ data from drifting and moored buoys.
+Portal to the GHRSST Global Data Assembly Center and data access
+OurOcean Team homepage
+Thumbnail image for Website
+GHRSST Project homepage
+Live Access Server
+(Search Granule)
+
+Select (Sea Surface Temperature - Blended)
+NULL
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+The OurOcean Team, Jet Propulsion Laboratory
+GHRSST
+Initial creation of dataset.
+Get Data
+Web site
+Thumbnail
+Web site
+PORTAL_DA_TOOLS_AND_SERVICES
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DA_TOOLS_AND_SERVICES
+Oceans
+Investigator
+Technical Contact
+Earth Observing System, AQUA
+Earth Observing System, AQUA
+InSitu
+Meteorological Operational Satellite - A
+Tropical Rainfall Measuring Mission
+NDBC MOORED BUOY
+Multi-functional Transport Satellite 1 Replacement
+Geostationary Operational Environmental Satellite 13
+The Multi-functional Transport Satellite 2
+98.1
+98.1
+-999
+98.7
+35
+0
+0
+0
+0
+NULL
+Jet Propulsion Laboratory OurOcean Project
+JPL_OUROCEAN-L4UHfnd-GLOB-G1SST
+24
+ARCHIVE-DIST
+G1SST
+1276669933049
+NETCDF
+Jet Propulsion Laboratory
+Jet Propulsion Laboratory
+Y
+JPL  OurOcean Project
+none
+JPL NASA
+Chao
+Tang
+Dataset Creation
+1276669933049
+Regular 0.01 degree grid
+Chao, Y., Z. Li, J. D. Farrara, and P. Huang: Blended sea surface temperatures from multiple satellites and in-situ observations for coastal oceans, 2009: Journal of Atmospheric and Oceanic Technology, 26 (7), 1435-1446, 10.1175/2009JTECHO592.1
+NULL
+none
+none
+http://ourocean.jpl.nasa.gov/
+NASA/JPL
+NASA/JPL
+98.4
+98.4
+-999
+101.3
+92.4
+0
+0
+0
+0
+DATA-PROVIDER
+DATA-PROVIDER
+Global
+NULL
+1 Day
+Sea Surface Temperature

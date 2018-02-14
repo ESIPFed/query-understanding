@@ -1,0 +1,167 @@
+0
+JPL, 4800 Oak Grove Dr, Pasadena, CA 91109, USA
+438 First St, Suite 200, Santa Rosa, CA 95401, USA
+NULL
+Global
+JPL
+AQUA
+
+818-393-2718
+001 707 545 2906
+NULL
+file:///store/amsre/open/L3/sst_1deg_1mo
+ftp://podaac-ftp.jpl.nasa.gov/allData/amsre/L3/sst_1deg_1mo
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/amsre/L3/sst_1deg_1mo/
+http://thredds.jpl.nasa.gov/las/
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/amsre/catalog.html?dataset=ncml_aggregation/OceanTemperature/amsre/aggregate__AMSRE_L3_SST_1DEG_1MO.ncml
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-SST00-1D1M1
+http://esg-gateway.jpl.nasa.gov/home.htm
+ftp://podaac.jpl.nasa.gov/allData/amsre/L3/sst_1deg_1mo/docs/tosTechNote_AMSRE_L3_v7_200206-201012.pdf
+-90
+AQUA
+Climate Data Record
+Gridded Climate Variables for Model Intercomparison
+OPEN
+10.5067/SST00-1D1M1
+Ocean Temperature
+1
+none
+none
+NULL
+JPL/PCMDI
+3
+1184
+669
+Edward
+Sharon
+90
+AMSR-E Level 3 Sea Surface Temperature for Climate Model Comparison
+SST
+1 Month
+SPACECRAFT
+CDR
+Gridded Climate Variables for Model Intercomparison
+HISTORICAL
+1327616123132
+1
+JPL/PCMDI
+Y
+NULL
+none
+Ocean Temperature
+1445
+OPEN
+1022889600000
+JPL/PCMDI
+The Advanced Microwave Scanning Radiometer for EOS (AMSR-E) is a twelve-channel, six-frequency, total power passive-microwave radiometer system.
+3
+MD5
+Gridded
+1
+1022889600000
+ARCHIVE-OPEN
+LOCAL-FTP
+LOCAL-OPENDAP
+WGS-84
+NETCDF
+Earth Observing System, AQUA
+LAS
+THREDDS
+Web Service (PO.DAAC Labs)
+JPL Earth System Grid
+AMSR-E Sea Surface Temperature Technical Note
+Advanced Microwave Scanning Radiometer-EOS
+Advanced Microwave Scanning Radiometer-EOS
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-SST00-1D1M1
+1293667200000
+AMSRE_L3_SST_1DEG_1MO
+AMSR-E Level 3 Sea Surface Temperature for Climate Model Comparison
+725
+REMSS
+1
+AMSRE_L3_SST_1DEG_1MO
+edward.m.armstrong@jpl.nasa.gov
+tremble@remss.com
+NONE
+ftp://podaac.jpl.nasa.gov/OceanTemperature/amsre/L3/sst_1deg_1mo/docs/tosTechNote_AMSRE_L3_v7_200206-201012.pdf
+AMSR-E Level 3 Sea Surface Temperature for Climate Model Comparison
+NULL
+Sub-skin Sea Surface Temperature
+AMSRE_L3_SST_1DEG_1MO
+1298937600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/AMSRE_L3_SST_1DEG_1MO.jpg
+1
+CDR
+Gridded Climate Variables for Model Intercomparison
+818-393-6710
+001 707 545 2904
+Monthly
+1
+AMSR-E
+AMSR-E
+Climate Data Record
+Gridded Climate Variables for Model Intercomparison
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+360
+HISTORICAL
+This data set contains sea surface temperature (SST) data on a monthly 1 degree grid from the Advanced Microwave Scanning Radiometer (AMSR-E) aboard NASA's Aqua spacecraft.
+The data were produced by Remote Sensing Systems in support of the CMIP5 (Coupled Model Intercomparison Project Phase 5) under the World Climate Research Program (WCRP).
+Along with this dataset, two additional ancillary data files are included in the same directory which contain the number of observations and standard error co-located on the same 1 degree grids.
+AMSR-E, a passive-microwave radiometer launched on the Aqua platform on 4 May 2002, was provided by the National Space Development Agency (NASDA) of Japan to NASA as an indispensable part of Aqua's global hydrology mission.
+Over the oceans, AMSR-E is measuring a number of important geophysical parameters, including SST, wind speed, atmospheric water vapor, cloud water, and rain rate.
+A key feature of AMSR-E is its capability to see through clouds, thereby providing an uninterrupted view of global SST and surface wind fields.
+Live Access Server
+
+(Search Granule)
+Link to JPL Earth System Grid
+AMSR-E Technical Note
+NULL
+NONE
+Sea Surface Temperature
+1293667200000
+NONE
+REMSS
+JPL/PCMDI
+Creation of Dataset via Metadata Tool.
+PORTAL_DA_TOOLS_AND_SERVICES
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DA_DIRECT_ACCESS
+JPL ESG Link
+PDF
+Oceans
+Technical Contact
+Primary Contact
+Earth Observing System, AQUA
+98.1
+NULL
+Remote Sensing Systems
+AMSRE_L3_SST_1DEG_1MO
+ARCHIVE-DIST
+AMSR-E Sea Surface Temperature
+1327616123132
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Remote Sensing Systems
+Y
+Remote Sensing Systems
+JPL
+Armstrong
+Tremble
+Dataset Creation via Metadata Tool
+1327616123132
+NULL
+none
+none
+http://www.remss.com
+NASA/JPL/PODAAC
+REMSS
+98.4
+DATA-CENTER
+DATA-PROVIDER
+Global
+NULL
+1 Month
+Sea Surface Temperature

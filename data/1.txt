@@ -1,0 +1,165 @@
+12 Hour
+1.786
+-180
+null
+NULL
+Global
+Stennis Space Center, MS, USA
+Suomi NPP
+none
+null
+NULL
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L2P/VIIRS_NPP/NAVO/v1
+file:///store/ghrsst/open/data/GDS2/L2P/VIIRS_NPP/NAVO/v1
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L2P/VIIRS_NPP/NAVO/v1
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L2P/VIIRS_NPP/NAVO/v1
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L2P/VIIRS_NPP/NAVO/v1/
+http://ghrsst.jpl.nasa.gov
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/sw/IDL/
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/docs/GDS20r5.pdf
+/data/export/web/thumbnails
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHVRS-2PN02&apidoc
+-90
+Suomi NPP
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHVRS-2PN02
+Ocean Temperature
+1
+null
+NULL
+Group for High Resolution Sea Surface Temperature
+2P
+1
+Keith
+90
+GHRSST Level 2P Global 1 meter Sea Surface Temperature from the Visible Infrared Imaging Radiometer Suite (VIIRS) on the Suomi NPP satellite (GDS version 2)
+GHRSST
+sea surface temperature
+L2P
+sst
+surface temperature
+VIIRS
+spacecraft
+GHRSST
+NEAR_REAL_TIME
+1374087810000
+1500
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+3040
+OPEN
+1369070880000
+Group for High Resolution Sea Surface Temperature
+VIIRS is a 22-band radiometer to collect infrared and visible light for earth system monitoring
+2P
+MD5
+Satellite native swath
+1
+1369070880000
+LOCAL-FTP
+ARCHIVE-OPEN
+REMOTE-FTP
+REMOTE-OPENDAP
+LOCAL-OPENDAP
+WGS 84
+1500
+NETCDF
+Suomi Suomi National Polar-orbiting Partnership
+none
+IDL read software
+GDS2 User Manual
+VIIRS_NPP-NAVO-L2P-v1.0.jpg
+Web Service (PO.DAAC Labs)
+3040
+Visible Infrared Imaging Radiometer Suite
+Visible Infrared Imaging Radiometer Suite
+None
+Earth Science
+DATA-PROVIDER
+1000
+PODAAC-GHVRS-2PN02
+VIIRS_NPP-NAVO-L2P-v1.0
+VIIRS L2P data from NAVO
+1076
+NAVO
+1
+VIIRS on NPP L2P swath SST data set
+keith.d.willis@navy.mil
+NONE
+none
+GHRSST Level 2P Global 1 meter Sea Surface Temperature from the Visible Infrared Imaging Radiometer Suite (VIIRS) on the Suomi NPP satellite (GDS version 2)
+NULL
+Skin Sea Surface Temperature
+VIIRS on NPP L2P SST
+1334102400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/VIIRS_NPP-NAVO-L2P-v1.0.jpg
+GHRSST
+null
+Less_than_daily
+1.0
+VIIRS
+VIIRS
+2
+Group for High Resolution Sea Surface Temperature Datasets
+Suomi National Polar-orbiting Partnership is a joint mission between NASA, DOD and NOAA.
+180
+NEAR_REAL_TIME
+A global Group for High Resolution Sea Surface Temperature (GHRSST) Level 2P dataset based on retrievals from the Visible Infrared Imaging Radiometer Suite (VIIRS).
+This sensor resides on the Suomi National Polar-orbiting Operational Environmental Satellite System (NPOESS) Preparatory Project (NPP) satellite launched on 28 October 2011.
+The VIIRS instrument is a a 22-band, multi-spectral scanning radiometer with a 3040-km swath width that builds on the heritage of the MODIS , AVHRR and SeaWIFS sensors for sea surface temperature (SST) and ocean color.
+For the infrared bands for SST the effective pixel size is 740 meters at nadir and the pixel size variation across the swath is constrained to no more than 1600 meters at the edge of the swath.
+However, the processing of this dataset aggregates two pixels into one so the resolution is 1500 meters at nadir.
+This dataset adheres to the GHRSST Data Processing Specification (GDS) version 2 format specifications.
+Portal to the GHRSST Global Data Assembly Center and data access
+Read software
+Documentation on the GDS version 2 format specification
+Thumbnail image for Website
+(Search Granule)
+NULL
+24 Hour
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+Naval Oceanographic Office
+GHRSST
+Creation of Dataset via Metadata Tool.
+Get Data
+EXTRACT_NETCDF4
+PORTAL_DOC_USERS_GUIDE
+Thumbnail
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Primary Contact
+Suomi Suomi National Polar-orbiting Partnership
+97.1
+NULL
+Naval Oceanographic Office (NAVOCEANO)
+2 Hour
+VIIRS_NPP-NAVO-L2P-v1.0
+6
+ARCHIVE-DIST
+VIIRS_NPP L2P SST
+1364863157738
+NETCDF
+Naval Oceanographic Office (NAVOCEANO)
+Y
+Naval Oceanographic Office
+none
+Naval Oceanographic Office
+Willis
+Dataset Creation via Metadata Tool
+1364863157738
+Geolocation information included for each pixel
+NULL
+null
+https://www.navo.navy.mil
+NAVO
+101
+DATA-PROVIDER
+Global
+NULL
+Sea Surface Temperature

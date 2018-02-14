@@ -1,0 +1,168 @@
+0
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+GRACE
+GRACE
+GRACE
+
+818-393-2718
+NULL
+file:///store/tellus/open/L3/dot
+ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/dot
+-80.25
+GRACE
+GRACE
+GRACE
+TELLUS
+OPEN
+10.5067/TEDOT-DAT08
+Geodetics/Gravity
+1
+none
+NULL
+Making Earth Science Data Records for Use in Research   Environments
+3
+534
+Jessica
+81.75
+TELLUS DYNAMIC OCEAN TOPOGRAPHY 2008
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+TELLUS
+HISTORICAL
+1303337533769
+1
+Y
+NULL
+none
+Geodetics/Gravity
+
+
+
+OPEN
+725846400000
+Making Earth Science Data Records for Use in Research   Environments
+The accelerometer, located at the center of mass of each satellite, measures all non-gravitational forces acting on each satellite.
+These forces include air drag, solar radiation pressure, and attitude control activator operation.
+The two star cameras mounted close to the accelerometer on each satellite provide
+the precise attitude references for the satellites when making science
+measurements.
+This instrument precisely measures the changes in the separation between the two GRACE satellites using phase tracking of K- and Ka-band signals sent between the two satellites
+3
+MD5
+Gridded
+1
+725846400000
+ARCHIVE-OPEN
+LOCAL-FTP
+WGS84
+ASCII
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-TEDOT-DAT08
+1167523200000
+TELLUS_DOT_2008_DATA
+TELLUS DYNAMIC OCEAN TOPOGRAPHY 2008
+633
+TELLUS
+1
+TELLUS_DOT_2008_DATA
+Jessica.K.Hausman@jpl.nasa.gov
+GZIP
+http://grace.jpl.nasa.gov/data/get-data/dynamic-ocean-typography/
+TELLUS DYNAMIC OCEAN TOPOGRAPHY 2008
+NULL
+
+TELLUS_DOT_2008_DATA
+1293840000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/TELLUS_DOT_2008_DATA.jpg
+1
+TELLUS
+818-354-4588
+MEaSUREs
+1
+GRACE ACC
+GRACE SCA
+GRACE KBR
+GRACE ACC
+GRACE SCA
+GRACE KBR
+TELLUS
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+360
+HISTORICAL
+Dynamic ocean topography is the sea surface height referenced from the Earth's geoid, rather than a smooth ellipse.
+The data contains a time mean dynamic topography.
+The geostrophic velocities are also included.
+For more information, please visit: http://grace.jpl.nasa.gov/data/get-data/dynamic-ocean-typography/.
+NULL
+NONE
+Gravity
+1167523200000
+NONE
+TELLUS
+MEaSUREs
+Creation of Dataset via Metadata Tool.
+Solid Earth
+Technical Contact
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+89
+89
+89
+NULL
+TELLUS
+TELLUS_DOT_2008_DATA
+ARCHIVE-DIST
+Dynamic Ocean Topopgraphy
+1303337533769
+ASCII
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+D.P. Chambers
+TELLUS
+Hausman
+Dataset Creation via Metadata Tool
+1303337533769
+Tapley, B.D., D.P. Chambers, S. Bettadpur, J.C. Ries.  2003:  Large scale ocean circualtion from the GRACE GGM01 Geoid. Geophys. Res. Letters 30 (22):doi:10.1029/2003GL018622.
+NULL
+none
+NASA/JPL/PODAAC
+-1
+-1
+-1
+DATA-CENTER
+Global
+NULL
+Gravity

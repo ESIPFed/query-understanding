@@ -1,0 +1,182 @@
+2 Day
+-180
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+Meteo-France/CMS, Avenue de Lorraine, BP50747 22307 Lannion, France
+NULL
+Global
+EUMETSAT Ocean and Sea Ice Satellite Application Facility, Lannion, France
+MetOp-A
+Global Ocean
++33-2-98224533
++ 33 2 9605-6737
+NULL
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L2P/AVHRR_METOP_A/EUR/
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/AVHRR_METOP_A/EUR
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L2P/AVHRR_METOP_A/EUR
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L2P/AVHRR_METOP_A/EUR
+file:///store/ghrsst/open/data/L2P/AVHRR_METOP_A/EUR
+/data/export/web/thumbnails
+http://www.ghrsst.org
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHAMT-2PE01
+http://www.osi-saf.org/biblio/docs/ss1_pum_leo_sst_2_0.pdf
+http://ghrsst.jpl.nasa.gov
+-90
+MetOp-A
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHAMT-2PE01
+Ocean Temperature
+TBD
+none
+
+NULL
+Group for High Resolution Sea Surface Temperature
+2P
+1
+Jean-Francois
+Guenole
+90
+GHRSST Level 2P Global Skin Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on the MetOp-A satellite produced by EUMETSAT
+GHRSST
+sea surface temperature
+L2P
+sst
+surface temperature
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1295629813000
+1100
+N
+NULL
+None
+Ocean Temperature
+2400
+OPEN
+1254344463000
+Group for High Resolution Sea Surface Temperature
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+2P
+MD5
+Satellite native swath
+1
+1254344463000
+LOCAL-OPENDAP
+REMOTE-FTP
+LOCAL-FTP
+REMOTE-OPENDAP
+ARCHIVE-OPEN
+WGS 84
+1100
+NETCDF
+Meteorological Operational Satellite - A
+EUR-L2P-AVHRR_METOP_A.jpg
+Project website
+Web Service (PO.DAAC Labs)
+none
+GDAC portal
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+None
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHAMT-2PE01
+EUR-L2P-AVHRR_METOP_A
+Product developed and provided by the EUMETSAT Ocean and Sea Ice Satellite Application Facility copyright 2008 EUMETSAT
+220
+EUMETSAT
+1
+METOP_A AVHRR swath SST data set
+jfpiolle@ifremer.fr
+guenole.guevel@meteo.fr
+BZIP2
+none
+GHRSST Level 2P Global Skin Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on the MetOp-A satellite produced by EUMETSAT
+NULL
+90
+Skin Sea Surface Temperature
+METOP_A SST
+1207699200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/EUR-L2P-AVHRR_METOP_A.jpg
+GHRSST
++33-2-98224691
++ 33 2 9605-6791
+GHRSST
+1
+AVHRR-3
+AVHRR-3
+10
+Group for High Resolution Sea Surface Temperature Datasets
+MetOp-A is the first in a series of three polar-orbiting European meteorological satellites,  launched on 19 October 2006 as part of the EUMETSAT Polar System.
+180
+NEAR_REAL_TIME
+A global 1 km Group for High Resolution Sea Surface Temperature (GHRSST) Level 2P dataset based on multi-channel sea surface temperature (SST) retrievals generated in real-time from the Advanced Very High Resolution Radiometer (AVHRR) on the European Meteorological Operational-A (MetOp-A; launched 19 Oct 2006) ) satellite.
+The MetOp satellite program is a European undertaking providing weather data services for monitoring climate and improving weather forecasts.
+It was jointly established by the European Space Agency (ESA) and the European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT) with a contribution by the US National Oceanic and Atmospheric Administration (NOAA) of an AVHRR sensor identical to those flying on the family of Polar Orbiting Environmental Satellites (POES).
+AVHRR instruments measure the radiance of the Earth in 5 (or 6) relatively wide spectral bands.
+The first two are centered around the red (0.6 micrometer) and near-infrared (0.9 micrometer) regions, the third one is located around 3.5 micrometer, and the last two sample the emitted thermal radiation, around 11 and 12 micrometers, respectively.
+The legacy 5 band instrument is known as AVHRR/2 while the more recent version, the AVHRR/3 (first carried on the NOAA-15 platform), acquires data in a 6th channel located at 1.6 micrometer.
+Typically the 11 and 12 micron channels are used to derive SST sometimes in combination with the 3.5 micron channel.
+The MetOp-A platform is sun synchronous generally viewing the same earth location twice a day (latitude dependent) due to the relatively large AVHRR swath of approximately 2400 km.
+The highest ground resolution that can be obtained from the current AVHRR instruments is 1.1 km at nadir.
+The production of the MetOp-A L2P SST data is done by the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT), Ocean and Sea Ice Satellite Application Facility (OSI SAF) at Meteo-France/Centre de Meteorologie Spatiale (CMS) in France.
+In the processing chain, global AVHRR level 1b data are acquired at CMS through the EUMETSAT/EUMETCAST system.
+A cloud mask is applied and SST is retrieved from the AVHRR infrared (IR) channels by using a multispectral technique.
+The MetOp-A SST L2P data consist of global coverage at 1 km resolution separated into three minute observation granules, and are compliant with the Group for High Resolution SST (GHRSST) Data Specification (GDS) version 1.7.
+Thumbnail image for Website
+Description of the GHRSST Project
+(Search Granule)
+Product User Manual
+Portal to the GHRSST Global Data Assembly Center and data access
+NULL
+3 Day
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+EUMETSAT
+GHRSST
+Initial processor version.
+Thumbnail
+Project Home Page
+PORTAL_DA_DIRECT_ACCESS
+Reference Materials
+Get Data
+Oceans
+Technical Contact
+Investigator
+Meteorological Operational Satellite - A
+98.7
+NULL
+European Organisation for the Exploitation of Meteorological Satellites
+1 Day
+EUR-L2P-AVHRR_METOP_A
+6
+ROLLING-STORE
+METOP_A AVHRR swath L2P SST data set
+1257863651000
+NETCDF
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+European Organisation for the Exploitation of Meteorological Satellites
+Y
+EUMETSAT/OSI-SAF
+EUMETSAT Ocean and Sea Ice Satellite Application Facility, Meteo-France/CMS, Lannion, France
+Piolle
+Guevel
+Dataset Policy created for EUMETSAT METOP_A AVHRR SST Ingestion
+1253404800000
+Geolocation information included for each pixel
+Information on the the METOP SST algorithm can be found in the following documents: http://www.osi-saf.org/biblio/docs/ss1_pum_leo_sst_2_0.pdf
+NULL
+none
+SILENT
+http://www.eumetsat.int/Home/index.htm
+IFREMER/CERSAT
+EUMETSAT
+101.3
+DATA-PROVIDER
+DATA-PROVIDER
+Global
+NULL
+Sea Surface Temperature

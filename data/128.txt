@@ -1,0 +1,179 @@
+0
+-180
+438 First St, Suite 200, Santa Rosa, CA 95401, USA
+NULL
+Tropics
+Santa Rosa, CA, USA
+TRMM
+38N-38S
+0
+001 707 545 2906
+NULL
+none
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L2P_GRIDDED/TMI/REMSS/
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L2P_GRIDDED/TMI/REMSS
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P_GRIDDED/TMI/REMSS
+file:///store/ghrsst/open/data/L2P_GRIDDED/TMI/REMSS
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L2P_GRIDDED/TMI/REMSS
+0.00
+http://ghrsst.jpl.nasa.gov
+http://www.remss.com
+http://www.ghrsst.org
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHTMI-2GR01&apidoc
+/data/export/web/thumbnails
+http://trmm.gsfc.nasa.gov/
+http://www.remss.com
+-40
+TRMM
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHTMI-2GR01
+Ocean Temperature
+N/A
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+3
+1
+Sharon
+40
+GHRSST L2P Gridded Global Subskin Sea Surface Temperature from the Tropical Rainfall Mapping Mission (TRMM) Microwave Imager (TMI)
+GHRSST
+sea surface temperature
+sst
+surface temperature
+1 Day
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1295629813000
+0.25
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+878
+OPEN
+none
+883584000000
+Group for High Resolution Sea Surface Temperature
+The Tropical Rainfall Measuring Mission's (TRMM) Microwave Imager (TMI) is a passive microwave sensor designed to provide quantitative rainfall information over a wide swath under the TRMM satellite.
+3
+MD5
+Gridded
+1
+883584000000
+LOCAL-OPENDAP
+LOCAL-FTP
+REMOTE-FTP
+ARCHIVE-OPEN
+REMOTE-OPENDAP
+unknown
+NETCDF
+Tropical Rainfall Measuring Mission
+none
+none
+none
+Web Service (PO.DAAC Labs)
+REMSS-L2P_GRIDDED_25-TMI.jpg
+none
+none
+TRMM Microwave Imager
+TRMM Microwave Imager
+None
+Earth Science
+DATA-PROVIDER
+2
+PODAAC-GHTMI-2GR01
+REMSS-L2P_GRIDDED_25-TMI
+TMI data are sponsored by the NASA Earth Science REASoN DISCOVER Project and the AMSR-E Science Team.  Production of L2P data is sponsored by the National Oceanographic Partnership Program (NOPP).
+40
+0
+REMSS
+1
+0
+TMI 25km gridded SST data set
+tremble@remss.com
+GZIP
+http://www.remss.com
+GHRSST L2P Gridded Global Subskin Sea Surface Temperature from the Tropical Rainfall Mapping Mission (TRMM) Microwave Imager (TMI)
+NULL
+90
+Subskin Sea Surface Temperature (SSTsubskin)
+TRMM TMI
+1183593600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/REMSS-L2P_GRIDDED_25-TMI.jpg
+0.25
+GHRSST
+001 707 545 2904
+Daily
+4.0
+TMI
+TMI
+12
+Group for High Resolution Sea Surface Temperature Datasets
+The Tropical Rainfall Measuring Mission (TRMM) is a joint mission between NASA and the Japan Aerospace Exploration Agency (JAXA) designed to monitor and study tropical rainfall.
+180
+NEAR_REAL_TIME
+The Tropical Rainfall Measuring Mission (TRMM) Microwave Imager (TMI) is a well calibrated passive microwave radiometer, similar to SSM/I, that contains lower frequency channels required for sea surface temperature  (SST) retrievals.
+The TRMM is a joint venture between NASA and the Japan Aerospace Exploration Agency (JAXA) to measure precipitation, water vapor, SST and wind in the global tropical regions and was launched in November 1997.
+The TRMM satellite travels west to east in a 402 km  altitude semi-equatorial precessing orbit that results in day-to-day changes in the observation time of any given earth location between 38S and 38N.
+In contrast to infrared SST observations, microwave retrievals can be measured through most clouds, and are also insensitive to water vapor and aerosols.
+Remote Sensing Systems is the producer of these gridded TMI SST data for the Group for High Resolution Sea Surface Temperature (GHRSST) Project.
+Although the product designation is "L2P_GRIDDED" it is in actuality a Level 3 Collated (L3C) product as defined in the GHRSST Data Processing Specification (GDS) version 2.0.
+Its "L2P_GRIDDED" name derives from a deprecated specification in the early Pilot Project phase of GHRSST (pre 2008) and has remained for file naming continuity.
+In this dataset, both ascending (daytime) and descending (daytime) gridded orbital passes on packaged into the same daily file.
+Portal to the GHRSST Global Data Assembly Center and data access
+TMI SSTs: algorithm description, browsing of data, and ftp of data
+GHRSST Project homepage
+(Search Granule)
+Thumbnail image for Website
+Full details of the TRMM mission
+TMI calibration description
+NULL
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+Remote Sensing Systems
+GHRSST
+
+Get Data
+Reference Materials
+Project Home Page
+PORTAL_DA_DIRECT_ACCESS
+Thumbnail
+Project Home Page
+Calibration/validation data
+Oceans
+Primary Contact
+Tropical Rainfall Measuring Mission
+35
+NULL
+Remote Sensing Systems
+REMSS-L2P_GRIDDED_25-TMI
+24
+ARCHIVE-DIST
+TMI-REMSS-L2P_GRIDDED_25
+1184025600000
+NETCDF
+Remote Sensing Systems
+Y
+Remote Sensing Systems
+none
+Remote Sensing Systems
+Tremble
+2007-07-10: Original
+
+Equal-angle
+http://www.ssmi.com/tmi/tmi_description.html
+NULL
+none
+http://www.remss.com
+REMSS
+92.4
+DATA-PROVIDER
+Tropics
+NULL
+1 Day
+Sea Surface Temperature

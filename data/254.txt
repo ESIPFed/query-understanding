@@ -1,0 +1,149 @@
+1 Month
+1
+0
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+GEOS-3
+none
+818-393-2718
+N/A
+file:///store/geos3/open/L2
+ftp://podaac-ftp.jpl.nasa.gov/allData/geos3/L2
+none
+ftp://podaac.jpl.nasa.gov/pub/documents/dataset_docs/geos3_gdr.html
+/data/export/web/thumbnails
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GEOS3-AGDRA
+-90
+GEOS-3
+NULL
+OPEN
+10.5067/GEOS3-AGDRA
+Ocean Waves
+Sea Surface Topography
+1
+none
+NULL
+Geodynamics and Earth Ocean Satellite 3
+2
+Jessica
+90
+GEOS-3 ALTIMETER GEOPHYSICAL DATA RECORD 1975-1978
+spacecraft
+HISTORICAL
+1295629813000
+7000
+GEOS-3
+Y
+NULL
+none
+Ocean Waves
+Sea Surface Topography
+3
+OPEN
+none
+166665600000
+Geodynamics and Earth Ocean Satellite 3
+A satellite altimeter consists of a transmitter that sends out very sharp pulses, a sensitive receiver to record the pulse after it is reflected from the sea surface, and an accurate clock to note the time interval between transmission and reception.
+Examples of satellite altimeters used in the remote sensing of ocean surface height,  wave height and wind speed are Seasat, Geosat and Topex/Poseidon.
+2
+MD5
+Swath
+1
+166665600000
+ARCHIVE-OPEN
+LOCAL-FTP
+N/A
+2600
+RAW
+Geodetic Earth Orbiting Satellite-3
+GEOS-3 Altimeter Geophysical Data Record
+GEOS-3_ALT_GDR.jpg
+Web Service (PO.DAAC Labs)
+Geodetic and Earth Orbiting Satellite 3
+Geodetic and Earth Orbiting Satellite 3
+none
+Earth Science
+Earth Science
+DATA-PROVIDER
+PODAAC-GEOS3-AGDRA
+281404800000
+GEOS-3_ALT_GDR
+GEOS-3 ALTIMETER GEOPHYSICAL DATA RECORD 75-78
+107
+DOC/NOAA/NESDIS/NODC
+1
+GEOS-3_ALT_GDR
+Jessica.K.Hausman@jpl.nasa.gov
+GZIP
+ftp://podaac.jpl.nasa.gov/allData/geos3/L2/docs/geos3_alt.html
+GEOS-3 ALTIMETER GEOPHYSICAL DATA RECORD 1975-1978
+NULL
+none
+none
+GEOS-3 GDR
+906508800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/GEOS-3_ALT_GDR.jpg
+818-354-4588
+Monthly
+1
+GEOS-3 ALTIMETER
+GEOS-3 ALTIMETER
+The purpose of the GEOS-3 mission was to design, develop, and	       launch a geodetic satellite and to perform experiments in support	      of the application of geodetic satellite techniques to		  geosciences, that is, solid earth physics and oceanography.
+360
+HISTORICAL
+These data consist of Geos-3 altimeter measurements produced by NOAA/NODC/Laboratory for Satellite Altimetry.
+The dataset contains 5,006,956 altimetric sea surface heights and supporting information such as sea state, wind speed, Schwiderski ocean tide height, and Cartwright solid-tide height.
+Corrections for altimeter bias, wet and dry troposheric delays, and electromagnetic bias are not included.
+The corrections in this dataset (tides and even orbit height) are old and not very accurate.
+This dataset should only be used by those with an expertise in altimetry.
+Measurements are compressed to a rate of 1 per second using a trim mean filter.
+Data values are written in binary format.
+Users' guide for GEOS-3 GDR
+Thumbnail image for Website
+(Search Granule)
+NULL
+BACKTRACK
+Significant Wave Height
+Sea Surface Height
+281404800000
+BATCH
+DOC/NOAA/NESDIS/NODC
+GEOS-3
+
+Guide Document
+Thumbnail
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Oceans
+Technical Contact
+Geodetic Earth Orbiting Satellite-3
+115
+NULL
+National Oceanographic Data Center, NESDIS, NOAA, U.S. Department of Commerce
+GEOS-3_ALT_GDR
+ARCHIVE-DIST
+GEOS-3 ALTIMETER GEOPHYSICAL DATA RECORD \\\"75-\\\"78
+1245070901000
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+DOC/NOAA/NESDIS/NODC
+N/A
+DOC/NOAA/NESDIS/NODC
+Hausman
+15-JUN-09 Manually Migrated from Ingres
+
+N/A
+ftp://podaac.jpl.nasa.gov/allData/geos3/L2/docs/geos3_gdr.html
+NULL
+none
+http://www.nodc.noaa.gov/
+NASA/JPL/PODAAC
+101.8
+DATA-CENTER
+Global
+NULL
+Significant Wave Height
+Sea Surface Height

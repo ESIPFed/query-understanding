@@ -1,0 +1,175 @@
+0
+null
+NULL
+Global
+PO.DAAC
+ADEOS
+
+null
+ftp://anonymous@ftp.ifremer.fr/ifremer/cersat/products/gridded/mwf-nscat
+file:///store/poet_ifremer/shared/L3/mwf_nscat
+ftp://anonymous@ftp.ifremer.fr/ifremer/cersat/documentation/gridded/mwf-ers/mwf_vol1.pdf
+/data/export/web/thumbnails
+-79.5
+ADEOS
+NULL
+REMOTE
+Ocean Winds
+Ocean Winds
+Ocean Winds
+Ocean Winds
+1
+null
+NULL
+NASA Scatterometer
+3
+User
+79.5
+NSCAT Level 3 Gridded Mean Wind Fields (IFREMER)
+wind data
+wind
+ocean wind
+wind speed
+vector
+vectors
+ocean wind vector
+ocean wind vectors
+nscat
+adeos
+scatterometer
+gridded
+ifremer
+cersat
+mwf
+mean wind fields
+bentamy
+1 Week
+SPACECRAFT
+HISTORICAL
+1296873573003
+1
+NSCAT
+Y
+NULL
+none
+Ocean Winds
+Ocean Winds
+Ocean Winds
+Ocean Winds
+1600
+REMOTE
+842832000000
+NASA Scatterometer
+Every two days, under all weather and cloud conditions, NSCAT measured wind speeds and directions over at least 90% of the Earth's ice-free oceans.
+NSCAT used six antenna beams to scan two wide bands of ocean, one on each side of the instrument's orbital path.
+NSCAT transmited short pulses of microwave energy to probe ocean surfaces and then measured the reflected or backscattered power.
+Variations in the magnitude of this backscattered power are caused by changes in small (centimeter-sized), wind-driven waves.
+Using a method called Doppler processing, the measured backscattered power was separated into cells at specific locations on Earth's surface.
+3
+MD5
+Gridded
+1
+842832000000
+REMOTE-FTP
+ARCHIVE-CONTROLLED
+WGS-84
+NETCDF
+Advanced Earth Observing Satellite-I
+Science Data Product User Manual
+NSCAT_IFREMER_L3_OW_MEAN_WIND_FIELDS.jpg
+NASA Scatterometer
+NASA Scatterometer
+none
+Earth Science
+Earth Science
+Earth Science
+Earth Science
+DATA-PROVIDER
+PODAAC-NSL3X-IMWF0
+867628800000
+NSCAT_IFREMER_L3_OW_MEAN_WIND_FIELDS
+
+566
+IFREMER/CERSAT
+1
+NSCAT Level 3 Gridded Mean Wind Fields (IFREMER)
+podaac@podaac.jpl.nasa.gov
+ZIP
+ftp://anonymous@ftp.ifremer.fr/ifremer/cersat/documentation/gridded/mwf-ers/mwf_vol1.pdf
+NSCAT Level 3 Gridded Mean Wind Fields (IFREMER)
+NULL
+Ocean Wind Stress Curl
+Ocean Surface Wind Vectors
+Ocean Surface Wind Stress Vectors
+Ocean Surface Wind Divergence
+Gridded Mean Wind Fields (IFREMER)
+1118275200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/NSCAT_IFREMER_L3_OW_MEAN_WIND_FIELDS.jpg
+1
+(818) 393-7165
+Weekly
+1
+NSCAT
+NSCAT
+The ADvanced Earth Observing Satellite (ADEOS) launched in August 1996, was a joint international cooperative program to contribute to global environmental monitoring.
+ADEOS had the following instrumentation onboard: advanced visible near infrared radiometer; ocean color and temperature scanner; NASA Scatterometer; total ozone mapping spectrometer; polarization and directionality of the earth's reflectance; interferometric monitor for greenhouse gases; improved limb atmospheric spectrometer; and retroreflector in space.
+360
+HISTORICAL
+The NASA Scatterometer (NSCAT) Level 3 Mean Wind Fields dataset is produced and distributed by IFREMER/CERSAT.
+Weekly and monthly mean ocean surface wind vectors, wind stress, wind divergence, and stress curl fields are provided on a global 1x1 degree grid.
+Standard errors of each parameter are also computed and provided as complimentary gridded fields.
+An objective statistical interpolation is performed  to reconstruct gap-filled and averaged synoptic fields from discrete observations over each time period.
+This dataset is part of the World Ocean Circulation Experiment (WOCE) package.
+Dataset User Guide
+Thumbnail image for Website
+NULL
+ORACLE
+Vorticity
+Surface Winds
+Stress
+Convergence/Divergence
+867628800000
+BATCH
+NASA/JPL/PODAAC
+NSCAT
+Creation of Dataset via Metadata Tool.
+Reference Materials
+Thumbnail
+Oceans
+Oceans
+Oceans
+Oceans
+Technical Contact
+Advanced Earth Observing Satellite-I
+98.59
+NULL
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+NSCAT_IFREMER_L3_OW_MEAN_WIND_FIELDS
+ARCHIVE-DIST
+NSCAT Level 3 Gridded Mean Wind Fields (IFREMER)
+1296873573003
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+IFREMER/CERSAT
+Weekly to Monthly
+IFREMER/CERSAT
+Services
+Dataset Creation via Metadata Tool
+1296873573003
+Bentamy A., P. Queffeulou, Y. Quilfen and K. Katsaros, 1999 : Ocean surface wind fields estimated from satellite active and passive microwave instruments, IEEE Trans. Geosci. Remote Sensing, 37, 2469-2486.
+NULL
+null
+http://www.ifremer.fr/anglais/
+http://cersat.ifremer.fr
+http://www.ifremer.fr/cersat/en/index.html
+NASA/JPL/PODAAC
+100.92
+DATA-CENTER
+Global
+NULL
+1 Week
+Vorticity
+Surface Winds
+Stress
+Convergence/Divergence

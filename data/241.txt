@@ -1,0 +1,383 @@
+-180
+JPL, 4800 Oak Grove Dr, Pasadena, CA 91109, USA
+null
+The resolution for the East and West longitude values in km.
+Free text description of details such as the projections standard parallels, etc., if necessary to fully specify the projection.
+More specific names not specified in the GCMD valids list.
+The frequency that the data is sampled.
+The range of frequencies within which the data is sampled.
+The type of projection.
+The range of resolutions for the latitude/longitude values.
+Geographic area descriptor.
+Key bibilographic references pertaining to the dataset.
+The resolution for the North and South latitude values in km.
+The type of ellipsoid.
+Global
+Dorval, QC, Canada
+InSitu
+MetOp-A
+NOAA-18
+NOAA-19
+Suomi NPP
+MetOp-B
+GCOM-W1
+none
+818-393-2718
+null
+file:///store/ghrsst/open/data/GDS2/L4/GLOB/CMC/CMC0.1deg/v3
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L4/GLOB/CMC/CMC0.1deg/v3/
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L4/GLOB/CMC/CMC0.1deg/v3
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L4/GLOB/CMC/CMC0.1deg/v3
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L4/GLOB/CMC/CMC0.1deg/v3
+http://ghrsst.jpl.nasa.gov
+http://www.ghrsst.org
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/python/
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHCMC-4FM03
+http://thredds.jpl.nasa.gov/thredds/catalog_ghrsst_gds2.html?dataset=CMC0.1deg-CMC-L4-GLOB-v3.0
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/docs/GDS20r5.pdf
+/data/export/web/thumbnails
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/idl/
+https://podaac.jpl.nasa.gov/forum/viewtopic.php?f=7
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/R/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/matlab/
+https://podaac.jpl.nasa.gov/dataset/CMC0.2deg-CMC-L4-GLOB-v2.0
+-90
+InSitu
+MetOp-A
+NOAA-18
+NOAA-19
+Suomi NPP
+MetOp-B
+GCOM-W1
+818-393-6710
+null
+OPEN
+Ocean Temperature
+1
+none
+null
+longitudeResolution
+projectionDetail
+regionDetail
+temporalResolution
+temporalResolutionRange
+projectionType
+horizontalResolutionRage
+region
+reference
+latitudeResolution
+ellipsoidType
+Group for High Resolution Sea Surface Temperature
+4
+1
+Edward
+Bruce
+90
+GHRSST Level 4 CMC0.1deg Global Foundation Sea Surface Temperature Analysis (GDS version 2)
+GHRSST
+sea surface temperature
+foundation sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+CMC
+canadian meteorological center
+1 Day
+instrument
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+spacecraft
+SPACECRAFT
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1450722759515
+0.1
+GHRSST
+N
+longitude resolution
+projection detail
+region detail
+temporal resolution
+temporal resolution range
+projection type
+horizontal resolution range
+Region
+reference
+latitude resolution
+ellipsoid type
+None
+Ocean Temperature
+-999
+2400
+
+
+3040
+2400
+1450
+OPEN
+1451606400000
+Group for High Resolution Sea Surface Temperature
+In situ SST data from drifting and moored buoys, and ships.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+Advanced Very High Resolution Radiometer.
+This radiometer has the capability to provide detailed maps of thermal radiation from the sea surface, and clouds.
+The AVHRR operates in two modes: 1) High Resolution Picture Image or HRPT mode, which are high density images with 1km resolution, and are transmitted directly to local ground stations and 2) Global Area Coverage, or GAC mode, which are the same observations as are transmitted during the HRPT mode, but averaged together to obtain a value representative of an area 4km in diameter.
+GAC data are digitized and recorded on the satellite to provide global coverage.
+Advanced Very High Resolution Radiometer.
+This radiometer has the capability to provide detailed maps of thermal radiation from the sea surface, and clouds.
+The AVHRR operates in two modes: 1) High Resolution Picture Image or HRPT mode, which are high density images with 1km resolution, and are transmitted directly to local ground stations and 2) Global Area Coverage, or GAC mode, which are the same observations as are transmitted during the HRPT mode, but averaged together to obtain a value representative of an area 4km in diameter.
+GAC data are digitized and recorded on the satellite to provide global coverage.
+VIIRS is a 22-band radiometer to collect infrared and visible light for earth system monitoring The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+Advanced Microwave Scanning Radiometer 2 (AMSR2) onboard the GCOM- W1
+4
+MD5
+Cylindrical Lat-Lon
+1
+1451606400000
+ARCHIVE-OPEN
+LOCAL-OPENDAP
+REMOTE-OPENDAP
+REMOTE-FTP
+LOCAL-FTP
+WGS 84
+NETCDF
+InSitu
+Meteorological Operational Satellite - A
+National Oceanic & Atmospheric Administration-18
+National Oceanic & Atmospheric Administration-19
+Suomi Suomi National Polar-orbiting Partnership
+Meteorological Operational Satellite - B
+Global Change Observation Mission 1st - Water (SHIZUKU)
+none
+none
+PYTHON
+Web Service (PO.DAAC Labs)
+THREDDS
+GDS2 User Manual
+CMC0.1deg-CMC-L4-GLOB-v3.0.jpg
+IDL
+What is SST ?
+R
+MATLAB
+Previous Version (v2.0)
+Ships and Moored and Drifting Buoys
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer
+Advanced Very High Resolution Radiometer
+Visible Infrared Imaging Radiometer Suite
+Advanced Very High Resolution Radiometer-3
+Advanced Microwave Scanning Radiometer 2
+Ships and Moored and Drifting Buoys
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer
+Advanced Very High Resolution Radiometer
+Visible Infrared Imaging Radiometer Suite
+Advanced Very High Resolution Radiometer-3
+Advanced Microwave Scanning Radiometer 2
+Please acknowledge the use of these data with the following statemenThese data were provided by GHRSST and Environment Canada
+Earth Science
+DATA-PROVIDER
+1
+PODAAC-GHCMC-4FM03
+CMC0.1deg-CMC-L4-GLOB-v3.0
+none
+2283
+CMC
+1
+CMC 0.1 deg global sea surface temperature analysis
+edward.m.armstrong@jpl.nasa.gov
+Bruce.Brasnett@ec.gc.ca
+NONE
+none
+GHRSST Level 4 CMC0.1deg Global Foundation Sea Surface Temperature Analysis (GDS version 2)
+character
+character
+character
+character
+character
+character
+character
+character
+character
+character
+character
+Foundation Sea Surface Temperature
+CMC sea surface temperature
+1469750400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/CMC0.1deg-CMC-L4-GLOB-v3.0.jpg
+0.1
+GHRSST
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+Daily
+3.0
+InSitu
+AVHRR-3
+AVHRR
+AVHRR
+VIIRS
+AVHRR-3
+AMSR2
+InSitu
+AVHRR-3
+AVHRR
+AVHRR
+VIIRS
+AVHRR-3
+AMSR2
+24
+Group for High Resolution Sea Surface Temperature Datasets
+In situ SST data from drifting and moored buoys, and ships at various depths.
+MetOp-A is the first in a series of three polar-orbiting European meteorological satellites,  launched on 19 October 2006 as part of the EUMETSAT Polar System.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+NOAA (national oceanic and atmospheric administration) satellite number 19 Suomi National Polar-orbiting Partnership is a joint mission between NASA, DOD and NOAA.
+MetOp-A is the second in a series of three polar-orbiting European meteorological satellites,  launched on 17 September 2012 as part of the EUMETSAT Polar System.
+GCOM represents a series of JAXA Earth Observation Missions and GCOM-W1 carries instrumentation to measure the water cycle
+180
+NEAR_REAL_TIME
+A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature (SST) analysis produced daily on an operational basis at the Canadian Meteorological Center.
+This dataset merges infrared satellite SST at varying points in the time series from the Advanced Very High Resolution Radiometer (AVHRR) from NOAA-18,19, the European Meteorological Operational-A (METOP-A) and Operational-B (METOP-B), and microwave data from the Advanced Microwave Scanning Radiometer 2 (AMSR2) onboard the GCOM-W satellite in conjunction with in situ observations of SST from drifting buoys and ships from the ICOADS program.
+It uses the previous days analysis as the background field for the statistical interpolation used to assimilate the satellite and in situ observations.
+This dataset adheres to the GHRSST Data Processing Specification (GDS) version 2 format specifications.
+Portal to the GHRSST Global Data Assembly Center and data access
+GHRSST Project homepage
+
+(Search Granule)
+
+Documentation on the GDS version 2 format specification
+Thumbnail image for Website
+
+
+
+
+Previous version (v2.0) with 0.2 degree spatial resolution starting from Sept 1, 1991
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+CMC
+GHRSST
+Creation of Dataset via Metadata Tool.
+Get Data
+Project Home Page
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DOC_USERS_GUIDE
+Thumbnail
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_FAQS
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_ANNOUNCEMENTS
+Oceans
+Technical Contact
+Technical Contact
+InSitu
+Meteorological Operational Satellite - A
+National Oceanic & Atmospheric Administration-18
+National Oceanic & Atmospheric Administration-19
+Suomi Suomi National Polar-orbiting Partnership
+Meteorological Operational Satellite - B
+Global Change Observation Mission 1st - Water (SHIZUKU)
+Group for High Resolution Sea Surface Temperature Datasets
+-999
+98.7
+98.74
+99
+97.1
+98.7
+98.19
+null
+Free text description of details such as the projections standard parallels, etc., if necessary to fully specify the projection.
+region detail
+The frequency that the data is sampled.
+character
+projectionType
+horizontal resolution range
+Region
+Key bibilographic references pertaining to the dataset.
+50
+The type of ellipsoid.
+Canada Meteorological Center
+CMC0.1deg-CMC-L4-GLOB-v3.0
+24
+ARCHIVE-DIST
+CMC0.1deg-CMC-L4-GLOB-v3.0
+1450722759515
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Canada Meteorological Center
+Y
+Canada Meteorological Center
+none
+Canada Meteorological Center
+Armstrong
+Brasnett
+Dataset Creation via Metadata Tool
+1450722759515
+Regular 0.054 degree grid
+Brasnett B.,  2008. The impact of satellite retrievals in a global sea-surface-temperature analysis. Q.J.R. Meteorol. Soc., 134, 1745-1760.  DOI: 10.1002/qj.319
+
+
+
+
+
+
+
+
+
+
+
+none
+contact
+NASA/JPL/PODAAC
+CMC
+-999
+101.3
+102.12
+102
+101
+101.3
+100
+DATA-CENTER
+DATA-PROVIDER
+Global
+
+
+
+
+
+
+
+
+
+
+
+1 Day
+Sea Surface Temperature

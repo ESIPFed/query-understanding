@@ -1,0 +1,166 @@
+369 Day
+1
+-180
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+NOAA
+Cryosat-2
+Cryosat-2
+Cryosat-2
+
+818-393-2718
+ftp://ftp.star.nesdis.noaa.gov/pub/sod/lsa/cs2igdr
+http://ibis.grdl.noaa.gov/SAT/NearRealTime/
+http://earth.esa.int//download/cryosat/Mission_and_Data_Descrip.pdf
+-88
+Cryosat-2
+Cryosat-2
+Cryosat-2
+NULL
+REMOTE
+Ocean Waves
+Sea Surface Topography
+1
+none
+NULL
+Cryosat-2
+2
+Jessica
+66
+Cryosat-2 Altimeter Interim Geophysical Data Record
+Satellite
+Satellite
+Satellite
+DELAY_MODE
+1324003896302
+30000
+Cryosat-2
+N
+NULL
+none
+Ocean Waves
+Sea Surface Topography
+
+0
+0.25
+REMOTE
+1296205339000
+Cryosat-2
+The LRA reflects signals from network of 10 to 15 satellite laser tracking stations to calibrate NRA bias and to provide the baseline tracking data for NASA precise orbit determination.
+The DORIS system uses a two-channels receiver (1401.25 MHz and 2036.25 MHz) on the satellite to observe the Doppler signals from a network of 40 to 50 ground transmitting stations.
+It provides all-weather global tracking of the satellite for CNES precise orbit determination and an accurate correction for the influence of the ionosphere on both the Doppler signal and altimeter signals.
+SIRAL
+2
+MD2
+Swath
+1
+1296205339000
+REMOTE-FTP
+60000
+NETCDF
+Cryosat-2
+Cryosat-2
+Cryosat-2
+NOAA/NESDIS CryoSat-2 website
+CryoSat Mission and Data Description
+Laser Retroflector Array
+Doppler Orbitography and Radiopositioning Integrated by Satellite
+SAR Interferometric Radar ALtimeter
+Laser Retroflector Array
+Doppler Orbitography and Radiopositioning Integrated by Satellite
+SAR Interferometric Radar ALtimeter
+none
+Earth Science
+Earth Science
+DATA-CENTER
+NOAANE-CS2IG-LRM01
+CRYOSAT2_L2_OST_IGDR
+Cryosat-2 Altimeter Interim Geophysical Data Record
+706
+NOAA
+1
+Cryosat-2 Altimeter Interim Geophysical Data Record
+Jessica.K.Hausman@jpl.nasa.gov
+NONE
+http://ibis.grdl.noaa.gov/SAT/NearRealTime/
+Cryosat-2 Altimeter Interim Geophysical Data Record
+NULL
+
+
+CRYOSAT2_L2_OST_IGDR
+1323302400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/CRYOSAT2_L2_OST_IGDR.jpg
+818-354-4588
+Monthly
+1
+LRA
+DORIS
+SIRAL
+LRA
+DORIS
+SIRAL
+Cryosat-2 Cryosat-2 Cryosat-2
+180
+DELAY_MODE
+These data are the Low Rate Mode (LRM) CryoSat-2 altimeter Interim Geophysical Data Record provided by NOAA.
+It contains significant wave height and all required parameters to calculate sea surface height anomalies.
+There are no SAR or  interferometric SAR data within this data set.
+The data are available approximately 2-3 days after measurement and are produced on a best effort basis.
+Since this is a Level-2 data set the spatial format is swath/along-track.
+These data are distributed by the NOAA National Environmental Satellite Data and Information Service (NESDIS) and you will be redirected there to obtain the data.
+CryoSat-2 is an European Space Agency (ESA) mission designed to measure ice thickness and extent, but the instrumentation on the satellite does allow for the measurement of sea surface height as well.
+CryoSat-2 can operate in 3 modes: LRM, SAR and SARIn.
+As stated earlier this is the LRM data, which functions similarly as an altimeter like those on Jason-1 or Envisat.
+The SAR mode can measure ice thickness over flat surfaces and has a very high spatial resolution.
+The SARIn mode uses the interferometric SAR that is capable of measure ice along steep slopes.
+CryoSat-2 has a 369 day repeat orbit, but also has sub-repeat cycles of 3, 29 and 85 days.
+NOAA/NESDIS CryoSat-2 website
+CryoSat Mission and Data Description
+NULL
+85 Day
+ORACLE
+Significant Wave Height
+Sea Surface Height
+CYCLE
+ESA
+Cryosat-2
+Creation of Dataset via Metadata Tool.
+website
+document
+Oceans
+Oceans
+Technical Contact
+Cryosat-2
+Cryosat-2
+Cryosat-2
+92
+92
+92
+NULL
+National Oceanic and Atmospheric Administration
+3 Day
+CRYOSAT2_L2_OST_IGDR
+REMOTE-DIST
+NOAA/NESDIS LSA CryoSat Interim Geophysical Data Record (IGDR)
+1324003896302
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+ESA
+NOAA/NESDIS
+Hausman
+Dataset Creation via Metadata Tool
+1324003896302
+http://www.star.nesdis.noaa.gov/sod/lsa/NearRealTime/
+NULL
+none
+NASA/JPL/PODAAC
+100
+100
+100
+DATA-CENTER
+Global
+NULL
+Significant Wave Height
+Sea Surface Height

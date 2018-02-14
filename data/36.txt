@@ -1,0 +1,190 @@
+30 Minute
+0
+-135
+5200 Auth Road, Camp Springs, MD 20746, U.S.A.
+NOAA/NESDIS/STAR/SOCD, 5200 Auth Road, WWB, RM 601 Camp Springs, MD 20746, USA
+NULL
+Global
+Camp Springs, MD (USA)
+GOES-13
+Central/Western Atlantic
+0
+none
+301-763-8572
+NULL
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L2P/GOES13/OSPO/v1
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L2P/GOES13/OSPO/v1
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L2P/GOES13/OSPO/v1/
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L2P/GOES13/OSPO/v1
+file:///store/ghrsst/open/data/GDS2/L2P/GOES13/OSPO/v1
+0
+http://ghrsst.jpl.nasa.gov
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/sw/IDL/
+/data/export/web/thumbnails
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/docs/GDS20r5.pdf
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHG13-2PO02
+http://www.ghrsst.org
+50
+GOES-13
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+Ocean Temperature
+1
+
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+2P
+1
+Robert
+Eileen
+65
+GHRSST Level 2P Western Atlantic Regional Skin Sea Surface Temperature from the Geostationary Operational Environmental Satellites (GOES) Imager on the GOES-13 satellite (GDS version 2)
+GHRSST
+sea surface temperature
+L2P
+sst
+surface temperature
+GDS2
+v1.0
+goes13
+ospo
+30 min
+Geostationary
+GHRSST
+NEAR_REAL_TIME
+1376334728523
+4600
+N
+NULL
+None
+Ocean Temperature
+7000
+OPEN
+1375362540000
+Group for High Resolution Sea Surface Temperature
+he GOES Imager is a multi-channel instrument designed to sense radiant and solar-reflected energy from sampled areas of the Earth.
+The multi-element spectral channels simultaneously sweep east-west a
+2P
+MD2
+Satellite native view / two vertical cells blended
+1
+1375362540000
+REMOTE-OPENDAP
+LOCAL-FTP
+LOCAL-OPENDAP
+REMOTE-FTP
+ARCHIVE-OPEN
+WGS 84
+4200
+NETCDF
+Geostationary Operational Environmental Satellite 13
+none
+IDL read software
+GOES13-OSPO-L2P-v1.0.jpg
+GDS2 User Manual
+Web Service (PO.DAAC Labs)
+none
+Geostationary Operational Environmental Satellite 13-Imager
+Geostationary Operational Environmental Satellite 13-Imager
+None
+Earth Science
+DATA-PROVIDER
+31
+PODAAC-GHG13-2PO02
+GOES13-OSPO-L2P-v1.0
+These data are produced by NOAA/NESDIS funded by NESDIS Office of System Development
+1149
+0
+OSPO
+1
+0
+GHRSST Sea Surface Temperature 30W-135W and 65N-50S, at 0.036 degree resolution from GOES-13 Imager
+bob.potash@noaa.gov
+Eileen.Maturi@noaa.gov
+NONE
+
+GHRSST Level 2P Western Atlantic Regional Skin Sea Surface Temperature from the Geostationary Operational Environmental Satellites (GOES) Imager on the GOES-13 satellite (GDS version 2)
+NULL
+
+Sea Surface Temperature produced by NOAA/NESDIS
+1416182400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/GOES13-OSPO-L2P-v1.0.jpg
+GHRSST
+301-763-8384
+301-763-8102 x172
+GHRSST
+1.0
+GOES-13 Imager
+GOES-13 Imager
+2
+Group for High Resolution Sea Surface Temperature Datasets
+Geostationary Operational Environmental Satellite 13
+-30
+NEAR_REAL_TIME
+The  Geostationary Operational Environmental Satellites (GOES) operated by the United States National Oceanographic and Atmospheric Administration (NOAA) support weather forecasting, severe storm tracking, meteorology and oceanography research.
+Generally there are several GOES satellites in geosynchronous orbit at any one time viewing different earth locations including the GOES-13 launched 24 May 2006.
+The radiometer aboard the satellite, The GOES N-P Imager, is a five channel (one visible, four infrared) imaging radiometer designed to sense radiant and solar reflected energy from sampled areas of the earth.
+The multi-element spectral channels simultaneously sweep east-west and west-east along a north-to-south path by means of a two-axis mirror scan system retuning telemetry in 10-bit precision.
+For this Group for High Resolution Sea Surface Temperature (GHRSST) dataset,  skin sea surface temperature (SST) measurements  are calculated from the far IR channels of GOES-13 at full resolution on a half hourly basis.
+In native satellite projection, vertically adjacent pixels are averaged and read out at every pixel.
+L2P datasets including  Single Sensor Error Statistics (SSES) are then derived following the GHRSST Data Processing Specification (GDS) version 2.0.
+The full disk image is subsetted into granules representing  distinct northern and southern regions.
+Portal to the GHRSST Global Data Assembly Center and data access
+Read software
+Thumbnail image for Website
+Documentation on the GDS version 2 format specification
+(Search Granule)
+Home Page of the GHRSST Project
+NULL
+30 Minute
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+NOAA/NESDIS
+GHRSST
+Creation of Dataset via Metadata Tool.
+Get Data
+EXTRACT_NETCDF4
+Thumbnail
+PORTAL_DOC_USERS_GUIDE
+PORTAL_DA_DIRECT_ACCESS
+Project home page
+Oceans
+Technical Contact
+Technical Contact
+Geostationary Operational Environmental Satellite 13
+0
+NULL
+NOAA Office of Satellite and Product Operations
+30 Minute
+GOES13-OSPO-L2P-v1.0
+6
+ARCHIVE-DIST
+GOES13-OSPO-L2P-v1.0
+1376334728523
+NETCDF
+NOAA Office of Satellite Data Processing and Distribution
+NOAA Office of Satellite Data Processing and Distribution
+Y
+NOAA/NESDIS USA, 5200 Auth Rd, Camp Springs, MD, 20746
+none
+NOAA/NESDIS
+Potash
+Maturi
+Dataset Creation via Metadata Tool
+1376334728523
+Geolocation information included for each pixel
+File specification: GHRSST Data Processing Specification v2.0.  SST Algorithm: ATBD Baysian Cloud Screening for GOES-12 (NOAA/NESDIS)
+NULL
+none
+none
+OSDPD
+OSDPD
+0
+DATA-PROVIDER
+DATA-PROVIDER
+Global
+NULL
+30 min
+Sea Surface Temperature

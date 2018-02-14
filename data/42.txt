@@ -1,0 +1,147 @@
+10 Day
+10
+0
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+TOPEX/POSEIDON
+TOPEX/POSEIDON
+N/A
+818-393-2718
+file:///store/topex/open/L1B/altsdr
+ftp://podaac-ftp.jpl.nasa.gov/allData/topex/L1B/altsdr
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-TPSDR-BIN0A
+/data/export/web/thumbnails
+-66
+TOPEX/POSEIDON
+TOPEX/POSEIDON
+NULL
+OPEN
+10.5067/TPSDR-BIN0A
+Ocean Waves
+A
+none
+NULL
+TOPEX/Poseidon
+1B
+Jessica
+66
+TOPEX ALTIMETER SENSOR DATA RECORD
+spacecraft
+spacecraft
+HISTORICAL
+1295629813000
+11200
+TOPEX/POSEIDON
+Y
+NULL
+none
+Ocean Waves
+5
+5
+OPEN
+717391727000
+TOPEX/Poseidon
+A satellite altimeter consists of a transmitter that sends out very sharp pulses, a sensitive receiver to record the pulse after it is reflected from the sea surface, and an accurate clock to note the time interval between transmission and reception.
+Examples of satellite altimeters used in the remote sensing of ocean surface height,  wave height and wind speed are Seasat, Geosat and Topex/Poseidon.
+The TMR measures the sea surface microwave brightness temperatures at three frequencies (18 GHz, 21 GHz and 37 GHz) to provide the total water-vapor content in the troposphere along the altimeter beam.
+The 21 GHz channel is the primary channel for water-vapor measurement.
+It is redundant (21A and 21B).
+The 18 GHz and 37 GHz channels are used to remove the effects of wind speed and cloud cover, respectively in the water-vapor measurement.
+TMR data are sent to CNES for processing along with their altimeter data.
+The measurements are combined to obtain the error in the satellite range measurements caused by pulse delay due to the water vapor.
+1B
+MD5
+Swath
+1
+717391727000
+ARCHIVE-OPEN
+LOCAL-FTP
+5100
+RAW
+Topography Experiment/Poseidon
+Topography Experiment/Poseidon
+Web Service (PO.DAAC Labs)
+TOPEX_ALTSDR.jpg
+TOPEX ALTIMETER
+TOPEX MICROWAVE RADIOMETER
+TOPEX ALTIMETER
+TOPEX MICROWAVE RADIOMETER
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-TPSDR-BIN0A
+1128441342000
+TOPEX_ALTSDR
+TOPEX ALTIMETER SENSOR DATA RECORD
+101
+TOPEX/POSEIDON
+1
+TOPEX_ALTSDR
+Jessica.K.Hausman@jpl.nasa.gov
+GZIP
+N/A
+TOPEX ALTIMETER SENSOR DATA RECORD
+NULL
+
+TOPEX_ALTSDR
+744681600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/TOPEX_ALTSDR.jpg
+818-354-4588
+Weekly
+A
+TOPEX ALTIMETER
+TOPEX MICROWAVE RADIOMETER
+TOPEX ALTIMETER
+TOPEX MICROWAVE RADIOMETER
+A combined mission of the U.S. and French Space Agencies designed to make substantial contributions to our understanding of global ocean dynamics by making precise and accurate observations of the oceanic topography for three to five years using radar altimeters on a well-tracked satellite.
+A combined mission of the U.S. and French Space Agencies designed to make substantial contributions to our understanding of global ocean dynamics by making precise and accurate observations of the oceanic topography for three to five years using radar altimeters on a well-tracked satellite.
+360
+HISTORICAL
+The Sensory Data Record (SDR) is similar to the GDR product except that it also contains waveforms, which are required for retracking.
+This is an expert level product.
+If you do not need the waveforms then the GDR should suit your needs.
+(Search Granule)
+Thumbnail image for Website
+NULL
+BACKTRACK
+Waveform
+1128441342000
+CYCLE
+TOPEX/POSEIDON
+TOPEX/POSEIDON
+
+PORTAL_DA_DIRECT_ACCESS
+Thumbnail
+Oceans
+Technical Contact
+Topography Experiment/Poseidon
+Topography Experiment/Poseidon
+66.04
+66.04
+NULL
+TOPEX/Poseidon
+TOPEX_ALTSDR
+ARCHIVE-DIST
+TOPEX ALTIMETER SENSOR DATA RECORD
+1245070822000
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+TOPEX/Poseidon
+TOPEX/Poseidon
+Hausman
+15-JUN-09 Manually Migrated from Ingres
+
+ftp://podaac.jpl.nasa.gov/pub/sea_surface_height/topex_poseidon/altsdr/doc/D-8591_C_sdr.pdf
+NULL
+none
+http://sealevel.jpl.nasa.gov/mission/topex.html
+NASA/JPL/PODAAC
+112.43
+112.43
+DATA-CENTER
+Global
+NULL
+Waveform

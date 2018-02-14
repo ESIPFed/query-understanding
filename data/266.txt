@@ -1,0 +1,160 @@
+-180
+null
+NOAA National Climatic Data Center, Asheville, NC, USA
+NULL
+Global
+NOAA National Climatic Data Center, 151 Patton Avenue, Asheville, NC, USA
+ICOADS
+GTS
+
+null
+null
+file:///store/avhrr/open/L4/reynolds_er/v3b/monthly/ascii
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L4/reynolds_er/v3b/monthly/ascii
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L4/reynolds_er/docs/README.V3b
+/data/export/web/thumbnails
+-90
+ICOADS
+GTS
+NULL
+OPEN
+10.5067/REY3B-ERMOA
+Ocean Temperature
+1
+null
+null
+NULL
+Reynolds SST
+4
+User
+Boyin
+90
+Smith and Reynolds NCDC Level 4 Historical Reconstructed SST Monthly Version 3b Ascii
+Reynolds
+sea surface temperature
+L4
+Level 4
+historical
+surface temperature
+1 Month
+InSitu
+InSitu
+DELAY_MODE
+1295629813000
+2
+REYNOLDS_SST
+N
+NULL
+NONE
+Ocean Temperature
+-999
+-999
+OPEN
+-3660595200000
+Reynolds SST
+In situ SST data from drifting and moored buoys, and ships.
+In situ SST data from drifting and moored buoys, and ships.
+4
+MD5
+Gridded
+1
+-3660595200000
+ARCHIVE-OPEN
+LOCAL-FTP
+ASCII
+International Comprehensive Ocean-Atmosphere Data Set
+Global Telecommunication System Ship and Buoy In Situ Observations
+NCEP Reynolds Historical Reconstructed SST User Guide
+REYNOLDS_NCDC_L4_SST_HIST_RECON_MONTHLY_V3b.jpg
+Ships and Moored and Drifting Buoys
+Ships and Moored and Drifting Buoys
+Ships and Moored and Drifting Buoys
+Ships and Moored and Drifting Buoys
+NONE
+Earth Science
+DATA-PROVIDER
+1
+PODAAC-REY3B-ERMOA
+REYNOLDS_NCDC_L4_SST_HIST_RECON_MONTHLY_V3B_ASC
+The National Climatic Data Center (NCDC) Reynolds Historical Reconstructed SST
+476
+NCDC
+1
+NCDC Smith & Reynolds Historical Reconstructed Sea Surface Temperature Data Sets
+podaac@podaac.jpl.nasa.gov
+Boyin.Huang@noaa.gov
+GZIP
+http://www.ncdc.noaa.gov/ersst/
+Smith and Reynolds NCDC Level 4 Historical Reconstructed SST Monthly Version 3b Ascii
+NULL
+
+NCDC Smith & Reynolds Historical Reconstructed Sea Surface Temperature Data Sets
+373939200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/REYNOLDS_NCDC_L4_SST_HIST_RECON_MONTHLY_V3B_ASC.jpg
+2
+(818) 393-7165
+828-271-4851
+Monthly
+3b
+InSitu
+InSitu
+InSitu
+InSitu
+730
+Data from the International Comprehensive Ocean-Atmosphere Data Set Global Telecommunication System Ship and Buoy observations of SST, wind and other measurements
+180
+DELAY_MODE
+The Smith & Reynolds Extended Reconstructed Sea Surface Temperature (ERSST) Level 4 dataset provides a historical reconstruction of monthly global ocean surface temperatures and temperature anomalies on a 2 degree spatial grid since 1854 from in-situ observations based on a consistent statistical methodology that accounts for uneven sampling distributions over time and related observational biases.
+Version 3b of this dataset implements release 2.4 of ICOADS (International Comprehensive Ocean-Atmosphere Data Set) and is supplemented by monthly GTS (Global Telecommunications Ship and buoy) system data.
+As for the prior ERSST version, v3b implements Empirical Orthogonal Teleconnection analysis (EOT) but with an improved tuning method for sparsely sampled regions and periods.
+ERSST anomalies are computed with respect to a 1971-2000 month climatology.
+The ASCII text file version of ERSST v3b contains extended reconstructed sea surface temperature and associated estimated SST error standard deviation fields as 2 similarly structured ASCII flat files.
+Documentation of Reynolds Historical Reconstructed SST version 3b
+Thumbnail image for Website
+NULL
+NONE
+Sea Surface Temperature Reconstruction
+NONE
+NOAA/NCDC
+REYNOLDS_SST
+Creation of Dataset via Metadata Tool.
+Documentation
+Thumbnail
+Oceans
+Technical Contact
+Technical Contact
+International Comprehensive Ocean-Atmosphere Data Set
+Global Telecommunication System Ship and Buoy In Situ Observations
+0
+0
+NULL
+NOAA National Climatic Data Center
+REYNOLDS_NCDC_L4_SST_HIST_RECON_MONTHLY_V3B_ASC
+1320
+ARCHIVE-DIST
+1291242157871
+ASCII
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+NOAA National Climatic Data Center
+Y
+Smith, T., Reynolds, R.
+National Climatic Data Center (NCDC)
+Services
+Huang
+Dataset Creation via Metadata Tool
+1291242157871
+Smith, T.M., R.W. Reynolds, Thomas C. Peterson, and Jay Lawrimore, 2008: Improvements to NOAA's Historical Merged Land-Ocean Surface Temperature Analysis (1880-2006). Journal of Climate,21, 2283-2296.
+NULL
+null
+N
+http://www.ncdc.noaa.gov
+NASA/JPL/PODAAC
+NCDC
+0
+0
+DATA-CENTER
+DATA-PROVIDER
+Global
+NULL
+1 Month
+Sea Surface Temperature Reconstruction

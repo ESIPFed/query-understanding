@@ -1,0 +1,189 @@
+1 Month
+-180
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+CSR
+TOPEX/POSEIDON
+GRACE
+GRACE
+GRACE
+
+818-393-2718
+NULL
+file:///store/tellus/preview/L2/deg_5
+ftp://podaac.jpl.nasa.gov/allData/tellus/preview/L2/deg_5
+-89
+TOPEX/POSEIDON
+GRACE
+GRACE
+GRACE
+TELLUS
+PREVIEW
+10.5067/TE5DE-COE01
+Geodetics/Gravity
+1
+none
+NULL
+Making Earth Science Data Records for Use in Research   Environments
+2
+534
+Jessica
+89
+TELLUS Center of Space Research Weekly 5x5 Gravity Harmonics
+spacecraft
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+TELLUS
+HISTORICAL
+1316047490395
+4000000
+MEaSUREs
+N
+NULL
+none
+Geodetics/Gravity
+
+
+
+
+PREVIEW
+720921600000
+Making Earth Science Data Records for Use in Research   Environments
+The LRA reflects signals from network of 10 to 15 satellite laser tracking stations to calibrate NRA bias and to provide the baseline tracking data for NASA precise orbit determination.
+The accelerometer, located at the center of mass of each satellite, measures all non-gravitational forces acting on each satellite.
+These forces include air drag, solar radiation pressure, and attitude control activator operation.
+The two star cameras mounted close to the accelerometer on each satellite provide
+the precise attitude references for the satellites when making science
+measurements.
+This instrument precisely measures the changes in the separation between the two GRACE satellites using phase tracking of K- and Ka-band signals sent between the two satellites
+2
+MD5
+Spherical
+1
+720921600000
+ARCHIVE-PREVIEW
+LOCAL-FTP
+WGS84
+4000000
+ASCII
+Topography Experiment/Poseidon
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Laser Retroflector Array
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+Laser Retroflector Array
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-TE5DE-COE01
+1306368000000
+TELLUS_DEG_5_COEF
+TELLUS Center of Space Research Weekly 5x5 Gravity Harmonics
+691
+TELLUS
+1
+TELLUS_DEG_5_COEF
+Jessica.K.Hausman@jpl.nasa.gov
+NONE
+http://grace.jpl.nasa.gov/data/get-data/gravity-harmonics/
+TELLUS Center of Space Research Weekly 5x5 Gravity Harmonics
+NULL
+
+TELLUS_DEG_5_COEF
+1315872000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/TELLUS_DEG_5_COEF.jpg
+TELLUS
+818-354-4588
+Monthly
+1
+LRA
+GRACE ACC
+GRACE SCA
+GRACE KBR
+LRA
+GRACE ACC
+GRACE SCA
+GRACE KBR
+TELLUS
+A combined mission of the U.S. and French Space Agencies designed to make substantial contributions to our understanding of global ocean dynamics by making precise and accurate observations of the oceanic topography for three to five years using radar altimeters on a well-tracked satellite.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+180
+HISTORICAL
+This dataset provides weekly values of the spherical harmonic coefficients of the gravity field complete to degree and order 5, derived from satellite laser ranging up to five geodetic satellites, computed by Minkang Cheng, John Ries and Byron Tapley (2011).
+This is an experimental product; the coefficients of degree 3-5 are of lower quality than those of degree 1 and 2 by the nature of the tracking data.
+The data are provided for experienced users who wish to assess the quality of the product.
+The coefficients of degree 1 and 2 have clear physical interpretations.
+The degree 1 coefficients represent the relative position of the geocenter (the center of mass of the Earth) relative to the center of figure (defined, in practice, by the position of laser tracking stations on the surface of the Earth).
+The degree 2 order zero coefficient is described at http://grace.jpl.nasa.gov/data/get-data/gravity-harmonics/.
+The degree 2 order 1 coefficients are related to the relative position of the principal figure axis of the Earth relative to the rotational axis.
+In the absence of external torques, those two axes would be very close [Wahr, 1987 and 1990].
+However, as a consequence of excitations due to tidal and other mass redistribution within the Earth system (dominated by seasonal variations), the two axes are not completely aligned, and the rotational axis precesses around the Earths principal figure axis (causing the approximate 435 day Chandler wobble).
+NULL
+NONE
+Gravity
+1306368000000
+NONE
+TELLUS
+MEaSUREs
+Creation of Dataset via Metadata Tool.
+Solid Earth
+Technical Contact
+Topography Experiment/Poseidon
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+66.04
+89
+89
+89
+NULL
+TELLUS
+TELLUS_DEG_5_COEF
+ARCHIVE-DIST
+CSR Weekly 5x5 Gravity Harmonics
+1316047490395
+ASCII
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+M. Cheng, J. Ries and B. Tapley
+TELLUS
+Hausman
+Dataset Creation via Metadata Tool
+1316047490395
+Cheng, M., J. C. Ries, and B. D. Tapley (2011), Variations of the Earths Figure Axis from Satellite Laser Ranging and GRACE, J. Geophys. Res., 116, B01409, 2011, DOI:10.1029/2010JB000850.
+NULL
+none
+NASA/JPL/PODAAC
+112.43
+-1
+-1
+-1
+DATA-CENTER
+Global
+NULL
+Gravity

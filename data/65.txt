@@ -1,0 +1,295 @@
+-180
+151 Patton Avenue, Ashevile NC, 28801-5001, USA
+NULL
+Global
+National Climatic Data Center, Asheville, NC, USA
+InSitu
+NOAA-16
+NOAA-17
+NOAA-18
+NOAA-11
+NOAA-7
+NOAA-9
+NOAA-14
+none
+1-828-271-4328
+NULL
+none
+file:///store/ghrsst/open/data/L4/GLOB/NCDC/AVHRR_OI
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L4/GLOB/NCDC/AVHRR_OI
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L4/GLOB/NCDC/AVHRR_OI/
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L4/GLOB/NCDC/AVHRR_OI
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L4/GLOB/NCDC/AVHRR_OI
+none
+http://ghrsst.jpl.nasa.gov
+http://thredds.jpl.nasa.gov/las/
+/data/export/web/thumbnails
+http://www.ncdc.noaa.gov/oa/climate/research/sst/papers/daily-sst.pdf
+https://podaac.jpl.nasa.gov/dataset/AVHRR_OI-NCEI-L4-GLOB-v2.0
+http://www.ncdc.noaa.gov/oa/climate/research/sst/description.php
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHAAO-4BC01
+http://www.ghrsst-pp.org
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/ghrsst/catalog.html?dataset=ncml_aggregation/OceanTemperature/ghrsst/aggregate__ghrsst_NCDC-L4LRblend-GLOB-AVHRR_OI.ncml
+http://ghrsst.jpl.nasa.gov
+-90
+InSitu
+NOAA-16
+NOAA-17
+NOAA-18
+NOAA-11
+NOAA-7
+NOAA-9
+NOAA-14
+Group for High Resolution Sea Surface Temperature Datasets
+Climate Data Record
+OPEN
+10.5067/GHAAO-4BC01
+Ocean Temperature
+N/A
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+4
+1
+1184
+Richard
+90
+GHRSST Level 4 AVHRR_OI Global Blended Sea Surface Temperature Analysis
+GHRSST
+CDR
+sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+AVHRR_OI
+AVHRR
+1 Day
+instrument
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+GHRSST
+CDR
+NEAR_REAL_TIME
+1295629813000
+0.25
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+-999
+2400
+2400
+2400
+2400
+2400
+2400
+2400
+OPEN
+none
+368125200000
+Group for High Resolution Sea Surface Temperature
+In situ SST data from drifting and moored buoys, and ships.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+4
+MD5
+Cylindrical Lat-Lon
+1
+368125200000
+ARCHIVE-OPEN
+REMOTE-FTP
+LOCAL-OPENDAP
+REMOTE-OPENDAP
+LOCAL-FTP
+WGS 84
+NETCDF
+InSitu
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+National Oceanic & Atmospheric Administration-11
+National Oceanic & Atmospheric Administration-7
+National Oceanic & Atmospheric Administration-9
+National Oceanic & Atmospheric Administration-14
+none
+LAS
+NCDC-L4LRblend-GLOB-AVHRR_OI.jpg
+none
+New Version (v2.0) Available
+none
+Web Service (PO.DAAC Labs)
+none
+THREDDS
+none
+Ships and Moored and Drifting Buoys
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Ships and Moored and Drifting Buoys
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+None
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHAAO-4BC01
+NCDC-L4LRblend-GLOB-AVHRR_OI
+none
+33
+NCDC
+1
+Daily L4 Optimally Interpolated SST (OISST) In situ and AVHRR Analysis
+Richard.W.Reynolds@noaa.gov
+BZIP2
+none
+GHRSST Level 4 AVHRR_OI Global Blended Sea Surface Temperature Analysis
+NULL
+Blended Sea Surface Temperature
+Daily L4 in situ and AVHRR OISST 0.25 degree
+1175990400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/NCDC-L4LRblend-GLOB-AVHRR_OI.jpg
+0.25
+GHRSST
+CDR
+1-828-271-4302
+Daily
+1.0
+InSitu
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AVHRR-2
+AVHRR-2
+AVHRR-2
+AVHRR-2
+InSitu
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AVHRR-2
+AVHRR-2
+AVHRR-2
+AVHRR-2
+24
+Group for High Resolution Sea Surface Temperature Datasets
+Climate Data Record
+In situ SST data from drifting and moored buoys, and ships at various depths.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+NOAA (national oceanic and atmospheric administration) satellite number 11 NOAA (national oceanic and atmospheric administration) Satellite number 7 NOAA (national oceanic and atmospheric administration) satellite number 9 NOAA (national oceanic and atmospheric administration) Satellite number 14
+180
+NEAR_REAL_TIME
+A Group for High Resolution Sea Surface Temperature (GHRSST) global Level 4 sea surface temperature analysis produced daily on a 0.25 degree grid at the NOAA National Climatic Data Center.
+This product uses optimal interpolation (OI) using data from the 4 km Advanced Very High Resolution Radiometer (AVHRR) Pathfinder Version 5 time series (when available, otherwise operational NOAA AVHRR data are used) and in situ ship and buoy observations.
+A second similar product is available that also includes Advanced Microwave Scanning Radiometer-EOS (AMSR-E) data from June 2002 onward.
+The OI analysis is a daily average SST that is bias adjusted using a spatially smoothed 7-day in situ SST average and is thus tuned to about 0.3 meter.
+Both day and night satellite fields are independently bias adjusted.
+More information is available at http://www.ncdc.noaa.gov/oa/climate/research/sst/oi-daily.php
+Portal to the GHRSST Global Data Assembly Center and data access
+Live Access Server
+Thumbnail image for Website
+Journal publication
+Please use the new version, this existing version will be retired soon.
+Web site with general description
+(Search Granule)
+GHRSST Project homepage
+
+GHRSST Global Data Assembly Center
+NULL
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+NOAA National Climatic Data Center
+GHRSST
+
+Get Data
+PORTAL_DA_TOOLS_AND_SERVICES
+Thumbnail
+Reference Materials
+PORTAL_DOC_ANNOUNCEMENTS
+Reference Materials
+PORTAL_DA_DIRECT_ACCESS
+Project Home Page
+PORTAL_DA_DIRECT_ACCESS
+GHRSST Portal Home Page
+Oceans
+Primary Contact
+InSitu
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+National Oceanic & Atmospheric Administration-11
+National Oceanic & Atmospheric Administration-7
+National Oceanic & Atmospheric Administration-9
+National Oceanic & Atmospheric Administration-14
+-999
+99
+98.7
+98.74
+99
+99
+98
+99
+NULL
+NOAA National Climatic Data Center
+NCDC-L4LRblend-GLOB-AVHRR_OI
+24
+ARCHIVE-DIST
+DailyOISST (AVHRR_OI)
+1176422400000
+NETCDF
+NOAA National Climatic Data Center
+Y
+National Climatic Data Center
+none
+National Climatic Data Center
+Reynolds
+2007-04-13. Kenneth S. Casey: Original
+
+Regular 0.25 degree grid
+Reynolds, R. W., T. M. Smith, C. Liu, D. B. Chelton, K. S. Casey and M. G. Schlax, 2007: Daily High-resolution Blended Analyses for sea surface temperature. J. Climate, 20, 5473-5496
+NULL
+none
+http://www.ncdc.noaa.gov
+NCDC
+-999
+102.1
+101.2
+102.12
+102
+102
+102
+102
+DATA-PROVIDER
+Global
+NULL
+1 Day
+Sea Surface Temperature

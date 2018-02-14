@@ -1,0 +1,254 @@
+1 Day
+5
+-73
+null
+Department of Physics and Physical Oceanography, University on North Carolina, Wilmington, NC, USA
+NULL
+SPURS-1  N.Atlantic Salinity maximum region
+Department of Physics and Physical Oceanography, University on North Carolina, Wilmington, NC, USA
+SPURS1_Vessels
+SPURS1_Vessels
+N23-43, W37-63
+5
+null
++1 s(910) 962-7014
+NULL
+file:///store/insitu/open/L2/spurs1/tsg
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/tsg
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/insitu/L2/spurs1/tsg/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/sw/R
+http://podaac.jpl.nasa.gov/spurs
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/SpursWebsiteContent/
+/data/export/web/thumbnails
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/sw/Matlab
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/CruiseReports/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/DataDocumentation/
+http://spurs.jpl.nasa.gov/
+20
+SPURS1_Vessels
+SPURS1_Vessels
+SPURS-I field Campaign
+OPEN
+10.5067/SPUR1-TSG00
+Precipitation
+Salinity/Density
+Ocean Winds
+Ocean Winds
+Salinity/Density
+Ocean Temperature
+1
+null
+M
+NULL
+NASA Salinity Processes in the Upper Ocean Regional Study
+2
+963
+User
+Frederick
+42
+SPURS-1 research vessel Thermosalinograph series data for N. Atlantic cruises
+TSG
+Thermosalinograph
+trajectory
+Salinity
+Conductivity
+Temperature
+Rain Rate
+Wind Speed
+Wind direction
+Fixed Depth
+Upper Ocean
+SPURS1
+North Atlantic Ocean
+salinity maximum region
+Cruises
+Endeavor
+Knorr
+Sarmiento
+Thalassa
+Vessel
+insitu
+SPURS
+RESEARCH VESSEL
+RESEARCH VESSEL
+SPURS-I
+HISTORICAL
+1424230796382
+SPURS
+N
+NULL
+NONE
+Precipitation
+Salinity/Density
+Ocean Winds
+Ocean Winds
+Salinity/Density
+Ocean Temperature
+1
+1
+OPEN
+1
+1346457600000
+NASA Salinity Processes in the Upper Ocean Regional Study
+SPURS Ship-based Thermosalinograph (eg.
+sea-bird SBE 21 & 45 TSG) SPURS Ship-based Meteorological package (eg.
+Vaisala WXT520 on RV.Knorr)
+2
+NONE
+WGS84
+1
+1346457600000
+ARCHIVE-OPEN
+LOCAL-FTP
+LOCAL-OPENDAP
+NETCDF
+SPURS-I Research Vessels
+SPURS-I Research Vessels
+R
+PO.DAAC SPURS Mission page
+Archived SPURS-1 Website Content
+SPURS1_TSG.jpg
+Matlab
+SPURS-1 Cruise Documentation Package
+SPURS-1 Data Documentation Package
+SPURS Project Website
+SPURS Ship-based Thermosalinograph (eg. sea-bird SBE 21 & 45 TSG)
+SPURS Ship-based Meteorological package (eg. Vaisala WXT520 on RV.Knorr)
+SPURS Ship-based Thermosalinograph (eg. sea-bird SBE 21 & 45 TSG)
+SPURS Ship-based Meteorological package (eg. Vaisala WXT520 on RV.Knorr)
+NONE
+Earth Science
+Earth Science
+Earth Science
+Earth Science
+Earth Science
+Earth Science
+DATA-PROVIDER
+5
+PODAAC-SPUR1-TSG00
+1381707900000
+SPURS1_TSG
+SPURS Field Campaign Products
+1791
+0
+SPURS-DM
+1
+0
+SPURS Field Campaign TSG Products
+podaac@podaac.jpl.nasa.gov
+binghamf@uncw.edu
+NONE
+http://podaac.jpl.nasa.gov/SPURS
+SPURS-1 research vessel Thermosalinograph series data for N. Atlantic cruises
+NULL
+
+
+Wind Direction
+Wind Speed
+
+
+SPURS Field Campaign Products
+1431302400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/SPURS1_TSG.jpg
+SPURS-I
+(818) 393-7165
++1 (910) 962-2383
+Daily
+1.0
+SPURS_TSG
+SPURS_METEO
+SPURS_TSG
+SPURS_METEO
+9000
+SPURS-I field Campaign
+SPURS-I Research Vessels: Knorr, Endeavor, Sarmiento, Thalassa SPURS-I Research Vessels: Knorr, Endeavor, Sarmiento, Thalassa
+-14
+HISTORICAL
+The SPURS (Salinity Processes in the Upper Ocean Regional Study) project is an oceanographic process study and associated field program that aim to elucidate key mechanisms responsible for near-surface salinity variations in the oceans.
+The project involves two field campaigns and a series of cruises in regions of the Atlantic and Pacific Oceans exhibiting salinity extremes.
+SPURS employs a suite of state-of-the-art in-situ sampling technologies that, combined with remotely sensed salinity fields from the Aquarius/SAC-D and SMOS satellites, provide a detailed characterization of salinity structure over a continuum of spatio-temporal scales.
+The SPURS-1 campaign involved a series of 5 cruises during 2012 - 2013 seeking to characterize the salinity structure and balance in a high salinity, high evaporation, and low rainfall region of the subtropical North Atlantic.
+It aims to resolve processes responsible for maintaining the subtropical surface salinity maximum in this region and within a 900 x 800-mile square study area centered at 25N, 38W.
+All SPURS-1 vessels were equipped with a thermosalinograph (TSG).
+A TSG is an automated measurement system that is coupled to a research vessel's water intake and GPS systems to provide continuous, along-track surface temperature and salinity measurements.
+Each SPURS cruise employed TSGs whose measurements were calibrated  against onboard salinometers.
+TSG data files are one per cruise.
+Note that Knorr TSG data are contained coupled in the same file as its shipborne meteorological observations.
+R Reader and calling routines
+Field Campaign and Instrument Overview
+Meeting Materials, Cruise Blogs, and other archive artifacts
+Thumbnail image for dataset on Portal
+MATLAB Reader and calling routines
+Cruise Reports
+Data Submission Report, Instrument Calibration Report, etc
+Project Website for SPURS
+NULL
+NONE
+Precipitation Rate
+Conductivity
+Surface Winds
+Surface Winds
+Salinity
+Sea Surface Temperature
+1381707900000
+NONE
+SPURS Project
+SPURS
+Creation of Dataset via Metadata Tool.
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DOC_PROJECT_MATERIALS
+Thumbnail
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_ADDITIONAL_SITES
+Oceans
+Oceans
+Oceans
+Oceans
+Oceans
+Oceans
+Technical Contact
+SPURS Project Data Management PI
+SPURS-I Research Vessels
+SPURS-I Research Vessels
+0
+0
+NULL
+SPURS Data manager, Fred Bingham
+SPURS1_TSG
+9000
+ARCHIVE-DIST
+SPURS-1 field campaign ship Thermosalinograph data
+1424230796382
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+SPURS Data manager, Fred Bingham
+Y
+SPURS PROJECT, Fred Bingham
+Continuous
+SPURS Data Management PI, Fred Bingham
+Services
+Bingham
+Dataset Creation via Metadata Tool
+1424230796382
+E.Lindstrom, F.Bryan, R.Schmitt. 2015. SPURS: Salinity Processes in the Upper-ocean Regional Study - The North Atlantic Experiment. Oceanography 28(1):14-19, http://dx.doi.org/10.5670/oceanog.2015.01.
+NULL
+null
+NULL
+http://people.uncw.edu/binghamf/
+NASA/JPL/PODAAC
+SPURS-DM
+0
+0
+DATA-CENTER
+DATA-PROVIDER
+SPURS-1  N.Atlantic Salinity maximum region
+NULL
+Precipitation Rate
+Conductivity
+Surface Winds
+Surface Winds
+Salinity
+Sea Surface Temperature

@@ -1,0 +1,184 @@
+-135
+null
+NULL
+Eastern Pacific Ocean
+PO.DAAC
+QUIKSCAT
+California Current System
+null
+ftp://podaac-ftp.jpl.nasa.gov/allData/quikscat/preview/L3/osu_coas/us_west_coast
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/quikscat/preview/L3/osu_coas/us_west_coast/
+file:///store/quikscat/preview/L3/osu_coas/us_west_coast
+ftp://podaac-ftp.jpl.nasa.gov/allData/quikscat/preview/L3/osu_coas/docs/qscat_vanhoff_uswc_userguide.pdf
+/data/export/web/thumbnails
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-QSOSU-L3WC0
+30
+QUIKSCAT
+NULL
+PREVIEW
+10.5067/QSOSU-L3WC0
+Ocean Winds
+Ocean Winds
+Ocean Winds
+Ocean Winds
+1
+null
+NULL
+Cooperative Institute for Oceanographic Satellite Studies
+3
+User
+50
+SeaWinds on QuikSCAT Level 3 Near-Coast Wind and Stress Fields with Enhanced Coverage for the US West Coast (OSU/COAS)
+wind data
+wind
+ocean wind
+wind speed
+vector
+vectors
+ocean wind vector
+ocean wind vectors
+seawinds
+quikscat
+scatterometer
+gridded
+coastal
+vanhoff
+osu
+cioss
+coas
+roses
+12 Hour
+SPACECRAFT
+HISTORICAL
+1295629813000
+0.1
+CIOSS
+N
+NULL
+NONE
+Ocean Winds
+Ocean Winds
+Ocean Winds
+Ocean Winds
+1800
+PREVIEW
+932437560000
+Cooperative Institute for Oceanographic Satellite Studies
+SeaWinds is a Ku-band (13.4 GHz) Scatterometer which features a single circular scanning dish antenna to provide pencil-beam measurements, as opposed to the common fan beam design as seen with other spaceborne scatterometers.
+The pencil-beam design has several key advantages over the more common fan beam design: higher signal-to-noise ratio, smaller size, and superior coverage.
+The SeaWinds single antenna utilizes twin offset feeds, thus providing two pencil-beam footprint paths with an elliptical sampling footprint of approximately 25 km (in azimuth) by 37 km (in look/range direction); these pencil beams have opposing polarizations (i.e., vertical and horizontal), thus achieving dual-polarization.
+The SeaWinds instrument provides a full 1800 km-wide swath coverage (including the nadir region), which allows for a nominal daily measurement coverage of 90% over the ice-free oceans.
+3
+MD5
+Gridded
+1
+932437560000
+LOCAL-FTP
+LOCAL-OPENDAP
+ARCHIVE-PREVIEW
+WGS-84
+NETCDF
+QUIKSCAT
+SeaWinds QuikSCAT Coastal Gridded Wind and Stress Fields User Guide
+QSCAT_Vanhoff_L3_OW_US_West_Coast.jpg
+Web Service (PO.DAAC Labs)
+932364289000
+SeaWinds Scatterometer
+SeaWinds Scatterometer
+NONE
+Earth Science
+Earth Science
+Earth Science
+Earth Science
+DATA-PROVIDER
+PODAAC-QSOSU-L3WC0
+1258814040000
+QSCAT_OSUCOAS_L3_OW_USWestCoast
+
+479
+OSU/COAS
+1
+SeaWinds QuikSCAT Level 3 Near-Coast Wind and Stress Fields with Enhanced Coverage for the US West Coast (OSU/COAS)
+podaac@podaac.jpl.nasa.gov
+GZIP
+ftp://podaac-ftp.jpl.nasa.gov/allData/quikscat/preview/L3/osu_coas/docs/qscat_vanhoff_uswc_userguide.pdf
+SeaWinds on QuikSCAT Level 3 Near-Coast Wind and Stress Fields with Enhanced Coverage for the US West Coast (OSU/COAS)
+NULL
+None
+None
+None
+None
+SeaWinds QuikSCAT Level 3 Near-Coast Wind and Stress Fields with Enhanced Coastal Coverage (OSU/COAS)
+1297728000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/QSCAT_OSUCOAS_L3_OW_USWestCoast.jpg
+0.1
+(818) 393-7165
+Less_than_daily
+1
+SEAWINDS
+SEAWINDS
+The SeaWinds on QuikSCAT mission is a "quick recovery" mission to fill the gap created by the loss of data from the NASA Scatterometer (NSCAT), when the satellite it was flying on lost power in June 1997.
+The SeaWinds instrument on the QuikSCAT satellite is a specialized microwave radar that measures near-surface wind speed and direction under all weather and cloud conditions over Earth's oceans.
+-115
+HISTORICAL
+This high-resolution, gridded QuikSCAT scatterometer dataset with enhanced coastal coverage of the United States West Coast contains ocean surface wind and stress vector retrievals (magnitude and direction and zonal/meridional components) and derived quantities (wind speed squared, wind speed cubed, surface relative vorticity, vector wind divergence, wind stress curl, and wind stress divergence).
+The spatial coverage domain extends from latitude 30 degrees North to 50 degrees North and longitude 135 degrees West to 115 degrees West.
+The coastal wind vector retrieval algorithm developed by Barry Vanhoff and Michael Freilich has been utilized to provide improved coastal wind vector retrievals from QuikSCAT, resulting in retrievals as close as 5 km from coastlines.
+This dataset was developed by Barry Vanhoff, Craig Risien and Ted Strub and is made possible by funding provided by the NASA Research Opportunities in Space and Earth Science (ROSES) program and NOAA funded, Cooperative Institute for Oceanographic Satellite Studies (CIOSS) at the Oregon State University (OSU) College of Earth, Ocean and Atmospheric Sciences (CEOAS).
+PO.DAAC has agreed to provide this dataset as a special service to its users with the mutual understanding that issues or problems may remain in the data set, as noted below.
+All new users considering this dataset are strongly encouraged to first read the user guide and then to take full advantage of all potential dataset announcements through registration with PO.DAAC by emailing podaac@podaac.jpl.nasa.gov.
+It is further suggested that users examine a sequence of multiple parameter fields for the region and period of interest to ensure sufficient data quality and continuity.
+At present, it is worth noting the following known issues with regard to this dataset: a) data fields were produced using a modification of QuikSCAT Version 2 (i.e., previous version) winds, b) median-pass filter ambiguity removal is employed, hence not achieving the potential improvements from DIRTH, which affect the directional quality of the wind vector and stress data, c) does not incorporate the latest QuikSCAT re-processing improvements (i.e., Version 3 is most recent), d) different model winds (improved compared to Version 2 QuikSCAT L2B) are used in the ambiguity removal process for the entire dataset, and e) because of the lack of usable rain flags within 30 km of the coast, the rain flag value closest to the coast from the standard processing is applied between that rain flag location and the coast.
+There are some consequences in light of the above issues, notably: a) the wind vector fields should not be merged with any other existing QuikSCAT dataset, b) there is more inherent structure to the data (in both signal and noise) compared to Version 3 data, c) data fields are smoother in comparison to the Version 2 data, and d) potentially spurious wind vectors may arise within ~30 km of the coast due to unflagged rain contaminated data and/or residual land reflections.
+More information including known problems/issues and important dataset updates can be found in the dataset user guide: ftp://podaac.jpl.nasa.gov/allData/quikscat/preview/L3/osu_coas/docs/qscat_vanhoff_uswc_userguide.pdf .
+Dataset User Guide
+Thumbnail image for Website
+(Search Granule)
+NULL
+NONE
+Wind Stress
+Vorticity
+Surface Winds
+Convergence/Divergence
+1258814040000
+NONE
+OSU/COAS
+CIOSS
+Creation of Dataset via Metadata Tool.
+Reference Materials
+Thumbnail
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Oceans
+Oceans
+Oceans
+Technical Contact
+QUIKSCAT
+98.6
+NULL
+Oregon State University / College of Oceanic and Atmospheric Sciences
+QSCAT_OSUCOAS_L3_OW_USWestCoast
+ARCHIVE-DIST
+SeaWinds on QuikSCAT Level 3 Near-Coast Wind and Stress Fields with Enhanced Coverage for the US West Coast (OSU/COAS)
+1291336724441
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+Barry Vanhoff, Craig Risien, and Ted Strub
+Barry Vanhoff, Craig Risien, and Ted Strub
+Services
+Dataset Creation via Metadata Tool
+1291336724441
+Vanhoff B.A., C.M. Risien, P.T. Strub, D.G. Foley and D.B. Chelton, 2009: A high resolution ocean vector wind product for the California Current System from 10 years of QuikSCAT scatterometer data. Eastern Pacific Ocean Conference. Symposium abstracts.
+NULL
+null
+NASA/JPL/PODAAC
+100.93
+DATA-CENTER
+Eastern Pacific Ocean
+NULL
+12 Hour
+Wind Stress
+Vorticity
+Surface Winds
+Convergence/Divergence

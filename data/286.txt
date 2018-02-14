@@ -1,0 +1,172 @@
+-180
+null
+NULL
+Global
+Stennis Space Center, MS, USA
+NOAA-16
+NOAA-17
+NOAA-14
+
+null
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L3/navo_mcsst_18km/day
+file:///store/avhrr/open/L3/navo_mcsst_18km/day
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L3/navo_mcsst_18km/docs/
+/data/export/web/thumbnails
+-90
+NOAA-16
+NOAA-17
+NOAA-14
+NULL
+OPEN
+10.5067/NAVOC-318DY
+Ocean Temperature
+N/A
+null
+NULL
+Naval Oceanographic Office
+3
+User
+90
+AVHRR NAVOCEANO Level 3 18km Multi-Channel SST Daytime
+NAVOCEANO
+sea surface temperature
+polar
+sun-synchronous
+sst
+Navy
+NAVAL
+surface temperature
+MCSST
+AVHRR
+AVHRR2
+AVHRR3
+1 Week
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+HISTORICAL
+1295629813000
+0.176
+NAVOCEANO
+N
+NULL
+NONE
+Ocean Temperature
+2400
+2400
+2400
+OPEN
+999043200000
+Naval Oceanographic Office
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+3
+MD5
+Gridded
+1
+999043200000
+LOCAL-FTP
+ARCHIVE-OPEN
+RAW
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-14
+avhrr_navoceano_l3.html
+AVHRR_NAVOCEANO_L3_18km_MCSST_DAYTIME.jpg
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-2
+NONE
+Earth Science
+DATA-PROVIDER
+1
+PODAAC-NAVOC-318DY
+1130284800000
+AVHRR_NAVOCEANO_L3_18km_MCSST_DAYTIME
+NAVOCEANO MCSST Level 3 18km Gridded SST
+317
+NAVO
+1
+NAVOCEANO MCSST Level 3 18km SST
+podaac@podaac.jpl.nasa.gov
+GZIP
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L3/navo_mcsst_18km/docs/avhrr_navoceano_l3.html
+AVHRR NAVOCEANO Level 3 18km Multi-Channel SST Daytime
+NULL
+
+NAVOCEANO MCSST Level 3 18km SST
+998956800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/AVHRR_NAVOCEANO_L3_18km_MCSST_DAYTIME.jpg
+0.176
+(818) 393-7165
+Weekly
+1
+AVHRR-3
+AVHRR-3
+AVHRR-2
+AVHRR-3
+AVHRR-3
+AVHRR-2
+168
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+NOAA (national oceanic and atmospheric administration) Satellite number 14
+180
+HISTORICAL
+High quality Sea Surface Temperatures (SSTs) maps derived from the NOAA (National Oceanic and Atmospheric Administration)-Polar Orbiting Advanced Very High Resolution Radiometer (AVHRR) have been available since 1981.
+The multichannel sea surface temperature algorithm (MCSST) has been used to routinely calculate SSTs using a split window approach.
+Currently this algorithm is applied by the Naval Oceanographic Office (NAVOCEANO) to calculate SSTs at a near real-time rate.
+describes NAVOCEANO  MCSST datasets
+Thumbnail image for Website
+NULL
+NONE
+Sea Surface Temperature
+1130284800000
+YEAR-DOY
+NAVO
+NAVOCEANO
+
+data set guide
+Thumbnail
+Oceans
+Technical Contact
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-14
+99
+98.7
+99
+NULL
+Naval Oceanographic Office (NAVOCEANO)
+AVHRR_NAVOCEANO_L3_18km_MCSST_DAYTIME
+ARCHIVE-DIST
+1270663963000
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+Naval Oceanographic Office
+Naval Oceanographic Office
+Services
+Dataset Policy created for AVHRR_NAVOCEANO_L3_18km_MCSST_DAYTIME
+
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L3/navo_mcsst_18km/docs/avhrr_navoceano_l3.html
+NULL
+null
+https://www.navo.navy.mil
+NASA/JPL/PODAAC
+102.1
+101.2
+102
+DATA-CENTER
+Global
+NULL
+1 Week
+Sea Surface Temperature

@@ -1,0 +1,360 @@
+-180
+Met Office, FitzRoy Road, Exeter, Devon, EX1 3PB, UK.
+JPL, 4800 Oak Grove Dr, Pasadena, CA 91109, USA
+Met Office, FitzRoy Road, Exeter, Devon, EX1 3PB, United Kingdom
+The range of frequencies within which the data is sampled.
+Free text description of details such as the projections standard parallels, etc., if necessary to fully specify the projection.
+Geographic area descriptor.
+The type of projection.
+Key bibilographic references pertaining to the dataset.
+The range of resolutions for the latitude/longitude values.
+More specific names not specified in the GCMD valids list.
+The type of ellipsoid.
+The resolution for the North and South latitude values in km.
+The resolution for the East and West longitude values in km.
+The frequency that the data is sampled.
+Global
+Met Office, Exeter, UK
+InSitu
+MetOp-A
+MSG
+TRMM
+NOAA-19
+GOES-13
+none
++44 1392 885681
+818-393-2718
++44 1392 885681
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L4/GLOB/UKMO/OSTIA/v2
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L4/GLOB/UKMO/OSTIA/v2/
+file:///store/ghrsst/open/data/GDS2/L4/GLOB/UKMO/OSTIA/v2
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L4/GLOB/UKMO/OSTIA/v2
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L4/GLOB/UKMO/OSTIA/v2
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/docs/GDS20r5.pdf
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHOST-4FK02&apidoc
+/data/export/web/thumbnails
+http://ghrsst.jpl.nasa.gov
+http://thredds.jpl.nasa.gov/las/
+http://www.ghrsst.org
+-90
+InSitu
+MetOp-A
+MSG
+TRMM
+NOAA-19
+GOES-13
++44 1392 886441
+818-393-6710
++44 1392 886441
+OPEN
+10.5067/GHOST-4FK02
+Sea Ice
+Ocean Temperature
+1
+none
+none
+null
+temporalResolutionRange
+projectionDetail
+region
+projectionType
+reference
+horizontalResolutionRage
+regionDetail
+ellipsoidType
+latitudeResolution
+longitudeResolution
+temporalResolution
+Group for High Resolution Sea Surface Temperature
+4
+1
+Jonah
+Edward
+Emma
+90
+GHRSST Level 4 OSTIA Global Foundation Sea Surface Temperature Analysis (GDS version 2)
+GHRSST
+sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+OSTIA
+1 Day
+instrument
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+Geostationary
+GHRSST
+NEAR_REAL_TIME
+1374087810000
+0.054
+GHRSST
+N
+temporal resolution range
+projection detail
+Region
+projection type
+reference
+horizontal resolution range
+region detail
+ellipsoid type
+latitude resolution
+longitude resolution
+temporal resolution
+A Met Office data license application form: http://www.metoffice.gov.uk/corporate/legal/data_lic_form.html must be completed and submitted before using the data. This only needs to be completed once f
+Sea Ice
+Ocean Temperature
+-999
+2400
+-999
+878
+2400
+7000
+OPEN
+1366848000000
+Group for High Resolution Sea Surface Temperature
+In situ SST data from drifting and moored buoys, and ships.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The Spinning Enhanced Visible and InfraRed Imager (SEVIRI)  has the capacity to observe the Earth in 12 spectral channels.
+Eight of these channels are in the thermal infrared, providing among other information, observations of the temperatures of clouds, land and sea surfaces at approximately 5 km resolution with a 15 minute duty cycle.
+The Tropical Rainfall Measuring Mission's (TRMM) Microwave Imager (TMI) is a passive microwave sensor designed to provide quantitative rainfall information over a wide swath under the TRMM satellite.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+he GOES Imager is a multi-channel instrument designed to sense radiant and solar-reflected energy from sampled areas of the Earth.
+The multi-element spectral channels simultaneously sweep east-west a
+4
+MD5
+Cylindrical Lat-Lon
+1
+1366848000000
+LOCAL-FTP
+LOCAL-OPENDAP
+ARCHIVE-OPEN
+REMOTE-FTP
+REMOTE-OPENDAP
+WGS 84
+NETCDF
+InSitu
+Meteorological Operational Satellite - A
+Meteosat Second Generation
+Tropical Rainfall Measuring Mission
+National Oceanic & Atmospheric Administration-19
+Geostationary Operational Environmental Satellite 13
+GDS2 User Manual
+Web Service (PO.DAAC Labs)
+OSTIA-UKMO-L4-GLOB-v2.0.jpg
+none
+LAS
+none
+Ships and Moored and Drifting Buoys
+Advanced Very High Resolution Radiometer-3
+Spinning Enhanced Visible and Infrared Imager
+TRMM Microwave Imager
+Advanced Very High Resolution Radiometer-3
+Geostationary Operational Environmental Satellite 13-Imager
+Ships and Moored and Drifting Buoys
+Advanced Very High Resolution Radiometer-3
+Spinning Enhanced Visible and Infrared Imager
+TRMM Microwave Imager
+Advanced Very High Resolution Radiometer-3
+Geostationary Operational Environmental Satellite 13-Imager
+These data may be used for pure academic research only, with no commercial or other application and all usage must meet the Met Office Standard Terms and Conditions http://www.metoffice.gov.uk/corpora
+Earth Science
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHOST-4FK02
+OSTIA-UKMO-L4-GLOB-v2.0
+none
+1037
+UKMO
+1
+OSTIA L4 SST Analysis (GDS2)
+servicedesk@myocean.eu.org
+edward.m.armstrong@jpl.nasa.gov
+-9000000000000000
+NONE
+none
+GHRSST Level 4 OSTIA Global Foundation Sea Surface Temperature Analysis (GDS version 2)
+character
+character
+character
+character
+character
+character
+character
+character
+character
+character
+character
+Sea Ice Fraction
+Foundation Sea Surface Temperature
+OSTIA L4 0.05 degree
+1355875200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/OSTIA-UKMO-L4-GLOB-v2.0.jpg
+0.054
+GHRSST
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+Daily
+2.0
+InSitu
+AVHRR-3
+SEVIRI
+TMI
+AVHRR-3
+GOES-13 Imager
+InSitu
+AVHRR-3
+SEVIRI
+TMI
+AVHRR-3
+GOES-13 Imager
+24
+Group for High Resolution Sea Surface Temperature Datasets
+In situ SST data from drifting and moored buoys, and ships at various depths.
+MetOp-A is the first in a series of three polar-orbiting European meteorological satellites,  launched on 19 October 2006 as part of the EUMETSAT Polar System.
+Meteosat Second Generation (MSG) provides multi-spectral imagery of the Earth's surface and cloud systems from a geostationary orbit.
+The Tropical Rainfall Measuring Mission (TRMM) is a joint mission between NASA and the Japan Aerospace Exploration Agency (JAXA) designed to monitor and study tropical rainfall.
+NOAA (national oceanic and atmospheric administration) satellite number 19 Geostationary Operational Environmental Satellite 13
+180
+NEAR_REAL_TIME
+A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature analysis produced daily on an operational basis at the UK Met Office using optimal interpolation (OI) on a global 0.054 degree grid.
+The Operational Sea Surface Temperature and Sea Ice Analysis (OSTIA) analysis uses satellite data from sensors that include the Advanced Very High Resolution Radiometer (AVHRR), the Spinning Enhanced Visible and Infrared Imager (SEVIRI), the Geostationary Operational Environmental Satellite (GOES) imager, the Infrared Atmospheric Sounding Interferometer (IASI), the Tropical Rainfall Measuring Mission Microwave Imager (TMI) and in situ data from ships, drifting and moored buoys.
+This analysis was specifically produced to be used as a lower boundary condition in Numerical Weather Prediction (NWP) models.
+This dataset adheres to the GHRSST Data Processing Specification (GDS) version 2 format specifications.
+Documentation on the GDS version 2 format specification
+(Search Granule)
+Thumbnail image for Website
+Portal to the GHRSST Global Data Assembly Center and data access
+Live Access Server
+GHRSST Project homepage
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+ORACLE
+Sea Ice Concentration
+Sea Surface Temperature
+YEAR-DOY
+UK Met Office
+GHRSST
+Creation of Dataset via Metadata Tool.
+PORTAL_DOC_USERS_GUIDE
+PORTAL_DA_DIRECT_ACCESS
+Thumbnail
+Get Data
+PORTAL_DA_TOOLS_AND_SERVICES
+Project Home Page
+Oceans
+Oceans
+Technical Contact
+Technical Contact
+Technical Contact
+InSitu
+Meteorological Operational Satellite - A
+Meteosat Second Generation
+Tropical Rainfall Measuring Mission
+National Oceanic & Atmospheric Administration-19
+Geostationary Operational Environmental Satellite 13
+Group for High Resolution Sea Surface Temperature Datasets
+-999
+98.7
+-999
+35
+99
+0
+temporalResolutionRange
+59
+region
+projectionType
+character
+horizontalResolutionRage
+regionDetail
+57
+latitude resolution
+The resolution for the East and West longitude values in km.
+temporal resolution
+United Kingdom Met Office
+OSTIA-UKMO-L4-GLOB-v2.0
+24
+ARCHIVE-DIST
+OSTIA
+1360806271886
+NETCDF
+United Kingdom Met Office
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+United Kingdom Met Office
+Y
+UK Met Office
+none
+UK Met Office
+Roberts-Jones
+Armstrong
+Fielder
+Dataset Creation via Metadata Tool
+1360806271886
+Regular 0.054 degree grid
+Donlon, C. J,  M. Martin, J. Stark, J. Roberts-Jones, E. Fiedler, W. Wimmer, 2012:  The Operational Sea Surface Temperature and Sea Ice Analysis (OSTIA) system. Remote Sen. Env., 116, 140-158
+
+
+
+
+
+
+
+
+
+
+
+none
+none
+null
+http://ghrsst-pp.metoffice.com/pages/latest_analysis/ostia.html
+UKMO
+NASA/JPL/PODAAC
+UKMO
+-999
+101.3
+-999
+92.4
+102
+0
+DATA-PROVIDER
+DATA-CENTER
+DATA-PROVIDER
+Global
+
+
+
+
+
+
+
+
+
+
+
+1 Day
+Sea Ice Concentration
+Sea Surface Temperature

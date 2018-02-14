@@ -1,0 +1,213 @@
+-180
+null
+NULL
+Global
+Stennis Space Center, MS, USA
+MetOp-A
+NOAA-16
+NOAA-17
+NOAA-18
+NOAA-14
+NOAA-19
+
+null
+file:///store/avhrr/open/L2/navo_mcsst_9km_gac
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L2/navo_mcsst_9km_gac
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L2/navo_mcsst_9km_gac/docs/
+/data/export/web/thumbnails
+-90
+MetOp-A
+NOAA-16
+NOAA-17
+NOAA-18
+NOAA-14
+NOAA-19
+NULL
+OPEN
+10.5067/NAVOC-2GAC1
+Ocean Temperature
+N/A
+null
+NULL
+Naval Oceanographic Office
+2
+User
+90
+AVHRR NAVOCEANO Level 2 9km Multi-Channel SST Global Area Coverage
+NAVOCEANO
+sea surface temperature
+polar
+sun-synchronous
+sst
+Navy
+NAVAL
+surface temperature
+MCSST
+AVHRR
+AVHRR2
+AVHRR3
+GAC
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+NEAR_REAL_TIME
+1295629813000
+8800
+N
+NULL
+NONE
+Ocean Temperature
+2400
+2400
+2400
+2400
+2400
+2400
+OPEN
+999043200000
+Naval Oceanographic Office
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+2
+MD5
+Swath
+1
+999043200000
+ARCHIVE-OPEN
+LOCAL-FTP
+8800
+RAW
+Meteorological Operational Satellite - A
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+National Oceanic & Atmospheric Administration-14
+National Oceanic & Atmospheric Administration-19
+avhrr_navoceano.html
+AVHRR_NAVOCEANO_L2_9KM_MCSST_GAC.jpg
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-3
+NONE
+Earth Science
+DATA-PROVIDER
+1
+PODAAC-NAVOC-2GAC1
+AVHRR_NAVOCEANO_L2_9KM_MCSST_GAC
+NAVOCEANO MCSST Level 2 GAC Data from NOAA and Metop AVHRR
+304
+NAVO
+1
+NAVOCEANO MCSST Level 2 GAC
+podaac@podaac.jpl.nasa.gov
+NONE
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L2/navo_mcsst_9km_gac/docs/
+AVHRR NAVOCEANO Level 2 9km Multi-Channel SST Global Area Coverage
+NULL
+
+NAVOCEANO MCSST Level 2 9km Data
+998956800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/image_not_available.jpg
+(818) 393-7165
+NAVOCEANO
+1
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AVHRR-2
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AVHRR-2
+AVHRR-3
+MetOp-A is the first in a series of three polar-orbiting European meteorological satellites,  launched on 19 October 2006 as part of the EUMETSAT Polar System.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+NOAA (national oceanic and atmospheric administration) Satellite number 14 NOAA (national oceanic and atmospheric administration) satellite number 19
+180
+NEAR_REAL_TIME
+High quality Sea Surface Temperatures (SSTs) maps derived from the NOAA (National Oceanic and Atmospheric Administration)-Polar Orbiting Advanced Very High Resolution Radiometer (AVHRR) have been available since 1981.
+The multichannel sea surface temperature algorithm (MCSST) has been used to routinely calculate SSTs using a split window approach.
+Currently this algorithm is applied by the Naval Oceanographic Office (NAVOCEANO) to calculate SSTs at a near real-time rate.
+describes NAVOCEANO  MCSST datasets
+Thumbnail image for Website
+NULL
+NONE
+Sea Surface Temperature
+YEAR-DOY
+NAVO
+NAVOCEANO
+
+data set guide
+Thumbnail
+Oceans
+Technical Contact
+Meteorological Operational Satellite - A
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+National Oceanic & Atmospheric Administration-14
+National Oceanic & Atmospheric Administration-19
+98.7
+99
+98.7
+98.74
+99
+99
+NULL
+Naval Oceanographic Office (NAVOCEANO)
+AVHRR_NAVOCEANO_L2_9KM_MCSST_GAC
+2
+ARCHIVE-DIST
+1270663952000
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+Naval Oceanographic Office
+Naval Oceanographic Office
+Services
+Dataset Policy created for AVHRR_NAVOCEANO_L2_9KM_MCSST_GAC
+
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L3/navo_mcsst_9km_gac/docs/avhrr_navoceano.html
+NULL
+null
+https://www.navo.navy.mil
+NASA/JPL/PODAAC
+101.3
+102.1
+101.2
+102.12
+102
+102
+DATA-CENTER
+Global
+NULL
+Sea Surface Temperature

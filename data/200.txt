@@ -1,0 +1,245 @@
+-9.99
+Lyngbyvej 100, DK-2100 Copenhagen, Denmark
+NULL
+Baltic Sea
+North Sea
+Danish Meteorological Institute, Copenhagen, Denmark
+AQUA
+AQUA
+ENVISAT
+MSG
+NOAA-17
+NOAA-18
+none
+none
++45-39157300
+NULL
+file:///store/ghrsst/open/data/L4/NSEABALTIC/DMI/DMI_OI
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L4/NSEABALTIC/DMI/DMI_OI/
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L4/NSEABALTIC/DMI/DMI_OI
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L4/NSEABALTIC/DMI/DMI_OI
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L4/NSEABALTIC/DMI/DMI_OI
+http://ghrsst.jpl.nasa.gov
+http://www.ghrsst.org
+http://ghrsst.jpl.nasa.gov
+http://www.osi-saf.org
+/data/export/web/thumbnails
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHBDM-4FD01&apidoc
+48.01
+AQUA
+AQUA
+ENVISAT
+MSG
+NOAA-17
+NOAA-18
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHBDM-4FD01
+Ocean Temperature
+N/A
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+4
+1
+Jacob
+65.98
+GHRSST Level 4 DMI_OI  North Sea and Baltic Sea Regional Foundation Sea Surface Temperature Analysis
+GHRSST
+sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+1 Day
+SPACECRAFT
+SPACECRAFT
+spacecraft
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1295629813000
+0.03
+GHRSST
+N
+NULL
+In no event shall DMI or its representatives be liable for any damages whatsoever including, without limitation, special, indirect, incidental or consequential damages or damages for loss of business 
+Ocean Temperature
+1445
+2330
+500
+-999
+2400
+2400
+OPEN
+1180915200000
+Group for High Resolution Sea Surface Temperature
+The Advanced Microwave Scanning Radiometer for EOS (AMSR-E) is a twelve-channel, six-frequency, total power passive-microwave radiometer system.
+The MODIS (Moderate Resolution Imaging Spectroradiometer) instrument provides high radiometric sensitivity (12 bit) in 36 spectral bands ranging in wavelength from 0.4 m to 14.4 m. It is used for observing processes occurring on the land, in the oceans, and in the lower atmosphere.
+Advanced Along-Track Scanning Radiometer (AATSR) is one of the Announcement of Opportunity (AO) instruments on board the European Space Agency (ESA) satellite ENVISAT.
+It is the most recent in a series of instruments designed primarily to measure Sea Surface Temperature (SST), following on from ATSR-1 and ATSR-2 on board ERS-1 and ERS-2.
+The Spinning Enhanced Visible and InfraRed Imager (SEVIRI)  has the capacity to observe the Earth in 12 spectral channels.
+Eight of these channels are in the thermal infrared, providing among other information, observations of the temperatures of clouds, land and sea surfaces at approximately 5 km resolution with a 15 minute duty cycle.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+4
+MD5
+Equidistant Cylindrical Lat-Lon
+1
+1180915200000
+ARCHIVE-OPEN
+LOCAL-OPENDAP
+LOCAL-FTP
+REMOTE-OPENDAP
+REMOTE-FTP
+WGS 84
+NETCDF
+Earth Observing System, AQUA
+Earth Observing System, AQUA
+Environmental Satellite
+Meteosat Second Generation
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+none
+none
+none
+none
+DMI-L4UHfnd-NSEABALTIC-DMI_OI.jpg
+Web Service (PO.DAAC Labs)
+Advanced Microwave Scanning Radiometer-EOS
+Moderate-Resolution Imaging Spectroradiometer
+Advanced Along-Track Scanning Radiometer
+Spinning Enhanced Visible and Infrared Imager
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Microwave Scanning Radiometer-EOS
+Moderate-Resolution Imaging Spectroradiometer
+Advanced Along-Track Scanning Radiometer
+Spinning Enhanced Visible and Infrared Imager
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+None
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHBDM-4FD01
+DMI-L4UHfnd-NSEABALTIC-DMI_OI
+none
+18
+DMI COI
+1
+North Sea and Baltic Sea L4 SST data set
+jlh@dmi.dk
+GZIP
+none
+GHRSST Level 4 DMI_OI  North Sea and Baltic Sea Regional Foundation Sea Surface Temperature Analysis
+NULL
+Foundation Sea Surface Temperature
+DMI OI NSB L4 analysis
+1189209600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/DMI-L4UHfnd-NSEABALTIC-DMI_OI.jpg
+0.03
+GHRSST
++45-39157203
+Daily
+1.0
+AMSR-E
+MODIS
+AATSR
+SEVIRI
+AVHRR-3
+AVHRR-3
+AMSR-E
+MODIS
+AATSR
+SEVIRI
+AVHRR-3
+AVHRR-3
+24
+Group for High Resolution Sea Surface Temperature Datasets
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+Envisat, is an advanced polar-orbiting Earth observation satellite which provides measurements of the atmosphere, ocean, land, and ice.
+Meteosat Second Generation (MSG) provides multi-spectral imagery of the Earth's surface and cloud systems from a geostationary orbit.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+30
+NEAR_REAL_TIME
+A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature analysis produced daily on an operational basis by the Danish Meteorological Institute (DMI) using an optimal interpolation (OI) approach on a regional 0.03 degree grid.
+The analysis is based upon nighttime GHRSST L2P skin and subskin SST observations from several satellites over the North and Baltic Seas.
+The sensors include the Advanced Very High Resolution Radiometer (AVHRR), the Advanced Along Track Scanning Radiometer (AATSR), the Spinning Enhanced Visible and Infrared Imager (SEVIRI), the Advanced Microwave Scanning Radiometer-EOS (AMSRE) and the Moderate Resolution Imaging Spectroradiometer (MODIS) on Aqua.
+An ice field from the Swedish and Finnish ice services is used to mask out areas with ice. 
+Portal to the GHRSST Global Data Assembly Center and data access
+GHRSST Project homepage
+Portal to the GHRSST Global Data Assembly Center and user services
+OSI SAF homepage
+Thumbnail image for Website
+(Search Granule)
+NULL
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+Danish Meteorological Institute
+GHRSST
+
+Get Data
+Project Home Page
+Get Service
+Ice Home Page
+Thumbnail
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Primary Contact
+Earth Observing System, AQUA
+Earth Observing System, AQUA
+Environmental Satellite
+Meteosat Second Generation
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+98.1
+98.1
+98.55
+-999
+98.7
+98.74
+NULL
+Danish Meteorological Institute, Center for Ocean and Ice
+DMI-L4UHfnd-NSEABALTIC-DMI_OI
+24
+ARCHIVE-DIST
+NSEABALTIC-DMI_OI
+1188950400000
+NETCDF
+Danish Meteorological Institute, Center for Ocean and Ice
+Y
+DMI
+none
+Center for Ocean and Ice
+Hoeyer
+2007-09-05 J. Hoeyer: Original;    2007-12-07  E. Armstrong: Modified
+
+Regular 0.03 degree grid
+Information on the analysis can be found at http://ocean.dmi.dk/satellite
+NULL
+none
+http://ocean.dmi.dk
+http://www.dmi.dk
+DMI COI
+98.4
+98.4
+100.59
+-999
+101.2
+102.12
+DATA-PROVIDER
+Baltic Sea
+North Sea
+NULL
+1 Day
+Sea Surface Temperature

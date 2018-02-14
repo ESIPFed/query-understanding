@@ -1,0 +1,210 @@
+0
+-45
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+Meteo France, Centre de Meteorologie Spatiale (CMS), Lannion, 22303 Lannion, cedex, France
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+NULL
+Atlantic Ocean
+Plouzane (Brest), France
+NOAA-16
+Northeast Atlantic including Mediterranean, Baltic and Black Seas
+0
++33-2-98224533
++33 2 96 05 67 37
++33 2 98 22 45 33
+NULL
+none
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/NAR16_SST/EUR
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L2P/NAR16_SST/EUR
+file:///store/ghrsst/open/data/L2P/NAR16_SST/EUR
+0.00
+http://ghrsst.jpl.nasa.gov
+http://www.ghrsst-pp.org
+/data/export/web/thumbnails
+http://www.medspiration.org
+http://www.osi-saf.org/biblio/bibliotheque.php
+http://www.osi-saf.org
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHN16-2PE01&apidoc
+20
+NOAA-16
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHN16-2PE01
+Ocean Temperature
+N/A
+none
+
+
+NULL
+Group for High Resolution Sea Surface Temperature
+3
+1
+Jean-Francois
+Pierre
+Sylvie
+79
+GHRSST Level 2P North Atlantic Regional Bulk Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on the NOAA-16 satellite
+GHRSST
+sea surface temperature
+sst
+surface temperature
+12 Hour
+SPACECRAFT
+GHRSST
+HISTORICAL
+1295629813000
+0.018
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+2400
+OPEN
+none
+1107171900000
+Group for High Resolution Sea Surface Temperature
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+3
+MD5
+Gridded
+1
+1107171900000
+REMOTE-FTP
+REMOTE-OPENDAP
+ARCHIVE-OPEN
+equatorial radius: 6378.388 km; polar radius: 6356.912 km
+NETCDF
+National Oceanic & Atmospheric Administration-16
+none
+none
+EUR-L2P-NAR16_SST.jpg
+none
+none
+none
+Web Service (PO.DAAC Labs)
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+None
+Earth Science
+DATA-PROVIDER
+PODAAC-GHN16-2PE01
+1132637760000
+EUR-L2P-NAR16_SST
+These data are produced by the ESA Medspiration project funded by the European Space Agency Data User Element (ESA-DUE)
+28
+0
+IFREMER/CERSAT
+1
+0
+GHRSST-PP L2P North Atlantic Regional (NAR) Sea Surface Temperature (SST-sub-skin)
+jfpiolle@ifremer.fr
+pierre.leborgne@meteo.fr
+sylvie.pouliquen@ifremer.fr
+BZIP2
+ftp://ftp.ifremer.fr/ifremer/valmedspi
+GHRSST Level 2P North Atlantic Regional Bulk Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on the NOAA-16 satellite
+NULL
+90
+Bulk Sea Surface Temperature
+North Atlantic Regional (NAR) Sea Surface Temperature  L2P produced by Medspiration
+1102550400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/EUR-L2P-NAR16_SST.jpg
+0.018
+GHRSST
++33-2-98224691
++33 2 96 05 67 52
++33 2 98 22 44 92
+Less_than_daily
+1.0
+AVHRR-3
+AVHRR-3
+Group for High Resolution Sea Surface Temperature Datasets
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+45
+HISTORICAL
+A Group for HIgh Resolution Sea Surface Temperature (GHRSST) dataset  for the North Atlantic Region (NAR) from the Advanced Very High Resolution Radiometer (AVHRR) on the NOAA-16 platform (launched on 21 Sep 2000).
+This particular dataset is produced by the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT),  Ocean and Sea Ice Satellite Application Facility (OSI SAF) in France.
+The AVHRR is a space-borne scanning sensor on the National Oceanic and Atmospheric Administration (NOAA) family of Polar Orbiting Environmental Satellites (POES) having a operational legacy that traces back to the Television Infrared Observation Satellite-N (TIROS-N) launched in 1978.
+AVHRR instruments measure the radiance of the Earth in 5 (or 6) relatively wide spectral bands.
+The first two are centered around the red (0.6 micrometer) and near-infrared (0.9 micrometer) regions, the third one is located around 3.5 micrometer, and the last two sample the emitted thermal radiation, around 11 and 12 micrometers, respectively.
+The legacy 5 band instrument is known as AVHRR/2 while the more recent version, the AVHRR/3 (first carried on the NOAA-15 platform),  acquires data in a 6th channel located at 1.6 micrometer.
+Typically the 11 and 12 micron channels are used to derive sea surface temperature (SST) sometimes in combination with the 3.5 micron channel.
+The highest ground resolution that can be obtained from the current AVHRR instruments is 1.1 km at nadir.
+The NOAA platforms are sun synchronous generally viewing the same earth location twice a day (latitude dependent) due to the relatively large AVHRR swath of approximately 2400 km.
+The  NAR products are SST fields derived from direct broadcast High Resolution Picture Transmission (HRPT) AVHRR data that are re-mapped onto a stereopolar grid to produce mosaics at 2 km resolution.
+An operational AVHRR cloud mask is applied based on a multi-spectral thresholding algorithm (Derrien and Le Gleau 1999).
+Some refinements specific to the marine conditions have been introduced including the use of fine scale climatology and a fine gradiant climatology to assist in the detection of clouds in areas characterised by strong thermal gradients.
+L2P data products are then derived following the GHRSST-PP Data Processing Specification (GDS) version 1.5 including Single Sensor Error Statistics (SSES).
+Although the dataset designation is "L2P" it is actually a "L3C" dataset (gridded Level 3 collated) as defined by the GHRSST Data Processing Specification version 2.0.
+This dataset was originally produced for the GHRSST Pilot Project (GHRSST-PP), the precursor to GHRSST, by the Medspiration Regional Data Assembly Center (RDAC) in Europe.
+As one of the first datasets produced as a prototype for the GHRSST-PP it assumed an incorrect designation of "L2P".
+Portal to the GHRSST Global Data Assembly Center and data access
+Home Page of the Global Ocean Data Assimilation Experiment High Resolution SST Pilot Project (GHRSST-PP)
+Thumbnail image for Website
+Description of the Medspiration projec
+EUMETSAT OSI-SAF SEVIRI documentation pages
+Home Page of the EUMETSAT OCean and Sea ICe Satellite Application Facility
+(Search Granule)
+NULL
+ORACLE
+Sea Surface Temperature
+1132637760000
+YEAR-DOY
+Medspiration Meteo-France/Centre de Meteorologie Spatiale (CMS)
+GHRSST
+
+Get Data
+Project Home Page
+Thumbnail
+Project Home Page
+Reference Materials
+Project Home Page
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Technical Contact
+Data originator/Technical contact
+Technical Contact
+National Oceanic & Atmospheric Administration-16
+99
+NULL
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+EUR-L2P-NAR16_SST
+ROLLING-STORE
+NAR16_SST
+1103900400000
+NETCDF
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+Meteorologie Spatiale
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+Y
+Medspiration: Meteo France/Meteo France, Centre de Meteorologie Spatiale (CMS), Lannion, 22303 Lannion, cedex, France; EUMETSAT EUMETSAT-Ocean and Sea Ice Satellite Application Facility (OSI-SAF)
+none
+Medspiration, IFREMER/CERSAT
+Piolle
+LeBorgne
+Pouliquen
+2004-12-20  C Donlon: Original;    2005-10-24  E Armstrong: revised;    2006-04-12  E Armstrong: revised
+
+Polar stereographic 2 km grid
+Medspiration products user manual, Robinson I., Leborgne P., Piolle J.F., Larnicol G., v1.02, September 2004
+NULL
+none
+none
+none
+http://www.ifremer.fr/anglais/
+http://cersat.ifremer.fr
+http://www.ifremer.fr/cersat/en/index.html
+IFREMER/CERSAT
+CMS
+IFREMER/CERSAT
+102.1
+DATA-PROVIDER
+DATA-PROVIDER
+DATA-PROVIDER
+Atlantic Ocean
+NULL
+12 Hour
+Sea Surface Temperature

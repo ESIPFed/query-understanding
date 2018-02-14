@@ -1,0 +1,156 @@
+10 Day
+1
+-180
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+OSTM/Jason-2
+OSTM/Jason-2
+N/A
+818-393-2718
+file:///store/ostm/preview/L2/GPS-OGDR
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ostm/preview/L2/GPS-OGDR/
+ftp://podaac-ftp.jpl.nasa.gov/allData/ostm/preview/L2/GPS-OGDR
+N/A
+/data/export/web/thumbnails
+-66
+OSTM/Jason-2
+OSTM/Jason-2
+NULL
+PREVIEW
+10.5067/J2ODR-GPS00
+Ocean Waves
+Sea Surface Topography
+N/A
+none
+NULL
+Ocean Surface Topography Mission/Jason-2
+2
+Jessica
+66
+OSTM GPS based orbit and SSHA OGDR
+
+
+NEAR_REAL_TIME
+1295629813000
+11200
+OSTM
+N
+NULL
+none
+Ocean Waves
+Sea Surface Topography
+
+
+PREVIEW
+N/A
+1243814400000
+Ocean Surface Topography Mission/Jason-2
+The Poseidon-3 altimeter, operating at 13.575 GHz (Ku band) and 5.3 GHz (C band), is the primary sensor for the OSTM mission.
+The measurements made at the two frequencies are combined to obtain measurements of the altimeter range, wind speed, significant wave height, and the ionoshperic correction.
+The Poseidon-3 package consists of dual redundant altimeter units each of which has low mass and low power consumption. 
+2
+MD5
+Swath
+1
+1243814400000
+ARCHIVE-PREVIEW
+LOCAL-OPENDAP
+LOCAL-FTP
+5100
+NETCDF
+Ocean Surface Topography Mission/Jason-2
+Ocean Surface Topography Mission/Jason-2
+OSTM_L2_OST_OGDR_GPS.jpg
+OSTM/Jason-2 RADAR alitmieter
+Advanced Microwave Radiometer
+OSTM/Jason-2 RADAR alitmieter
+Advanced Microwave Radiometer
+none
+Earth Science
+Earth Science
+DATA-PROVIDER
+2
+PODAAC-J2ODR-GPS00
+OSTM_L2_OST_OGDR_GPS
+OSTM GPS based orbit and SSHA OGDR
+345
+NASA/JPL
+1
+OSTM_L2_OST_OGDR_GPS
+Jessica.K.Hausman@jpl.nasa.gov
+NONE
+ftp://podaac.jpl.nasa.gov/allData/ostm/preview/L2/GPS-OGDR/docs/
+OSTM GPS based orbit and SSHA OGDR
+NULL
+180
+
+
+OSTM GPS-OGDR
+1244592000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/OSTM_L2_OST_OGDR_GPS.jpg
+818-354-4588
+Weekly
+A
+POSEIDON-3
+AMR
+POSEIDON-3
+AMR
+4
+OSTM, the TOPEX/Poseidon and Jason-2 follow-on, is an oceanographic mission to study global ocean circulation, improve climate predictions and monitor events such as El Nino conditions.
+It is a joint mission between CNES, NASA, NOAA and EUMETSAT.
+OSTM, the TOPEX/Poseidon and Jason-2 follow-on, is an oceanographic mission to study global ocean circulation, improve climate predictions and monitor events such as El Nino conditions.
+It is a joint mission between CNES, NASA, NOAA and EUMETSAT. 
+180
+NEAR_REAL_TIME
+This dataset is similar to the OSTM/Jason-2 Operation Geophysical Data Record (OGDR) that is distributed at NOAA (ftp://data.nodc.noaa.gov/pub/data.nodc/jason2/ogdr/), but also includes a GPS based orbit and Sea Surface Height Anomalies (SSHA) calculated from that orbit, as supposed to the DORIS based orbit that is already available in the OGDR.
+It has a 5 hour time lag due to the time needed to recalculate the orbit and SSHA.
+The GPS orbits have been shown to be more accurate than the DORIS orbits on a near real time scale and therefore produces a more accurate SSHA.
+Thumbnail image for Website
+NULL
+BACKTRACK
+Significant Wave Height
+Sea Surface Height
+BATCH
+NASA/JPL
+OSTM
+
+Thumbnail
+Oceans
+Oceans
+Technical Contact
+Ocean Surface Topography Mission/Jason-2
+Ocean Surface Topography Mission/Jason-2
+66.04
+66.04
+NULL
+Jet Propulsion Laboratory
+OSTM_L2_OST_OGDR_GPS
+5
+ROLLING-STORE
+OSTM/J2 GPS-OGDR
+1271291590000
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+Shailen Desai
+N/A
+JPL
+Hausman
+Dataset Policy created for OSTM_L2_OST_OGDR_GPS
+
+N/A
+ftp://podaac.jpl.nasa.gov/allData/ostm/preview/L2/GPS-OGDR/docs/
+NULL
+none
+http://podaac.jpl.nasa.gov
+http://ghrsst.jpl.nasa.gov
+NASA/JPL/PODAAC
+112.43
+112.43
+DATA-CENTER
+Global
+NULL
+Significant Wave Height
+Sea Surface Height

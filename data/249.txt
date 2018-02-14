@@ -1,0 +1,141 @@
+12 Hour
+0
+null
+NULL
+Global
+PO.DAAC
+SEASAT-A
+
+null
+ftp://podaac-ftp.jpl.nasa.gov/allData/seasat/L2/sass_Wentz/wind
+file:///store/seasat/open/L2/sass_Wentz/wind
+ftp://podaac.jpl.nasa.gov/pub/documents/dataset_docs/seasat_windvect_wentz.html
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-SASSX-L2WAF
+/data/export/web/thumbnails
+-90
+SEASAT-A
+NULL
+OPEN
+Ocean Winds
+null
+NULL
+SEASAT
+2
+User
+90
+SEASAT SCATTEROMETER DEALIASED OCEAN WIND VECTORS (Wentz et al.)
+SPACECRAFT
+HISTORICAL
+1295629813000
+100000
+SEASAT
+Y
+NULL
+none
+Ocean Winds
+1900
+OPEN
+268617600000
+SEASAT
+The Seasat-A Satellite Scatterometer (SASS) contains four dual-polarized (both vertical and horizontal) fan-beam radar antennas, which were designed to produce an X-shaped scanning pattern across Earth's surface.
+The SASS radar was designed to transmit at a frequency of 14.6 GHz (Ku-band).
+SASS provided 95% global coverage every 36 hours at a sampling footprint of approximately 50 km within a 1900 km-wide swath.
+SASS was designed to measure radar backscatter sensitive to wind speeds from 4-26 m s-1 referenced to 10 meters above the ocean surface.
+SASS was intended to be accurate to within 2 m s-1 or 10% (whichever is greater) of the observed wind speed and within 20¿ of the observed wind direction.
+2
+MD5
+Swath
+1
+268617600000
+LOCAL-FTP
+ARCHIVE-OPEN
+WGS-84
+100000
+RAW
+SEASAT-A
+Wentz Dealiased SASS Level 2 User Guide
+Web Service (PO.DAAC Labs)
+WAF_DEALIASED_SASS_L2.jpg
+268617600000
+Seasat-A Scatterometer System
+Seasat-A Scatterometer System
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-SASSX-L2WAF
+276822000000
+WAF_DEALIASED_SASS_L2
+N/A
+119
+REMSS
+SEASAT SCATTEROMETER DEALIASED OCEAN WIND VECTORS (Wentz et al.)
+podaac@podaac.jpl.nasa.gov
+ZIP
+ftp://podaac.jpl.nasa.gov/pub/documents/dataset_docs/seasat_windvect_wentz.html
+SEASAT SCATTEROMETER DEALIASED OCEAN WIND VECTORS (Wentz et al.)
+NULL
+Ocean Surface Wind Vectors
+Wentz SASS Global Dealiased Level 2 Wind Vectors
+857520000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/WAF_DEALIASED_SASS_L2.jpg
+(818) 393-7165
+Less_than_daily
+1
+SASS
+SASS
+Seasat was the first Earth-orbiting satellite specifically designed and tasked for the remote sensing of Earth's oceans.
+Through NASA sponsorship, JPL managed and operated Seasat, which was launched on June 28, 1978.
+Seasat carried a payload of five scientific instruments, including the first satellite-borne synthetic aperture radar (SAR).
+Other instruments included a radar altimeter (ALT), Seasat-A satellite scatterometer (SASS), scanning multichannel microwave radiometer (SMMR), and the visible/infrared radiometer (VIRR).
+This array of scientific instruments enabled measurements of sea surface wind velocity, land and sea surface topography, ocean surface salinity, ocean surface gravity waves, land and sea ice, and sea surface temperature.
+Seasat was in continuous operation for 106 days and served as the precursor to many of NASA's later missions.
+360
+HISTORICAL
+Contains Seasat-A Scatterometer (SASS) wind vector measurements for the entire Seasat mission, from July 1978 until October 1978.
+The data are global and presented chronologically in by swath.
+Each record contains data binned in 100 km cells.
+No wind vectors are computed for the cells along the left and right edges of the swath.
+Wind direction ambiguities are resolved using a global weather prediction model.
+This complete dataset is the result of the reprocessing efforts on behalf of Frank Wentz, Robert Atlas, and Michael Freilich.
+Dataset User Guide
+(Search Granule)
+Thumbnail image for Website
+NULL
+ORACLE
+Surface Winds
+276822000000
+none
+REMSS
+SEASAT
+Reference Materials
+PORTAL_DA_DIRECT_ACCESS
+Thumbnail
+Oceans
+Technical Contact
+SEASAT-A
+108
+NULL
+Remote Sensing Systems
+1.7 Hour
+WAF_DEALIASED_SASS_L2
+ARCHIVE-DIST
+SEASAT SCATTEROMETER DEALIASED OCEAN WIND VECTORS (Wentz et al.)
+1245070965000
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+REMSS
+PO.DAAC
+Services
+15-JUN-09 Manually Migrated from Ingres
+Along-track
+Wentz, F. SEASAT-A Scatterometer Global Dealiased Surface Wind Vector Dataset User Guide. March 6, 1997.
+NULL
+null
+http://www.remss.com
+NASA/JPL/PODAAC
+100.7
+DATA-CENTER
+Global
+NULL
+Surface Winds

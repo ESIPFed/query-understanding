@@ -1,0 +1,171 @@
+15 Minute
+-81
+NOAA/NESDIS/STAR/SOCD, 5200 Auth Road, WWB, RM 601 Camp Springs, MD 20746, USA
+NULL
+Eastern Atlantic
+Camp Springs, MD (USA)
+MSG
+Mid-Atlantic to East Indian Ocean - Baltic Sea to below Africa
+301-763-8572
+NULL
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L2P/MSG03/OSPO/v1
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L2P/MSG03/OSPO/v1
+file:///store/ghrsst/open/data/GDS2/L2P/MSG03/OSPO/v1
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L2P/MSG03/OSPO/v1/
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L2P/MSG03/OSPO/v1
+0
+/data/export/web/thumbnails
+http://ghrsst.jpl.nasa.gov
+http://www.ghrsst.org
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/sw/IDL/
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/docs/GDS20r5.pdf
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHMG3-2PO02
+-73
+MSG
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+Ocean Temperature
+1
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+2P
+1
+Eileen
+73
+GHRSST Level 2P Atlantic Regional Skin Sea Surface Temperature from the Spinning Enhanced Visible and InfraRed Imager (SEVIRI) on the Meteosat Second Generation (MSG-3) satellite  (GDS version 2)
+GHRSST
+sea surface temperature
+L2P
+sst
+surface temperature
+GDS2
+v1.0
+msg
+msg3
+ospo
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1376335476941
+0.027
+4500
+N
+NULL
+None
+Ocean Temperature
+-999
+OPEN
+1375360200000
+Group for High Resolution Sea Surface Temperature
+The Spinning Enhanced Visible and InfraRed Imager (SEVIRI)  has the capacity to observe the Earth in 12 spectral channels.
+Eight of these channels are in the thermal infrared, providing among other information, observations of the temperatures of clouds, land and sea surfaces at approximately 5 km resolution with a 15 minute duty cycle.
+2P
+MD5
+Satellite native view
+1
+1375360200000
+REMOTE-OPENDAP
+LOCAL-FTP
+ARCHIVE-OPEN
+LOCAL-OPENDAP
+REMOTE-FTP
+WGS 84
+4500
+NETCDF
+Meteosat Second Generation
+MSG03-OSPO-L2P-v1.0.jpg
+none
+none
+IDL read software
+GDS2 User Manual
+Web Service (PO.DAAC Labs)
+Spinning Enhanced Visible and Infrared Imager
+Spinning Enhanced Visible and Infrared Imager
+None
+Earth Science
+DATA-PROVIDER
+90
+PODAAC-GHMG3-2PO02
+MSG03-OSPO-L2P-v1.0
+These data are produced by NOAA/NESDIS funded by NESDIS Office of System Development
+1150
+OSPO
+1
+Sea Surface Temperature, 55W-55E and 55S-55N, at 0.027 degree resolution from MSG-02 Imager Sectors every quarter-hour
+Eileen.Maturi@noaa.gov
+NONE
+none
+GHRSST Level 2P Atlantic Regional Skin Sea Surface Temperature from the Spinning Enhanced Visible and InfraRed Imager (SEVIRI) on the Meteosat Second Generation (MSG-3) satellite  (GDS version 2)
+NULL
+Sea Surface Skin Temperature
+Sea Surface Temperature produced by NOAA/NESDIS
+1416182400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/MSG03-OSPO-L2P-v1.0.jpg
+0.027
+GHRSST
+301-763-8102 x172
+GHRSST
+1.0
+SEVIRI
+SEVIRI
+8
+Group for High Resolution Sea Surface Temperature Datasets
+Meteosat Second Generation (MSG) provides multi-spectral imagery of the Earth's surface and cloud systems from a geostationary orbit.
+81
+NEAR_REAL_TIME
+The Meteosat Second Generation (MSG-3) satellites  are spin stabilized geostationary satellites operated by the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT) to provide accurate weather monitoring data through its primary instrument the Spinning Enhanced Visible and InfraRed Imager (SEVIRI), which has the capacity to observe the Earth in 12 spectral channels.
+Eight of these channels are in the thermal infrared, providing among other information, observations of the temperatures of clouds, land and sea surfaces at approximately 5 km resolution with a 15 minute duty cycle.
+This Group for High Resolution Sea Surface Temperature (GHRSST) dataset produced by the US National Oceanographic and Atmospheric Administration (NOAA)  National Environmental Satellite, Data, and Information Service (NESDIS) is derived from the SEVIRI instrument on the second MSG satellite (also known as  Meteosat-9) that was launched on 22 December 2005.
+Skin sea surface temperature (SST) data are calculated from the infrared channels of SEVIRI at full resolution every 15 minutes.
+L2P data products with Single Sensor Error Statistics (SSES) are then derived following the GHRSST-PP Data Processing Specification (GDS) version 2.0.
+Thumbnail image for Website
+Portal to the GHRSST Global Data Assembly Center and data access
+GHRSST Project Home Page
+Read software
+Documentation on the GDS version 2 format specification
+(Search Granule)
+NULL
+15 Minute
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+NOAA/NESDIS
+GHRSST
+Creation of Dataset via Metadata Tool.
+Thumbnail
+Get Data
+Project Home Page
+EXTRACT_NETCDF4
+PORTAL_DOC_USERS_GUIDE
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Technical Contact
+Meteosat Second Generation
+-999
+NULL
+NOAA Office of Satellite and Product Operations
+15 Minute
+MSG03-OSPO-L2P-v1.0
+6
+ARCHIVE-DIST
+MSG03-OSPO-L2P-v1.0
+1376335476941
+NETCDF
+NOAA Office of Satellite Data Processing and Distribution
+Y
+NOAA/NESDIS/OSPO
+NOAA/NESDIS
+Maturi
+Dataset Creation via Metadata Tool
+1376335476941
+Geolocation information included for each pixel
+File specification: GHRSST Data Processing Specification v2.0.  SST Algorithm: ATBD Baysian Cloud Screening for GOES-12 (NOAA/NESDIS)
+NULL
+none
+OSDPD
+-999
+DATA-PROVIDER
+Eastern Atlantic
+NULL
+Sea Surface Temperature

@@ -1,0 +1,174 @@
+-180
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+GRACE
+GRACE
+GRACE
+
+818-393-2718
+NULL
+file:///store/tellus/open/L3/pgr
+ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/pgr
+-90
+GRACE
+GRACE
+GRACE
+TELLUS
+OPEN
+10.5067/TELND-PGTX1
+Geodetics/Gravity
+1
+none
+NULL
+Making Earth Science Data Records for Use in Research   Environments
+3
+534
+Jessica
+90
+TELLUS POST GLACIAL REBOUND ASCII
+1 Month
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+TELLUS
+HISTORICAL
+1303327385908
+1
+MEaSUREs
+N
+NULL
+none
+Geodetics/Gravity
+
+
+
+OPEN
+-59011459200000
+Making Earth Science Data Records for Use in Research   Environments
+The accelerometer, located at the center of mass of each satellite, measures all non-gravitational forces acting on each satellite.
+These forces include air drag, solar radiation pressure, and attitude control activator operation.
+The two star cameras mounted close to the accelerometer on each satellite provide
+the precise attitude references for the satellites when making science
+measurements.
+This instrument precisely measures the changes in the separation between the two GRACE satellites using phase tracking of K- and Ka-band signals sent between the two satellites
+3
+MD5
+Gridded
+1
+-59011459200000
+ARCHIVE-OPEN
+LOCAL-FTP
+WGS84
+ASCII
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-TELND-PGTX1
+946684800000
+TELLUS_PGR_TXT
+TELLUS POST GLACIAL REBOUND ASCII
+630
+TELLUS
+1
+TELLUS_PGR_TXT
+Jessica.K.Hausman@jpl.nasa.gov
+NONE
+http://grace.jpl.nasa.gov/data/get-data/gia-trends/
+TELLUS POST GLACIAL REBOUND ASCII
+NULL
+
+TELLUS_PGR_TXT
+1293840000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/TELLUS_PGR_TXT.jpg
+1
+TELLUS
+818-354-4588
+Monthly
+1
+GRACE ACC
+GRACE SCA
+GRACE KBR
+GRACE ACC
+GRACE SCA
+GRACE KBR
+TELLUS
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+180
+HISTORICAL
+Ice ages are periods of long-term reduction in the temperature of Earth's climate, resulting in an expansion of the continental and polar ice sheets and mountain glaciers.
+They are related to but not fully explained by the three Milankovich cycles describing the eccentricity, precession (about the same as the Earth-Sun distance on June 21st), and tilt of the Earth relative to the ecliptic (http://www-istp.gsfc.nasa.gov/stargaze/Sprecess.htm).
+The most recent global deglaciation event, which marked the end of the most recent 100 kyr ice age cycle of the late Quaternary period began only 21,000 calendar years ago (Peltier 2004), just before the Milankovitch cycle, and was essentially complete by 6000 years ago, but relative sea level have continued to change, essentially everywhere on the earth's surface, due to this cause.
+This continuing variation of land and sea levels exists as a consequence of the earth's delayed viscoelastic response to the redistribution of mass on its surface that accompanied deglaciation.
+In regions that were previously glaciated, such as Canada and Northwestern Europe, relative sea level continues to fall at a rate that is primarily determined by the ongoing post-glacial rebound of the crust and which may exceed 1 cm/yr (in the southeast Hudson Bay region of Canada, this rate is near 1.1 cm/yr).
+Even at sites that are well removed from the centres of glaciation, however, the rates of relative sea level change that exist as a consequence of ongoing glacial isostatic adjustment are non-negligible (e.g., Peltier 1999).
+For more information on glacial isostatic adjustment, please visit: http://grace.jpl.nasa.gov/data/get-data/gia-trends/.
+NULL
+NONE
+Gravity
+946684800000
+NONE
+TELLUS
+MEaSUREs
+Creation of Dataset via Metadata Tool.
+Solid Earth
+Technical Contact
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+89
+89
+89
+NULL
+TELLUS
+TELLUS_PGR_TXT
+ARCHIVE-DIST
+GRACE MONTHLY MASS GRIDS - OCEAN
+1303327385908
+ASCII
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+Tellus
+TELLUS
+Hausman
+Dataset Creation via Metadata Tool
+1303327385908
+Paulson, A., S. Zhong and J. Wahr.  2007.  Inference of mantle viscosity from GRACE and relative sea level data, Geophys. J. Int. 171, 497-508.
+NULL
+none
+NASA/JPL/PODAAC
+-1
+-1
+-1
+DATA-CENTER
+Global
+NULL
+1 Month
+Gravity

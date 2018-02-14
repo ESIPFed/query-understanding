@@ -1,0 +1,465 @@
+-180
+Met Office, FitzRoy Road, Exeter, Devon, EX1 3PB, UK.
+JPL, 4800 Oak Grove Dr, Pasadena, CA 91109, USA
+Met Office, FitzRoy Road, Exeter, Devon, EX1 3PB, United Kingdom
+The type of projection.
+The frequency that the data is sampled.
+The resolution for the East and West longitude values in km.
+The range of frequencies within which the data is sampled.
+The resolution for the North and South latitude values in km.
+Key bibilographic references pertaining to the dataset.
+The type of ellipsoid.
+Geographic area descriptor.
+More specific names not specified in the GCMD valids list.
+The resolution for altitude as measured from mean sea level in meters.
+The range of resolutions for the latitude/longitude values.
+Free text description of details such as the projections standard parallels, etc., if necessary to fully specify the projection.
+The resolution for depth as measured from mean sea level in meters.
+Global
+Met Office, Exeter, UK
+AQUA
+ENVISAT
+InSitu
+MSG
+NOAA-16
+NOAA-17
+NOAA-18
+TRMM
+none
++44 1392 885681
+818-393-2718
++44 1392 885681
+none
+file:///store/ghrsst/open/data/L4/GLOB/UKMO/OSTIA
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L4/GLOB/UKMO/OSTIA
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L4/GLOB/UKMO/OSTIA/
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L4/GLOB/UKMO/OSTIA
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L4/GLOB/UKMO/OSTIA
+none
+/data/export/web/thumbnails
+http://www.ghrsst.org
+http://ghrsst.jpl.nasa.gov
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/ghrsst/catalog.html?dataset=ncml_aggregation/OceanTemperature/ghrsst/aggregate__ghrsst_UKMO-L4HRfnd-GLOB-OSTIA.ncml
+http://thredds.jpl.nasa.gov/las/
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHOST-4FK01&apidoc
+-90
+AQUA
+ENVISAT
+InSitu
+MSG
+NOAA-16
+NOAA-17
+NOAA-18
+TRMM
++44 1392 886441
+818-393-6710
++44 1392 886441
+OPEN
+10.5067/GHOST-4FK01
+Ocean Temperature
+N/A
+none
+none
+null
+projectionType
+temporalResolution
+longitudeResolution
+temporalResolutionRange
+latitudeResolution
+reference
+ellipsoidType
+region
+regionDetail
+altitudeResolution
+horizontalResolutionRage
+projectionDetail
+depthResolution
+Group for High Resolution Sea Surface Temperature
+AMSR-E
+AATSR
+InSitu
+SEVIRI
+AVHRR-3
+AVHRR-3
+AVHRR-3
+TMI
+4
+1
+Jonah
+Edward
+Emma
+90
+GHRSST Level 4 OSTIA Global Foundation Sea Surface Temperature Analysis
+GHRSST
+sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+1 Day
+SPACECRAFT
+spacecraft
+instrument
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1295629813000
+0.054
+GHRSST
+N
+projection type
+temporal resolution
+longitude resolution
+temporal resolution range
+latitude resolution
+reference
+ellipsoid type
+Region
+region detail
+altitude resolution
+horizontal resolution range
+projection detail
+depth resolution
+A Met Office data license application form: http://www.metoffice.gov.uk/corporate/legal/data_lic_form.html must be completed and submitted before using the data. This only needs to be completed once f
+Ocean Temperature
+1445
+500
+-999
+-999
+2400
+2400
+2400
+878
+OPEN
+none
+1143849600000
+Group for High Resolution Sea Surface Temperature
+The Advanced Microwave Scanning Radiometer for EOS (AMSR-E) is a twelve-channel, six-frequency, total power passive-microwave radiometer system.
+Advanced Along-Track Scanning Radiometer (AATSR) is one of the Announcement of Opportunity (AO) instruments on board the European Space Agency (ESA) satellite ENVISAT.
+It is the most recent in a series of instruments designed primarily to measure Sea Surface Temperature (SST), following on from ATSR-1 and ATSR-2 on board ERS-1 and ERS-2.
+In situ SST data from drifting and moored buoys, and ships.
+The Spinning Enhanced Visible and InfraRed Imager (SEVIRI)  has the capacity to observe the Earth in 12 spectral channels.
+Eight of these channels are in the thermal infrared, providing among other information, observations of the temperatures of clouds, land and sea surfaces at approximately 5 km resolution with a 15 minute duty cycle.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The Tropical Rainfall Measuring Mission's (TRMM) Microwave Imager (TMI) is a passive microwave sensor designed to provide quantitative rainfall information over a wide swath under the TRMM satellite.
+4
+MD5
+Cylindrical Lat-Lon
+1
+1143849600000
+ARCHIVE-OPEN
+LOCAL-FTP
+LOCAL-OPENDAP
+REMOTE-OPENDAP
+REMOTE-FTP
+WGS 84
+Northern Latitude
+Southern Latitude
+Eastern Longitude
+Maximum Depth
+Minimum Depth
+Western Longitude
+NETCDF
+Earth Observing System, AQUA
+Environmental Satellite
+InSitu
+Meteosat Second Generation
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+Tropical Rainfall Measuring Mission
+UKMO-L4HRfnd-GLOB-OSTIA.jpg
+none
+none
+THREDDS
+LAS
+Web Service (PO.DAAC Labs)
+Advanced Microwave Scanning Radiometer-EOS
+Advanced Along-Track Scanning Radiometer
+Ships and Moored and Drifting Buoys
+Spinning Enhanced Visible and Infrared Imager
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+TRMM Microwave Imager
+Advanced Microwave Scanning Radiometer-EOS
+Advanced Along-Track Scanning Radiometer
+Ships and Moored and Drifting Buoys
+Spinning Enhanced Visible and Infrared Imager
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+TRMM Microwave Imager
+These data may be used for pure academic research only, with no commercial or other application and all usage must meet the Met Office Standard Terms and Conditions http://www.metoffice.gov.uk/corpora
+Earth Science
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+DATA-PROVIDER
+4
+PODAAC-GHOST-4FK01
+UKMO-L4HRfnd-GLOB-OSTIA
+ none
+42
+UKMO
+Northern most latitude or the top border of a rectangular area.
+Southern most latitude or the lower border of a rectangular area.
+Eastern most longitude or the right-hand border of a 360 degree area, normally 360 of a 0 to 360 degree or +180 of a -180 to +180.
+The depth level which represents the lower-most depth of data coverage, as measured from mean sea level (primarily for model outputs).
+The depth level which represents the lower-most depth of data coverage, as measured from mean sea level (primarily for model outputs).
+Western most longitude or the left-hand border of a 360 degree area, normally 0 of a 0 to 360 degree or -180 of a -180 to +180.
+1
+real
+real
+real
+real
+real
+real
+OSTIA L4 SST Analysis
+servicedesk@myocean.eu.org
+edward.m.armstrong@jpl.nasa.gov
+-9000000000000000
+BZIP2
+none
+GHRSST Level 4 OSTIA Global Foundation Sea Surface Temperature Analysis
+character
+character
+character
+character
+character
+character
+character
+character
+character
+character
+character
+character
+character
+Foundation Sea Surface Temperature
+90
+-90
+180
+12
+0
+-180
+OSTIA L4 0.05 degree
+1135296000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/UKMO-L4HRfnd-GLOB-OSTIA.jpg
+0.054
+GHRSST
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+Daily
+1.0
+AMSR-E
+AATSR
+InSitu
+SEVIRI
+AVHRR-3
+AVHRR-3
+AVHRR-3
+TMI
+
+
+
+
+
+
+24
+Group for High Resolution Sea Surface Temperature Datasets
+M
+M
+M
+M
+M
+M
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+Envisat, is an advanced polar-orbiting Earth observation satellite which provides measurements of the atmosphere, ocean, land, and ice.
+In situ SST data from drifting and moored buoys, and ships at various depths.
+Meteosat Second Generation (MSG) provides multi-spectral imagery of the Earth's surface and cloud systems from a geostationary orbit.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The Tropical Rainfall Measuring Mission (TRMM) is a joint mission between NASA and the Japan Aerospace Exploration Agency (JAXA) designed to monitor and study tropical rainfall.
+180
+NEAR_REAL_TIME
+A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature analysis produced daily on an operational basis at the UK Met Office using optimal interpolation (OI) on a global 0.054 degree grid.
+The Operational Sea Surface Temperature and Sea Ice Analysis (OSTIA) analysis uses satellite data from sensors that include the Advanced Very High Resolution Radiometer (AVHRR), the Advanced Along Track Scanning Radiometer (AATSR), the Spinning Enhanced Visible and Infrared Imager (SEVIRI), the Advanced Microwave Scanning Radiometer-EOS (AMSRE), the Tropical Rainfall Measuring Mission Microwave Imager (TMI), and in situ data from drifting and moored buoys.
+This analysis has a highly smoothed SST field and was specifically produced to support SST data assimilation into Numerical Weather Prediction (NWP) models.
+Thumbnail image for Website
+GHRSST Project homepage
+Portal to the GHRSST Global Data Assembly Center and data access
+
+Live Access Server
+(Search Granule)
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+UK Met Office
+GHRSST
+
+Thumbnail
+Project Home Page
+Get Data
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DA_TOOLS_AND_SERVICES
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Technical Contact
+Technical Contact
+Technical Contact
+Earth Observing System, AQUA
+Environmental Satellite
+InSitu
+Meteosat Second Generation
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-18
+Tropical Rainfall Measuring Mission
+Group for High Resolution Sea Surface Temperature Datasets
+98.1
+98.55
+-999
+-999
+99
+98.7
+98.74
+35
+Cylindrical Lat-Lon
+Daily mean.
+.054
+character
+50
+reference
+ellipsoid type
+Global Ocean
+49
+altitude resolution
+horizontalResolutionRage
+Regular 0.05 degree grid.
+none
+United Kingdom Met Office
+UKMO-L4HRfnd-GLOB-OSTIA
+24
+ARCHIVE-DIST
+OSTIA
+1141344000000
+NETCDF
+northernmostLatitude
+southernmostLatitude
+easternmostLongitude
+maxDepth
+minDepth
+westernmostLongitude
+United Kingdom Met Office
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+United Kingdom Met Office
+Y
+UK Met Office
+
+
+
+
+
+
+none
+UK Met Office
+Roberts-Jones
+Armstrong
+Fielder
+2006-03-03. J D Stark: Original;    2007-06-12. J D Stark: Updated restrictions and URL;    2007-06-16. E. Armstrong: Formatting changes
+
+Regular 0.054 degree grid
+Stark, J.D., C. J. Donlon, M. J. Martin and M. E. McCulloch, 2007, OSTIA : An operational, high resolution, real time, global sea surface temperature analysis system., Oceans 07 IEEE Aberdeen, conference proceedings. Marine challenges: coastline to deep sea. Aberdeen, Scotland.IEEE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+none
+none
+null
+http://ghrsst-pp.metoffice.com/pages/latest_analysis/ostia.html
+null
+null
+null
+0
+null
+null
+UKMO
+NASA/JPL/PODAAC
+UKMO
+98.4
+100.59
+-999
+-999
+102.1
+101.2
+102.12
+92.4
+DATA-PROVIDER
+DATA-CENTER
+DATA-PROVIDER
+Global
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 Day
+Sea Surface Temperature

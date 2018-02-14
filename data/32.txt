@@ -1,0 +1,140 @@
+-180
+null
+NULL
+Global
+Stennis Space Center, MS, USA
+MetOp-A
+
+null
+file:///store/avhrr/open/L2/navo_mcsst_2km_frac
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L2/navo_mcsst_2km_frac
+ftp://podaac.jpl.nasa.gov/pub/sea_surface_temperature/avhrr/navoceano_hrpt_lac/doc/avhrr_hrpt_lac_l3.html
+/data/export/web/thumbnails
+-90
+MetOp-A
+NULL
+OPEN
+10.5067/NAVOC-2FRAC
+Ocean Temperature
+N/A
+null
+NULL
+Naval Oceanographic Office
+2
+User
+90
+AVHRR NAVOCEANO Level 2 2km Multi-Channel SST Global Fine Resolution Area Coverage and Coastal Local Area Coverage
+NAVOCEANO
+sea surface temperature
+polar
+sun-synchronous
+sst
+Navy
+NAVAL
+surface temperature
+MCSST
+AVHRR
+AVHRR2
+AVHRR3
+FRAC
+SPACECRAFT
+NEAR_REAL_TIME
+1295629813000
+1100
+N
+NULL
+NONE
+Ocean Temperature
+2400
+OPEN
+1244592000000
+Naval Oceanographic Office
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+2
+MD5
+Swath
+1
+1244592000000
+ARCHIVE-OPEN
+LOCAL-FTP
+1100
+RAW
+Meteorological Operational Satellite - A
+avhrr_navoceano.html
+AVHRR_NAVOCEANO_L2_2km_MCSST_FRAC.jpg
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+NONE
+Earth Science
+DATA-PROVIDER
+1
+PODAAC-NAVOC-2FRAC
+AVHRR_NAVOCEANO_L2_2km_MCSST_FRAC
+NAVOCEANO MCSST Level 2 FRAC Data from METOP AVHRR
+309
+NAVO
+1
+NAVOCEANO MCSST Level 2 FRAC
+podaac@podaac.jpl.nasa.gov
+NONE
+ftp://podaac.jpl.nasa.gov/pub/sea_surface_temperature/avhrr/navoceano_hrpt_lac/doc/avhrr_hrpt_lac_l3.html
+AVHRR NAVOCEANO Level 2 2km Multi-Channel SST Global Fine Resolution Area Coverage and Coastal Local Area Coverage
+NULL
+
+NAVOCEANO MCSST Level 2 2km Data
+1244505600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/AVHRR_NAVOCEANO_L2_2km_MCSST_FRAC.jpg
+(818) 393-7165
+NAVOCEANO
+1
+AVHRR-3
+AVHRR-3
+MetOp-A is the first in a series of three polar-orbiting European meteorological satellites,  launched on 19 October 2006 as part of the EUMETSAT Polar System.
+180
+NEAR_REAL_TIME
+This data now includes a 2.2 km product using both the global Fine Resolution Area (FRAC) coverage from the METOP-A satellite and coastal Local Area Coverage (LAC) from NOAA 16, 17 and 19 satellites.
+Both products employ High Resolution Picture Transmission (HRPT) SST calculations.
+LAC coverage includes both the East and West Coasts of the United States, the Mediterranean, and parts of the Indian Ccean and the Australian Coasts, while the FRAC is global.
+High quality Sea Surface Temperatures (SSTs) maps derived from the NOAA (National Oceanic and Atmospheric Administration)-Polar Orbiting Advanced Very High Resolution Radiometer (AVHRR) have been available since 1981.
+The multichannel sea surface temperature algorithm (MCSST) has been used to routinely calculate SSTs using a split window approach.
+Currently this algorithm is applied by the Naval Oceanographic Office (NAVOCEANO) to calculate SSTs at a near real-time rate.
+describes NAVOCEANO  MCSST datasets
+Thumbnail image for Website
+NULL
+NONE
+Sea Surface Temperature
+YEAR-DOY
+NAVO
+NAVOCEANO
+
+data set guide
+Thumbnail
+Oceans
+Technical Contact
+Meteorological Operational Satellite - A
+98.7
+NULL
+Naval Oceanographic Office (NAVOCEANO)
+AVHRR_NAVOCEANO_L2_2km_MCSST_FRAC
+2
+ARCHIVE-DIST
+1270663957000
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+Naval Oceanographic Office
+Naval Oceanographic Office
+Services
+Dataset Policy created for AVHRR_NAVOCEANO_L2_2km_MCSST_FRAC
+
+ftp://podaac.jpl.nasa.gov/pub/sea_surface_temperature/avhrr/navoceano_hrpt_lac/doc/avhrr_hrpt_lac_l3.html
+NULL
+null
+https://www.navo.navy.mil
+NASA/JPL/PODAAC
+101.3
+DATA-CENTER
+Global
+NULL
+Sea Surface Temperature

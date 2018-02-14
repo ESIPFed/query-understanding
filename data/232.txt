@@ -1,0 +1,149 @@
+12 Hour
+0
+null
+NULL
+Global
+PO.DAAC
+ADEOS
+
+null
+ftp://podaac-ftp.jpl.nasa.gov/allData/nscat/preview/L2/v2/hoffman_arp
+file:///store/nscat/preview/L2/v2/hoffman_arp
+/data/export/web/thumbnails
+-90
+ADEOS
+NULL
+PREVIEW
+10.5067/NSAER-L2AR0
+Ocean Winds
+1
+null
+NULL
+NASA Scatterometer
+2
+User
+90
+NSCAT Level 2 Ocean Wind Vector Ambiguity Removal Overlay (Hoffman, AER)
+ambiguity removal
+nscat
+adeos
+scatterometer
+hoffman
+aer
+SPACECRAFT
+HISTORICAL
+1296006878888
+25000
+NSCAT
+Y
+NULL
+none
+Ocean Winds
+1600
+PREVIEW
+842756676000
+NASA Scatterometer
+Every two days, under all weather and cloud conditions, NSCAT measured wind speeds and directions over at least 90% of the Earth's ice-free oceans.
+NSCAT used six antenna beams to scan two wide bands of ocean, one on each side of the instrument's orbital path.
+NSCAT transmited short pulses of microwave energy to probe ocean surfaces and then measured the reflected or backscattered power.
+Variations in the magnitude of this backscattered power are caused by changes in small (centimeter-sized), wind-driven waves.
+Using a method called Doppler processing, the measured backscattered power was separated into cells at specific locations on Earth's surface.
+2
+MD5
+Swath
+1
+842756676000
+LOCAL-FTP
+ARCHIVE-OPEN
+WGS 84
+25000
+ASCII
+Advanced Earth Observing Satellite-I
+NSCAT_AER_HOFFMAN_L2_OW_WIND_VECTOR_AMBIGUITY_REMOVAL.jpg
+1600000
+842739633000
+NASA Scatterometer
+NASA Scatterometer
+none
+Earth Science
+DATA-CENTER
+PODAAC-NSAER-L2AR0
+867623574000
+NSCAT_AER_HOFFMAN_L2_OW_WIND_VECTOR_AMBIGUITY_REMOVAL
+
+541
+NASA/JPL/PODAAC
+1
+NSCAT Level 2 Ocean Wind Vector Ambiguity Removal Overlay (Hoffman, AER)
+podaac@podaac.jpl.nasa.gov
+GZIP
+
+NSCAT Level 2 Ocean Wind Vector Ambiguity Removal Overlay (Hoffman, AER)
+NULL
+Wind Vector Cell Ambiguity Removal
+NSCAT Merged Geophysical Data Record (MGDR)
+901324800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/NSCAT_AER_HOFFMAN_L2_OW_WIND_VECTOR_AMBIGUITY_REMOVAL.jpg
+(818) 393-7165
+Less_than_daily
+2
+NSCAT
+NSCAT
+The ADvanced Earth Observing Satellite (ADEOS) launched in August 1996, was a joint international cooperative program to contribute to global environmental monitoring.
+ADEOS had the following instrumentation onboard: advanced visible near infrared radiometer; ocean color and temperature scanner; NASA Scatterometer; total ozone mapping spectrometer; polarization and directionality of the earth's reflectance; interferometric monitor for greenhouse gases; improved limb atmospheric spectrometer; and retroreflector in space.
+360
+HISTORICAL
+This dataset contains the NASA Scatterometer (NSCAT) Level 2 ocean wind vector ambiguity overlay files for the NSCAT MGDR version 2 dataset, referenced for 25 km wind vector cells (WVC).
+The dataset is derived from the results of a study which used a 2-D variational analysis method (VAM) to select a wind solution from the NSCAT ambiguous winds (Hoffman et al.
+2003).
+Hoffman et al.
+chose the ambiguity closest in direction to the VAM surface wind analysis.
+No ambiguity was chosen for poor quality wind vector cells (WVCs).
+ECMWF analyses were used as the background field for the VAM.
+Their choice of ambiguity selection is compared with that of JPL, which used a median filter initialized with NCEP analysis fields.
+Ambiguity selection is changed in ~5% of the dataset, often improving the depiction of meteorological features where the surface wind is strongly curved or sheared.
+See Hoffman et al.
+(2003) for more on the method and results.
+Additional work by Henderson et al.
+(2003) compares the results of median filtering (JPL) vs. the 2d-VAR method (Hoffman et al., 2003) using 51 days of NSCAT data, supplemented by the NCEP 1000 hPa wind analyses as background fields.
+Thumbnail image for Website
+NULL
+41 Day
+ORACLE
+Surface Winds
+867623574000
+BATCH
+NASA/JPL/PODAAC
+NSCAT
+Creation of Dataset via Metadata Tool.
+Thumbnail
+Oceans
+Technical Contact
+Advanced Earth Observing Satellite-I
+98.59
+NULL
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+1.7 Hour
+NSCAT_AER_HOFFMAN_L2_OW_WIND_VECTOR_AMBIGUITY_REMOVAL
+ARCHIVE-DIST
+NSCAT Level 2 Ocean Wind Vector Ambiguity Removal Overlay (Hoffman, AER)
+1296006878888
+ASCII
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+NASA/JPL/PO.DAAC
+NASA/JPL/PO.DAAC
+Services
+Dataset Creation via Metadata Tool
+1296006878888
+Along-track Grid
+Hoffman, R. N., S. M. Leidner, J. M. Henderson, R. Atlas, J. V. Ardizzone, and S. C. Bloom, 2003: A two-dimensional variational analysis method for NSCAT ambiguity removal: methodology, sensitivity, and tuning. J. Atmos. Oceanic Technol., 20, 585-605.
+NULL
+null
+http://podaac.jpl.nasa.gov/
+NASA/JPL/PODAAC
+100.92
+DATA-CENTER
+Global
+NULL
+Surface Winds

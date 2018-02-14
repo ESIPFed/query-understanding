@@ -1,0 +1,212 @@
+1 Day
+2
+-76
+null
+Department of Physics and Physical Oceanography, University on North Carolina, Wilmington, NC, USA
+NULL
+SPURS-1  N.Atlantic Salinity maximum region
+Department of Physics and Physical Oceanography, University on North Carolina, Wilmington, NC, USA
+ARGO
+N23-43, W37-63
+2002
+null
++1 s(910) 962-7014
+NULL
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/insitu/L2/spurs1/argo/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/argo
+file:///store/insitu/open/L2/spurs1/argo
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/sw/R
+/data/export/web/thumbnails
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/SpursWebsiteContent/
+http://podaac.jpl.nasa.gov/spurs
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/CruiseReports/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/docs/DataDocumentation/
+ftp://podaac-ftp.jpl.nasa.gov/allData/insitu/L2/spurs1/sw/Matlab
+http://spurs.jpl.nasa.gov/
+23
+ARGO
+SPURS-I field Campaign
+OPEN
+10.5067/SPUR1-ARGO0
+Salinity/Density
+Ocean Temperature
+Salinity/Density
+1
+null
+M
+NULL
+NASA Salinity Processes in the Upper Ocean Regional Study
+2
+963
+User
+Frederick
+41
+Argo float CTD profile data within the scope of the SPURS-1 N. Atlantic field campaign
+Argo
+CTD
+trajectory profile
+Salinity
+Conductivity
+Temperature
+Depth
+Pressure
+Upper Ocean
+SPURS1
+North Atlantic Ocean
+salinity maximum region
+insitu
+SPURS
+FLOAT
+SPURS-I
+HISTORICAL
+1424399913671
+SPURS
+N
+NULL
+NONE
+Salinity/Density
+Ocean Temperature
+Salinity/Density
+1
+OPEN
+1
+1347148800000
+NASA Salinity Processes in the Upper Ocean Regional Study
+ARGO profiling float CTD (eg.
+sea-bird SBE 41/41CP CTD)
+2
+NONE
+WGS84
+1
+1347148800000
+LOCAL-OPENDAP
+LOCAL-FTP
+ARCHIVE-OPEN
+NETCDF
+ARGO profiler floats
+R
+SPURS1_ARGO.jpg
+Archived SPURS-1 Website Content
+PO.DAAC SPURS Mission page
+SPURS-1 Cruise Documentation Package
+SPURS-1 Data Documentation Package
+MATLAB
+SPURS Project Website
+ARGO profiling float CTD (eg. sea-bird SBE 41/41CP CTD)
+ARGO profiling float CTD (eg. sea-bird SBE 41/41CP CTD)
+NONE
+Earth Science
+Earth Science
+Earth Science
+DATA-PROVIDER
+5
+PODAAC-SPUR1-ARGO0
+1408578300000
+SPURS1_ARGO
+SPURS Field Campaign Products
+1794
+0
+SPURS-DM
+1
+0
+SPURS Field Campaign ARGO float Products
+podaac@podaac.jpl.nasa.gov
+binghamf@uncw.edu
+NONE
+http://podaac.jpl.nasa.gov/SPURS
+Argo float CTD profile data within the scope of the SPURS-1 N. Atlantic field campaign
+NULL
+
+
+
+SPURS Field Campaign Products
+1431302400000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/SPURS1_ARGO.jpg
+SPURS-I
+(818) 393-7165
++1 (910) 962-2383
+Daily
+1.0
+ARGO_CTD
+ARGO_CTD
+9000
+SPURS-I field Campaign
+ARGO profiler floats
+-28
+HISTORICAL
+The SPURS (Salinity Processes in the Upper Ocean Regional Study) project is an oceanographic process study and associated field program that aim to elucidate key mechanisms responsible for near-surface salinity variations in the oceans.
+The project involves two field campaigns and a series of cruises in regions of the Atlantic and Pacific Oceans exhibiting salinity extremes.
+SPURS employs a suite of state-of-the-art in-situ sampling technologies that, combined with remotely sensed salinity fields from the Aquarius/SAC-D and SMOS satellites, provide a detailed characterization of salinity structure over a continuum of spatio-temporal scales.
+The SPURS-1 campaign involved a series of 5 cruises during 2012 - 2013 seeking to characterize the salinity structure and balance in a high salinity, high evaporation, and low rainfall region of the subtropical North Atlantic.
+It aims to resolve processes responsible for maintaining the subtropical surface salinity maximum in this region and within a 900 x 800-mile square study area centered at 25N, 38W.
+Part of the Argo global network of autonomous, self-reporting samplers, Argo floats drift horizontally and move vertically through the water column generally on 10 day cycles, collecting high-quality temperature, conductivity and salinity depth profiles from the upper 2000m.
+Approximately 24 floats were deployed during SPURS-1 within the campaign domain, mainly during the Knorr cruise (6 Sept-9 Oct,2012).
+These were standard Argo floats with the addition of surface temperature and salinity (STS) sensors and acoustic rain gauges (PAL).
+Data accessible here only include the standard ARGO profiles, not the STS or PAL data.
+SPURS-1 ARGO data files are oganized per float and each contain  profile trajectory series  of conductivity, salinity, temperature, pressure, depth observations.
+R Reader and calling routines
+Thumbnail image for dataset on Portal
+Meeting Materials, Cruise Blogs, and other archive artifacts
+Project Website for SPURS
+Cruise Reports
+Data Submission Report, Instrument Calibration Report, etc
+MATLAB Reader and calling routines
+Project Website for SPURS
+NULL
+NONE
+Conductivity
+Temperature Profiles
+Salinity
+1408578300000
+NONE
+SPURS Project
+SPURS
+Creation of Dataset via Metadata Tool.
+PORTAL_DA_READ_SOFTWARE
+Thumbnail
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_ADDITIONAL_SITES
+Oceans
+Oceans
+Oceans
+Technical Contact
+SPURS Project Data Management PI
+ARGO profiler floats
+180
+NULL
+SPURS Data manager, Fred Bingham
+SPURS1_ARGO
+9000
+ARCHIVE-DIST
+SPURS-1 field campaign ARGO profiler float data
+1424399913671
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+SPURS Data manager, Fred Bingham
+Y
+SPURS PROJECT, Fred Bingham
+Continuous
+SPURS Data Management PI, Fred Bingham
+Services
+Bingham
+Dataset Creation via Metadata Tool
+1424399913671
+E.Lindstrom, F.Bryan, R.Schmitt. 2015. SPURS: Salinity Processes in the Upper-ocean Regional Study - The North Atlantic Experiment. Oceanography 28(1):14-19, http://dx.doi.org/10.5670/oceanog.2015.01.
+NULL
+null
+NULL
+http://people.uncw.edu/binghamf/
+NASA/JPL/PODAAC
+SPURS-DM
+14400
+DATA-CENTER
+DATA-PROVIDER
+SPURS-1  N.Atlantic Salinity maximum region
+NULL
+Conductivity
+Temperature Profiles
+Salinity

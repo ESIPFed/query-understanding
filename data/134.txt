@@ -1,0 +1,228 @@
+0
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+GRACE
+GRACE
+GRACE
+
+818-393-2718
+NULL
+file:///store/tellus/open/L3/land_mass/RL05/netcdf
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/tellus/L3/land_mass/RL05/netcdf/
+ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/land_mass/RL05/netcdf
+http://thredds.jpl.nasa.gov/las/
+http://www.csr.utexas.edu/grace/operations/mission_status/
+ftp://podaac.jpl.nasa.gov/common/sw/generic_nc_readers/
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/GeodeticsGravity/tellus/land_mass/RL05/catalog.html
+http://grace.jpl.nasa.gov/data/data-updates/
+http://grace.jpl.nasa.gov/about/feedback/
+ftp://podaac.jpl.nasa.gov/allData/tellus/L3/docs/GraceMonths.html
+http://grace.jpl.nasa.gov/about/faq/
+http://podaac.jpl.nasa.gov/GRACE
+http://www.csr.utexas.edu/grace/ground/
+-90
+GRACE
+GRACE
+GRACE
+TELLUS
+MEaSUREs
+OPEN
+10.5067/TELND-NC005
+Geodetics/Gravity
+1
+
+NULL
+Making Earth Science Data Records for Use in Research   Environments
+3
+534
+667
+David
+90
+GRACE MONTHLY LAND WATER MASS GRIDS NETCDF RELEASE 5.0
+GRACE
+Tellus
+water storage
+land mass
+mass
+water mass
+gravity
+1 Month
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+TELLUS
+MEaSUREs
+DELAY_MODE
+1332179571304
+1
+MEaSUREs
+Y
+NULL
+none
+Geodetics/Gravity
+
+
+
+OPEN
+1028160000000
+Making Earth Science Data Records for Use in Research   Environments
+The accelerometer, located at the center of mass of each satellite, measures all non-gravitational forces acting on each satellite.
+These forces include air drag, solar radiation pressure, and attitude control activator operation.
+The two star cameras mounted close to the accelerometer on each satellite provide
+the precise attitude references for the satellites when making science
+measurements.
+This instrument precisely measures the changes in the separation between the two GRACE satellites using phase tracking of K- and Ka-band signals sent between the two satellites
+3
+MD5
+Gridded
+1
+1028160000000
+ARCHIVE-OPEN
+LOCAL-OPENDAP
+LOCAL-FTP
+WGS84
+NETCDF
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+LAS
+GRACE Historical and Current Mission Status
+Generic netCDF read software.
+THREDDS
+Grace Tellus Data Release Updates
+GRACE Tellus Feedback Tool
+GRACE Data Availability Timetable
+Frequently Asked Questions
+GRACE Mission
+GRACE Near-Real-Time Orbit Data
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+GRACE SuperSTAR Accelerometer
+Star Camera Assembly
+K-Band Ranging System
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-TELND-NC005
+TELLUS_LAND_NC_RL05
+GRACE MONTHLY LAND WATER MASS GRIDS NETCDF RELEASE 5.0
+796
+TELLUS
+1
+TELLUS_LAND_NC_RL05
+David.F.Moroni@jpl.nasa.gov
+NONE
+http://grace.jpl.nasa.gov/data/get-data/monthly-mass-grids-land/
+GRACE MONTHLY LAND WATER MASS GRIDS NETCDF RELEASE 5.0
+NULL
+
+TELLUS_LAND_NC_RL05
+1333065600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/TELLUS_LAND_NC_RL05.jpg
+1
+TELLUS
+MEaSUREs
+818-354-2038
+Monthly
+5.0
+GRACE ACC
+GRACE SCA
+GRACE KBR
+GRACE ACC
+GRACE SCA
+GRACE KBR
+TELLUS
+MEaSUREs
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+360
+DELAY_MODE
+The twin satellites of the Gravity Recovery and Climate Experiment (GRACE), launched in March of 2002, are making detailed monthly measurements of Earth's gravity field changes.
+These observations can detect regional mass changes of Earth's water reservoirs over land, ice and oceans.
+GRACE measures gravity variations by relating it to the distance variations between the two satellites, which fly in the same orbit, separated by about 240 km at an altitude of ~450 km.
+The monthly land mass grids contain terrestrial water storage anomalies (in aquifers, river basins, etc.)
+from GRACE time-variable gravity data relative to a time-mean.
+The storage anomalies are given in 'equivalent water thickness' (in NetCDF format).
+The time coverage for the monthly grids are determined by GRACE months.
+For the list of GRACE month dates visit http://grace.jpl.nasa.gov/data/grace-months/ .
+For information please visit http://grace.jpl.nasa.gov/data/get-data/monthly-mass-grids-land/ .
+Live Access Server
+GRACE Mission status is updated weekly and maintained by the Center for Space Research at the University of Texas at Austin.
+Generic netCDF read software provided in IDL, MATLAB, Python, and R.
+Thematic Real-time Environmental Distributed Data Services (THREDDS) Data Server (TDS)
+Grace Tellus Project site for announcing recent and historical updates regarding Tellus datasets.
+GRACE Tellus Project web tool for entering user feedback. Users are advised to only use this tool when submitting data quality issues directly to the GRACE Tellus Project. For all other inquiries, please visit https://podaac.jpl.nasa.gov/forum/.
+Contains a timetable of data availability from GRACE for each month starting from the beginning of the GRACE mission.
+GRACE Tellus Project page for Frequently Asked Questions.
+GRACE Mission Information Page
+This page is maintained by the Center for Space Research at the University of Texas at Austin.
+NULL
+NONE
+Gravity
+NONE
+TELLUS
+MEaSUREs
+Creation of Dataset via Metadata Tool.
+PORTAL_DA_TOOLS_AND_SERVICES
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DOC_ANNOUNCEMENTS
+PORTAL_DOC_KNOWN_ISSUES
+PORTAL_DOC_KNOWN_ISSUES
+PORTAL_DOC_FAQS
+PORTAL_DOC_PROJECT_MATERIALS
+PORTAL_DOC_PROJECT_MATERIALS
+Solid Earth
+Technical Contact
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+Gravity Recovery and Climate Experiment
+89
+89
+89
+NULL
+TELLUS
+TELLUS_LAND_NC_RL05
+ARCHIVE-DIST
+GRACE MONTHLY MASS GRIDS - LAND
+1332179571304
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+S.C. Swenson
+TELLUS
+Moroni
+Dataset Creation via Metadata Tool
+1332179571304
+Landerer F.W. and S. C. Swenson, 2012: Accuracy of scaled GRACE terrestrial water storage estimates. Water Resources Research, Vol 48, W04531, 11 PP, doi:10.1029/2011WR011453.
+NULL
+
+NASA/JPL/PODAAC
+-1
+-1
+-1
+DATA-CENTER
+Global
+NULL
+1 Month
+Gravity

@@ -1,0 +1,195 @@
+-76.02
+IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France
+Meteo-France/CMS, Avenue de Lorraine, BP50747 22307 Lannion, France
+NULL
+Atlantic Ocean
+EUMETSAT Ocean and Sea Ice Satellite Application Facility, Lannion, France
+Suomi NPP
+Northeast Atlantic including Mediterranean, Baltic and Black Seas
++33-2-98224533
++ 33 2 9605-6737
+NULL
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L3C/NAR/VIIRS_SST_NPP_NAR/OSISAF/v1
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L3C/NAR/VIIRS_SST_NPP_NAR/OSISAF/v1
+file:///store/ghrsst/open/data/GDS2/L3C/NAR/VIIRS_SST_NPP_NAR/OSISAF/v1
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L3C/NAR/VIIRS_SST_NPP_NAR/OSISAF/v1
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L3C/NAR/VIIRS_SST_NPP_NAR/OSISAF/v1/
+/data/export/web/thumbnails
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/python/
+http://ghrsst.jpl.nasa.gov
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/idl/
+http://www.ghrsst.org
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHN19-3PE01&apidoc
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/R/
+ftp://podaac.jpl.nasa.gov/allData/ghrsst/sw/generic_nc_readers/matlab/
+http://www.osi-saf.org/biblio/docs/ss1_pum_leo_sst_2_0.pdf
+23.59
+Suomi NPP
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+Ocean Temperature
+1
+none
+
+NULL
+Group for High Resolution Sea Surface Temperature
+3
+1
+Jean-Francois
+Guenole
+78.24
+GHRSST Level 3C North Atlantic Regional Subskin Sea Surface Temperature from the Visible Infrared Imaging Radiometer Suite (VIIRS) on board Suomi National Polar-orbiting Partnership (S-NPP) satellite
+GHRSST
+sea surface temperature
+sst
+surface temperature
+osi saf
+osisaf
+viirs
+npp
+nar
+l3c
+12 Hour
+spacecraft
+GHRSST
+NEAR_REAL_TIME
+1412978724612
+0.02
+GHRSST
+N
+NULL
+EUMETSAT offers no warranty and accepts no liability in respect of the Ocean & Sea Ice SAF products. EUMETSAT neither commits to nor guarantees the continuity, availability, or quality or suitability for any purpose of, the Ocean & Sea Ice SAF products
+Ocean Temperature
+3040
+OPEN
+1384132480000
+Group for High Resolution Sea Surface Temperature
+VIIRS is a 22-band radiometer to collect infrared and visible light for earth system monitoring
+3
+MD5
+Cylindrical Lat-Lon
+1
+1384132480000
+REMOTE-FTP
+REMOTE-OPENDAP
+ARCHIVE-OPEN
+LOCAL-FTP
+LOCAL-OPENDAP
+WGS 84
+NETCDF
+Suomi Suomi National Polar-orbiting Partnership
+VIIRS_SST_NPP_NAR-OSISAF-L3C-v1.0.jpg
+PYTHON
+
+IDL
+GHRSST Project Website
+Web Service (PO.DAAC Labs)
+R
+MATLAB
+
+Visible Infrared Imaging Radiometer Suite
+Visible Infrared Imaging Radiometer Suite
+None
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHVRS-3CNO1
+VIIRS_SST_NPP_NAR-OSISAF-L3C-v1.0
+Product developed and provided by the EUMETSAT Ocean and Sea Ice Satellite Application Facility copyright 2008 EUMETSAT
+1701
+OSISAF
+1
+NPP VIIRS NAR SST data set
+jfpiolle@ifremer.fr
+guenole.guevel@meteo.fr
+NONE
+none
+GHRSST Level 3C North Atlantic Regional Subskin Sea Surface Temperature from the Visible Infrared Imaging Radiometer Suite (VIIRS) on board Suomi National Polar-orbiting Partnership (S-NPP) satellite
+NULL
+Subskin Sea Surface Temperature
+NAR VIIRS SST
+1422835200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/VIIRS_SST_NPP_NAR-OSISAF-L3C-v1.0.jpg
+0.02
+GHRSST
++33-2-98224691
++ 33 2 9605-6791
+Less_than_daily
+1
+VIIRS
+VIIRS
+10
+Group for High Resolution Sea Surface Temperature Datasets
+Suomi National Polar-orbiting Partnership is a joint mission between NASA, DOD and NOAA.
+72.97
+NEAR_REAL_TIME
+A regional Group for High Resolution Sea Surface Temperature (GHRSST) Level 3 Collated (L3C) dataset for the North Atlantic Region (NAR) based on retrievals from the Visible Infrared Imaging Radiometer Suite (VIIRS).
+This particular dataset is produced twice a day over anarea covering North-East Atlantic and the Mediterranean Sea in the framework of the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT) Ocean and Sea Ice Satellite Application Facility (OSI SAF) in France.
+The VIIRS instrument resides on the Suomi National Polar-orbiting Partnership (SNPP) satellite launched on 28 October 2011.
+VIIRS is a 22-band, multi-spectral scanning radiometer with a 3040-km swath width that builds on the heritage of the MODIS , AVHRR and SeaWIFS sensors for sea surface temperature (SST) and ocean color.
+For the infrared bands used for SST the effective pixel size is 740 meters at nadir and the pixel size variation across the swath is constrained to no more than 1600 meters at the edge of the swath.
+The L3C processing of this dataset remaps the L2 observations onto a 0.02 degree equal angle grid.
+A cloud mask (MAIA) is derived from the radiometric data.
+MAIA is a threshold based cloud mask originally developed for the AVHRR and upgraded and adapted to VIIRS processing.
+This dataset adheres to the GHRSST Data Processing Specification (GDS) version 2 format specifications.
+Thumbnail image for Website
+
+Portal to the GHRSST Global Data Assembly Center and data access
+
+Description of the GHRSST Project
+(Search Granule)
+
+
+Product User Manual
+NULL
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+OSISAF
+GHRSST
+Creation of Dataset via Metadata Tool.
+Thumbnail
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_ADDITIONAL_SITES
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DA_READ_SOFTWARE
+PORTAL_DOC_PROJECT_MATERIALS
+Oceans
+Technical Contact
+Investigator
+Suomi Suomi National Polar-orbiting Partnership
+97.1
+NULL
+Ocean and Sea Ice Satellite Application Facility
+VIIRS_SST_NPP_NAR-OSISAF-L3C-v1.0
+24
+ARCHIVE-DIST
+VIIRS_SST_NPP_NAR-OSISAF-L3C-v1.0
+1412978724612
+NETCDF
+Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire
+European Organisation for the Exploitation of Meteorological Satellites
+Y
+EUMETSAT/OSI-SAF
+EUMETSAT Ocean and Sea Ice Satellite Application Facility, Meteo-France/CMS, Lannion, France
+Piolle
+Guevel
+Dataset Creation via Metadata Tool
+1412978724612
+Regular 0.02 degree grid
+Low Earth Orbiter Sea Surface Temperature Product User Manual, http://www.osi-saf.org
+NULL
+none
+SILENT
+IFREMER/CERSAT
+EUMETSAT
+101
+DATA-PROVIDER
+DATA-PROVIDER
+Atlantic Ocean
+NULL
+12 Hour
+Sea Surface Temperature

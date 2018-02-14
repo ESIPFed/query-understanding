@@ -1,0 +1,182 @@
+10 Day
+1
+0
+null
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+NOAA
+OSTM/Jason-2
+OSTM/Jason-2
+OSTM/Jason-2
+N/A
+null
+818-393-2718
+N/A
+ftp://data.nodc.noaa.gov/pub/data.nodc/jason2/gdr/gdr_ssha/
+http://data.nodc.noaa.gov/opendap/jason2/gdr/gdr_ssha/contents.html
+N/A
+-66
+OSTM/Jason-2
+OSTM/Jason-2
+OSTM/Jason-2
+NULL
+REMOTE
+Ocean Waves
+Sea Surface Topography
+1
+null
+none
+NULL
+Ocean Surface Topography Mission/Jason-2
+2
+User
+Jessica
+66
+OSTM/JASON-2 GEOPHYSICAL DATA RECORD SEA SURFACE HEIGHT ANOMALIES VERSION D
+Sea Level Anomaly
+Sea Surface Height
+Sea Surface Height Anomaly
+SSHA
+SSH
+SLA
+SWH
+
+
+
+DELAY_MODE
+1344404198088
+11200
+OSTM
+N
+NULL
+none
+Ocean Waves
+Sea Surface Topography
+
+
+
+REMOTE
+N/A
+1215171266000
+Ocean Surface Topography Mission/Jason-2
+The TRSR isa an advanced codeless sixteen-channel Global Positioning System (GPS) receiver developed bye the Jet Propulsion Laboratory (JPL).
+The on-board package is comprised of dual redunedant TRSR units and choke ring antennae.
+The GPS data are intended to provide supplementary positioning data in support of the POD function and/or to improve gravity field models.
+The Poseidon-3 altimeter, operating at 13.575 GHz (Ku band) and 5.3 GHz (C band), is the primary sensor for the OSTM mission.
+The measurements made at the two frequencies are combined to obtain measurements of the altimeter range, wind speed, significant wave height, and the ionoshperic correction.
+The Poseidon-3 package consists of dual redundant altimeter units each of which has low mass and low power consumption. 
+2
+MD5
+Swath
+1
+1215171266000
+REMOTE-FTP
+REMOTE-OPENDAP
+UNKNOWN
+5100
+NETCDF
+Ocean Surface Topography Mission/Jason-2
+Ocean Surface Topography Mission/Jason-2
+Ocean Surface Topography Mission/Jason-2
+Turbo Rouge Space Receiver
+OSTM/Jason-2 RADAR alitmieter
+Advanced Microwave Radiometer
+Turbo Rouge Space Receiver
+OSTM/Jason-2 RADAR alitmieter
+Advanced Microwave Radiometer
+none
+Earth Science
+Earth Science
+DATA-CENTER
+NODCNA-J2GPR-NC00D
+OSTM_L2_GDR_SSHA_D
+OSTM/JASON-2 GEOPHYSICAL DATA RECORD SEA SURFACE HEIGHT ANOMALIES VERSION D
+910
+NOAA
+1
+OSTM_L2_GDR_SSHA_D
+podaac@podaac.jpl.nasa.gov
+Jessica.K.Hausman@jpl.nasa.gov
+NONE
+http://www.nodc.noaa.gov/SatelliteData/Jason2/
+OSTM/JASON-2 GEOPHYSICAL DATA RECORD SEA SURFACE HEIGHT ANOMALIES VERSION D
+NULL
+
+
+OSTM_L2_GDR_SSHA_D
+1342569600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/OSTM_L2_GDR_SSHA_D.jpg
+(818) 393-7165
+818-354-4588
+Weekly
+D
+TRSR
+POSEIDON-3
+AMR
+TRSR
+POSEIDON-3
+AMR
+OSTM, the TOPEX/Poseidon and Jason-2 follow-on, is an oceanographic mission to study global ocean circulation, improve climate predictions and monitor events such as El Nino conditions.
+It is a joint mission between CNES, NASA, NOAA and EUMETSAT.
+OSTM, the TOPEX/Poseidon and Jason-2 follow-on, is an oceanographic mission to study global ocean circulation, improve climate predictions and monitor events such as El Nino conditions.
+It is a joint mission between CNES, NASA, NOAA and EUMETSAT.
+OSTM, the TOPEX/Poseidon and Jason-2 follow-on, is an oceanographic mission to study global ocean circulation, improve climate predictions and monitor events such as El Nino conditions.
+It is a joint mission between CNES, NASA, NOAA and EUMETSAT. 
+360
+DELAY_MODE
+The Geophysical Data Records (GDR) Sea Sufrace Height Anomaly (SSHA) files from the Ocean Surface Topography Mission (OSTM)/Jason-2 contain full accuracy altimeter data and SSHA, with a high precision orbit (accuracy 1.5 cm), provided approximately 35 days after data collection.
+The instruments on OSTM make direct observations of the following quantities: altimeter range, significant wave height, ocean radar backscatter cross-section (a measure of wind speed), ionospheric electron content (derived by a simple formula), tropospheric water content, mean sea surface, Sea Surface Height Anomalies (SSHA), and position relative to the GPS satellite constellation.
+These data contain less parameters than the regular GDR data.
+These data are distributed by NOAA NODC (National Ocean Data Center).
+NULL
+BACKTRACK
+Significant Wave Height
+Sea Surface Height
+CYCLE
+NOAA
+OSTM
+Creation of Dataset via Metadata Tool.
+Oceans
+Oceans
+Technical Contact
+Technical Contact
+Ocean Surface Topography Mission/Jason-2
+Ocean Surface Topography Mission/Jason-2
+Ocean Surface Topography Mission/Jason-2
+66.04
+66.04
+66.04
+NULL
+National Oceanic and Atmospheric Administration
+OSTM_L2_GDR_SSHA_D
+REMOTE-DIST
+OSTM/Jason-2 Geophysical Data Record
+1344404198088
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+NOAA
+N/A
+NOAA
+Services
+Hausman
+Dataset Creation via Metadata Tool
+1344404198088
+N/A
+OSTM/Jason-2 Products Handbook, CNES : SALP-MU-M-OP-15815-CN, EUMETSAT : EUM/OPS-JAS/MAN/08/0041, JPL : OSTM-29-1237, NOAA/NESDIS : Polar Series/OSTM J400
+NULL
+null
+none
+NASA/JPL/PODAAC
+NASA/JPL/PODAAC
+112.43
+112.43
+112.43
+DATA-CENTER
+DATA-CENTER
+Global
+NULL
+Significant Wave Height
+Sea Surface Height

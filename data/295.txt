@@ -1,0 +1,226 @@
+-180
+null
+NOAA National Center for Environmental Prediction
+NULL
+Global
+NOAA National Centers for Environmental Prediction, Camp Springs, Maryland, USA
+NOAA-16
+NOAA-17
+NOAA-11
+NOAA-7
+NOAA-9
+NOAA-14
+
+null
+
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L4/reynolds_oi/v2/monthly
+file:///store/avhrr/open/L4/reynolds_oi/v2/monthly
+http://www.esrl.noaa.gov/psd/data/gridded/data.noaa.oisst.v2.html
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L4/reynolds_oi/docs/oisst.html
+/data/export/web/thumbnails
+-90
+NOAA-16
+NOAA-17
+NOAA-11
+NOAA-7
+NOAA-9
+NOAA-14
+NULL
+OPEN
+10.5067/REYN2-OIMON
+Ocean Temperature
+N/A
+null
+
+NULL
+Polar-orbiting Operational Environmental Satellites
+4
+User
+Diane
+90
+Reynolds NCEP Level 4 Optimally Interpolated SST Monthly Version 2
+Reynolds
+optimally
+interpolated
+OI
+L4
+Level 4
+reconstruction
+reconstructed
+in situ
+1 Month
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+DELAY_MODE
+1295629813000
+1
+POES
+N
+NULL
+NONE
+Ocean Temperature
+2400
+2400
+2400
+2400
+2400
+2400
+OPEN
+374025600000
+Polar-orbiting Operational Environmental Satellites
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature of water land and clouds.
+4
+MD5
+Gridded
+1
+374025600000
+LOCAL-FTP
+ARCHIVE-OPEN
+RAW
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-11
+National Oceanic & Atmospheric Administration-7
+National Oceanic & Atmospheric Administration-9
+National Oceanic & Atmospheric Administration-14
+data.noaa.oisst.v2.html
+oisst.html
+REYNOLDS_NCEP_L4_SST_OPT_INTERP_MONTHLY_V2.jpg
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+Advanced Very High Resolution Radiometer-2
+NONE
+Earth Science
+DATA-PROVIDER
+1
+PODAAC-REYN2-OIMON
+REYNOLDS_NCEP_L4_SST_OPT_INTERP_MONTHLY_V2
+The National Center for Environmental Prediction (NCEP) Reynolds optimally interpolated (OI) sea surface temperature.
+376
+NOAA/NCEP
+1
+NCEP Reynolds Optimally Interpolated Sea Surface Temperature Data Sets; Product
+podaac@podaac.jpl.nasa.gov
+Diane.Stokes@noaa.gov
+GZIP
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L4/reynolds_oi/docs/
+Reynolds NCEP Level 4 Optimally Interpolated SST Monthly Version 2
+NULL
+
+NCEP Reynolds Optimally Interpolated Sea Surface Temperature Data Sets
+374025600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/REYNOLDS_NCEP_L4_SST_OPT_INTERP_MONTHLY_V2.jpg
+1
+(818) 393-7165
+301-683-3713
+Monthly
+2
+AVHRR-3
+AVHRR-3
+AVHRR-2
+AVHRR-2
+AVHRR-2
+AVHRR-2
+AVHRR-3
+AVHRR-3
+AVHRR-2
+AVHRR-2
+AVHRR-2
+AVHRR-2
+730
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+NOAA (national oceanic and atmospheric administration) satellite number 11 NOAA (national oceanic and atmospheric administration) Satellite number 7 NOAA (national oceanic and atmospheric administration) satellite number 9 NOAA (national oceanic and atmospheric administration) Satellite number 14
+180
+DELAY_MODE
+The NOAA/NCEP Reynolds Optimally Interpolated (OI) Sea Surface Temperature monthly Level 4 product consists of aggregate global sea surface temperature fields on a 1 degree by 1 degree grid over a month time interval.
+The OI analysis employed uses both in-situ SSTs from ships and buoys and satellite derived SSTs from the NOAA Advanced Very High Resolution Radiometer (AVHRR).
+The satellite derived SSTs are from the Multichannel Sea Surface Temperature products that have been constructed operationally from the five-channel AVHRR by NOAA's Environmental Satellite, Data, and Information Service (NESDIS) since late 1981 through to present.
+Monthly OI SST fields are derived by a linear interpolation of the weekly optimum interpolation (OI) fields to daily fields then averaging the daily values over a month.
+The monthly fields are in the same format and spatial resolution as the weekly fields, which have been widely used for weather and climate monitoring and forecasting.
+Version 2.0 of this dataset utilizes an update and extension of the COADS in-situ data series providing enhanced ship data coverage through 1997 and reducing the residual satellite biases in otherwise data sparse regions.
+This version also implements enhancements to the OI analysis utilizing simulations of SST observations from an improved sea ice algorithm and data following a technique developed at the UK Met Office, improvements that further reduce biases in the OI SST particularly at higher latitudes.
+NCEP Reynolds Optimally Interpolated SST description
+NCEP Reynolds Optimally Interpolated SST User Guide
+Thumbnail image for Website
+NULL
+NONE
+Sea Surface Temperature
+YEAR
+NOAA/NCEP
+POES
+
+dataset description
+User guide
+Thumbnail
+Oceans
+Technical Contact
+Technical Contact
+National Oceanic & Atmospheric Administration-16
+National Oceanic & Atmospheric Administration-17
+National Oceanic & Atmospheric Administration-11
+National Oceanic & Atmospheric Administration-7
+National Oceanic & Atmospheric Administration-9
+National Oceanic & Atmospheric Administration-14
+99
+98.7
+99
+99
+98
+99
+NULL
+NOAA National Center for Environmental Prediction
+REYNOLDS_NCEP_L4_SST_OPT_INTERP_MONTHLY_V2
+120
+ARCHIVE-DIST
+1275869674000
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+NOAA National Center for Environmental Prediction
+Y
+Reynolds, R., Stokes, D.
+National Center for Environmental Prediction (NCEP)
+Services
+Stokes
+Dataset Policy created for REYNOLDS_NCEP_L3_SST_OPT_INTERP_MONTHLY_V2
+
+Reynolds, R. W., N. A. Rayner, T. M. Smith, D. C. Stokes and W. Wang, 2002: An improved in situ and satellite SST analysis for climate. J. Climate, 15, 1609-1625.
+NULL
+null
+
+NASA/JPL/PODAAC
+NOAA/NCEP
+102.1
+101.2
+102
+102
+102
+102
+DATA-CENTER
+DATA-PROVIDER
+Global
+NULL
+1 Month
+Sea Surface Temperature

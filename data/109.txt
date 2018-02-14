@@ -1,0 +1,225 @@
+-180
+1002 Balch Blvd, Code NP32, Stennis Space Center, MS 39522, USA
+NULL
+Global
+Naval Oceanographic Office, Stennis Space Center, MS, USA
+AQUA
+GOES-11
+MetOp-A
+NOAA-18
+NOAA-19
+none
+228-688-5577
+NULL
+none
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L4/GLOB/NAVO/K10_SST
+file:///store/ghrsst/open/data/L4/GLOB/NAVO/K10_SST
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L4/GLOB/NAVO/K10_SST
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L4/GLOB/NAVO/K10_SST/
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L4/GLOB/NAVO/K10_SST
+none
+http://ghrsst.jpl.nasa.gov
+/data/export/web/thumbnails
+http://www.ghrsst-pp.org
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHK10-41N01&apidoc
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/ghrsst/catalog.html?dataset=ncml_aggregation/OceanTemperature/ghrsst/aggregate__ghrsst_NAVO-L4HR1m-GLOB-K10_SST.ncml
+-90
+AQUA
+GOES-11
+MetOp-A
+NOAA-18
+NOAA-19
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHK10-41N01
+Ocean Temperature
+N/A
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+4
+1
+Doug
+90
+GHRSST Level 4 K10_SST Global 1 meter Sea Surface Temperature Analysis
+GHRSST
+sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+1 Day
+SPACECRAFT
+Geostationary
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1295629813000
+0.1
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+1445
+
+2400
+2400
+2400
+OPEN
+none
+1207008000000
+Group for High Resolution Sea Surface Temperature
+The Advanced Microwave Scanning Radiometer for EOS (AMSR-E) is a twelve-channel, six-frequency, total power passive-microwave radiometer system.
+The GOES Imager is a multi-channel instrument designed to sense radiant and solar-reflected energy from sampled areas of the Earth.
+The multi-element spectral channels simultaneously sweep east-west and west-east along a north-to-south path by means of a two-axis mirror scan system.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+4
+MD5
+Equidistant cylindrical lat-lon
+1
+1207008000000
+REMOTE-OPENDAP
+ARCHIVE-OPEN
+LOCAL-FTP
+LOCAL-OPENDAP
+REMOTE-FTP
+WGS-84
+NETCDF
+Earth Observing System, AQUA
+Geostationary Operational Environmental Satellite 11
+Meteorological Operational Satellite - A
+National Oceanic & Atmospheric Administration-18
+National Oceanic & Atmospheric Administration-19
+none
+NAVO-L4HR1m-GLOB-K10_SST.jpg
+none
+Web Service (PO.DAAC Labs)
+THREDDS
+Advanced Microwave Scanning Radiometer-EOS
+Geostationary Operational Environmental Satellite 11-Imager
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Microwave Scanning Radiometer-EOS
+Geostationary Operational Environmental Satellite 11-Imager
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+None
+Earth Science
+DATA-PROVIDER
+1
+PODAAC-GHK10-41N01
+NAVO-L4HR1m-GLOB-K10_SST
+Product created by the Naval Oceanographic Office, 228-688-5176
+31
+NAVO
+1
+K10 Global 10km Analyzed SST data set
+doug.may@navy.mil
+BZIP2
+none
+GHRSST Level 4 K10_SST Global 1 meter Sea Surface Temperature Analysis
+NULL
+Sea Surface Temperature 1m
+K10 Global SST
+1205193600000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/NAVO-L4HR1m-GLOB-K10_SST.jpg
+0.1
+GHRSST
+228-688-4859
+Daily
+1.0
+AMSR-E
+GOES-11 Imager
+AVHRR-3
+AVHRR-3
+AVHRR-3
+AMSR-E
+GOES-11 Imager
+AVHRR-3
+AVHRR-3
+AVHRR-3
+24
+Group for High Resolution Sea Surface Temperature Datasets
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+The GOES system maintains a continuous data stream from a two-GOES system in support of the National Weather Service requirements.
+These satellites send weather data and pictures that cover various sections of the United States.
+MetOp-A is the first in a series of three polar-orbiting European meteorological satellites,  launched on 19 October 2006 as part of the EUMETSAT Polar System.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+NOAA (national oceanic and atmospheric administration) satellite number 19
+180
+NEAR_REAL_TIME
+A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature analysis produced daily on an operational basis at the Naval Oceanographic Office (NAVOCEANO) on a global 0.1 degree grid.
+The K10 L4 sea surface temperature analysis uses SST observations from the Advanced Very High Resolution Radiometer (AVHRR), the Advanced Microwave Scanning Radiometer for EOS (AMSR-E), and the Geostationary Operational Environmental Satellite (GOES) Imager.
+The age, reliability, and resolution of the data are used in the weighted average with the analysis tuned to represent SST at 1 meter depth.
+AVHRR Pathfinder 9km climatology is used when no new satellite SST retrievals are available after 34 days.
+Portal to the GHRSST Global Data Assembly Center and data access
+Thumbnail image for Website
+GHRSST Project homepage
+(Search Granule)
+
+NULL
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+Naval Oceanographic Office
+GHRSST
+
+Get Data
+Thumbnail
+Project Home Page
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Primary Contact
+Earth Observing System, AQUA
+Geostationary Operational Environmental Satellite 11
+Meteorological Operational Satellite - A
+National Oceanic & Atmospheric Administration-18
+National Oceanic & Atmospheric Administration-19
+98.1
+-999
+98.7
+98.74
+99
+NULL
+Naval Oceanographic Office (NAVOCEANO)
+NAVO-L4HR1m-GLOB-K10_SST
+24
+ARCHIVE-DIST
+K10 SST
+1205776800000
+NETCDF
+Naval Oceanographic Office (NAVOCEANO)
+Y
+Naval Oceanographic Office
+none
+Naval Oceanographic Office
+May
+2008-03-17 K. Willis, B. McKenzie: Original;                          2008-04-30 E. Armstrong: Modified
+
+Regular 0.1 degree grid
+NULL
+none
+https://www.navo.navy.mil
+NAVO
+98.4
+-999
+101.3
+102.12
+102
+DATA-PROVIDER
+Global
+NULL
+1 Day
+Sea Surface Temperature

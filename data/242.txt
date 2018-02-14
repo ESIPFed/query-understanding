@@ -1,0 +1,137 @@
+0
+null
+NULL
+Global
+PO.DAAC
+QUIKSCAT
+
+null
+ftp://podaac-ftp.jpl.nasa.gov/allData/quikscat/L3/jpl/v2/browse
+file:///store/quikscat/open/L3/jpl/v2/browse
+ftp://podaac-ftp.jpl.nasa.gov/allData/quikscat/L3/jpl/docs/qscat_L3.pdf
+/data/export/web/thumbnails
+-89.875
+QUIKSCAT
+NULL
+OPEN
+10.5067/QSXXX-L3BI0
+Ocean Winds
+N/A
+null
+NULL
+Quick Scatterometer
+3
+User
+89.875
+SeaWinds on QuikSCAT Level 3 Daily Gridded 0.25 Degree Browse Images
+1 Day
+SPACECRAFT
+HISTORICAL
+1295629813000
+0.25
+QUIKSCAT
+Y
+NULL
+None
+Ocean Winds
+1800
+OPEN
+932342400000
+Quick Scatterometer
+SeaWinds is a Ku-band (13.4 GHz) Scatterometer which features a single circular scanning dish antenna to provide pencil-beam measurements, as opposed to the common fan beam design as seen with other spaceborne scatterometers.
+The pencil-beam design has several key advantages over the more common fan beam design: higher signal-to-noise ratio, smaller size, and superior coverage.
+The SeaWinds single antenna utilizes twin offset feeds, thus providing two pencil-beam footprint paths with an elliptical sampling footprint of approximately 25 km (in azimuth) by 37 km (in look/range direction); these pencil beams have opposing polarizations (i.e., vertical and horizontal), thus achieving dual-polarization.
+The SeaWinds instrument provides a full 1800 km-wide swath coverage (including the nadir region), which allows for a nominal daily measurement coverage of 90% over the ice-free oceans.
+3
+MD5
+Gridded
+1
+932342400000
+LOCAL-FTP
+ARCHIVE-OPEN
+WGS 84
+GIF
+QUIKSCAT
+QuikSCAT Level 3 User Guide
+QSCAT_L3_OW_JPL_BROWSE_IMAGES.jpg
+932364289000
+SeaWinds Scatterometer
+SeaWinds Scatterometer
+None
+Earth Science
+DATA-PROVIDER
+PODAAC-QSXXX-L3BI0
+1258847999000
+QSCAT_L3_OW_JPL_BROWSE_IMAGES
+
+319
+SeaPAC
+1
+SeaWinds on QuikSCAT Level 3 Daily Gridded 0.25 Degree Browse Images
+podaac@podaac.jpl.nasa.gov
+NONE
+ftp://podaac-ftp.jpl.nasa.gov/allData/quikscat/L3/jpl/docs/qscat_L3.pdf
+SeaWinds on QuikSCAT Level 3 Daily Gridded 0.25 Degree Browse Images
+NULL
+Ocean Surface Wind Vectors
+QuikSCAT Level 3 Daily Gridded Wind Vector Images
+1157760000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/QSCAT_L3_OW_JPL_BROWSE_IMAGES.jpg
+0.25
+(818) 393-7165
+Daily
+2
+SEAWINDS
+SEAWINDS
+The SeaWinds on QuikSCAT mission is a "quick recovery" mission to fill the gap created by the loss of data from the NASA Scatterometer (NSCAT), when the satellite it was flying on lost power in June 1997.
+The SeaWinds instrument on the QuikSCAT satellite is a specialized microwave radar that measures near-surface wind speed and direction under all weather and cloud conditions over Earth's oceans.
+360
+HISTORICAL
+This dataset contains images of daily averaged ocean surface wind vectors derived from the gridded Level 3 QuikSCAT ocean surface wind vector dataset.
+These images are provided in GIF format at 900x600 pixel resolution.
+Vector arrows are colored according to wind speed, and a color bar is available to estimate the wind speed.
+The arrow is directionally oriented with the flow direction of the 10 m ocean surface wind velocity retrievals derived from the NASA SeaWinds scatterometer aboard the QuikSCAT satellite platform.
+For more information on the QuikSCAT platform and mission, please visit http://podaac.jpl.nasa.gov/OceanWind/QuikSCAT .
+Disclaimer: this dataset is meant for quick-look purposes only and is not intended for science-quality research applications.
+Dataset User Guide
+Thumbnail image for Website
+NULL
+NONE
+Surface Winds
+1258847999000
+YEAR
+SeaPAC
+QUIKSCAT
+
+Reference Materials
+Thumbnail
+Oceans
+Technical Contact
+QUIKSCAT
+98.6
+NULL
+SeaWinds Processing and Analysis Center (SeaPAC)
+QSCAT_L3_OW_JPL_BROWSE_IMAGES
+ARCHIVE-DIST
+SeaWinds on QuikSCAT Level 3 Daily Gridded 0.25 Degree Browse Images
+1271099566000
+GIF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+SeaPAC
+PO.DAAC
+Services
+Dataset Policy created for QSCAT_L3_OW_JPL_BROWSE_IMAGES
+
+Cylindrical
+Perry, K.L., October, 2001. SeaWinds on QuikSCAT Level 3 Daily, Gridded Ocean Wind Vectors (JPL SeaWinds Project). Version 1.1, JPL Document D-20335, Jet Propulsion Laboratory, Pasadena, CA.
+NULL
+null
+http://winds.jpl.nasa.gov/
+NASA/JPL/PODAAC
+100.93
+DATA-CENTER
+Global
+NULL
+1 Day
+Surface Winds

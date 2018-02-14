@@ -1,0 +1,210 @@
+-70
+Applied Meteorology Laboratory/Federal University of Rio de Janeiro
+NULL
+South Atlantic
+Applied Meteorology Laboratory/Federal University of Rio de Janeiro
+NOAA-18
+TRMM
+NOAA-19
+none
+
+NULL
+5.5 km
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L4/SAMERICA/UFRJ/REMO_OI_SST_5km/v1
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L4/SAMERICA/UFRJ/REMO_OI_SST_5km/v1/
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L4/SAMERICA/UFRJ/REMO_OI_SST_5km/v1
+file:///store/ghrsst/open/data/GDS2/L4/SAMERICA/UFRJ/REMO_OI_SST_5km/v1
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L4/SAMERICA/UFRJ/REMO_OI_SST_5km/v1
+http://ghrsst.jpl.nasa.gov
+http://thredds.jpl.nasa.gov/las/
+/data/export/web/thumbnails
+http://www.rederemo.org/html/index.php/produto/tsm
+http://www.ghrsst.org
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHBDM-4FD01&apidoc
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/docs/GDS20r5.pdf
+http://ghrsst.jpl.nasa.gov
+-45
+NOAA-18
+TRMM
+NOAA-19
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHUFR-4FJ02
+Ocean Temperature
+1
+
+NULL
+Group for High Resolution Sea Surface Temperature
+4
+1
+Rosa
+15
+GHRSST Level 4 REMO_OI_SST_5km Regional Foundation Sea Surface Temperature Analysis  (GDS version 2)
+GHRSST
+sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+remo
+south america
+america
+1 Day
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1406747776595
+0.05
+GHRSST
+N
+NULL
+In no event shall DMI or its representatives be liable for any damages whatsoever including, without limitation, special, indirect, incidental or consequential damages or damages for loss of business
+Ocean Temperature
+2400
+878
+2400
+OPEN
+1030838400000
+Group for High Resolution Sea Surface Temperature
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The Tropical Rainfall Measuring Mission's (TRMM) Microwave Imager (TMI) is a passive microwave sensor designed to provide quantitative rainfall information over a wide swath under the TRMM satellite.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+4
+MD5
+Equidistant Cylindrical Lat-Lon
+1
+1030838400000
+REMOTE-OPENDAP
+LOCAL-OPENDAP
+REMOTE-FTP
+ARCHIVE-OPEN
+LOCAL-FTP
+WGS 84
+NETCDF
+National Oceanic & Atmospheric Administration-18
+Tropical Rainfall Measuring Mission
+National Oceanic & Atmospheric Administration-19
+none
+LAS
+REMO_OI_SST_5km-UFRJ-L4-SAMERICA-v1.0.jpg
+REMO Products Site
+none
+Web Service (PO.DAAC Labs)
+GDS2 User Manual
+none
+Advanced Very High Resolution Radiometer-3
+TRMM Microwave Imager
+Advanced Very High Resolution Radiometer-3
+Advanced Very High Resolution Radiometer-3
+TRMM Microwave Imager
+Advanced Very High Resolution Radiometer-3
+None
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHUFR-4FJ02
+REMO_OI_SST_5km-UFRJ-L4-SAMERICA-v1.0
+These data were provided by GHRSST and LMA
+1621
+LMA/UFRJ
+1
+Analysed blended sea surface temperature over the South Atlantic ocean
+rosa@lma.ufrj.br
+NONE
+none
+GHRSST Level 4 REMO_OI_SST_5km Regional Foundation Sea Surface Temperature Analysis  (GDS version 2)
+NULL
+Foundation Sea Surface Temperature
+
+1426032000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/REMO_OI_SST_5km-UFRJ-L4-SAMERICA-v1.0.jpg
+0.05
+GHRSST
+
+Daily
+1.0
+AVHRR-3
+TMI
+AVHRR-3
+AVHRR-3
+TMI
+AVHRR-3
+24
+Group for High Resolution Sea Surface Temperature Datasets
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+The Tropical Rainfall Measuring Mission (TRMM) is a joint mission between NASA and the Japan Aerospace Exploration Agency (JAXA) designed to monitor and study tropical rainfall.
+NOAA (national oceanic and atmospheric administration) satellite number 19
+-15
+NEAR_REAL_TIME
+A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature (SST) analysis produced daily on an operational basis by the Oceanographic Modeling and Observation Network (REMO) at Applied Meteorology Laboratory/Federal University of Rio de Janeiro (LMA/UFRJ) using the Barnes sub optimal interpolation (OI) technique on a regional 0.05 degree grid.
+REMO uses Advanced Very High Resolution Radiometer (AVHRR) data from National Oceanic and Atmospheric Administration (NOAA) satellites series (NOAA 15, NOAA 16, NOAA 17, NOAA 18 and NOAA 19) and Microwave Imager (TMI) data from Tropical Rainfall Measuring Mission (TRMM) which is a joint mission between NASA and the Japan Aerospace Exploration Agency (JAXA) to generate 0.05 degree daily cloud free blended (infrared and microwave) SST products (approximately 5.5 km).
+The data lies between latitudes 45 S and 15 N and longitudes 70 W and 15 W region and are fully validated by in situ measurements from eleven buoys of Prediction and Research Moored Array in the Tropical Atlantic (PIRATA).AVHRR is a scanning radiometer capable of detecting energy from land, ocean and atmosphere.
+It operates with six spectral bands arranged in the regions of visible and infrared region.
+TRMM was launched in December, 1997, having an orbital inclination of 53 degree and altitude 350 km, an equatorial orbit that ranges from 40 N to 40 S and a spatial resolution of 0.25 degree (&#8764;27.75 km).
+Although infrared AVHRR SST data have high spatial resolution, they are contaminated by cloud cover and aerosols, while lower resolution microvwave TMI data are barely influenced by these.
+Portal to the GHRSST Global Data Assembly Center and data access
+Live Access Server
+Thumbnail image for Website
+
+GHRSST Project homepage
+(Search Granule)
+Documentation on the GDS version 2 format specification
+Portal to the GHRSST Global Data Assembly Center and user services
+NULL
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+Applied Meteorology Laboratory/Federal University of Rio de Janeiro
+GHRSST
+Creation of Dataset via Metadata Tool.
+Get Data
+PORTAL_DA_TOOLS_AND_SERVICES
+Thumbnail
+PORTAL_DOC_PROJECT_MATERIALS
+Project Home Page
+PORTAL_DA_DIRECT_ACCESS
+PORTAL_DOC_USERS_GUIDE
+Get Service
+Oceans
+Primary Contact
+National Oceanic & Atmospheric Administration-18
+Tropical Rainfall Measuring Mission
+National Oceanic & Atmospheric Administration-19
+98.74
+35
+99
+NULL
+Applied Meteorology Laboratory/Federal University of Rio de Janeiro
+REMO_OI_SST_5km-UFRJ-L4-SAMERICA-v1.0
+24
+ARCHIVE-DIST
+REMO_OI_SST_5km
+1406747776595
+NETCDF
+Applied Meteorology Laboratory/Federal University of Rio de Janeiro
+Y
+LMA
+none
+GHRSST Project Office
+Paes
+Dataset Creation via Metadata Tool
+1406747776595
+Regular 0.05 degree grid
+Information on the analysis can be found at http://www.rederemo.org/html/index.php/produto/tsm
+NULL
+
+http://www.lma.ufrj.br
+LMA/UFRJ
+102.12
+92.4
+102
+DATA-PROVIDER
+South Atlantic
+NULL
+1 Day
+Sea Surface Temperature

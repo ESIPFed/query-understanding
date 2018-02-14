@@ -1,0 +1,143 @@
+0
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+InSitu
+
+818-393-2718
+NULL
+file:///store/tellus/open/L3/gldas_monthly/netcdf
+ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/gldas_monthly/netcdf
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/tellus/L3/gldas_monthly/netcdf/
+-54.5
+InSitu
+MEaSUREs
+TELLUS
+OPEN
+10.5067/TEGLD-MNCC1
+Soils
+1
+
+NULL
+Making Earth Science Data Records for Use in Research   Environments
+3
+667
+534
+David
+83.5
+TELLUS GLDAS LAND WATER CONTENT NETCDF
+GRACE
+GLDAS
+Tellus
+water storage
+land mass
+mass
+water mass
+gravity
+1 Month
+instrument
+MEaSUREs
+TELLUS
+DELAY_MODE
+1311020579366
+1
+MEaSUREs
+Y
+NULL
+none
+Soils
+-999
+OPEN
+978307200000
+Making Earth Science Data Records for Use in Research   Environments
+In situ SST data from drifting and moored buoys, and ships.
+3
+MD5
+Gridded
+1
+978307200000
+ARCHIVE-OPEN
+LOCAL-FTP
+LOCAL-OPENDAP
+WGS84
+NETCDF
+InSitu
+Ships and Moored and Drifting Buoys
+Ships and Moored and Drifting Buoys
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-TEGLD-MNCC1
+TELLUS_GLDAS_MONTHLY_NC_COR
+TELLUS GLDAS LAND WATER CONTENT NETCDF
+672
+TELLUS
+1
+TELLUS_GLDAS_MONTHLY_NC
+David.F.Moroni@jpl.nasa.gov
+NONE
+http://grace.jpl.nasa.gov/data/get-data/land-water-content/
+TELLUS GLDAS LAND WATER CONTENT NETCDF
+NULL
+
+TELLUS_GLDAS_MONTHLY_NC
+1280620800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/TELLUS_GLDAS_MONTHLY_NC_COR.jpg
+1
+MEaSUREs
+TELLUS
+818-354-2038
+Monthly
+1
+InSitu
+InSitu
+MEaSUREs
+TELLUS
+In situ SST data from drifting and moored buoys, and ships at various depths.
+360
+DELAY_MODE
+The land water content contained in this dataset were generated from The Global Land Data Assimilation System (GLDAS).
+GLDAS outputs land water content by using numerous land surface models and data assimilation.
+For more information on GLDAS please visit http://grace.jpl.nasa.gov/data/get-data/land-water-content/ .
+The data are available on monthly 1 degree grids in NetCDF format.
+This total water content is directly comparable to what the Gravity Recovery and Climate Experiment (GRACE) measures over land.
+The Greenland values should NOT be used, the model is not valid there.
+The twin satellites GRACE, launched in March of 2002, are making detailed monthly measurements of Earth's gravity field changes.
+These observations can detect regional mass changes of Earth's water reservoirs over land, ice and oceans.
+GRACE measures gravity variations by relating it to the distance variations between the two satellites, which fly in the same orbit, separated by about 240 km at an altitude of ~450 km.
+NULL
+NONE
+Soil Moisture/Water Content
+NONE
+TELLUS
+MEaSUREs
+Creation of Dataset via Metadata Tool.
+Agriculture
+Technical Contact
+InSitu
+-999
+NULL
+TELLUS
+TELLUS_GLDAS_MONTHLY_NC_COR
+ARCHIVE-DIST
+ECCO Ocean Bottom Pressure
+1311020579366
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+GLDAS
+TELLUS
+Moroni
+Dataset Creation via Metadata Tool
+1311020579366
+Rodell M, P. R. Houser, U. Jambor, J. Gottschalck, K. Mitchell, C.-J. Meng, K. Arsenault, B. Cosgrove, J. Radakovich, M. Bosilovich, J. K. Entin, J. P. Walker, D. Lohmann, and D. Toll (2004) : The Global Land Data Assimilation System. Bulletin of the American Meteorological Society, vol 85 (3), pp 381-394.
+NULL
+
+NASA/JPL/PODAAC
+-999
+DATA-CENTER
+Global
+NULL
+1 Month
+Soil Moisture/Water Content

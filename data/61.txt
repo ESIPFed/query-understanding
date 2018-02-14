@@ -1,0 +1,189 @@
+12 Hour
+0
+1.5
+-180
+438 First St, Suite 200, Santa Rosa, CA 95401, USA
+NULL
+Global
+Santa Rosa, CA, USA
+GCOM-W1
+none
+0
+001 707 545 2906
+NULL
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L2P/AMSR2/REMSS/v7.2
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L2P/AMSR2/REMSS/v7.2
+file:///store/ghrsst/open/data/GDS2/L2P/AMSR2/REMSS/v7.2
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L2P/AMSR2/REMSS/v7.2
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L2P/AMSR2/REMSS/v7.2/
+0
+http://podaac-tools.jpl.nasa.gov/hitide/
+http://www.remss.com
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHAM2-2PR72
+/data/export/web/thumbnails
+http://www.remss.com
+http://ghrsst.jpl.nasa.gov
+http://aqua.nasa.gov
+-90
+GCOM-W1
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+Ocean Temperature
+1
+none
+NULL
+Group for High Resolution Sea Surface Temperature
+2P
+1
+Sharon
+90
+GHRSST Level 2P Global Subskin Sea Surface Temperature from the Advanced Microwave Scanning Radiometer 2 on the GCOM-W satellite
+GHRSST
+sea surface temperature
+L2P
+sst
+surface temperature
+remss
+amsr2
+gds2
+SPACECRAFT
+GHRSST
+NEAR_REAL_TIME
+1412717107008
+25000
+GHRSST
+N
+NULL
+None
+Ocean Temperature
+1450
+OPEN
+1341255644000
+Group for High Resolution Sea Surface Temperature
+Advanced Microwave Scanning Radiometer 2 (AMSR2) onboard the GCOM- W1
+2P
+MD5
+Satellite native swath
+1
+1341255644000
+REMOTE-FTP
+REMOTE-OPENDAP
+ARCHIVE-OPEN
+LOCAL-FTP
+LOCAL-OPENDAP
+none
+25000
+NETCDF
+Global Change Observation Mission 1st - Water (SHIZUKU)
+HITIDE
+none
+Web Service (PO.DAAC Labs)
+AMSR2-REMSS-L2P-v7.2.jpg
+none
+none
+none
+1450
+1285507800000
+Advanced Microwave Scanning Radiometer 2
+Advanced Microwave Scanning Radiometer 2
+None
+Earth Science
+DATA-PROVIDER
+15
+PODAAC-GHAM2-2PR72
+AMSR2-REMSS-L2P-v7.2
+AMSR2 data are sponsored by the NASA Physical Oceanography Program
+1698
+0
+REMSS
+1
+0
+AMSR2 geolocated L2 swath SST data set
+tremble@remss.com
+NONE
+http://www.remss.com
+GHRSST Level 2P Global Subskin Sea Surface Temperature from the Advanced Microwave Scanning Radiometer 2 on the GCOM-W satellite
+NULL
+Sub-skin Sea Surface Temperature
+GCOM-W AMSR2
+1417392000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/AMSR2-REMSS-L2P-v7.2.jpg
+GHRSST
+001 707 545 2904
+Less_than_daily
+7.2
+AMSR2
+AMSR2
+3
+Group for High Resolution Sea Surface Temperature Datasets
+GCOM represents a series of JAXA Earth Observation Missions and GCOM-W1 carries instrumentation to measure the water cycle
+180
+NEAR_REAL_TIME
+The Advanced Microwave Scanning Radiometer 2 (AMSR2) was launched on 18 May 2012, onboard the Global Change Observation Mission - Water (GCOM-W) satellite developed by the Japan Aerospace Exploration Agency (JAXA).
+The GCOM-W mission aims to establish the global and long-term observation system to collect data, which is needed to understand mechanisms of climate and water cycle variations, and demonstrate its utilization.
+AMSR2 onboard the first generation of the GCOM-W satellite will continue Aqua/AMSR-E observations of water vapor, cloud liquid water, precipitation, SST, sea surface wind speed, sea ice concentration, snow depth, and soil moisture.
+AMSR2 is a remote sensing instrument for measuring weak microwave emission from the surface and the atmosphere of the Earth.
+From about 700 km above the Earth, AMSR2 will provide us highly accurate measurements of the intensity of microwave emission and scattering.
+The antenna of AMSR2 rotates once per 1.5 seconds and obtains data over a 1450 km swath.
+This conical scan mechanism enables AMSR2 to acquire a set of daytime and nighttime data with more than 99% coverage of the Earth every 2 days.
+Remote Sensing Systems (RSS, or REMSS), providers of these SST data for the Group for High Resolution Sea Surface Temperature (GHRSST) Project, performs a detailed processing of AMSR2 instrument data in two stages.
+The first stage produces a near-real-time (NRT) product (identified by "_rt_" within the file name) which is made as available as soon as possible.
+This is generally within 3 hours of when the data are recorded.
+Although suitable for many timely uses the NRT products are not intended to be archive quality.
+"Final" data (currently identified by "v7.2" within the file name) are processed when RSS receives the atmospheric model National Center for Environmental Prediction (NCEP) Final Analysis (FNL) Operational Global Analysis.
+The NCEP wind directions are particularly useful for retrieving more accurate SSTs and wind speeds.
+This dataset adheres to the GHRSST Data Processing Specification (GDS) version 2 format specifications.
+HIgh-level Tool for Interactive Data Extraction
+AMSR2 calibration description
+(Search Granule)
+Thumbnail image for Website
+AMSR2 SSTs: algorithm description, browsing of data, and ftp of data
+Portal to the GHRSST Global Data Assembly Center and data access
+Full details of the AQUA AMSR-E
+NULL
+2 Day
+BACKTRACK
+Sea Surface Temperature
+YEAR-DOY
+Remote Sensing Systems
+GHRSST
+Creation of Dataset via Metadata Tool.
+PORTAL_DA_TOOLS_AND_SERVICES
+Calibration/validation data
+PORTAL_DA_DIRECT_ACCESS
+Thumbnail
+Reference Materials
+Get Data
+Project Home Page
+Oceans
+Primary Contact
+Global Change Observation Mission 1st - Water (SHIZUKU)
+98.19
+NULL
+Remote Sensing Systems
+2 Hour
+AMSR2-REMSS-L2P-v7.2
+6
+ARCHIVE-DIST
+AMSR2-REMSS-L2P-v7.2
+1412717107008
+NETCDF
+Remote Sensing Systems
+Y
+Remote Sensing Systems
+none
+Remote Sensing Systems
+Tremble
+Dataset Creation via Metadata Tool
+1412717107008
+Geolocation information included for each pixel
+http://www.remss.com/missions/amsre
+NULL
+none
+http://www.remss.com
+REMSS
+100
+DATA-PROVIDER
+Global
+NULL
+Sea Surface Temperature

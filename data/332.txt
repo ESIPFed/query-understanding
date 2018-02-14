@@ -1,0 +1,158 @@
+-180
+null
+NOAA National Climatic Data Center, Asheville, NC, USA
+NULL
+Global
+NOAA National Climatic Data Center, 151 Patton Avenue, Asheville, NC, USA
+ICOADS
+GTS
+
+null
+null
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L4/reynolds_er/v2/monthly
+file:///store/avhrr/open/L4/reynolds_er/v2/monthly
+/data/export/web/thumbnails
+ftp://podaac-ftp.jpl.nasa.gov/allData/avhrr/L4/reynolds_er/docs
+-90
+ICOADS
+GTS
+NULL
+OPEN
+10.5067/REYN2-ERMON
+Ocean Temperature
+1
+null
+null
+NULL
+Reynolds SST
+4
+User
+Boyin
+90
+Smith and Reynolds NCDC Level 4 Historical Reconstructed SST Monthly Version 2
+Reynolds
+sea surface temperature
+L4
+Level 4
+historical
+surface temperature
+1 Month
+InSitu
+InSitu
+DELAY_MODE
+1295629813000
+2
+REYNOLDS_SST
+N
+NULL
+NONE
+Ocean Temperature
+-999
+-999
+OPEN
+-3660595200000
+Reynolds SST
+In situ SST data from drifting and moored buoys, and ships.
+In situ SST data from drifting and moored buoys, and ships.
+4
+MD5
+Gridded
+1
+-3660595200000
+LOCAL-FTP
+ARCHIVE-OPEN
+RAW
+International Comprehensive Ocean-Atmosphere Data Set
+Global Telecommunication System Ship and Buoy In Situ Observations
+REYNOLDS_NCDC_L4_SST_HIST_RECON_MONTHLY_V2.jpg
+NCEP Reynolds Historical Reconstructed SST User Guide
+Ships and Moored and Drifting Buoys
+Ships and Moored and Drifting Buoys
+Ships and Moored and Drifting Buoys
+Ships and Moored and Drifting Buoys
+NONE
+Earth Science
+DATA-PROVIDER
+1
+PODAAC-REYN2-ERMON
+REYNOLDS_NCDC_L4_SST_HIST_RECON_MONTHLY_V2
+The National Climatic Data Center (NCDC) Smith & Reynolds Historical Reconstructed SST
+424
+NCDC
+1
+NCDC Smith & Reynolds Historical Reconstructed Sea Surface Temperature Data Sets
+podaac@podaac.jpl.nasa.gov
+Boyin.Huang@noaa.gov
+ZIP
+http://www.ncdc.noaa.gov/ersst/
+Smith and Reynolds NCDC Level 4 Historical Reconstructed SST Monthly Version 2
+NULL
+
+NCDC Smith & Reynolds Historical Reconstructed Sea Surface Temperature Data Sets
+373939200000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/REYNOLDS_NCDC_L4_SST_HIST_RECON_MONTHLY_V2.jpg
+2
+(818) 393-7165
+828-271-4851
+Monthly
+2
+InSitu
+InSitu
+InSitu
+InSitu
+730
+Data from the International Comprehensive Ocean-Atmosphere Data Set Global Telecommunication System Ship and Buoy observations of SST, wind and other measurements
+180
+DELAY_MODE
+The Smith & Reynolds Extended Reconstructed Sea Surface Temperature (ERSST) Level 4 dataset provides a historical reconstruction of monthly global ocean surface temperatures and temperature anomalies on a 2 degree spatial grid from 1854-2009 from in-situ observations based on a consistent statistical methodology that accounts for uneven sampling distributions over time and related observational biases.
+Version 2 of this dataset implements release 2 of ICOADS (International Comprehensive Ocean-Atmosphere Data Set) and utilizes Empirical Orthogonal Teleconnections (EOT) in reconstruction analyses to estimate both surface temperature and associated standard deviation error fields.
+ERSST v2 presents extended reconstructed sea surface temperature and associated estimated SST error standard deviation fields as 2 similarly structured ASCII flat files.
+Thumbnail image for Website
+
+NULL
+NONE
+Sea Surface Temperature Reconstruction
+NONE
+NOAA/NCDC
+REYNOLDS_SST
+Initial creation of dataset.
+Thumbnail
+ersst.v2.readme.txt
+Oceans
+Technical Contact
+Technical Contact
+International Comprehensive Ocean-Atmosphere Data Set
+Global Telecommunication System Ship and Buoy In Situ Observations
+0
+0
+NULL
+NOAA National Climatic Data Center
+REYNOLDS_NCDC_L4_SST_HIST_RECON_MONTHLY_V2
+1320
+ARCHIVE-DIST
+1280436288306
+RAW
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+NOAA National Climatic Data Center
+Y
+Smith, T., Reynolds, R.
+National Climatic Data Center (NCDC)
+Services
+Huang
+Dataset Creation
+1280436288305
+Smith, T.M., and R.W. Reynolds, 2004: Improved Extended Reconstruction of SST (1854-1997). Journal of Climate, 17, 2466-2477.
+NULL
+null
+N
+http://www.ncdc.noaa.gov
+NASA/JPL/PODAAC
+NCDC
+0
+0
+DATA-CENTER
+DATA-PROVIDER
+Global
+NULL
+1 Month
+Sea Surface Temperature Reconstruction

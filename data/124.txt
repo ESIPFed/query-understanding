@@ -1,0 +1,148 @@
+35 Day
+1
+0
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+SARAL
+N/A
+818-393-2718
+ftp://podaac-ftp.jpl.nasa.gov/allData/saral/preview/L2/XOGDR-SSHA
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/saral/preview/L2/XOGDR-SSHA/
+file:///store/saral/preview/L2/XOGDR-SSHA
+ftp://podaac.jpl.nasa.gov/allData/saral/preview/L2/XOGDR-SSHA/sw
+/data/export/web/thumbnails
+ftp://podaac.jpl.nasa.gov/allData/saral/preview/L2/XOGDR-SSHA/docs
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-AKASA-XOGD1
+-82
+SARAL
+NULL
+PREVIEW
+10.5067/AKASA-XOGD1
+Sea Surface Topography
+Ocean Waves
+1
+none
+NULL
+Satellite with ARgos and ALtiKa
+2
+Jessica
+82
+SARAL Near-Real-Time Value-added Operational Geophysical Data Record Sea Surface Height Anomaly
+Satellite
+NEAR_REAL_TIME
+1382655480651
+11000
+Y
+NULL
+none
+Sea Surface Topography
+Ocean Waves
+11
+PREVIEW
+1384791118000
+Satellite with ARgos and ALtiKa
+AltiKa
+2
+MD5
+Swath
+1
+1384791118000
+LOCAL-FTP
+LOCAL-OPENDAP
+ARCHIVE-PREVIEW
+5000
+NETCDF
+Satellite with Argos and AltiKa
+Generic NetCDF readers
+ALTIKA_SARAL_L2_OST_XOGDR.jpg
+XOGDR-SSHA user guide
+Web Service (PO.DAAC Labs)
+AltiKa
+AltiKa
+none
+Earth Science
+Earth Science
+DATA-PROVIDER
+2
+PODAAC-AKASA-XOGD1
+ALTIKA_SARAL_L2_OST_XOGDR
+SARAL Near-Real-Time Value-added Operational Geophysical Data Record Sea Surface Height Anomaly
+1254
+NASA/JPL
+1
+ALTIKA_SARAL_L2_OST_XOGDR
+Jessica.K.Hausman@jpl.nasa.gov
+NONE
+
+SARAL Near-Real-Time Value-added Operational Geophysical Data Record Sea Surface Height Anomaly
+NULL
+180
+None
+None
+SARAL XOGDR SSHA
+1386028800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/ALTIKA_SARAL_L2_OST_XOGDR.jpg
+818-354-4588
+SARAL
+1
+AltiKa
+AltiKa
+4
+SARAL
+360
+NEAR_REAL_TIME
+These data are near-real-time (NRT) (within 7-9 hours of measurement) sea surface height anomalies (SSHA) from the AltiKa altimeter onboard the Satellite with ARgos and ALtiKa (SARAL).
+SARAL is a French(CNES)/Indian(SARAL) collaborative mission to measure sea surface height using the Ka-band AltiKa altimeter and was launched February 25, 2013.
+The major difference between these data and the Operational Geophysical Data Record (OGDR) data produced by the project is that the orbit from SARAL has been adjusted using SSHA differences with those from the OSTM/Jason-2 GPS-OGDR-SSHA product at inter-satellite crossover locations.
+This produces a more accurate NRT orbit altitude for SARAL with accuracy of 1.5 cm (RMS), taking advantage of the 1 cm (radial RMS) accuracy of the GPS-based orbit used for the OSTM/Jason-2 GPS-OGDR-SSHA product.
+This dataset also contains all data from the project (reduced) OGDR, and improved altimeter wind speeds and sea state bias correction.
+More information on the SARAL mission can be found at: http://www.aviso.oceanobs.com/en/missions/current-missions/saral.html
+read software
+Thumbnail image for Website
+user's guide
+(Search Granule)
+NULL
+BACKTRACK
+Sea Surface Height
+Significant Wave Height
+BATCH
+NASA/JPL
+SARAL
+Creation of Dataset via Metadata Tool.
+PORTAL_DA_READ_SOFTWARE
+Thumbnail
+PORTAL_DOC_USERS_GUIDE
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Oceans
+Technical Contact
+Satellite with Argos and AltiKa
+98.55
+NULL
+Jet Propulsion Laboratory
+ALTIKA_SARAL_L2_OST_XOGDR
+9
+ROLLING-STORE
+SARAL XOGDR SSHA
+1382655480651
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+Shailen Desai
+JPL
+Hausman
+Dataset Creation via Metadata Tool
+1382655480651
+NULL
+none
+http://podaac.jpl.nasa.gov
+http://ghrsst.jpl.nasa.gov
+NASA/JPL/PODAAC
+100.59
+DATA-CENTER
+Global
+NULL
+Sea Surface Height
+Significant Wave Height

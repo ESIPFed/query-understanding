@@ -1,0 +1,350 @@
+-180
+JPL, 4800 Oak Grove Dr, Pasadena, CA 91109, USA
+NOAA/NESDIS/STAR/SOCD, 5200 Auth Road, WWB, RM 601 Camp Springs, MD 20746, USA
+The range of frequencies within which the data is sampled.
+The resolution for the North and South latitude values in km.
+The range of resolutions for the latitude/longitude values.
+The resolution for the East and West longitude values in km.
+Key bibilographic references pertaining to the dataset.
+The frequency that the data is sampled.
+More specific names not specified in the GCMD valids list.
+Geographic area descriptor.
+The type of projection.
+Free text description of details such as the projections standard parallels, etc., if necessary to fully specify the projection.
+The type of ellipsoid.
+Global
+Office of Satellite Products and Operations
+GOES-13
+GOES-15
+Suomi NPP
+MetOp-B
+Himawari
+Meteosat-10
+none
+818-393-2718
+301-763-8572
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/GDS2/L4/GLOB/OSPO/Geo_Polar_Blended_Night/v1/
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/GDS2/L4/GLOB/OSPO/Geo_Polar_Blended_Night/v1
+file:///store/ghrsst/open/data/GDS2/L4/GLOB/OSPO/Geo_Polar_Blended_Night/v1
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/GDS2/L4/GLOB/OSPO/Geo_Polar_Blended_Night/v1
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/GDS2/L4/GLOB/OSPO/Geo_Polar_Blended_Night/v1
+http://ghrsst.jpl.nasa.gov
+http://thredds.jpl.nasa.gov/las/
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHGPN-4FO02
+http://www.ghrsst.org
+http://journals.ametsoc.org/doi/full/10.1175/1520-0426%281998%29015%3C0535%3AMMADWA%3E2.0.CO%3B2
+/data/export/web/thumbnails
+http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1369331
+http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=967396
+ftp://podaac.jpl.nasa.gov/OceanTemperature/ghrsst/docs/GDS20r5.pdf
+-90
+GOES-13
+GOES-15
+Suomi NPP
+MetOp-B
+Himawari
+Meteosat-10
+818-393-6710
+301-763-8102
+OPEN
+10.5067/GHGPN-4FO02
+Ocean Temperature
+1
+none
+
+temporalResolutionRange
+latitudeResolution
+horizontalResolutionRage
+longitudeResolution
+reference
+temporalResolution
+regionDetail
+region
+projectionType
+projectionDetail
+ellipsoidType
+Group for High Resolution Sea Surface Temperature
+4
+1
+Edward
+Eileen
+90
+GHRSST Level 4 OSPO Global Nighttime Foundation Sea Surface Temperature Analysis (GDS version 2)
+GHRSST
+sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+OSTIA
+ospo
+night
+geo
+polar
+blended
+1 Day
+Geostationary
+Geostationary
+spacecraft
+SPACECRAFT
+Geostationary
+Geostationary
+GHRSST
+NEAR_REAL_TIME
+1407206676854
+0.05
+GHRSST
+N
+temporal resolution range
+latitude resolution
+horizontal resolution range
+longitude resolution
+reference
+temporal resolution
+region detail
+Region
+projection type
+projection detail
+ellipsoid type
+A Met Office data license application form: http://www.metoffice.gov.uk/corporate/legal/data_lic_form.html must be completed and submitted before using the data. This only needs to be completed once f
+Ocean Temperature
+7000
+7000
+3040
+2400
+500
+-999
+OPEN
+1401667200000
+Group for High Resolution Sea Surface Temperature
+he GOES Imager is a multi-channel instrument designed to sense radiant and solar-reflected energy from sampled areas of the Earth.
+The multi-element spectral channels simultaneously sweep east-west a Geostationary Operational Environmental Satellite 15-Imager VIIRS is a 22-band radiometer to collect infrared and visible light for earth system monitoring The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+Advanced Himawari Imager The Spinning Enhanced Visible and InfraRed Imager (SEVIRI)  has the capacity to observe the Earth in 12 spectral channels.
+Eight of these channels are in the thermal infrared, providing among other information, observations of the temperatures of clouds, land and sea surfaces at approximately 5 km resolution with a 15 minute duty cycle.
+4
+MD5
+Cylindrical Lat-Lon
+1
+1401667200000
+LOCAL-OPENDAP
+REMOTE-FTP
+ARCHIVE-OPEN
+REMOTE-OPENDAP
+LOCAL-FTP
+WGS 84
+NETCDF
+Geostationary Operational Environmental Satellite 13
+Geostationary Operational Environmental Satellite 15
+Suomi Suomi National Polar-orbiting Partnership
+Meteorological Operational Satellite - B
+Himawari Meteorological Satellites
+Meteosat-10
+none
+LAS
+Web Service (PO.DAAC Labs)
+none
+
+Geo_Polar_Blended_Night-OSPO-L4-GLOB-v1.0.jpg
+
+
+GDS2 User Manuel
+Geostationary Operational Environmental Satellite 13-Imager
+Geostationary Operational Environmental Satellite 15-Imager
+Visible Infrared Imaging Radiometer Suite
+Advanced Very High Resolution Radiometer-3
+Advanced Himawari Imager
+Spinning Enhanced Visible and Infrared Imager
+Geostationary Operational Environmental Satellite 13-Imager
+Geostationary Operational Environmental Satellite 15-Imager
+Visible Infrared Imaging Radiometer Suite
+Advanced Very High Resolution Radiometer-3
+Advanced Himawari Imager
+Spinning Enhanced Visible and Infrared Imager
+These data may be used for pure academic research only, with no commercial or other application and all usage must meet the Met Office Standard Terms and Conditions http://www.metoffice.gov.uk/corpora
+Earth Science
+DATA-PROVIDER
+1
+PODAAC-GHGPN-4FO02
+Geo_Polar_Blended_Night-OSPO-L4-GLOB-v1.0
+Fieguth,P.W. et al. Mapping Mediterranean altimeter data with a multiresolution optimal interpolation algorithm, J. Atmos. Ocean Tech, 15 (2): 535-546, 1998.     Fieguth, P. Multiply-Rooted Multiscale Models for Large-Scale Estimation, IEEE Image Proc
+1650
+OSPO
+1
+OSPO L4 SST Analysis (GDS2)
+edward.m.armstrong@jpl.nasa.gov
+Eileen.maturi@noaa.gov
+NONE
+www.osdpd.nesdis.noaa.gov
+GHRSST Level 4 OSPO Global Nighttime Foundation Sea Surface Temperature Analysis (GDS version 2)
+character
+character
+character
+character
+character
+character
+character
+character
+character
+character
+character
+Foundation Sea Surface Temperature
+OSPO L4 0.05 degree
+1426032000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/Geo_Polar_Blended_Night-OSPO-L4-GLOB-v1.0.jpg
+0.05
+GHRSST
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+BOTH
+Daily
+1.0
+GOES-13 Imager
+GOES-15 Imager
+VIIRS
+AVHRR-3
+AHI
+SEVIRI
+GOES-13 Imager
+GOES-15 Imager
+VIIRS
+AVHRR-3
+AHI
+SEVIRI
+24
+Group for High Resolution Sea Surface Temperature Datasets
+Geostationary Operational Environmental Satellite 13 Geostationary Operational Environmental Satellite 15 Suomi National Polar-orbiting Partnership is a joint mission between NASA, DOD and NOAA.
+MetOp-A is the second in a series of three polar-orbiting European meteorological satellites,  launched on 17 September 2012 as part of the EUMETSAT Polar System.
+Himawari geostationary satellites, operated by the Japan Meteorological Agency (JMA), support weather forecasting, tropical cyclone tracking, and meteorology research Meteosat Second Generation (MSG) provides multi-spectral imagery of the Earth's surface and cloud systems from a geostationary orbit.
+180
+NEAR_REAL_TIME
+A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature analysis produced daily on an operational basis at the Office of Satellite and Product Operations (OSPO) using optimal interpolation (OI) on a global 0.054 degree grid.
+The Geo-Polar Blended Sea Surface Temperature (SST) Analysis combines multi-satellite retrievals of sea surface temperature into a single analysis of SST.
+This analysis includes only nighttime data from sensors that include the Advanced Very High Resolution Radiometer (AVHRR), the Visible Infrared Imager Radiometer Suite (VIIRS), the Geostationary Operational Environmental Satellite (GOES) imager, the Japanese Advanced Meteorological Imager (JAMI) and in situ data from ships, drifting and moored buoys.
+This analysis was specifically produced to be used as a lower boundary condition in Numerical Weather Prediction (NWP) models.
+This dataset adheres to the GHRSST Data Processing Specification (GDS) version 2 format specifications.
+Portal to the GHRSST Global Data Assembly Center and data access
+Live Access Server
+(Search Granule)
+GHRSST Project homepage
+Fieguth,P.W. et al. Mapping Mediterranean altimeter data with a multiresolution optimal interpolation algorithm, J. Atmos. Ocean Tech, 15 (2): 535-546, 1998
+Thumbnail image for Website
+Khellah, F., P.W. Fieguth, M.J. Murray and M.R. Allen, Statistical Processing of Large Image Sequences, IEEE Transactions on Geoscience and Remote Sensing, 12 (1), 80-93, 2005
+Fieguth, P. Multiply-Rooted Multiscale Models for Large-Scale Estimation, IEEE Image Processing, 10(11), 1676-1686, 2001
+Documentation on the GDS version 2 format specification
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+ORACLE
+Sea Surface Temperature
+YEAR-DOY
+OSPO
+GHRSST
+Creation of Dataset via Metadata Tool.
+Get Data
+PORTAL_DA_TOOLS_AND_SERVICES
+PORTAL_DA_DIRECT_ACCESS
+Project Home Page
+PORTAL_DOC_JOURNAL_REFERENCES
+Thumbnail
+PORTAL_DOC_JOURNAL_REFERENCES
+PORTAL_DOC_JOURNAL_REFERENCES
+PORTAL_DOC_USERS_GUIDE
+Oceans
+Technical Contact
+Technical Contact
+Geostationary Operational Environmental Satellite 13
+Geostationary Operational Environmental Satellite 15
+Suomi Suomi National Polar-orbiting Partnership
+Meteorological Operational Satellite - B
+Himawari Meteorological Satellites
+Meteosat-10
+Group for High Resolution Sea Surface Temperature Datasets
+0
+-99
+97.1
+98.7
+0
+0
+temporalResolutionRange
+latitude resolution
+null
+51
+reference
+temporalResolution
+regionDetail
+character
+projectionType
+projectionDetail
+ellipsoidType
+NOAA Office of Satellite and Product Operations
+Geo_Polar_Blended_Night-OSPO-L4-GLOB-v1.0
+24
+ARCHIVE-DIST
+Geo_Polar_Blended_Night
+1407206676854
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+NOAA Office of Satellite and Product Operations
+Y
+Office of Satellite Products and Operations
+none
+The GHRSST Project Office
+Armstrong
+Maturi
+Dataset Creation via Metadata Tool
+1407206676854
+Regular 0.05 degree grid
+
+
+
+
+
+
+
+
+
+
+
+none
+
+NASA/JPL/PODAAC
+OSPO
+0
+-99
+101
+101.3
+0
+0
+DATA-CENTER
+DATA-PROVIDER
+Global
+
+
+
+
+
+
+
+
+
+
+
+1 Day
+Sea Surface Temperature

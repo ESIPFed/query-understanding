@@ -1,0 +1,129 @@
+1 Month
+-180
+4800 Oak Grove Drive Pasadena, CA 91109-8099
+NULL
+Global
+JPL
+GRACE
+
+818-393-2718
+ftp://podaac-ftp.jpl.nasa.gov/allData/grace/L1B/GFZ/AOD1B/RL05
+file:///store/grace/open/L1B/GFZ/AOD1B/RL05
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GRAOD-1BG05
+ftp://podaac-ftp.jpl.nasa.gov/allData/grace/L1B/GFZ/AOD1B/RL05/docs
+-75
+GRACE
+NULL
+OPEN
+10.5067/GRAOD-1BG05
+Geodetics/Gravity
+1
+none
+NULL
+Gravity Recovery and Climate Experiment
+1B
+Jessica
+65
+GRACE ATMOSPHERE AND OCEAN DE-ALIASING GFZ RELEASE 5.0
+gravity
+SPACECRAFT
+DELAY_MODE
+1331837654579
+1
+GRACE
+N
+NULL
+none
+Geodetics/Gravity
+
+OPEN
+189302400000
+Gravity Recovery and Climate Experiment
+This instrument precisely measures the changes in the separation between the two GRACE satellites using phase tracking of K- and Ka-band signals sent between the two satellites
+1B
+MD2
+Spherical
+1
+189302400000
+LOCAL-FTP
+ARCHIVE-OPEN
+WGS84
+ASCII
+Gravity Recovery and Climate Experiment
+Web Service (PO.DAAC Labs)
+AOD1B_20130909.pdf
+K-Band Ranging System
+K-Band Ranging System
+none
+Earth Science
+DATA-PROVIDER
+PODAAC-GRAOD-1BG05
+GRACE_AOD1B_GRAV_GFZ_RL05
+GRACE NON-TIDAL ATMOSPHERE AND OCEAN GEOPOTENTIAL COEFFICIENTS GFZ RELEASE 5.0
+772
+GFZ
+1
+GRACE_AOD1B_GRAV_GFZ_RL05
+Jessica.K.Hausman@jpl.nasa.gov
+GZIP
+ftp://podaac.jpl.nasa.gov/allData/grace/L1B/GFZ/RL05/docs/
+GRACE ATMOSPHERE AND OCEAN DE-ALIASING GFZ RELEASE 5.0
+NULL
+
+GRACE_AOD1B_GRAV_GFZ_RL05
+1331856000000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/GRACE_AOD1B_GRAV_GFZ_RL05.jpg
+1
+818-354-4588
+Monthly
+5.0
+GRACE KBR
+GRACE KBR
+The Gravity Recovery And Climate Experiment (GRACE) is a joint US/German satellite mission that will accurately map variations in the Earth's gravity field over its 5-year lifetime.
+The twin GRACE satellites were launched March 17, 2002.
+GRACE is a joint partnership between the National Aeronautics and Space Administration (NASA) in the United States and Deutsches Zentrum fu?
+?r Luft- und Raumfahrt (DLR) in Germany.
+Dr. Byron Tapley of The University of Texas Center for Space Research (UTCSR) is the Principal Investigator (PI), and Dr. Christoph Reigber of the GeoForschungsZentrum (GFZ) Potsdam is the Co-Principal Investigator (Co-PI).
+The Jet Propulsion Laboratory carries out project management and systems engineering activities.
+180
+DELAY_MODE
+The GRACE Atmosphere and Ocean De-aliasing dataset contains spherical harmonic coefficients of combined barotropic or baroclinic sea level and vertical integrated pressure variations at 6-hour sample rate.
+It is used as a correction product for the Level 2 GRACE datasets.
+(Search Granule)
+AOD1B Product Description Document for Product Release 05
+NULL
+NONE
+Gravity
+NONE
+GRACE/GFZ
+GRACE
+Creation of Dataset via Metadata Tool.
+PORTAL_DA_DIRECT_ACCESS
+Guide Document
+Solid Earth
+Technical Contact
+Gravity Recovery and Climate Experiment
+89
+NULL
+GFZ Postdam
+GRACE_AOD1B_GRAV_GFZ_RL05
+ARCHIVE-DIST
+Atmosphere and Ocean De-Aliasing Level-1B
+1331837654579
+ASCII
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Y
+GRACE
+GFZ
+Hausman
+Dataset Creation via Metadata Tool
+1331837654579
+Flechtner, F. 2007.  Gravity Recovery and Climate Experiment AOD1B Product Description Document for Product Releases 01 to 04.  GeoForschungszentrum Potsdam
+NULL
+none
+NASA/JPL/PODAAC
+-1
+DATA-CENTER
+Global
+NULL
+Gravity

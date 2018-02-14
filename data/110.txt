@@ -1,0 +1,220 @@
+-165
+JPL, 4800 Oak Grove Dr, Pasadena, CA 91109, USA
+Jet Propulsion Lab, 4800 Oak Grove Dr, Pasadena, CA 91109, USA
+NULL
+North and Central America
+Jet Propulsion Laboratory
+AQUA
+AQUA
+NOAA-18
+TERRA
+none
+818-393-2718
+ 1-818-393-4965
+NULL
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/ghrsst/data/L4/NCAMERICA/JPL/MUR/
+ftp://podaac-ftp.jpl.nasa.gov/allData/ghrsst/data/L4/NCAMERICA/JPL/MUR
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L4/NCAMERICA/JPL/MUR
+http://data.nodc.noaa.gov/cgi-bin/nph-dods/ghrsst/L4/NCAMERICA/JPL/MUR
+file:///store/ghrsst/open/data/L4/NCAMERICA/JPL/MUR
+0
+http://www.ghrsst.org
+http://ghrsst.jpl.nasa.gov
+/data/export/web/thumbnails
+http://science.nasa.gov/earth-science/earth-science-data/Earth-Science-Data-Records-Programs/MEaSUREs-Projects/
+http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHNMR-4FJ01&apidoc
+-20
+AQUA
+AQUA
+NOAA-18
+TERRA
+Group for High Resolution Sea Surface Temperature Datasets
+OPEN
+10.5067/GHNMR-4FJ01
+Ocean Temperature
+1
+none
+noen
+NULL
+Group for High Resolution Sea Surface Temperature
+4
+1
+Edward
+Mike
+62
+GHRSST Level 4 MUR North America Regional Foundation Sea Surface Temperature Analysis
+GHRSST
+sea surface temperature
+Level 4
+sst
+L4
+surface temperature
+1 Day
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+SPACECRAFT
+GHRSST
+HISTORICAL
+1295629813000
+0.011
+GHRSST
+N
+NULL
+none
+Ocean Temperature
+1445
+2330
+2400
+2330
+OPEN
+1207040400000
+Group for High Resolution Sea Surface Temperature
+The Advanced Microwave Scanning Radiometer for EOS (AMSR-E) is a twelve-channel, six-frequency, total power passive-microwave radiometer system.
+The MODIS (Moderate Resolution Imaging Spectroradiometer) instrument provides high radiometric sensitivity (12 bit) in 36 spectral bands ranging in wavelength from 0.4 m to 14.4 m. It is used for observing processes occurring on the land, in the oceans, and in the lower atmosphere.
+The AVHRR is a radiation-detection imager that can be used for remotely determining cloud cover and the surface temperature.
+Note that the term surface can mean the surface of the Earth, the upper surfaces of clouds, or the surface of a body of water.
+The MODIS (Moderate Resolution Imaging Spectroradiometer) instrument provides high radiometric sensitivity (12 bit) in 36 spectral bands ranging in wavelength from 0.4 m to 14.4 m. It is used for observing processes occurring on the land, in the oceans, and in the lower atmosphere.
+4
+MD5
+Cylindrical Lat-Lon
+1
+1207040400000
+LOCAL-OPENDAP
+LOCAL-FTP
+REMOTE-FTP
+REMOTE-OPENDAP
+ARCHIVE-OPEN
+WGS 84
+NETCDF
+Earth Observing System, AQUA
+Earth Observing System, AQUA
+National Oceanic & Atmospheric Administration-18
+Earth Observing System, TERRA
+GHRSST Project homepage
+none
+JPL-L4UHfnd-NCAMERICA-MUR.jpg
+NASA MEaSURES Projects
+Web Service (PO.DAAC Labs)
+Advanced Microwave Scanning Radiometer-EOS
+Moderate-Resolution Imaging Spectroradiometer
+Advanced Very High Resolution Radiometer-3
+Moderate-Resolution Imaging Spectroradiometer
+Advanced Microwave Scanning Radiometer-EOS
+Moderate-Resolution Imaging Spectroradiometer
+Advanced Very High Resolution Radiometer-3
+Moderate-Resolution Imaging Spectroradiometer
+none
+Earth Science
+DATA-PROVIDER
+4
+PODAAC-GHNMR-4FJ01
+1270069200000
+JPL-L4UHfnd-NCAMERICA-MUR
+none
+394
+NASA/JPL
+1
+GHRSST Level 4 MUR North America Regional Foundation Sea Surface Temperature Analysis
+edward.m.armstrong@jpl.nasa.gov
+mike.chin@jpl.nasa.gov
+GZIP
+http://mur.jpl.nasa.gov
+GHRSST Level 4 MUR North America Regional Foundation Sea Surface Temperature Analysis
+NULL
+Foundation Sea Surface Temperature
+MUR Level 4 foundation Sea Surface Temperature
+1275004800000
+http://podaac.jpl.nasa.gov/Podaac/thumbnails/JPL-L4UHfnd-NCAMERICA-MUR.jpg
+0.011
+GHRSST
+818-393-6710
+ 1-818-393-2510
+Daily
+1
+AMSR-E
+MODIS
+AVHRR-3
+MODIS
+AMSR-E
+MODIS
+AVHRR-3
+MODIS
+1
+Group for High Resolution Sea Surface Temperature Datasets
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+Aqua is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, ice, and ocean sea surface temperature and color.
+The POES satellite system offers the advantage of daily global coverage, with morning and afternoon orbits that deliver global data, for improvement of weather forecasting.
+The information received includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere.
+Terra is a NASA polar orbiting mission designed to collect information on the Earth's atmospheric, land and ocean systems, including aerosols, clouds, radiation balance, land cover, ice, and ocean sea surface temperature and color.
+-30
+HISTORICAL
+A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature analysis produced as a retrospective dataset at the JPL Physical Oceanography DAAC using wavelets as basis functions in an optimal interpolation approach on a regional 0.011 degree grid over the oceans off North and Central America (62N- 20S, 165W - 30W).
+The Multiscale Ultrahigh Resolution (MUR) L4 analysis is based upon nighttime GHRSST L2P skin and subskin SST observations from several instruments such as: the NASA Advanced Microwave Scanning Radiometer-EOS (AMSRE), and the Moderate Resolution Imaging Spectroradiometer (MODIS) on the NASA Aqua and Terra platforms.
+The ice concentration data are from the archives at the EUMETSAT Ocean and Sea Ice Satellite Application Facility (OSI SAF) High Latitude Processing Center.
+This data set is funded by the NASA MEaSUREs program (http://earthdata.nasa.gov/our-community/community-data-system-programs/measures-projects), and created by a team led by Dr. Toshio Chin from JPL.
+GHRSST Project website
+Portal to the GHRSST Global Data Assembly Center and data access
+Thumbnail image for Website
+Homepage for the NASA MEaSURES projects
+(Search Granule)
+NULL
+ORACLE
+Sea Surface Temperature
+1270069200000
+YEAR-DOY
+Jet Propulsion Laboratory
+GHRSST
+Initial creation of dataset.
+Project Website
+Get Data
+Thumbnail
+Project Website
+PORTAL_DA_DIRECT_ACCESS
+Oceans
+Technical Contact
+Investigator
+Earth Observing System, AQUA
+Earth Observing System, AQUA
+National Oceanic & Atmospheric Administration-18
+Earth Observing System, TERRA
+98.1
+98.1
+98.74
+98.2
+NULL
+Jet Propulsion Laboratory
+JPL-L4UHfnd-NCAMERICA-MUR
+ARCHIVE-DIST
+NCAMERICA-MUR
+1276787485195
+NETCDF
+Physical Oceanography Distributed Active Archive Center, Jet Propulsion Laboratory, NASA
+Jet Propulsion Laboratory
+Y
+JPL MUR MEaSUREs Project
+none
+JPL NASA
+Armstrong
+Chin
+Dataset Creation
+1276787485195
+Regular 0.011 degree grid
+Information on the analysis can be found at ftp://mariana.jpl.nasa.gov/mur_sst/tmchin/docs/ATBD/
+NULL
+none
+none
+http://podaac.jpl.nasa.gov
+http://ghrsst.jpl.nasa.gov
+NASA/JPL/PODAAC
+NASA/JPL
+98.4
+98.4
+102.12
+98.8
+DATA-CENTER
+DATA-PROVIDER
+North and Central America
+NULL
+1 Day
+Sea Surface Temperature
