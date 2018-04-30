@@ -26,9 +26,10 @@ def deepQuery(query):
     return res
 
 testQ = 'sea surface temperature modis level 2 pacific ocean in March 3rd, 2004'
-print(deepQuery(testQ))
+testQ2 = "sea surface temperature Moderate Ocean Spectroradiometer level 2 pacific ocean on 2004-03-03" # to ascertain acronyms
+print(testQ); print(testQ2)
 
-#testing result: {'phrase': [u'sea_surface_temperature', u'modis', u'level_2', u'pacific_ocean', u'in', u'March', u'3rd,', u'2004'], 
+#testing result for testQ: {'phrase': [u'sea_surface_temperature', u'modis', u'level_2', u'pacific_ocean', u'in', u'March', u'3rd,', u'2004'], 
 #'geo': {u'northeast': {u'lat': 48.7297227, u'lng': -122.4090338}, u'southwest': {u'lat': 48.717229, u'lng': -122.416576}}, 
 #'time': [(u'in March 3rd, 2004', datetime.datetime(2004, 3, 3, 0, 0))]}
     
