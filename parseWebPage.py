@@ -1,5 +1,5 @@
 # Created in Python 3.6.5
-# Justin Goldstein
+# Justgo129
 # May 10, 2018
 # adapted from
 '''
@@ -16,3 +16,21 @@ def parse(myUrl):
         print(json.dumps(data, indent=4))
         
 parse(myUrl)
+
+# output:  
+# {
+#    "graph": {
+#        "ontology": [
+#           {
+#               "word": "sea surface temperature",
+ #              "weight": 1.0
+ #           },
+ #           {
+ #               "word": "ocean temperature",
+ #               "weight": 1.0
+ #           },
+ #          {
+ #               "word": "group high resolution sea surface temperature dataset",
+ #               "weight": 0.89
+ #         }, 
+ # (etc)...
