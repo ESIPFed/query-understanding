@@ -16,4 +16,3 @@ from dateparser.search import search_dates
 
 def temporalParse(query):
     return search_dates(query)
-

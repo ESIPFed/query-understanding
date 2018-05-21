@@ -10,5 +10,5 @@ import googlemaps
 
 def geoParse(query):
     gmaps = googlemaps.Client(key='AIzaSyACekuOv6hyB5o2dQq1mpP0Bztjx0vjTuM')
-    geocode_result = gmaps.geocode('sst pacific ocean')
-    return geocode_result[0]['geometry']['bounds']
+    geocode_result = gmaps.geocode(query)
+    return {'bounds': geocode_result[0]['geometry']['bounds'], 'string': geocode_result[0]['formatted_address']}
